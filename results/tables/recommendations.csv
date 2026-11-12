@@ -1,0 +1,9 @@
+priority,issue,fix,impact,effort
+P0,Must-have underweighting,Hybrid/filter by must-have coverage,3,2
+P0,Extraction noise/missing skills,Stronger local model or second pass,3,3
+P1,Keyword merge errors,Ontology + manual review,2,2
+P1,Missing recruiter filters,Location/language/seniority filters,3,2
+P1,Reconstruction not ranking-aware,Sentence embeddings/cross-encoder,3,3
+P2,Small label set,"Collect ~50 labelled pairs, learning-to-rank",3,4
+P2,Domain/years not modelled,Structured features and calibration,2,2
+P2,Score interpretability,Calibrated reasons and evidence spans,2,2

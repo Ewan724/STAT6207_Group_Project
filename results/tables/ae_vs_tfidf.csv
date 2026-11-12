@@ -1,0 +1,11 @@
+jd_id,tfidf_rank,ae_rank,delta,winner,explanation
+P01,6,81,-75,TFIDF,
+P02,2,77,-75,TFIDF,
+P03,7,81,-74,TFIDF,
+P04,1,2,-1,TFIDF,
+P05,19,81,-62,TFIDF,
+P06,18,90,-72,TFIDF,
+P07,7,76,-69,TFIDF,
+P08,8,82,-74,TFIDF,
+P09,29,102,-73,TFIDF,
+P10,1,76,-75,TFIDF,
