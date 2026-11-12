@@ -1,8 +1,0 @@
-model,recall_at_10,hit_at_1,mrr_at_10,notes
-M0_random,0.2,0.0,0.033333,uniform random baseline
-M1_tfidf,0.7,0.2,0.307738,TF-IDF keyword cosine
-M2_svd32,0.6,0.2,0.291071,SVD-32 cosine
-M3_ae32,0.1,0.0,0.05,Primary: AE-32 cosine
-M4_ae_meta,0.4,0.2,0.221111,AE + metadata heuristic
-M5_hybrid,0.1,0.1,0.1,AE + must-have coverage (exploratory)
-M6_role_heuristic,0.5,0.2,0.235397,Role-family heuristic
