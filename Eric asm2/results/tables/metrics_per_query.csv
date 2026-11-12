@@ -1,0 +1,71 @@
+model,jd_id,jd_title,role_family,hired_cv_id,rank,score,hit_at_1,hit_at_5,hit_at_10,reciprocal_rank,ndcg_at_10,must_have_coverage_hired,top1_cv_id,top1_score,score_margin
+M0_random,P01,Regional Finance Controller,Finance & Legal,CAND-101,6,0.166667,0,0,1,0.1666666666666666,0.3562071871080222,0.0,CV-079,1.0,-0.833333
+M0_random,P02,Sales Manager in Indonesia,Sales & BD,CAND-102,29,0.034483,0,0,0,0.0,0.0,0.0,CAND-107,1.0,-0.965517
+M0_random,P03,GTM Marketing Manager / Lead,Marketing,CAND-103,38,0.026316,0,0,0,0.0,0.0,0.0,CV-017,1.0,-0.973684
+M0_random,P04,Data Engineer,Data & AI,CAND-104,83,0.012048,0,0,0,0.0,0.0,1.0,CV-051,1.0,-0.987952
+M0_random,P05,Product Manager — WMS & Warehouse Integrations,Product,CAND-105,6,0.166667,0,0,1,0.1666666666666666,0.3562071871080222,0.0,CV-033,1.0,-0.833333
+M0_random,P06,Deployment Strategist,Data & AI,CAND-106,46,0.021739,0,0,0,0.0,0.0,0.0,CV-096,1.0,-0.978261
+M0_random,P07,Marketing Manager (HK & SG),Marketing,CAND-107,65,0.015385,0,0,0,0.0,0.0,0.0,CAND-110,1.0,-0.984615
+M0_random,P08,Field Service Engineer (FSE),Engineering,CAND-108,55,0.018182,0,0,0,0.0,0.0,0.0,CV-016,1.0,-0.981818
+M0_random,P09,Tech Lead,Engineering,CAND-109,89,0.011236,0,0,0,0.0,0.0,0.0,CV-088,1.0,-0.988764
+M0_random,P10,Regional Lead Designer UI/UX,Design & Creative,CAND-110,64,0.015625,0,0,0,0.0,0.0,0.0,CV-071,1.0,-0.984375
+M1_tfidf,P01,Regional Finance Controller,Finance & Legal,CAND-101,6,0.089404,0,0,1,0.1666666666666666,0.3562071871080222,0.0,CV-024,0.21591,-0.126506
+M1_tfidf,P02,Sales Manager in Indonesia,Sales & BD,CAND-102,2,0.0,0,1,1,0.5,0.6309297535714575,0.0,CAND-101,0.0,0.0
+M1_tfidf,P03,GTM Marketing Manager / Lead,Marketing,CAND-103,7,0.0,0,0,1,0.1428571428571428,0.3333333333333333,0.0,CV-018,0.258434,-0.258434
+M1_tfidf,P04,Data Engineer,Data & AI,CAND-104,1,0.445337,1,1,1,1.0,1.0,1.0,CAND-104,0.445337,0.0
+M1_tfidf,P05,Product Manager — WMS & Warehouse Integrations,Product,CAND-105,19,0.0,0,0,0,0.0,0.0,0.0,CV-004,0.204842,-0.204842
+M1_tfidf,P06,Deployment Strategist,Data & AI,CAND-106,18,0.0,0,0,0,0.0,0.0,0.0,CV-010,0.228549,-0.228549
+M1_tfidf,P07,Marketing Manager (HK & SG),Marketing,CAND-107,7,0.0,0,0,1,0.1428571428571428,0.3333333333333333,0.0,CAND-101,0.0,0.0
+M1_tfidf,P08,Field Service Engineer (FSE),Engineering,CAND-108,8,0.0,0,0,1,0.125,0.3154648767857287,0.0,CAND-101,0.0,0.0
+M1_tfidf,P09,Tech Lead,Engineering,CAND-109,29,0.017312,0,0,0,0.0,0.0,0.0,CV-008,0.309074,-0.291762
+M1_tfidf,P10,Regional Lead Designer UI/UX,Design & Creative,CAND-110,1,0.763134,1,1,1,1.0,1.0,0.0,CAND-110,0.763134,0.0
+M2_svd32,P01,Regional Finance Controller,Finance & Legal,CAND-101,7,0.090564,0,0,1,0.1428571428571428,0.3333333333333333,0.0,CV-024,0.255428,-0.1648639999999999
+M2_svd32,P02,Sales Manager in Indonesia,Sales & BD,CAND-102,2,0.0,0,1,1,0.5,0.6309297535714575,0.0,CAND-101,0.0,0.0
+M2_svd32,P03,GTM Marketing Manager / Lead,Marketing,CAND-103,98,-0.007093,0,0,0,0.0,0.0,0.0,CV-003,0.299737,-0.30683
+M2_svd32,P04,Data Engineer,Data & AI,CAND-104,1,0.595042,1,1,1,1.0,1.0,1.0,CAND-104,0.595042,0.0
+M2_svd32,P05,Product Manager — WMS & Warehouse Integrations,Product,CAND-105,104,-0.006951,0,0,0,0.0,0.0,0.0,CV-004,0.301114,-0.308065
+M2_svd32,P06,Deployment Strategist,Data & AI,CAND-106,20,0.001925,0,0,0,0.0,0.0,0.0,CV-010,0.259621,-0.257696
+M2_svd32,P07,Marketing Manager (HK & SG),Marketing,CAND-107,7,0.0,0,0,1,0.1428571428571428,0.3333333333333333,0.0,CAND-101,0.0,0.0
+M2_svd32,P08,Field Service Engineer (FSE),Engineering,CAND-108,8,0.0,0,0,1,0.125,0.3154648767857287,0.0,CAND-101,0.0,0.0
+M2_svd32,P09,Tech Lead,Engineering,CAND-109,28,0.035253,0,0,0,0.0,0.0,0.0,CV-008,0.374189,-0.338936
+M2_svd32,P10,Regional Lead Designer UI/UX,Design & Creative,CAND-110,1,0.924099,1,1,1,1.0,1.0,0.0,CAND-110,0.924099,0.0
+M3_ae32,P01,Regional Finance Controller,Finance & Legal,CAND-101,81,0.932078,0,0,0,0.0,0.0,0.0,CV-022,0.96428,-0.032202
+M3_ae32,P02,Sales Manager in Indonesia,Sales & BD,CAND-102,77,0.970969,0,0,0,0.0,0.0,0.0,CV-026,1.0,-0.029031
+M3_ae32,P03,GTM Marketing Manager / Lead,Marketing,CAND-103,81,0.957793,0,0,0,0.0,0.0,0.0,CAND-105,0.990471,-0.0326779999999999
+M3_ae32,P04,Data Engineer,Data & AI,CAND-104,2,0.969243,0,1,1,0.5,0.6309297535714575,1.0,CAND-101,0.978533,-0.00929
+M3_ae32,P05,Product Manager — WMS & Warehouse Integrations,Product,CAND-105,81,0.965214,0,0,0,0.0,0.0,0.0,CV-022,0.978456,-0.0132419999999999
+M3_ae32,P06,Deployment Strategist,Data & AI,CAND-106,90,0.930335,0,0,0,0.0,0.0,0.0,CV-021,0.97424,-0.0439049999999999
+M3_ae32,P07,Marketing Manager (HK & SG),Marketing,CAND-107,76,0.97895,0,0,0,0.0,0.0,0.0,CV-026,1.0,-0.02105
+M3_ae32,P08,Field Service Engineer (FSE),Engineering,CAND-108,82,0.9477,0,0,0,0.0,0.0,0.0,CV-026,1.0,-0.0523
+M3_ae32,P09,Tech Lead,Engineering,CAND-109,102,0.843228,0,0,0,0.0,0.0,0.0,CAND-104,0.976577,-0.133349
+M3_ae32,P10,Regional Lead Designer UI/UX,Design & Creative,CAND-110,76,0.975084,0,0,0,0.0,0.0,0.0,CV-026,0.985065,-0.009981
+M4_ae_meta,P01,Regional Finance Controller,Finance & Legal,CAND-101,10,0.682454,0,0,1,0.1,0.2890648263178879,0.0,CV-075,0.689452,-0.0069979999999999
+M4_ae_meta,P02,Sales Manager in Indonesia,Sales & BD,CAND-102,11,0.709678,0,0,0,0.0,0.0,0.0,CV-055,0.73,-0.0203219999999999
+M4_ae_meta,P03,GTM Marketing Manager / Lead,Marketing,CAND-103,12,0.700455,0,0,0,0.0,0.0,0.0,CV-065,0.7128,-0.0123449999999999
+M4_ae_meta,P04,Data Engineer,Data & AI,CAND-104,1,0.70847,1,1,1,1.0,1.0,1.0,CAND-104,0.70847,0.0
+M4_ae_meta,P05,Product Manager — WMS & Warehouse Integrations,Product,CAND-105,1,0.70565,1,1,1,1.0,1.0,0.0,CAND-105,0.70565,0.0
+M4_ae_meta,P06,Deployment Strategist,Data & AI,CAND-106,18,0.681234,0,0,0,0.0,0.0,0.0,CV-031,0.683735,-0.0025009999999999
+M4_ae_meta,P07,Marketing Manager (HK & SG),Marketing,CAND-107,11,0.715265,0,0,0,0.0,0.0,0.0,CV-065,0.73,-0.0147349999999999
+M4_ae_meta,P08,Field Service Engineer (FSE),Engineering,CAND-108,77,0.69339,0,0,0,0.0,0.0,0.0,CV-026,0.73,-0.03661
+M4_ae_meta,P09,Tech Lead,Engineering,CAND-109,102,0.620259,0,0,0,0.0,0.0,0.0,CV-004,0.709293,-0.0890339999999999
+M4_ae_meta,P10,Regional Lead Designer UI/UX,Design & Creative,CAND-110,9,0.712559,0,0,1,0.1111111111111111,0.3010299956639812,0.0,CV-047,0.719546,-0.0069869999999999
+M5_hybrid,P01,Regional Finance Controller,Finance & Legal,CAND-101,81,0.745662,0,0,0,0.0,0.0,0.0,CV-022,0.771424,-0.0257619999999999
+M5_hybrid,P02,Sales Manager in Indonesia,Sales & BD,CAND-102,77,0.776775,0,0,0,0.0,0.0,0.0,CV-026,0.8,-0.023225
+M5_hybrid,P03,GTM Marketing Manager / Lead,Marketing,CAND-103,81,0.766234,0,0,0,0.0,0.0,0.0,CAND-105,0.792376,-0.026142
+M5_hybrid,P04,Data Engineer,Data & AI,CAND-104,1,0.975394,1,1,1,1.0,1.0,1.0,CAND-104,0.975394,0.0
+M5_hybrid,P05,Product Manager — WMS & Warehouse Integrations,Product,CAND-105,91,0.772171,0,0,0,0.0,0.0,0.0,CV-022,0.982765,-0.2105939999999999
+M5_hybrid,P06,Deployment Strategist,Data & AI,CAND-106,96,0.744268,0,0,0,0.0,0.0,0.0,CV-022,0.978459,-0.2341909999999999
+M5_hybrid,P07,Marketing Manager (HK & SG),Marketing,CAND-107,76,0.78316,0,0,0,0.0,0.0,0.0,CV-026,0.8,-0.01684
+M5_hybrid,P08,Field Service Engineer (FSE),Engineering,CAND-108,82,0.75816,0,0,0,0.0,0.0,0.0,CV-026,0.8,-0.0418400000000001
+M5_hybrid,P09,Tech Lead,Engineering,CAND-109,105,0.674582,0,0,0,0.0,0.0,0.0,CV-015,0.902669,-0.228087
+M5_hybrid,P10,Regional Lead Designer UI/UX,Design & Creative,CAND-110,76,0.780067,0,0,0,0.0,0.0,0.0,CV-026,0.788052,-0.007985
+M6_role_heuristic,P01,Regional Finance Controller,Finance & Legal,CAND-101,10,10.932078,0,0,1,0.1,0.2890648263178879,0.0,CV-075,10.942074,-0.0099959999999992
+M6_role_heuristic,P02,Sales Manager in Indonesia,Sales & BD,CAND-102,11,10.970969,0,0,0,0.0,0.0,0.0,CV-055,11.0,-0.0290309999999998
+M6_role_heuristic,P03,GTM Marketing Manager / Lead,Marketing,CAND-103,12,10.957793,0,0,0,0.0,0.0,0.0,CV-065,10.975429,-0.0176359999999995
+M6_role_heuristic,P04,Data Engineer,Data & AI,CAND-104,1,10.969243,1,1,1,1.0,1.0,1.0,CAND-104,10.969243,0.0
+M6_role_heuristic,P05,Product Manager — WMS & Warehouse Integrations,Product,CAND-105,1,10.965214,1,1,1,1.0,1.0,0.0,CAND-105,10.965214,0.0
+M6_role_heuristic,P06,Deployment Strategist,Data & AI,CAND-106,17,10.930335,0,0,0,0.0,0.0,0.0,CV-031,10.933907,-0.0035720000000001
+M6_role_heuristic,P07,Marketing Manager (HK & SG),Marketing,CAND-107,11,10.97895,0,0,0,0.0,0.0,0.0,CV-065,11.0,-0.0210500000000006
+M6_role_heuristic,P08,Field Service Engineer (FSE),Engineering,CAND-108,7,10.9477,0,0,1,0.1428571428571428,0.3333333333333333,0.0,CV-026,11.0,-0.0523000000000006
+M6_role_heuristic,P09,Tech Lead,Engineering,CAND-109,24,10.843228,0,0,0,0.0,0.0,0.0,CV-004,10.970418,-0.1271900000000005
+M6_role_heuristic,P10,Regional Lead Designer UI/UX,Design & Creative,CAND-110,9,10.975084,0,0,1,0.1111111111111111,0.3010299956639812,0.0,CV-047,10.985065,-0.0099809999999997
