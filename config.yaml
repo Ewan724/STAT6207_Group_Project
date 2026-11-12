@@ -1,0 +1,93 @@
+# AI CV Matching Baseline - configuration
+# All paths are relative to the project root (the parent of "group assignment").
+# Quote the folder name on Windows because it contains a space.
+
+seed: 42
+
+paths:
+  # The supplied corpus sits directly in the project root in this checkout
+  # (CV/, "JD + Hired CV/", the Manatal workbook). The original prompt assumes
+  # a DATA/ folder; both layouts are supported via these keys. Nothing here is
+  # ever written to (read-only input).
+  data_root: "."
+  pool_cv_dir: "CV"
+  gt_pdf_dir: "JD + Hired CV"
+  excel_path: "Manatal Examples – JD & CV (anonymised).xlsx"
+  group_dir: group assignment
+  processed: group assignment/data/processed
+  cache: group assignment/data/cache
+  models: group assignment/models
+  figures: group assignment/results/figures
+  tables: group assignment/results/tables
+  logs: group assignment/logs
+
+llm:
+  provider: ollama
+  base_url: http://127.0.0.1:11434
+  model: qwen3.5:4b
+  fallback_model: qwen3.8:27b
+  temperature: 0
+  seed: 42
+  num_ctx: 8192
+  num_predict: 2000
+  top_p: 1.0
+  # qwen3.5:4b in this Ollama build does not support the grammar-constrained
+  # JSON mode ("structured output is unavailable"), so we parse the plain
+  # completion instead. thinking is disabled to keep the token budget for JSON.
+  json_mode: false
+  think: false
+  timeout_sec: 300
+  timeout_fallback_sec: 600
+  max_retries: 2
+  workers: 2
+  # If the primary model cannot be pulled/loaded, fall back to an installed
+  # local model. This is logged in every cache record and in VALIDATION.md.
+  allow_model_fallback: true
+
+extraction:
+  chunk_chars: 8000
+  chunk_overlap: 200
+  min_keyword_words: 1
+  max_keyword_words: 4
+
+clustering:
+  min_clusters: 100
+  max_clusters: 200
+  distance_thresholds: [0.30, 0.34, 0.38, 0.42, 0.46, 0.50, 0.55, 0.60]
+  embedding: char-tfidf
+  st_model: sentence-transformers/all-MiniLM-L6-v2
+  svd_components: 100
+  unmatched_cosine_threshold: 0.45
+  min_doc_frequency: 1
+
+autoencoder:
+  latent_dim: 32
+  hidden_dims: [256, 64]
+  dropout: 0.2
+  denoising: false
+  denoise_rate: 0.10
+  lr: 0.001
+  weight_decay: 0.0001
+  batch_size: 16
+  max_epochs: 500
+  patience: 40
+  grad_clip: 1.0
+  val_fraction: 0.15
+  ablation_max_epochs: 250
+  ablation_patience: 25
+  ablation:
+    latent_dims: [16, 32, 64]
+    dropouts: [0.0, 0.2]
+    denoising: [false, true]
+
+retrieval:
+  top_k: 10
+  primary_model: M3
+  metadata_weight: 0.3
+  hybrid_ae_weight: 0.8
+  hybrid_coverage_weight: 0.2
+  random_permutations: 1000
+  bootstrap_resamples: 10000
+
+report:
+  figure_dpi: 200
