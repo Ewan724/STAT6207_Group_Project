@@ -1,0 +1,13 @@
+latent_dim,dropout,denoising,best_epoch,epochs_run,train_mse,val_mse,n_params,elapsed_sec,selected,notes
+16,0.0,False,4,29,0.004553,0.004657,136020,0.2,False,exploratory capacity/regularisation run; selection is by validation MSE
+16,0.0,True,61,86,0.004528,0.004655,136020,0.6,False,exploratory capacity/regularisation run; selection is by validation MSE
+16,0.2,False,15,40,0.004533,0.004661,136020,0.3,False,exploratory capacity/regularisation run; selection is by validation MSE
+16,0.2,True,6,31,0.004533,0.00466,136020,0.2,False,exploratory capacity/regularisation run; selection is by validation MSE
+32,0.0,False,38,63,0.004529,0.004657,138084,0.4,False,exploratory capacity/regularisation run; selection is by validation MSE
+32,0.0,True,24,49,0.004533,0.00465,138084,0.3,True,selected within the pre-registered 32-d primary architecture
+32,0.2,False,9,34,0.004533,0.004658,138084,0.2,False,exploratory capacity/regularisation run; selection is by validation MSE
+32,0.2,True,11,36,0.004534,0.004651,138084,0.3,False,exploratory capacity/regularisation run; selection is by validation MSE
+64,0.0,False,25,50,0.00453,0.004654,142212,0.4,False,exploratory capacity/regularisation run; selection is by validation MSE
+64,0.0,True,8,33,0.004532,0.004655,142212,0.2,False,exploratory capacity/regularisation run; selection is by validation MSE
+64,0.2,False,9,34,0.004531,0.004656,142212,0.3,False,exploratory capacity/regularisation run; selection is by validation MSE
+64,0.2,True,30,55,0.004529,0.004659,142212,0.4,False,exploratory capacity/regularisation run; selection is by validation MSE

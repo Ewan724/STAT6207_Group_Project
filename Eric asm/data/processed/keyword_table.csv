@@ -1,0 +1,1964 @@
+keyword,canonical_seed,doc_frequency,total_frequency,doc_types,example_doc_ids,in_must_have,in_nice_to_have,in_cv_skills,in_tools,key
+Mentoring,mentoring,66,66,pool_cv|unlabelled_jd,CV-001|CV-002|CV-003|CV-005|CV-006,False,False,False,False,mentoring
+Team Leadership,team leadership,65,72,pool_cv|unlabelled_jd,CV-001|CV-002|CV-003|CV-005|CV-008,True,False,True,False,team leadership
+Python,Python,47,64,pool_cv|unlabelled_jd,CV-001|CV-003|CV-004|CV-006|CV-007,True,True,True,True,python
+Fintech,fintech,31,32,pool_cv|unlabelled_jd,CV-001|CV-003|CV-004|CV-005|CV-006,False,False,True,False,fintech
+AWS,AWS,30,45,pool_cv|unlabelled_jd,CV-004|CV-007|CV-008|CV-010|CV-011,True,True,True,True,aws
+SQL,SQL,28,34,pool_cv|unlabelled_jd,CV-004|CV-008|CV-011|CV-013|CV-017,True,False,True,True,sql
+E-commerce,e-commerce,28,30,pool_cv,CV-001|CV-003|CV-004|CV-005|CV-011,False,False,True,False,e-commerce
+Postgresql,PostgreSQL,27,40,pool_cv|unlabelled_jd,CV-001|CV-003|CV-004|CV-005|CV-006,True,True,True,True,postgresql
+Docker,Docker,26,38,pool_cv|unlabelled_jd,CV-001|CV-003|CV-004|CV-006|CV-008,True,False,True,True,docker
+Mysql,MySQL,24,33,pool_cv|unlabelled_jd,CV-001|CV-003|CV-004|CV-005|CV-008,True,True,True,True,mysql
+Collaboration,collaboration,22,22,pool_cv|unlabelled_jd,CV-018|CV-050|CV-056|JD-001|JD-002,False,False,False,False,collaboration
+Javascript,JavaScript,21,24,pool_cv|unlabelled_jd,CV-004|CV-005|CV-008|CV-011|CV-018,True,False,True,True,javascript
+Microsoft Azure,Microsoft Azure,20,30,pool_cv|unlabelled_jd,CV-012|CV-016|CV-020|CV-026|CV-030,True,True,True,True,microsoft azure
+Kubernetes,Kubernetes,20,29,pool_cv|unlabelled_jd,CV-001|CV-006|CV-007|CV-012|CV-015,True,False,True,True,kubernetes
+Problem-solving,problem-solving,20,20,unlabelled_jd,JD-001|JD-002|JD-005|JD-006|JD-007,False,False,False,False,problem-solving
+React,React,19,29,pool_cv|unlabelled_jd,CV-003|CV-004|CV-005|CV-006|CV-008,True,True,True,True,react
+Google Cloud Platform,Google Cloud Platform,19,28,pool_cv|unlabelled_jd,CV-001|CV-004|CV-018|CV-026|CV-030,True,True,True,True,google cloud platform
+Typescript,TypeScript,19,26,pool_cv|unlabelled_jd,CV-004|CV-005|CV-006|CV-008|CV-011,True,False,True,True,typescript
+Java,Java,19,22,pool_cv|unlabelled_jd,CV-005|CV-006|CV-009|CV-010|CV-015,True,False,True,True,java
+Artificial Intelligence,Artificial Intelligence,18,19,pool_cv|unlabelled_jd,CV-004|CV-007|CV-011|CV-032|CV-034,False,True,True,False,artificial intelligence
+Ci Cd,CI/CD,17,22,pool_cv|unlabelled_jd,CV-003|CV-006|CV-008|CV-012|CV-015,True,False,True,True,ci cd
+Node.js,Node.js,16,23,pool_cv|unlabelled_jd,CV-004|CV-005|CV-006|CV-008|CV-013,True,False,True,True,node.js
+Git,Git,16,21,pool_cv|unlabelled_jd,CV-003|CV-014|CV-015|CV-018|CV-019,True,True,True,True,git
+Machine Learning,Machine Learning,15,18,pool_cv|unlabelled_jd,CV-011|CV-028|CV-031|CV-033|CV-037,True,False,True,False,machine learning
+Mongodb,MongoDB,14,18,pool_cv,CV-003|CV-004|CV-005|CV-006|CV-011,False,False,True,True,mongodb
+Kafka,Kafka,13,19,pool_cv|unlabelled_jd,CV-001|CV-005|CV-008|CV-012|CV-013,True,True,True,True,kafka
+Redis,Redis,13,19,pool_cv|unlabelled_jd,CV-003|CV-004|CV-006|CV-008|CV-026,True,False,True,True,redis
+Stakeholder Management,Stakeholder Management,13,16,pool_cv|unlabelled_jd,CV-028|CV-061|CV-069|CV-075|CV-084,True,False,True,False,stakeholder management
+Strategic Planning,strategic planning,13,15,pool_cv|unlabelled_jd,CV-010|CV-022|CV-062|CV-076|CV-085,True,False,True,False,strategic planning
+Retail,retail,13,13,pool_cv|unlabelled_jd,CV-037|CV-045|CV-060|CV-063|CV-066,False,False,False,False,retail
+Pytorch,PyTorch,12,17,pool_cv|unlabelled_jd,CV-028|CV-032|CV-034|CV-035|CV-040,True,False,True,True,pytorch
+Project Management,Project Management,12,12,pool_cv|unlabelled_jd,CV-022|CV-049|CV-065|CV-067|CV-070,False,False,True,False,project management
+Next.js,Next.js,11,18,pool_cv|unlabelled_jd,CV-004|CV-005|CV-008|CV-013|CV-021,False,True,True,True,next.js
+Jenkins,Jenkins,11,14,pool_cv|unlabelled_jd,CV-001|CV-007|CV-008|CV-013|CV-014,False,True,True,True,jenkins
+Github Action,GitHub Actions,10,17,pool_cv|unlabelled_jd,CV-004|CV-008|CV-015|CV-016|CV-021,False,True,True,True,github action
+Figma,Figma,10,15,pool_cv|unlabelled_jd,CV-005|CV-047|CV-048|CV-052|CV-053,True,False,True,True,figma
+C++,C++,10,14,pool_cv|unlabelled_jd,CV-013|CV-016|CV-028|CV-029|CV-032,True,True,True,True,c++
+Excel,Excel,10,13,pool_cv|unlabelled_jd,CV-021|CV-037|CV-056|CV-059|CV-073,True,False,True,True,excel
+Linux,Linux,10,11,pool_cv|unlabelled_jd,CV-003|CV-004|CV-007|CV-009|CV-014,True,False,True,True,linux
+scikit-learn,scikit-learn,10,11,pool_cv|unlabelled_jd,CV-012|CV-033|CV-035|CV-037|CV-040,True,False,True,True,scikit-learn
+Finance,finance,10,11,pool_cv|unlabelled_jd,CV-075|CV-077|CV-078|CV-079|CV-080,True,False,False,False,finance
+Fastapi,FastAPI,9,13,pool_cv|unlabelled_jd,CV-018|CV-032|CV-034|CV-037|CV-040,True,True,True,True,fastapi
+Negotiation,Negotiation,9,11,pool_cv|unlabelled_jd,CV-057|CV-059|CV-085|JD-033|JD-039,True,False,True,False,negotiation
+Retrieval-Augmented Generation,Retrieval-Augmented Generation,9,9,pool_cv|unlabelled_jd,CV-011|CV-012|CV-033|CV-034|CV-040,True,False,True,False,retrieval-augmented generation
+Team Collaboration,team collaboration,9,9,pool_cv,CV-012|CV-017|CV-025|CV-028|CV-040,False,False,False,False,team collaboration
+Data Analysis,Data Analysis,9,9,pool_cv|unlabelled_jd,CV-035|CV-036|CV-068|CV-071|CV-073,True,False,True,True,data analysis
+Adobe Photoshop,Adobe Photoshop,8,14,pool_cv|unlabelled_jd,CV-047|CV-049|CV-051|CV-053|CV-056,True,False,True,True,adobe photoshop
+Power Bi,Power BI,8,12,pool_cv|unlabelled_jd,CV-012|CV-031|CV-037|CV-039|CV-045,False,True,True,True,power bi
+Go,Go,8,10,pool_cv|unlabelled_jd,CV-007|CV-008|CV-011|CV-026|CV-030,True,False,True,True,go
+Rest Apis,REST APIs,8,10,pool_cv|unlabelled_jd,CV-008|CV-027|CV-028|CV-034|CV-037,True,False,True,True,rest apis
+Tableau,Tableau,8,10,pool_cv|unlabelled_jd,CV-012|CV-031|CV-039|CV-064|CV-071,True,True,True,True,tableau
+Spring Boot,Spring Boot,8,9,pool_cv,CV-009|CV-015|CV-019|CV-020|CV-025,False,False,True,True,spring boot
+Sales,Sales,8,9,pool_cv|unlabelled_jd,CV-055|CV-059|CV-063|CV-081|CV-091,True,False,True,False,sales
+Agile,Agile,8,8,pool_cv|unlabelled_jd,CV-001|CV-006|CV-014|CV-015|CV-024,True,False,True,True,agile
+Microservices,Microservices,8,8,pool_cv,CV-009|CV-011|CV-012|CV-013|CV-015,False,False,True,False,microservices
+Logistics,logistics,8,8,pool_cv|unlabelled_jd,CV-012|CV-047|CV-064|CV-067|CV-097,False,False,True,False,logistics
+Natural Language Processing,Natural Language Processing,8,8,pool_cv,CV-028|CV-032|CV-035|CV-037|CV-039,False,False,True,False,natural language processing
+Adobe Illustrator,Adobe Illustrator,7,12,pool_cv|unlabelled_jd,CV-047|CV-049|CV-051|CV-053|CV-070,True,False,True,True,adobe illustrator
+Tailwind Css,Tailwind CSS,7,11,pool_cv,CV-004|CV-005|CV-008|CV-013|CV-027,False,False,True,True,tailwind css
+Terraform,Terraform,7,11,pool_cv|unlabelled_jd,CV-007|CV-026|CV-027|CV-038|CV-046,True,True,True,True,terraform
+Apache Airflow,Apache Airflow,7,11,pool_cv|unlabelled_jd,CV-035|CV-036|CV-042|CV-043|CV-046,True,True,True,True,apache airflow
+Canva,Canva,7,10,pool_cv,CV-049|CV-054|CV-056|CV-060|CV-073,False,False,True,True,canva
+Elasticsearch,Elasticsearch,7,9,pool_cv|unlabelled_jd,CV-001|CV-015|CV-030|CV-038|CV-046,True,False,True,True,elasticsearch
+Angular,Angular,7,9,pool_cv|unlabelled_jd,CV-001|CV-012|CV-013|CV-018|CV-019,False,True,True,True,angular
+Tensorflow,TensorFlow,7,9,pool_cv|unlabelled_jd,CV-028|CV-032|CV-035|CV-040|CV-041,True,False,True,True,tensorflow
+Customer Service,Customer service,7,9,pool_cv|unlabelled_jd,CV-063|CV-064|CV-081|CV-091|CV-097,False,True,True,False,customer service
+Accounting,Accounting,7,9,pool_cv|unlabelled_jd,CV-077|CV-078|CV-079|CV-080|CV-082,False,False,True,False,accounting
+Data Engineering,Data Engineering,7,7,pool_cv|unlabelled_jd,CV-031|CV-035|CV-036|CV-040|CV-045,False,False,True,False,data engineering
+Healthcare,healthcare,7,7,pool_cv,CV-035|CV-041|CV-044|CV-046|CV-081,False,False,False,False,healthcare
+Marketing,marketing,7,7,pool_cv|unlabelled_jd,CV-051|CV-055|CV-071|CV-073|CV-091,False,False,True,False,marketing
+Rabbitmq,RabbitMQ,6,10,pool_cv|unlabelled_jd,CV-001|CV-008|CV-020|CV-046|CV-095,False,True,True,True,rabbitmq
+Nestjs,NestJS,6,10,pool_cv|unlabelled_jd,CV-004|CV-005|CV-008|CV-013|CV-029,False,True,True,True,nestjs
+Rust,Rust,6,9,pool_cv|unlabelled_jd,CV-003|CV-006|CV-014|CV-020|JD-015,True,False,True,True,rust
+Apache Spark,Apache Spark,6,9,pool_cv,CV-015|CV-031|CV-035|CV-040|CV-043,False,False,True,True,apache spark
+Express.js,Express.js,6,8,pool_cv,CV-005|CV-013|CV-026|CV-027|CV-029,False,False,True,True,express.js
+Key Account Management,Key Account Management,6,7,pool_cv|unlabelled_jd,CV-055|CV-058|CV-062|CV-067|CV-091,True,False,True,False,key account management
+Taxation,Taxation,6,7,pool_cv|unlabelled_jd,CV-078|CV-079|CV-080|CV-083|JD-029,True,False,True,False,taxation
+Php,PHP,6,6,pool_cv,CV-001|CV-003|CV-018|CV-030|CV-036,False,False,True,True,php
+Saas,SaaS,6,6,pool_cv|unlabelled_jd,CV-013|CV-022|CV-027|CV-047|CV-067,False,True,False,False,saas
+Analytical Skill,Analytical Skills,6,6,pool_cv|unlabelled_jd,CV-022|JD-019|JD-021|JD-035|JD-039,False,False,True,False,analytical skill
+A B Testing,A/B Testing,6,6,pool_cv|unlabelled_jd,CV-042|CV-043|CV-048|CV-068|CV-074,False,True,True,True,a b testing
+Social Media,social media,6,6,pool_cv|unlabelled_jd,CV-049|CV-051|CV-070|CV-073|CV-074,False,False,False,False,social media
+Business Development,Business Development,6,6,pool_cv|unlabelled_jd,CV-055|CV-058|JD-037|JD-043|JD-044,True,False,True,False,business development
+Financial Reporting,Financial Reporting,6,6,pool_cv,CV-075|CV-077|CV-079|CV-080|CV-082,False,False,True,False,financial reporting
+Communication Skill,Communication Skills,6,6,pool_cv|unlabelled_jd,CV-081|JD-017|JD-019|JD-024|JD-034,True,False,True,False,communication skill
+Firebase,Firebase,5,8,pool_cv|unlabelled_jd,CV-016|CV-018|CV-029|CV-095|JD-022,True,False,True,True,firebase
+Selenium,Selenium,5,7,pool_cv,CV-016|CV-017|CV-023|CV-024|CV-046,False,False,True,True,selenium
+Snowflake,Snowflake,5,7,pool_cv|unlabelled_jd,CV-031|CV-035|CV-043|CV-045|JD-001,False,True,True,True,snowflake
+Rest API,REST API,5,6,pool_cv|unlabelled_jd,CV-005|CV-006|CV-019|CV-029|JD-018,True,False,True,True,rest api
+Graphql,GraphQL,5,6,pool_cv,CV-005|CV-006|CV-013|CV-029|CV-030,False,False,True,True,graphql
+C#,C#,5,6,pool_cv,CV-012|CV-021|CV-026|CV-029|CV-074,False,False,True,True,c#
+HTML,HTML,5,6,pool_cv,CV-014|CV-018|CV-020|CV-027|CV-060,False,False,True,True,html
+Bigquery,BigQuery,5,6,pool_cv|unlabelled_jd,CV-017|CV-036|CV-043|CV-071|JD-003,True,False,True,True,bigquery
+Langchain,LangChain,5,6,pool_cv|unlabelled_jd,CV-034|CV-038|CV-040|CV-041|JD-001,True,False,True,True,langchain
+Digital Marketing,Digital Marketing,5,6,pool_cv,CV-049|CV-056|CV-068|CV-072|CV-074,False,False,True,False,digital marketing
+Video Editing,Video editing,5,6,pool_cv|unlabelled_jd,CV-050|CV-051|CV-073|JD-008|JD-011,True,True,True,False,video editing
+Performance Management,Performance Management,5,6,pool_cv,CV-058|CV-064|CV-083|CV-086|CV-088,False,False,True,False,performance management
+Audit,Audit,5,6,pool_cv|unlabelled_jd,CV-075|CV-078|CV-079|CV-080|JD-029,True,False,True,False,audit
+Adaptability,Adaptability,5,6,pool_cv|unlabelled_jd,CV-092|JD-008|JD-021|JD-037|JD-038,False,False,True,False,adaptability
+Distributed System,Distributed Systems,5,5,pool_cv|unlabelled_jd,CV-006|CV-013|JD-002|JD-015|JD-025,True,False,True,False,distributed system
+Devops,DevOps,5,5,pool_cv|unlabelled_jd,CV-007|CV-020|CV-024|CV-031|JD-026,True,False,True,False,devops
+Large Language Model,Large Language Model,5,5,pool_cv|unlabelled_jd,CV-012|CV-034|CV-043|CV-044|JD-001,True,False,True,False,large language model
+Enterprise Software,enterprise software,5,5,pool_cv,CV-012|CV-013|CV-015|CV-021|CV-041,False,False,False,False,enterprise software
+Automation,Automation,5,5,pool_cv|unlabelled_jd,CV-017|CV-024|CV-040|CV-042|JD-014,False,False,True,False,automation
+Prompt Engineering,Prompt Engineering,5,5,pool_cv|unlabelled_jd,CV-021|CV-030|CV-040|CV-043|JD-001,True,False,True,False,prompt engineering
+Decision-making,decision-making,5,5,pool_cv|unlabelled_jd,CV-022|JD-020|JD-027|JD-042|JD-045,False,False,False,False,decision-making
+Banking,banking,5,5,pool_cv|unlabelled_jd,CV-025|CV-035|CV-055|CV-059|JD-044,False,False,False,False,banking
+Attention to Detail,attention to detail,5,5,pool_cv|unlabelled_jd,CV-027|JD-005|JD-011|JD-030|JD-041,False,False,False,False,attention to detail
+Xgboost,XGBoost,5,5,pool_cv,CV-037|CV-041|CV-042|CV-043|CV-044,False,False,True,False,xgboost
+Hospitality,hospitality,5,5,pool_cv,CV-050|CV-060|CV-067|CV-087|CV-090,False,False,False,False,hospitality
+Redux,Redux,4,7,pool_cv|unlabelled_jd,CV-005|CV-013|CV-095|JD-016,False,True,True,True,redux
+Shopify,Shopify,4,7,pool_cv|unlabelled_jd,CV-074|CV-097|CV-098|JD-040,False,True,True,True,shopify
+Golang,Golang,4,6,pool_cv|unlabelled_jd,CV-001|CV-038|CV-095|JD-022,True,False,True,True,golang
+Ansible,Ansible,4,6,pool_cv|unlabelled_jd,CV-001|CV-007|JD-014|JD-016,True,True,True,True,ansible
+Jest,Jest,4,6,pool_cv,CV-005|CV-013|CV-026|CV-027,False,False,True,True,jest
+Grafana,Grafana,4,6,pool_cv|unlabelled_jd,CV-007|CV-046|CV-096|JD-027,False,True,True,True,grafana
+SQL Server,SQL Server,4,6,pool_cv|unlabelled_jd,CV-012|CV-027|CV-031|JD-016,True,False,True,True,sql server
+Lambda,Lambda,4,6,pool_cv|unlabelled_jd,CV-013|CV-027|JD-007|JD-014,False,True,True,True,lambda
+Jira,JIRA,4,6,pool_cv|unlabelled_jd,CV-014|CV-016|CV-039|JD-042,False,True,True,True,jira
+Datadog,Datadog,4,6,pool_cv|unlabelled_jd,CV-020|CV-096|JD-007|JD-027,False,True,True,True,datadog
+Meta Ads,Meta Ads,4,6,pool_cv,CV-052|CV-056|CV-065|CV-074,False,False,True,True,meta ads
+Google Analytics,Google Analytics,4,6,pool_cv,CV-056|CV-066|CV-068|CV-074,False,False,True,True,google analytics
+Microsoft Office,Microsoft Office,4,6,pool_cv|unlabelled_jd,CV-077|CV-079|CV-081|JD-038,False,True,True,True,microsoft office
+Flutter,Flutter,4,5,pool_cv,CV-003|CV-016|CV-018|CV-029,False,False,True,True,flutter
+React Native,React Native,4,5,pool_cv,CV-004|CV-029|CV-034|CV-100,False,False,True,True,react native
+Cloud Infrastructure,Cloud infrastructure,4,5,pool_cv|unlabelled_jd,CV-006|JD-014|JD-023|JD-032,True,False,True,False,cloud infrastructure
+Blockchain,Blockchain,4,5,pool_cv|unlabelled_jd,CV-011|CV-020|CV-063|JD-020,False,False,True,False,blockchain
+Net,NET,4,5,pool_cv,CV-012|CV-021|CV-025|CV-029,False,False,True,True,net
+Css,CSS,4,5,pool_cv,CV-014|CV-018|CV-020|CV-027,False,False,True,True,css
+Oracle,Oracle,4,5,pool_cv,CV-015|CV-026|CV-036|CV-078,False,False,True,True,oracle
+Team Management,Team Management,4,5,pool_cv|unlabelled_jd,CV-015|CV-065|CV-066|JD-035,False,False,True,False,team management
+Scrum,Scrum,4,5,pool_cv|unlabelled_jd,CV-016|CV-024|CV-087|JD-016,True,False,True,False,scrum
+CRM,CRM,4,5,pool_cv|unlabelled_jd,CV-045|CV-057|JD-035|JD-045,True,False,False,True,crm
+Storytelling,Storytelling,4,5,pool_cv|unlabelled_jd,CV-055|CV-070|JD-003|JD-037,True,False,True,False,storytelling
+Client Relationship Management,Client Relationship Management,4,5,pool_cv|unlabelled_jd,CV-056|CV-075|JD-048|JD-050,True,False,True,False,client relationship management
+Cross-functional Collaboration,Cross-functional Collaboration,4,5,pool_cv,CV-057|CV-058|CV-072|CV-099,False,False,True,False,cross-functional collaboration
+Tiktok,TikTok,4,5,pool_cv|unlabelled_jd,CV-070|CV-073|JD-034|JD-040,False,True,True,True,tiktok
+Compliance,Compliance,4,5,pool_cv|unlabelled_jd,CV-087|JD-030|JD-039|JD-049,True,False,True,False,compliance
+Operations,operations,4,5,pool_cv,CV-087|CV-091|CV-097|CV-098,False,False,True,False,operations
+Laravel,Laravel,4,4,pool_cv,CV-001|CV-003|CV-018|CV-036,False,False,True,True,laravel
+Recruitment,Recruitment,4,4,pool_cv|unlabelled_jd,CV-001|CV-088|CV-095|JD-042,False,False,False,False,recruitment
+Troubleshooting,Troubleshooting,4,4,pool_cv|unlabelled_jd,CV-002|CV-036|JD-014|JD-017,True,False,True,False,troubleshooting
+Postman,Postman,4,4,pool_cv,CV-003|CV-017|CV-023|CV-025,False,False,True,True,postman
+Spring,Spring,4,4,pool_cv,CV-005|CV-010|CV-020|CV-096,False,False,True,True,spring
+Technical Leadership,technical leadership,4,4,pool_cv|unlabelled_jd,CV-006|CV-015|JD-005|JD-026,False,False,False,False,technical leadership
+Cloud,Cloud,4,4,pool_cv|unlabelled_jd,CV-007|CV-055|JD-026|JD-043,False,False,True,False,cloud
+Vllm,vLLM,4,4,pool_cv,CV-007|CV-032|CV-042|CV-046,False,False,True,True,vllm
+Kotlin,Kotlin,4,4,pool_cv,CV-011|CV-018|CV-028|CV-030,False,False,True,True,kotlin
+Pandas,Pandas,4,4,pool_cv,CV-012|CV-033|CV-037|CV-040,False,False,True,True,pandas
+Numpy,NumPy,4,4,pool_cv,CV-012|CV-033|CV-037|CV-040,False,False,True,True,numpy
+Cloud Computing,cloud computing,4,4,pool_cv,CV-015|CV-022|CV-031|CV-044,False,False,True,False,cloud computing
+Mobile Development,mobile development,4,4,pool_cv|unlabelled_jd,CV-016|CV-018|CV-020|JD-016,False,False,False,False,mobile development
+Telecommunications,telecommunications,4,4,pool_cv,CV-017|CV-036|CV-064|CV-099,False,False,False,False,telecommunications
+Web Development,web development,4,4,pool_cv|unlabelled_jd,CV-020|CV-034|CV-063|JD-016,False,False,True,False,web development
+Manufacturing,manufacturing,4,4,pool_cv|unlabelled_jd,CV-025|CV-031|CV-085|JD-031,False,False,False,False,manufacturing
+Flask,Flask,4,4,pool_cv,CV-026|CV-028|CV-033|CV-040,False,False,True,False,flask
+Inventory Management,inventory management,4,4,pool_cv,CV-028|CV-091|CV-092|CV-098,False,False,True,False,inventory management
+Supply Chain,supply chain,4,4,pool_cv|unlabelled_jd,CV-031|CV-039|CV-085|JD-040,False,False,False,False,supply chain
+Financial Service,financial services,4,4,pool_cv|unlabelled_jd,CV-038|CV-087|JD-012|JD-050,False,False,True,False,financial service
+Data Modeling,Data Modeling,4,4,pool_cv,CV-039|CV-041|CV-043|CV-045,False,False,True,False,data modeling
+SEO,SEO,4,4,pool_cv,CV-068|CV-072|CV-073|CV-074,False,False,True,False,seo
+Brand Management,Brand Management,4,4,pool_cv|unlabelled_jd,CV-069|CV-073|JD-011|JD-034,True,False,True,False,brand management
+Internal Control,Internal Controls,4,4,pool_cv|unlabelled_jd,CV-075|CV-078|CV-079|JD-029,True,False,True,False,internal control
+Financial Analysis,Financial Analysis,4,4,pool_cv,CV-076|CV-077|CV-078|CV-080,False,False,True,False,financial analysis
+Budgeting,Budgeting,4,4,pool_cv|unlabelled_jd,CV-080|CV-083|CV-088|JD-029,True,False,True,False,budgeting
+Human Resource,Human Resources,4,4,pool_cv|unlabelled_jd,CV-086|CV-088|CV-092|JD-041,False,False,False,False,human resource
+Presentation,presentation,4,4,unlabelled_jd,JD-009|JD-043|JD-045|JD-050,False,False,False,False,presentation
+Ownership,ownership,4,4,unlabelled_jd,JD-020|JD-036|JD-038|JD-041,False,False,False,False,ownership
+Interpersonal Skill,interpersonal skills,4,4,unlabelled_jd,JD-035|JD-041|JD-044|JD-049,False,False,False,False,interpersonal skill
+Dbt,dbt,3,6,pool_cv|unlabelled_jd,CV-031|JD-001|JD-003,False,True,True,True,dbt
+Nginx,Nginx,3,5,pool_cv|unlabelled_jd,CV-003|CV-008|JD-025,True,False,True,True,nginx
+Prisma,Prisma,3,5,pool_cv,CV-004|CV-005|CV-021,False,False,True,True,prisma
+Ray,Ray,3,5,pool_cv|unlabelled_jd,CV-007|CV-046|JD-015,True,False,True,True,ray
+Grpc,gRPC,3,5,pool_cv|unlabelled_jd,CV-030|JD-015|JD-022,True,False,True,True,grpc
+Pinecone,Pinecone,3,5,pool_cv|unlabelled_jd,CV-033|JD-001|JD-027,False,True,False,True,pinecone
+Faiss,FAISS,3,5,pool_cv|unlabelled_jd,CV-044|JD-001|JD-027,False,True,True,True,faiss
+Adobe Xd,Adobe XD,3,5,pool_cv|unlabelled_jd,CV-047|CV-074|JD-012,True,False,True,True,adobe xd
+After Effect,After Effects,3,5,pool_cv|unlabelled_jd,CV-051|CV-053|JD-008,True,False,True,True,after effect
+UI UX Design,UI/UX design,3,5,unlabelled_jd,JD-009|JD-010|JD-012,True,False,False,False,ui ux design
+Ecommerce,eCommerce,3,5,unlabelled_jd,JD-034|JD-038|JD-040,True,False,False,False,ecommerce
+Lazada,Lazada,3,5,unlabelled_jd,JD-034|JD-038|JD-040,True,True,False,True,lazada
+Shopee,Shopee,3,5,unlabelled_jd,JD-034|JD-038|JD-040,True,True,False,True,shopee
+Helm,Helm,3,4,pool_cv|unlabelled_jd,CV-001|CV-007|JD-027,False,True,False,True,helm
+Vue.js,Vue.js,3,4,pool_cv|unlabelled_jd,CV-003|CV-004|JD-016,False,True,True,True,vue.js
+S3,S3,3,4,pool_cv|unlabelled_jd,CV-013|JD-007|JD-015,True,False,False,True,s3
+Wordpress,WordPress,3,4,pool_cv,CV-014|CV-072|CV-074,False,False,True,True,wordpress
+Playwright,Playwright,3,4,pool_cv,CV-017|CV-021|CV-024,False,False,True,True,playwright
+Change Management,change management,3,4,pool_cv,CV-022|CV-058|CV-086,False,False,True,False,change management
+Claude Code,Claude Code,3,4,pool_cv,CV-027|CV-071|CV-100,False,False,True,True,claude code
+Hive,Hive,3,4,pool_cv|unlabelled_jd,CV-035|CV-042|JD-007,False,False,True,True,hive
+Pyspark,pyspark,3,4,pool_cv,CV-035|CV-042|CV-045,False,False,True,True,pyspark
+Fmcg,FMCG,3,4,pool_cv|unlabelled_jd,CV-035|CV-056|JD-034,False,True,False,False,fmcg
+Ci Cd Pipeline,CI/CD pipelines,3,4,pool_cv|unlabelled_jd,CV-038|JD-023|JD-032,True,False,True,True,ci cd pipeline
+Stakeholder Engagement,Stakeholder Engagement,3,4,pool_cv|unlabelled_jd,CV-039|JD-026|JD-039,True,False,True,False,stakeholder engagement
+B2B Sales,B2B Sales,3,4,pool_cv|unlabelled_jd,CV-064|JD-043|JD-045,True,False,True,False,b2b sales
+Google Sheet,Google Sheets,3,4,pool_cv,CV-073|CV-097|CV-098,False,False,True,True,google sheet
+Teamwork,Teamwork,3,4,pool_cv|unlabelled_jd,CV-081|JD-005|JD-047,False,False,True,False,teamwork
+Midjourney,MidJourney,3,4,pool_cv|unlabelled_jd,CV-093|JD-008|JD-010,True,True,False,True,midjourney
+Dart,Dart,3,3,pool_cv,CV-003|CV-018|CV-029,False,False,True,False,dart
+Sqlite,SQLite,3,3,pool_cv,CV-003|CV-019|CV-026,False,False,True,True,sqlite
+Government,government,3,3,pool_cv,CV-003|CV-035|CV-067,False,False,False,False,government
+Software Development,software development,3,3,pool_cv|unlabelled_jd,CV-006|CV-022|JD-023,False,False,True,False,software development
+Bash,Bash,3,3,pool_cv,CV-007|CV-036|CV-038,False,False,True,True,bash
+Root Cause Analysis,root cause analysis,3,3,pool_cv,CV-007|CV-028|CV-031,False,False,False,False,root cause analysis
+Oauth2,OAuth2,3,3,pool_cv,CV-009|CV-015|CV-025,False,False,True,True,oauth2
+Code Review,code reviews,3,3,pool_cv,CV-009|CV-012|CV-019,False,False,False,False,code review
+Openai,OpenAI,3,3,pool_cv,CV-010|CV-063|CV-098,False,False,True,True,openai
+Automotive,automotive,3,3,pool_cv|unlabelled_jd,CV-014|CV-046|JD-046,False,False,False,False,automotive
+Restful Apis,RESTful APIs,3,3,pool_cv|unlabelled_jd,CV-015|CV-040|JD-016,True,False,True,False,restful apis
+API Testing,API Testing,3,3,pool_cv|unlabelled_jd,CV-017|CV-024|JD-013,True,False,True,False,api testing
+Nosql,NoSQL,3,3,pool_cv|unlabelled_jd,CV-018|CV-035|JD-016,False,True,True,False,nosql
+Game Development,game development,3,3,pool_cv|unlabelled_jd,CV-023|CV-029|JD-009,False,True,False,False,game development
+Transformer Model,Transformer Models,3,3,pool_cv|unlabelled_jd,CV-028|CV-041|JD-002,False,True,True,False,transformer model
+Regulatory Compliance,regulatory compliance,3,3,pool_cv,CV-028|CV-083|CV-086,False,False,True,False,regulatory compliance
+Data Science,Data Science,3,3,pool_cv|unlabelled_jd,CV-031|CV-035|JD-007,False,False,True,False,data science
+Sustainability,sustainability,3,3,pool_cv|unlabelled_jd,CV-031|CV-094|JD-047,False,True,True,False,sustainability
+Transformers,Transformers,3,3,pool_cv|unlabelled_jd,CV-032|CV-034|JD-001,True,False,True,False,transformers
+Onnx,ONNX,3,3,pool_cv|unlabelled_jd,CV-032|CV-046|JD-002,False,True,True,True,onnx
+Model Evaluation,model evaluation,3,3,pool_cv,CV-033|CV-041|CV-043,False,False,True,False,model evaluation
+Cloud Service,Cloud Services,3,3,pool_cv|unlabelled_jd,CV-035|CV-055|JD-022,False,False,True,False,cloud service
+Databricks,Databricks,3,3,pool_cv|unlabelled_jd,CV-036|CV-043|JD-007,False,True,True,False,databricks
+Business Intelligence,business intelligence,3,3,pool_cv|unlabelled_jd,CV-037|JD-003|JD-018,True,True,False,False,business intelligence
+Llm Evaluation,LLM Evaluation,3,3,pool_cv,CV-038|CV-042|CV-100,False,False,True,False,llm evaluation
+Predictive Analytics,Predictive Analytics,3,3,pool_cv|unlabelled_jd,CV-040|CV-043|JD-036,True,False,True,False,predictive analytics
+Education,education,3,3,pool_cv,CV-044|CV-046|CV-089,False,False,False,False,education
+Analytics,analytics,3,3,pool_cv|unlabelled_jd,CV-045|JD-003|JD-035,True,False,False,False,analytics
+Design System,Design System,3,3,pool_cv|unlabelled_jd,CV-048|JD-010|JD-012,True,False,True,False,design system
+Videography,Videography,3,3,pool_cv,CV-050|CV-065|CV-073,False,False,True,False,videography
+Google Ads,Google Ads,3,3,pool_cv,CV-052|CV-065|CV-068,False,False,False,True,google ads
+Construction,construction,3,3,pool_cv|unlabelled_jd,CV-053|CV-059|JD-048,False,False,False,False,construction
+Client Communication,client communication,3,3,pool_cv,CV-056|CV-084|CV-100,False,False,True,False,client communication
+B2B,B2B,3,3,pool_cv,CV-059|CV-066|CV-069,False,False,False,False,b2b
+Consumer Electronics,consumer electronics,3,3,pool_cv|unlabelled_jd,CV-062|JD-033|JD-046,False,False,False,False,consumer electronics
+Content Creation,Content Creation,3,3,pool_cv,CV-065|CV-070|CV-073,False,False,True,False,content creation
+Iot,IoT,3,3,pool_cv,CV-067|CV-094|CV-097,False,False,True,False,iot
+Market Research,Market Research,3,3,pool_cv|unlabelled_jd,CV-072|CV-097|JD-037,True,False,True,False,market research
+Quickbooks,Quickbooks,3,3,pool_cv,CV-075|CV-078|CV-082,False,False,False,True,quickbooks
+Forecasting,Forecasting,3,3,pool_cv,CV-080|CV-083|CV-087,False,False,True,False,forecasting
+Time Management,Time Management,3,3,pool_cv|unlabelled_jd,CV-082|JD-029|JD-030,False,False,True,False,time management
+Organizational Skill,organizational skills,3,3,unlabelled_jd,JD-019|JD-030|JD-040,False,False,False,False,organizational skill
+Accountability,accountability,3,3,unlabelled_jd,JD-024|JD-038|JD-041,False,False,False,False,accountability
+Resilience,resilience,3,3,unlabelled_jd,JD-024|JD-033|JD-043,False,False,False,False,resilience
+Self-starter,self-starter,3,3,unlabelled_jd,JD-030|JD-041|JD-049,False,False,False,False,self-starter
+Typeorm,TypeOrm,2,4,pool_cv,CV-005|CV-013,False,False,True,True,typeorm
+Ruby On Rail,Ruby on Rails,2,4,pool_cv,CV-013|CV-095,False,False,True,True,ruby on rail
+Swiftui,SwiftUI,2,4,pool_cv|unlabelled_jd,CV-016|JD-010,True,False,True,True,swiftui
+Cloudwatch,CloudWatch,2,4,pool_cv|unlabelled_jd,CV-027|JD-014,False,True,True,True,cloudwatch
+Microsoft Fabric,Microsoft Fabric,2,4,pool_cv,CV-031|CV-045,False,False,True,True,microsoft fabric
+Prometheus,Prometheus,2,4,pool_cv|unlabelled_jd,CV-046|JD-027,False,True,True,True,prometheus
+Indesign,InDesign,2,4,pool_cv|unlabelled_jd,CV-053|JD-011,True,False,True,True,indesign
+Kling,Kling,2,4,pool_cv|unlabelled_jd,CV-053|JD-008,True,False,True,True,kling
+Hubspot,HubSpot,2,4,pool_cv,CV-073|CV-074,False,False,True,True,hubspot
+GCP Cloud Function,GCP Cloud Functions,2,4,pool_cv|unlabelled_jd,CV-095|JD-016,False,True,True,True,gcp cloud function
+Weaviate,Weaviate,2,4,unlabelled_jd,JD-001|JD-027,False,True,False,True,weaviate
+Sketch,Sketch,2,4,unlabelled_jd,JD-010|JD-012,True,False,False,True,sketch
+Django,Django,2,3,pool_cv,CV-001|CV-026,False,False,True,True,django
+Tiktok Shop,TikTok Shop,2,3,pool_cv|unlabelled_jd,CV-003|JD-038,True,False,False,True,tiktok shop
+Governance,Governance,2,3,pool_cv,CV-007|CV-094,False,False,True,False,governance
+Gke,GKE,2,3,pool_cv,CV-007|CV-046,False,False,True,True,gke
+Argo Cd,Argo CD,2,3,pool_cv|unlabelled_jd,CV-007|JD-027,False,True,False,True,argo cd
+Gitlab,Gitlab,2,3,pool_cv,CV-012|CV-027,False,False,True,True,gitlab
+Ecs,ECS,2,3,pool_cv,CV-013|CV-027,False,False,True,True,ecs
+Embedded System,embedded systems,2,3,pool_cv|unlabelled_jd,CV-014|JD-021,True,False,False,False,embedded system
+Hibernate,Hibernate,2,3,pool_cv,CV-015|CV-096,False,False,True,True,hibernate
+Hbase,HBase,2,3,pool_cv,CV-015|CV-035,False,False,True,True,hbase
+Hadoop,Hadoop,2,3,pool_cv,CV-015|CV-035,False,False,True,True,hadoop
+Appium,Appium,2,3,pool_cv,CV-017|CV-023,False,False,True,True,appium
+Cursor,cursor,2,3,pool_cv,CV-019|CV-027,False,False,True,True,cursor
+Monitoring,monitoring,2,3,pool_cv|unlabelled_jd,CV-020|JD-025,True,False,True,True,monitoring
+Logging,Logging,2,3,pool_cv|unlabelled_jd,CV-020|JD-025,True,False,True,True,logging
+Conflict Resolution,Conflict Resolution,2,3,pool_cv,CV-022|CV-086,False,False,True,False,conflict resolution
+Pytest,pytest,2,3,pool_cv,CV-023|CV-037,False,False,True,True,pytest
+Talend,Talend,2,3,pool_cv,CV-035|CV-045,False,False,True,True,talend
+Power Query,Power Query,2,3,pool_cv,CV-037|CV-039,False,False,True,True,power query
+Langgraph,LangGraph,2,3,pool_cv|unlabelled_jd,CV-040|JD-001,True,False,False,True,langgraph
+Jax,JAX,2,3,pool_cv|unlabelled_jd,CV-042|JD-006,True,False,True,True,jax
+Vector Database,Vector Database,2,3,pool_cv|unlabelled_jd,CV-043|JD-001,True,False,True,True,vector database
+Adobe Creative Suite,Adobe Creative Suite,2,3,pool_cv|unlabelled_jd,CV-048|JD-011,True,False,False,True,adobe creative suite
+Capcut,CapCut,2,3,pool_cv,CV-049|CV-070,False,False,True,True,capcut
+Premiere Pro,Premiere Pro,2,3,pool_cv,CV-051|CV-053,False,False,True,True,premiere pro
+Smart Hardware,Smart Hardware,2,3,pool_cv|unlabelled_jd,CV-052|JD-046,False,True,False,False,smart hardware
+Powerpoint,PowerPoint,2,3,pool_cv|unlabelled_jd,CV-056|JD-043,False,False,True,True,powerpoint
+Consumer Healthcare,consumer healthcare,2,3,pool_cv|unlabelled_jd,CV-056|JD-034,False,True,False,False,consumer healthcare
+Stakeholder Collaboration,Stakeholder Collaboration,2,3,pool_cv,CV-065|CV-068,False,False,True,False,stakeholder collaboration
+Cross-functional Leadership,Cross-functional leadership,2,3,pool_cv,CV-066|CV-069,False,False,True,False,cross-functional leadership
+Deep Learning,Deep Learning,2,3,pool_cv|unlabelled_jd,CV-071|JD-002,True,False,True,False,deep learning
+Risk Management,Risk Management,2,3,pool_cv|unlabelled_jd,CV-078|JD-046,True,False,True,False,risk management
+ERP System,ERP System,2,3,pool_cv|unlabelled_jd,CV-080|JD-039,True,False,False,True,erp system
+Motion Graphics,Motion graphics,2,3,pool_cv|unlabelled_jd,CV-084|JD-008,True,False,True,False,motion graphics
+Employee Relation,Employee Relations,2,3,pool_cv,CV-086|CV-088,False,False,True,False,employee relation
+Microsoft Office Suite,Microsoft Office Suite,2,3,pool_cv|unlabelled_jd,CV-086|JD-019,True,False,False,True,microsoft office suite
+Express,Express,2,3,pool_cv|unlabelled_jd,CV-095|JD-027,False,True,True,True,express
+Ros,ROS,2,3,unlabelled_jd,JD-015|JD-021,True,True,False,True,ros
+Robotics,robotics,2,3,unlabelled_jd,JD-015|JD-021,True,False,False,False,robotics
+Analytical Mindset,analytical mindset,2,3,unlabelled_jd,JD-015|JD-037,False,True,False,False,analytical mindset
+Networking,networking,2,3,unlabelled_jd,JD-017|JD-019,True,False,False,True,networking
+Defi,DeFi,2,3,unlabelled_jd,JD-020|JD-050,True,True,False,False,defi
+Gaming,gaming,2,2,pool_cv,CV-001|CV-020,False,False,False,False,gaming
+Codeigniter,CodeIgniter,2,2,pool_cv,CV-003|CV-030,False,False,False,True,codeigniter
+Temporal,Temporal,2,2,pool_cv,CV-004|CV-009,False,False,True,True,temporal
+Web3,Web3,2,2,pool_cv|unlabelled_jd,CV-004|JD-020,False,True,False,False,web3
+Zustand,Zustand,2,2,pool_cv,CV-005|CV-029,False,False,True,False,zustand
+Websocket,Websocket,2,2,pool_cv,CV-005|CV-029,False,False,True,False,websocket
+Testing,Testing,2,2,pool_cv,CV-006|CV-024,False,False,True,False,testing
+Architecture Design,architecture design,2,2,pool_cv,CV-006|CV-045,False,False,False,False,architecture design
+Observability,Observability,2,2,pool_cv,CV-007|CV-020,False,False,True,False,observability
+Slurm,Slurm,2,2,pool_cv|unlabelled_jd,CV-007|JD-002,False,True,False,True,slurm
+Gitlab Ci,GitLab CI,2,2,pool_cv,CV-007|CV-096,False,False,True,True,gitlab ci
+Incident Response,incident response,2,2,pool_cv,CV-007|CV-038,False,False,False,False,incident response
+Asset Management,asset management,2,2,pool_cv|unlabelled_jd,CV-008|JD-050,False,False,False,False,asset management
+Payments,payments,2,2,pool_cv,CV-009|CV-096,False,False,False,False,payments
+Full-stack Development,Full-stack Development,2,2,pool_cv,CV-011|CV-063,False,False,True,False,full-stack development
+Semantic Kernel,Semantic Kernel,2,2,pool_cv,CV-012|CV-041,False,False,True,False,semantic kernel
+Sonarqube,SonarQube,2,2,pool_cv,CV-012|CV-018,False,False,False,True,sonarqube
+Jwt,JWT,2,2,pool_cv,CV-012|CV-025,False,False,False,True,jwt
+Ec2,EC2,2,2,pool_cv|unlabelled_jd,CV-013|JD-007,False,False,False,True,ec2
+Firmware,firmware,2,2,pool_cv|unlabelled_jd,CV-014|JD-021,True,False,False,False,firmware
+Hardware,hardware,2,2,pool_cv|unlabelled_jd,CV-014|JD-017,False,False,False,True,hardware
+Cloud Firestore,Cloud Firestore,2,2,pool_cv,CV-016|CV-029,False,False,True,False,cloud firestore
+Clean Architecture,clean architecture,2,2,pool_cv|unlabelled_jd,CV-016|JD-016,False,False,True,False,clean architecture
+Agile Methodologie,Agile Methodologies,2,2,pool_cv,CV-016|CV-022,False,False,True,False,agile methodologie
+Mvvm,MVVM,2,2,pool_cv,CV-016|CV-018,False,False,True,False,mvvm
+Quality Assurance,Quality Assurance,2,2,pool_cv,CV-017|CV-040,False,False,True,False,quality assurance
+Allure,Allure,2,2,pool_cv,CV-017|CV-023,False,False,False,True,allure
+Swift,Swift,2,2,pool_cv,CV-018|CV-026,False,False,True,False,swift
+Webflow,webflow,2,2,pool_cv,CV-018|CV-048,False,False,False,True,webflow
+Html Css,HTML/CSS,2,2,pool_cv,CV-019|CV-052,False,False,True,True,html css
+Salesforce,Salesforce,2,2,pool_cv,CV-019|CV-064,False,False,True,True,salesforce
+Claude,Claude,2,2,pool_cv,CV-019|CV-030,False,False,True,True,claude
+Jasper Report,Jasper Reports,2,2,pool_cv,CV-019|CV-096,False,False,True,True,jasper report
+Java Ee,Java EE,2,2,pool_cv,CV-020|CV-096,False,False,True,True,java ee
+Mybatis,MyBatis,2,2,pool_cv,CV-020|CV-096,False,False,True,True,mybatis
+API Integration,API integration,2,2,pool_cv|unlabelled_jd,CV-021|JD-018,False,False,True,False,api integration
+Cyber Security,cyber security,2,2,pool_cv,CV-021|CV-055,False,False,False,False,cyber security
+Openshift,OpenShift,2,2,pool_cv,CV-025|CV-038,False,False,False,True,openshift
+Ruby,Ruby,2,2,pool_cv,CV-026|CV-074,False,False,True,False,ruby
+Microservices Architecture,Microservices architecture,2,2,pool_cv|unlabelled_jd,CV-028|JD-014,False,True,True,False,microservices architecture
+Service Design,Service Design,2,2,pool_cv,CV-028|CV-087,False,False,True,False,service design
+Web Application,Web Applications,2,2,pool_cv|unlabelled_jd,CV-028|JD-013,False,False,True,False,web application
+Model Explainability,Model Explainability,2,2,pool_cv,CV-028|CV-040,False,False,True,False,model explainability
+Anomaly Detection,Anomaly Detection,2,2,pool_cv,CV-028|CV-039,False,False,True,False,anomaly detection
+Dynamodb,DynamoDB,2,2,pool_cv|unlabelled_jd,CV-028|JD-007,False,False,True,True,dynamodb
+Agentic Workflow,Agentic Workflows,2,2,pool_cv,CV-030|CV-040,False,False,True,False,agentic workflow
+Payroll,Payroll,2,2,pool_cv,CV-030|CV-088,False,False,False,False,payroll
+Data Analytics,Data Analytics,2,2,pool_cv,CV-031|CV-065,False,False,True,False,data analytics
+Data Visualization,Data Visualization,2,2,pool_cv,CV-031|CV-063,False,False,True,False,data visualization
+Security,Security,2,2,pool_cv|unlabelled_jd,CV-031|JD-046,False,False,True,False,security
+Opencv,OpenCV,2,2,pool_cv,CV-032|CV-040,False,False,True,False,opencv
+Pgvector,pgvector,2,2,pool_cv,CV-033|CV-041,False,False,True,True,pgvector
+Azure Devops,Azure DevOps,2,2,pool_cv,CV-033|CV-046,False,False,True,True,azure devops
+API Development,API Development,2,2,pool_cv|unlabelled_jd,CV-035|JD-018,True,False,True,False,api development
+Data Management,Data Management,2,2,pool_cv,CV-035|CV-098,False,False,True,False,data management
+Big Data,Big Data,2,2,pool_cv,CV-035|CV-097,False,False,True,False,big data
+Web Scraping,Web Scraping,2,2,pool_cv,CV-035|CV-100,False,False,True,False,web scraping
+Data Lake,Data Lake,2,2,pool_cv|unlabelled_jd,CV-035|JD-007,True,False,True,False,data lake
+Utilities,utilities,2,2,pool_cv,CV-035|CV-064,False,False,False,False,utilities
+Data Migration,data migration,2,2,pool_cv|unlabelled_jd,CV-036|JD-026,False,True,True,False,data migration
+Database Management,database management,2,2,pool_cv,CV-036|CV-081,False,False,True,False,database management
+Dax,DAX,2,2,pool_cv,CV-037|CV-039,False,False,True,True,dax
+Lightgbm,LightGBM,2,2,pool_cv,CV-037|CV-042,False,False,True,False,lightgbm
+Pharmaceuticals,pharmaceuticals,2,2,pool_cv|unlabelled_jd,CV-037|JD-049,False,False,False,False,pharmaceuticals
+Predictive Modeling,Predictive Modeling,2,2,pool_cv,CV-039|CV-087,False,False,True,False,predictive modeling
+Redshift,Redshift,2,2,pool_cv|unlabelled_jd,CV-039|JD-007,False,False,False,True,redshift
+Llamaindex,LlamaIndex,2,2,pool_cv,CV-040|CV-041,False,False,True,False,llamaindex
+Hugging Face Transformer,Hugging Face Transformers,2,2,pool_cv,CV-040|CV-041,False,False,True,False,hugging face transformer
+Shap,SHAP,2,2,pool_cv,CV-040|CV-043,False,False,True,False,shap
+Generative Ai,generative ai,2,2,pool_cv,CV-040|CV-071,False,False,True,False,generative ai
+Cloud Platform,cloud platforms,2,2,pool_cv|unlabelled_jd,CV-040|JD-043,True,False,False,False,cloud platform
+Computer Vision,computer vision,2,2,pool_cv,CV-040|CV-041,False,False,True,False,computer vision
+Feature Engineering,Feature Engineering,2,2,pool_cv,CV-041|CV-043,False,False,True,False,feature engineering
+Reinforcement Learning,Reinforcement Learning,2,2,pool_cv|unlabelled_jd,CV-042|JD-006,False,False,True,False,reinforcement learning
+Testing Infrastructure,Testing Infrastructure,2,2,pool_cv|unlabelled_jd,CV-042|JD-006,True,False,True,False,testing infrastructure
+Data Quality,Data Quality,2,2,pool_cv|unlabelled_jd,CV-043|JD-003,True,False,True,False,data quality
+Travel,travel,2,2,pool_cv|unlabelled_jd,CV-043|JD-042,False,False,False,False,travel
+Graphic Design,Graphic Design,2,2,pool_cv|unlabelled_jd,CV-047|JD-011,True,False,True,False,graphic design
+Brand Identity,Brand Identity,2,2,pool_cv|unlabelled_jd,CV-047|JD-009,True,False,True,False,brand identity
+Creative Direction,Creative Direction,2,2,pool_cv|unlabelled_jd,CV-047|JD-009,True,False,True,False,creative direction
+Brand Consistency,Brand Consistency,2,2,pool_cv,CV-047|CV-065,False,False,True,False,brand consistency
+Wireframing,Wireframing,2,2,pool_cv,CV-047|CV-048,False,False,True,False,wireframing
+Visual Design,visual design,2,2,pool_cv|unlabelled_jd,CV-048|JD-010,True,False,True,False,visual design
+Product Design,Product Design,2,2,pool_cv,CV-048|CV-052,False,False,True,False,product design
+Interaction Design,Interaction Design,2,2,pool_cv,CV-048|CV-052,False,False,True,False,interaction design
+Sketching,Sketching,2,2,pool_cv,CV-048|CV-074,False,False,True,True,sketching
+Github,Github,2,2,pool_cv,CV-048|CV-100,False,False,True,True,github
+Creative Design,Creative Design,2,2,pool_cv,CV-049|CV-074,False,False,True,False,creative design
+Presentation Design,Presentation Design,2,2,pool_cv,CV-049|CV-076,False,False,True,False,presentation design
+Animation,Animation,2,2,pool_cv|unlabelled_jd,CV-051|JD-011,False,True,True,False,animation
+Edtech,Edtech,2,2,pool_cv,CV-052|CV-093,False,False,False,False,edtech
+Design,Design,2,2,pool_cv|unlabelled_jd,CV-053|JD-048,False,False,True,False,design
+Framer,Framer,2,2,pool_cv|unlabelled_jd,CV-054|JD-010,False,False,True,True,framer
+Cyber-security,Cyber-security,2,2,pool_cv,CV-055|CV-063,False,False,True,False,cyber-security
+Channel Development,Channel Development,2,2,pool_cv,CV-055|CV-069,False,False,True,False,channel development
+Cisco,Cisco,2,2,pool_cv|unlabelled_jd,CV-055|JD-019,False,False,False,True,cisco
+Customer Engagement,Customer Engagement,2,2,pool_cv|unlabelled_jd,CV-057|JD-049,True,False,True,False,customer engagement
+Technical Sales,Technical Sales,2,2,pool_cv,CV-057|CV-067,False,False,True,False,technical sales
+Contract Negotiation,Contract Negotiation,2,2,pool_cv|unlabelled_jd,CV-058|JD-048,True,False,True,False,contract negotiation
+Market Expansion,Market Expansion,2,2,pool_cv,CV-058|CV-066,False,False,True,False,market expansion
+Insurance,insurance,2,2,pool_cv,CV-060|CV-081,False,False,False,False,insurance
+Management,Management,2,2,pool_cv|unlabelled_jd,CV-061|JD-045,False,False,True,False,management
+Budget Management,Budget Management,2,2,pool_cv|unlabelled_jd,CV-062|JD-035,True,False,True,False,budget management
+Market Analysis,Market Analysis,2,2,pool_cv,CV-062|CV-068,False,False,True,False,market analysis
+Visual Merchandising,Visual Merchandising,2,2,pool_cv,CV-062|CV-081,False,False,True,False,visual merchandising
+Retail Sales,retail sales,2,2,pool_cv,CV-062|CV-091,False,False,True,False,retail sales
+Enterprise,enterprise,2,2,pool_cv|unlabelled_jd,CV-063|JD-026,False,False,False,False,enterprise
+Multitasking,multitasking,2,2,pool_cv|unlabelled_jd,CV-063|JD-042,False,False,False,False,multitasking
+Outreach,Outreach,2,2,pool_cv,CV-064|CV-084,False,False,True,False,outreach
+Zoom,Zoom,2,2,pool_cv,CV-064|CV-078,False,False,False,True,zoom
+Campaign Management,Campaign Management,2,2,pool_cv,CV-065|CV-068,False,False,True,False,campaign management
+Pricing,Pricing,2,2,pool_cv,CV-066|CV-100,False,False,True,False,pricing
+3pl,3PL,2,2,pool_cv|unlabelled_jd,CV-067|JD-040,False,True,False,False,3pl
+F and B,F&B,2,2,pool_cv|unlabelled_jd,CV-067|JD-037,False,False,False,False,f and b
+P and L Management,P&L Management,2,2,pool_cv,CV-069|CV-093,False,False,True,False,p and l management
+Revenue Growth,Revenue Growth,2,2,pool_cv,CV-069|CV-097,False,False,True,False,revenue growth
+Gtm Strategy,GTM Strategy,2,2,pool_cv|unlabelled_jd,CV-069|JD-037,True,False,True,False,gtm strategy
+Category Management,Category Management,2,2,pool_cv,CV-069|CV-085,False,False,True,False,category management
+Product Marketing,Product Marketing,2,2,pool_cv|unlabelled_jd,CV-069|JD-037,True,False,True,False,product marketing
+Growth,growth,2,2,pool_cv|unlabelled_jd,CV-071|JD-037,True,False,False,False,growth
+Looker Studio,Looker Studio,2,2,pool_cv,CV-072|CV-093,False,False,False,True,looker studio
+Influencer Marketing,influencer marketing,2,2,pool_cv|unlabelled_jd,CV-073|JD-035,True,False,False,False,influencer marketing
+Advertising,advertising,2,2,pool_cv,CV-074|CV-084,False,False,False,False,advertising
+Financial Planning,Financial Planning,2,2,pool_cv,CV-075|CV-080,False,False,True,False,financial planning
+Due Diligence,Due Diligence,2,2,pool_cv,CV-075|CV-079,False,False,True,False,due diligence
+Process Improvement,Process Improvement,2,2,pool_cv|unlabelled_jd,CV-075|JD-040,True,False,True,False,process improvement
+Financial Management,Financial Management,2,2,pool_cv,CV-078|CV-080,False,False,True,False,financial management
+Ms Office,MS Office,2,2,pool_cv,CV-078|CV-080,False,False,False,True,ms office
+Sap,SAP,2,2,pool_cv,CV-078|CV-079,False,False,False,True,sap
+Myob,MYOB,2,2,pool_cv,CV-078|CV-079,False,False,False,True,myob
+People Management,People Management,2,2,pool_cv,CV-079|CV-096,False,False,False,False,people management
+Team Coordination,team coordination,2,2,pool_cv,CV-084|CV-089,False,False,False,False,team coordination
+Industrial,industrial,2,2,pool_cv|unlabelled_jd,CV-085|JD-046,False,False,False,False,industrial
+Compensation and Benefits,Compensation and Benefits,2,2,pool_cv,CV-088|CV-091,False,False,True,False,compensation and benefit
+Warehouse Operations,warehouse operations,2,2,pool_cv|unlabelled_jd,CV-092|JD-040,True,False,False,False,warehouse operations
+Design Thinking,Design Thinking,2,2,pool_cv|unlabelled_jd,CV-093|JD-007,False,False,True,False,design thinking
+Operational Excellence,Operational Excellence,2,2,pool_cv|unlabelled_jd,CV-093|JD-034,True,False,True,False,operational excellence
+API,API,2,2,pool_cv|unlabelled_jd,CV-097|JD-036,True,False,True,False,api
+Documentation,Documentation,2,2,pool_cv|unlabelled_jd,CV-098|JD-001,False,False,True,False,documentation
+Independent Work,Independent Work,2,2,pool_cv|unlabelled_jd,CV-098|JD-019,False,False,True,False,independent work
+Data Pipeline,Data Pipeline,2,2,unlabelled_jd,JD-002|JD-007,True,False,False,False,data pipeline
+Mlops,MLOps,2,2,unlabelled_jd,JD-002|JD-005,False,True,False,False,mlops
+Cloud Certification,cloud certifications,2,2,unlabelled_jd,JD-005|JD-023,False,True,False,False,cloud certification
+Circleci,CircleCI,2,2,unlabelled_jd,JD-007|JD-014,False,False,False,True,circleci
+Ai Tool,AI tools,2,2,unlabelled_jd,JD-008|JD-036,True,False,False,False,ai tool
+English,English,2,2,unlabelled_jd,JD-030|JD-047,True,False,False,False,english
+Prioritization,prioritization,2,2,unlabelled_jd,JD-030|JD-042,False,False,False,False,prioritization
+Proactive Mindset,proactive mindset,2,2,unlabelled_jd,JD-030|JD-034,False,False,False,False,proactive mindset
+Strategic Thinking,strategic thinking,2,2,unlabelled_jd,JD-032|JD-033,False,False,False,False,strategic thinking
+Market Development,market development,2,2,unlabelled_jd,JD-033|JD-048,True,True,False,False,market development
+Results-oriented,results-oriented,2,2,unlabelled_jd,JD-036|JD-046,False,False,False,False,results-oriented
+Digital Channel,digital channels,2,2,unlabelled_jd,JD-037|JD-038,True,False,False,False,digital channel
+Mba,MBA,2,2,unlabelled_jd,JD-039|JD-045,False,True,False,False,mba
+Enterprise Sales,enterprise sales,2,2,unlabelled_jd,JD-043|JD-045,False,True,False,False,enterprise sales
+Autonomy,autonomy,2,2,unlabelled_jd,JD-044|JD-050,False,False,False,False,autonomy
+Sales Target,sales targets,2,2,unlabelled_jd,JD-048|JD-049,True,False,False,False,sales target
+Sd-wan,SD-WAN,1,3,unlabelled_jd,JD-019,True,False,False,True,sd-wan
+Prisma Access,PRISMA Access,1,3,unlabelled_jd,JD-019,True,False,False,True,prisma access
+Equipment Maintenance,Equipment Maintenance,1,2,pool_cv,CV-002,False,False,True,False,equipment maintenance
+Ai Infrastructure,AI infrastructure,1,2,pool_cv,CV-006,False,False,True,False,ai infrastructure
+Sequelize,Sequelize,1,2,pool_cv,CV-008,False,False,True,True,sequelize
+Refine,Refine,1,2,pool_cv,CV-008,False,False,True,True,refine
+Ant Design,Ant Design,1,2,pool_cv,CV-008,False,False,True,True,ant design
+Apache Phoenix,Apache Phoenix,1,2,pool_cv,CV-015,False,False,True,True,apache phoenix
+Swift Playground,Swift Playgrounds,1,2,pool_cv,CV-016,False,False,True,True,swift playground
+Uikit,UIKit,1,2,pool_cv,CV-016,False,False,True,True,uikit
+AWS Dynamodb,AWS DynamoDB,1,2,pool_cv,CV-021,False,False,True,True,aws dynamodb
+Owasp Zap,OWASP ZAP,1,2,pool_cv,CV-021,False,False,True,True,owasp zap
+Vendor Coordination,Vendor coordination,1,2,pool_cv,CV-021,False,False,True,False,vendor coordination
+User Training,User training,1,2,pool_cv,CV-021,False,False,True,False,user training
+Vitest,Vitest,1,2,pool_cv,CV-021,False,False,True,True,vitest
+Team Coaching,Team Coaching,1,2,pool_cv,CV-022,False,False,True,False,team coaching
+Network Storage,Network Storage,1,2,pool_cv,CV-022,False,False,True,False,network storage
+Sass,SASS,1,2,pool_cv,CV-027,False,False,True,True,sass
+AWS Ec2,AWS EC2,1,2,pool_cv,CV-027,False,False,True,True,aws ec2
+Eslint,ESLint,1,2,pool_cv,CV-027,False,False,True,True,eslint
+Prettier,Prettier,1,2,pool_cv,CV-027,False,False,True,True,prettier
+Biome,Biome,1,2,pool_cv,CV-027,False,False,True,True,biome
+Ollama,Ollama,1,2,pool_cv,CV-027,False,False,True,True,ollama
+Mcp,Mcp,1,2,pool_cv,CV-027,False,False,True,True,mcp
+Shap Value,SHAP Values,1,2,pool_cv,CV-028,False,False,True,True,shap value
+Kql,KQL,1,2,pool_cv,CV-031,False,False,True,True,kql
+Chromadb,ChromaDB,1,2,pool_cv,CV-034,False,False,True,True,chromadb
+Sqlalchemy,SQLAlchemy,1,2,pool_cv,CV-037,False,False,True,True,sqlalchemy
+Presto,Presto,1,2,pool_cv,CV-042,False,False,True,True,presto
+Azure SQL,Azure SQL,1,2,pool_cv,CV-045,False,False,True,True,azure sql
+Azure Data Factory,Azure Data Factory,1,2,pool_cv,CV-045,False,False,True,True,azure data factory
+Ssis,SSIS,1,2,pool_cv,CV-045,False,False,True,True,ssis
+Pentaho,Pentaho,1,2,pool_cv,CV-045,False,False,True,True,pentaho
+Azure SQL Server,Azure SQL Server,1,2,pool_cv,CV-046,False,False,True,True,azure sql server
+Celery,Celery,1,2,pool_cv,CV-046,False,False,True,True,celery
+Lightroom,Lightroom,1,2,pool_cv,CV-053,False,False,True,True,lightroom
+Camera Raw,Camera Raw,1,2,pool_cv,CV-053,False,False,True,True,camera raw
+Drones,Drones,1,2,pool_cv,CV-053,False,False,True,True,drones
+Comfyui,ComfyUI,1,2,pool_cv,CV-053,False,False,True,True,comfyui
+Regtech,Regtech,1,2,pool_cv,CV-055,False,False,True,False,regtech
+Training,Training,1,2,pool_cv,CV-055,False,False,True,False,training
+Guidance,Guidance,1,2,pool_cv,CV-055,False,False,True,False,guidance
+Consultative Sales,Consultative Sales,1,2,pool_cv,CV-055,False,False,True,False,consultative sales
+Solutions Sales,Solutions Sales,1,2,pool_cv,CV-055,False,False,True,False,solutions sales
+Iso27001,Iso27001,1,2,pool_cv,CV-055,False,False,True,True,iso27001
+Nist,Nist,1,2,pool_cv,CV-055,False,False,True,True,nist
+Gdpr,GDPR,1,2,pool_cv,CV-055,False,False,True,True,gdpr
+Penetration Testing,Penetration Testing,1,2,pool_cv,CV-055,False,False,True,True,penetration testing
+Webex,Webex,1,2,pool_cv,CV-055,False,False,True,True,webex
+Skype of Business,Skype of Business,1,2,pool_cv,CV-055,False,False,True,True,skype of business
+Webinar,Webinar,1,2,pool_cv,CV-055,False,False,True,True,webinar
+Sales Coaching,Sales Coaching,1,2,pool_cv,CV-058,False,False,True,False,sales coaching
+Process Streamlining,Process Streamlining,1,2,pool_cv,CV-068,False,False,True,False,process streamlining
+Short-form Video,Short-Form Video,1,2,pool_cv,CV-070,False,False,True,False,short-form video
+Adobe Premiere Pro,Adobe Premiere Pro,1,2,pool_cv,CV-070,False,False,True,True,adobe premiere pro
+Semrush,SEMrush,1,2,pool_cv,CV-073,False,False,True,True,semrush
+Sendgrid,Sendgrid,1,2,pool_cv,CV-073,False,False,True,True,sendgrid
+Shopcada,Shopcada,1,2,pool_cv,CV-073,False,False,True,True,shopcada
+Tiktok Shop Seller Center,TikTok Shop Seller Center,1,2,pool_cv,CV-073,False,False,True,True,tiktok shop seller center
+Tiktok Affiliate Center,TikTok Affiliate Center,1,2,pool_cv,CV-073,False,False,True,True,tiktok affiliate center
+Tiktok Live Manager,TikTok Live Manager,1,2,pool_cv,CV-073,False,False,True,True,tiktok live manager
+Capcut Pro,CapCut Pro,1,2,pool_cv,CV-073,False,False,True,True,capcut pro
+Meta Ads Manager,Meta Ads Manager,1,2,pool_cv,CV-074,False,False,True,True,meta ads manager
+Invision,Invision,1,2,pool_cv,CV-074,False,False,True,True,invision
+Contentful,Contentful,1,2,pool_cv,CV-074,False,False,True,True,contentful
+Drupal,Drupal,1,2,pool_cv,CV-074,False,False,True,True,drupal
+Joomla,Joomla,1,2,pool_cv,CV-074,False,False,True,True,joomla
+Magento,Magento,1,2,pool_cv,CV-074,False,False,True,True,magento
+Myob Software,MYOB software,1,2,pool_cv,CV-077,False,False,True,True,myob software
+Manager Accounting Software,Manager Accounting software,1,2,pool_cv,CV-077,False,False,True,True,manager accounting software
+Sap Bpc,SAP: BPC,1,2,pool_cv,CV-077,False,False,True,True,sap bpc
+Peatree,Peatree,1,2,pool_cv,CV-077,False,False,True,True,peatree
+Sage 50 Software,Sage 50 software,1,2,pool_cv,CV-077,False,False,True,True,sage 50 software
+Client Advisory,Client Advisory,1,2,pool_cv,CV-083,False,False,True,False,client advisory
+Siop,Siop,1,2,pool_cv,CV-085,False,False,True,True,siop
+Tps,TPS,1,2,pool_cv,CV-085,False,False,True,True,tps
+Tpm,TPM,1,2,pool_cv,CV-085,False,False,True,True,tpm
+Workforce Planning,Workforce Planning,1,2,pool_cv,CV-086,False,False,True,False,workforce planning
+Team Building,Team Building,1,2,pool_cv,CV-088,False,False,True,False,team building
+Teamwork and Collaboration,Teamwork and collaboration,1,2,pool_cv,CV-090,False,False,True,False,teamwork and collaboration
+Positive Attitude,Positive Attitude,1,2,pool_cv,CV-090,False,False,True,False,positive attitude
+Thinking Skill,Thinking skills,1,2,pool_cv,CV-090,False,False,True,False,thinking skill
+Self-management,Self-management,1,2,pool_cv,CV-090,False,False,True,False,self-management
+Willingness to Learn,Willingness to learn,1,2,pool_cv,CV-090,False,False,True,False,willingness to learn
+Multi-stakeholder Coordination,Multi-stakeholder coordination,1,2,pool_cv,CV-094,False,False,True,False,multi-stakeholder coordination
+Contractor Management,Contractor management,1,2,pool_cv,CV-094,False,False,True,False,contractor management
+Cloud Function,Cloud Functions,1,2,pool_cv,CV-095,False,False,True,True,cloud function
+Cloud Task,Cloud Tasks,1,2,pool_cv,CV-095,False,False,True,True,cloud task
+Pubsub,PubSub,1,2,pool_cv,CV-095,False,False,True,True,pubsub
+Puppeteer,Puppeteer,1,2,pool_cv,CV-095,False,False,True,True,puppeteer
+Serverless,Serverless,1,2,pool_cv,CV-095,False,False,True,True,serverless
+Amazon Sqs,Amazon SQS,1,2,pool_cv,CV-095,False,False,True,True,amazon sqs
+Sails Js,Sails js,1,2,pool_cv,CV-095,False,False,True,True,sails js
+Client Relationship,client relationships,1,2,pool_cv,CV-097,False,False,True,False,client relationship
+Strategic Roadmap,strategic roadmaps,1,2,pool_cv,CV-097,False,False,True,False,strategic roadmap
+Streamlit,Streamlit,1,2,unlabelled_jd,JD-001,True,False,False,True,streamlit
+Dialogflow Cx,Dialogflow CX,1,2,unlabelled_jd,JD-001,True,False,False,True,dialogflow cx
+Document Ai,Document AI,1,2,unlabelled_jd,JD-001,True,False,False,True,document ai
+Milvus,Milvus,1,2,unlabelled_jd,JD-001,False,True,False,True,milvus
+Llama,LLaMA,1,2,unlabelled_jd,JD-001,False,True,False,True,llama
+Mistral,Mistral,1,2,unlabelled_jd,JD-001,False,True,False,True,mistral
+Falcon,Falcon,1,2,unlabelled_jd,JD-001,False,True,False,True,falcon
+Microstrategy,MicroStrategy,1,2,unlabelled_jd,JD-003,True,False,False,True,microstrategy
+Dataform,Dataform,1,2,unlabelled_jd,JD-003,False,True,False,True,dataform
+Fivetran,Fivetran,1,2,unlabelled_jd,JD-003,False,True,False,True,fivetran
+Elk,ELK,1,2,unlabelled_jd,JD-007,False,True,False,True,elk
+Freepik,Freepik,1,2,unlabelled_jd,JD-008,True,False,False,True,freepik
+Seedance,Seedance,1,2,unlabelled_jd,JD-008,True,False,False,True,seedance
+Seedream,Seedream,1,2,unlabelled_jd,JD-008,True,False,False,True,seedream
+Unity Engine,Unity Engine,1,2,unlabelled_jd,JD-009,True,False,False,True,unity engine
+Shell Scripting,Shell scripting,1,2,unlabelled_jd,JD-014,True,False,False,True,shell scripting
+Serverless Framework,Serverless framework,1,2,unlabelled_jd,JD-014,False,True,False,True,serverless framework
+Zabbix,Zabbix,1,2,unlabelled_jd,JD-014,False,True,False,True,zabbix
+AWS Lambda,AWS Lambda,1,2,unlabelled_jd,JD-016,False,True,False,True,aws lambda
+Cloudformation,CloudFormation,1,2,unlabelled_jd,JD-016,False,True,False,True,cloudformation
+Self-driven Work Ethic,self-driven work ethic,1,2,unlabelled_jd,JD-017,False,True,False,False,self-driven work ethic
+Netsuite,netsuite,1,2,unlabelled_jd,JD-018,True,False,False,True,netsuite
+Webservices,webservices,1,2,unlabelled_jd,JD-018,True,False,False,True,webservices
+Webhooks,webhooks,1,2,unlabelled_jd,JD-018,True,False,False,True,webhooks
+ERP,ERP,1,2,unlabelled_jd,JD-018,False,True,False,False,erp
+Cisco Switching,Cisco switching,1,2,unlabelled_jd,JD-019,True,False,False,True,cisco switching
+Enterprise Wifi,enterprise WiFi,1,2,unlabelled_jd,JD-019,True,False,False,True,enterprise wifi
+Network Monitoring Platform,network monitoring platforms,1,2,unlabelled_jd,JD-019,True,False,False,True,network monitoring platform
+Routing Protocol,routing protocols,1,2,unlabelled_jd,JD-019,True,False,False,False,routing protocol
+Bgp,BGP,1,2,unlabelled_jd,JD-019,True,False,False,True,bgp
+Eigrp,EIGRP,1,2,unlabelled_jd,JD-019,True,False,False,True,eigrp
+Ospf,OSPF,1,2,unlabelled_jd,JD-019,True,False,False,True,ospf
+Packet Capture,packet captures,1,2,unlabelled_jd,JD-019,True,False,False,True,packet capture
+Firewall Concept,firewall concepts,1,2,unlabelled_jd,JD-019,True,False,False,True,firewall concept
+Palo Alto Networks Firewall,Palo Alto Networks firewalls,1,2,unlabelled_jd,JD-019,False,True,False,True,palo alto networks firewall
+Aruba Networks Wireless Infrastructure,Aruba Networks wireless infrastructure,1,2,unlabelled_jd,JD-019,False,True,False,True,aruba networks wireless infrastructure
+Network Automation Tool,Network automation tools,1,2,unlabelled_jd,JD-019,False,True,False,True,network automation tool
+Canbus,CANBus,1,2,unlabelled_jd,JD-021,False,True,False,True,canbus
+Modbustcp,ModbusTCP,1,2,unlabelled_jd,JD-021,False,True,False,True,modbustcp
+Webrtc,WebRTC,1,2,unlabelled_jd,JD-022,True,False,False,True,webrtc
+Perforce,Perforce,1,2,unlabelled_jd,JD-022,False,True,False,True,perforce
+Mechanical Design,mechanical design,1,2,unlabelled_jd,JD-024,True,False,False,False,mechanical design
+Solidworks,SolidWorks,1,2,unlabelled_jd,JD-024,True,False,False,True,solidworks
+Autocad,AutoCAD,1,2,unlabelled_jd,JD-024,True,False,False,True,autocad
+Fa Report,FA reports,1,2,unlabelled_jd,JD-024,True,False,False,False,fa report
+Project Engineering,project engineering,1,2,unlabelled_jd,JD-024,True,False,False,False,project engineering
+Shell,Shell,1,2,unlabelled_jd,JD-025,True,False,False,True,shell
+Service Mesh,Service Mesh,1,2,unlabelled_jd,JD-025,False,True,False,True,service mesh
+Cilium Cni,Cilium CNI,1,2,unlabelled_jd,JD-025,False,True,False,True,cilium cni
+Ebpf,eBPF,1,2,unlabelled_jd,JD-025,False,True,False,True,ebpf
+Istio,Istio,1,2,unlabelled_jd,JD-027,False,True,False,True,istio
+Linkerd,Linkerd,1,2,unlabelled_jd,JD-027,False,True,False,True,linkerd
+Opentelemetry,OpenTelemetry,1,2,unlabelled_jd,JD-027,False,True,False,True,opentelemetry
+Legal,legal,1,2,unlabelled_jd,JD-030,True,False,False,False,legal
+Research,research,1,2,unlabelled_jd,JD-030,True,False,False,False,research
+Sheet Metal Manufacturing,sheet metal manufacturing,1,2,unlabelled_jd,JD-033,True,False,False,False,sheet metal manufacturing
+Operational Decision-making,operational decision-making,1,2,unlabelled_jd,JD-033,True,False,False,False,operational decision-making
+Beauty,Beauty,1,2,unlabelled_jd,JD-034,False,True,False,False,beauty
+Performance Marketing,performance marketing,1,2,unlabelled_jd,JD-038,True,False,False,False,performance marketing
+Facebook,Facebook,1,2,unlabelled_jd,JD-038,True,False,False,True,facebook
+Google,Google,1,2,unlabelled_jd,JD-038,True,False,False,True,google
+Cpas,CPAS,1,2,unlabelled_jd,JD-038,True,False,False,True,cpas
+Google Suite,Google Suite,1,2,unlabelled_jd,JD-038,False,True,False,True,google suite
+Procurement,procurement,1,2,unlabelled_jd,JD-039,True,False,False,False,procurement
+Decision Making,decision making,1,2,unlabelled_jd,JD-039,True,False,False,False,decision making
+WMS,WMS,1,2,unlabelled_jd,JD-040,True,False,False,True,wms
+OMS,OMS,1,2,unlabelled_jd,JD-040,True,False,False,True,oms
+Full-cycle Recruitment,full-cycle recruitment,1,2,unlabelled_jd,JD-041,True,False,False,False,full-cycle recruitment
+Applicant Tracking System,Applicant Tracking Systems,1,2,unlabelled_jd,JD-041,False,True,False,True,applicant tracking system
+Resume Database,resume databases,1,2,unlabelled_jd,JD-041,False,True,False,True,resume database
+Social Recruiting Tool,social recruiting tools,1,2,unlabelled_jd,JD-041,False,True,False,True,social recruiting tool
+G Suite,G Suite,1,2,unlabelled_jd,JD-042,True,False,False,True,g suite
+Cybersecurity,cybersecurity,1,2,unlabelled_jd,JD-043,True,False,False,False,cybersecurity
+Application Modernization,application modernization,1,2,unlabelled_jd,JD-043,True,False,False,False,application modernization
+Vision Solution,vision solutions,1,2,unlabelled_jd,JD-046,False,True,False,False,vision solution
+Aiot,AIoT,1,2,unlabelled_jd,JD-046,False,True,False,False,aiot
+Cross-cultural Communication,cross-cultural communication,1,2,unlabelled_jd,JD-046,False,True,False,False,cross-cultural communication
+B-to-b Sales,B-to-B sales,1,2,unlabelled_jd,JD-047,True,False,False,False,b-to-b sales
+Water Treatment,water treatment,1,2,unlabelled_jd,JD-047,False,True,False,False,water treatment
+Installation,Installation,1,1,pool_cv,CV-002,False,False,True,False,installation
+Commissioning,Commissioning,1,1,pool_cv,CV-002,False,False,True,False,commissioning
+Preventive Maintenance,Preventive Maintenance,1,1,pool_cv,CV-002,False,False,True,False,preventive maintenance
+Corrective Maintenance,Corrective Maintenance,1,1,pool_cv,CV-002,False,False,True,False,corrective maintenance
+Cvd,CVD,1,1,pool_cv,CV-002,False,False,False,True,cvd
+Ald,ALD,1,1,pool_cv,CV-002,False,False,False,True,ald
+Manz,Manz,1,1,pool_cv,CV-002,False,False,False,True,manz
+Dns Wet Etching,DNS Wet Etching,1,1,pool_cv,CV-002,False,False,False,True,dns wet etching
+Tel Plasma Dry Etching,TEL Plasma Dry Etching,1,1,pool_cv,CV-002,False,False,False,True,tel plasma dry etching
+Spea P and P Handler,SPEA P&P handler,1,1,pool_cv,CV-002,False,False,False,True,spea p and p handler
+Tel Tria,TEL Trias,1,1,pool_cv,CV-002,False,False,False,True,tel tria
+Novellus Vector Express,Novellus Vector Express,1,1,pool_cv,CV-002,False,False,False,True,novellus vector express
+Extreme,Extreme,1,1,pool_cv,CV-002,False,False,False,True,extreme
+Applied Producer,Applied Producer,1,1,pool_cv,CV-002,False,False,False,True,applied producer
+Spc,SPC,1,1,pool_cv,CV-002,False,False,False,True,spc
+Apc,APC,1,1,pool_cv,CV-002,False,False,False,True,apc
+P500,P500,1,1,pool_cv,CV-002,False,False,False,True,p500
+Centura C500,Centura C500,1,1,pool_cv,CV-002,False,False,False,True,centura c500
+Endura,Endura,1,1,pool_cv,CV-002,False,False,False,True,endura
+Semiconductor Equipment,Semiconductor Equipment,1,1,pool_cv,CV-002,False,False,False,False,semiconductor equipment
+Cloudflare,CloudFlare,1,1,pool_cv,CV-003,False,False,True,False,cloudflare
+Vs Code,VS Code,1,1,pool_cv,CV-003,False,False,True,False,vs code
+Ionic,Ionic,1,1,pool_cv,CV-003,False,False,True,False,ionic
+N8n,n8n,1,1,pool_cv,CV-003,False,False,False,True,n8n
+Pci-dss,PCI-DSS,1,1,pool_cv,CV-003,False,False,False,True,pci-dss
+Fpx,FPX,1,1,pool_cv,CV-003,False,False,False,True,fpx
+End-to-end Ownership,end-to-end ownership,1,1,pool_cv,CV-004,False,False,False,False,end-to-end ownership
+Open-sourcing,open-sourcing,1,1,pool_cv,CV-004,False,False,False,False,open-sourcing
+Mobx,Mobx,1,1,pool_cv,CV-005,False,False,True,False,mobx
+React Hook Form,React Hook Form,1,1,pool_cv,CV-005,False,False,True,False,react hook form
+Zod,Zod,1,1,pool_cv,CV-005,False,False,True,False,zod
+Styled-components,styled-components,1,1,pool_cv,CV-005,False,False,True,False,styled-components
+Mui,MUI,1,1,pool_cv,CV-005,False,False,True,False,mui
+Storybook,Storybook,1,1,pool_cv,CV-005,False,False,True,False,storybook
+Tanstack Query,TanStack Query,1,1,pool_cv,CV-005,False,False,True,False,tanstack query
+Axios,Axios,1,1,pool_cv,CV-005,False,False,True,False,axios
+Json-rpc API,JSON-RPC API,1,1,pool_cv,CV-005,False,False,True,False,json-rpc api
+React Testing Library,React testing library,1,1,pool_cv,CV-005,False,False,True,False,react testing library
+Platform Engineering,Platform Engineering,1,1,pool_cv,CV-007,False,False,True,False,platform engineering
+Reliability,Reliability,1,1,pool_cv,CV-007,False,False,True,False,reliability
+Yaml,YAML,1,1,pool_cv,CV-007,False,False,True,False,yaml
+Puppet,Puppet,1,1,pool_cv,CV-007,False,False,True,False,puppet
+Infrastructure As Code,Infrastructure as Code,1,1,pool_cv,CV-007,False,False,True,False,infrastructure as code
+Platform Security,Platform Security,1,1,pool_cv,CV-007,False,False,True,False,platform security
+Systems,Systems,1,1,pool_cv,CV-007,False,False,True,False,systems
+Gpu,GPU,1,1,pool_cv,CV-007,False,False,True,False,gpu
+Job Scheduling,Job Scheduling,1,1,pool_cv,CV-007,False,False,True,False,job scheduling
+Alibaba Cloud Ack,Alibaba Cloud ACK,1,1,pool_cv,CV-007,False,False,False,True,alibaba cloud ack
+Kubeflow,Kubeflow,1,1,pool_cv,CV-007,False,False,False,True,kubeflow
+Kserve,KServe,1,1,pool_cv,CV-007,False,False,False,True,kserve
+Nvidia Dcgm,NVIDIA DCGM,1,1,pool_cv,CV-007,False,False,False,True,nvidia dcgm
+Kustomize,Kustomize,1,1,pool_cv,CV-007,False,False,False,True,kustomize
+Kibana,Kibana,1,1,pool_cv,CV-007,False,False,False,True,kibana
+Splunk,Splunk,1,1,pool_cv,CV-007,False,False,False,True,splunk
+Solaris,Solaris,1,1,pool_cv,CV-007,False,False,False,True,solaris
+Zfs,ZFS,1,1,pool_cv,CV-007,False,False,False,True,zfs
+Sparc,SPARC,1,1,pool_cv,CV-007,False,False,False,True,sparc
+Cloud-native,cloud-native,1,1,pool_cv,CV-007,False,False,False,False,cloud-native
+Gpu-inference,gpu-inference,1,1,pool_cv,CV-007,False,False,False,False,gpu-inference
+Distributed-training,distributed-training,1,1,pool_cv,CV-007,False,False,False,False,distributed-training
+Investment Management,investment management,1,1,pool_cv,CV-008,False,False,False,False,investment management
+Product Discovery,product discovery,1,1,pool_cv,CV-008,False,False,False,False,product discovery
+Technical Planning,technical planning,1,1,pool_cv,CV-008,False,False,False,False,technical planning
+Keycloak,keycloak,1,1,pool_cv,CV-009,False,False,True,False,keycloak
+Alicloud,AliCloud,1,1,pool_cv,CV-009,False,False,True,False,alicloud
+Architecture Standard,architecture standards,1,1,pool_cv,CV-009,False,False,False,False,architecture standard
+Tolling System,tolling systems,1,1,pool_cv,CV-010,False,False,False,False,tolling system
+System Design,System Design,1,1,pool_cv,CV-011,False,False,True,False,system design
+Fix Protocol,FIX protocol,1,1,pool_cv,CV-011,False,False,True,False,fix protocol
+Function Calling,Function Calling,1,1,pool_cv,CV-011,False,False,True,False,function calling
+Cqrs,CQRS,1,1,pool_cv,CV-012,False,False,True,False,cqrs
+Azure Ai,Azure AI,1,1,pool_cv,CV-012,False,False,True,False,azure ai
+Entity Framework Core,Entity Framework Core,1,1,pool_cv,CV-012,False,False,False,True,entity framework core
+Wpf,WPF,1,1,pool_cv,CV-012,False,False,False,True,wpf
+Iis,IIS,1,1,pool_cv,CV-012,False,False,False,True,iis
+Aks,AKS,1,1,pool_cv,CV-012,False,False,False,True,aks
+Azure Service Bus,Azure Service Bus,1,1,pool_cv,CV-012,False,False,False,True,azure service bus
+Financial System,financial systems,1,1,pool_cv,CV-012,False,False,False,False,financial system
+Iot Platform,IoT platforms,1,1,pool_cv,CV-012,False,False,False,False,iot platform
+Hrms,HRMS,1,1,pool_cv,CV-012,False,False,False,False,hrms
+Testing Support,testing support,1,1,pool_cv,CV-012,False,False,False,False,testing support
+Route 53,Route 53,1,1,pool_cv,CV-013,False,False,False,True,route 53
+Sails.js,Sails.js,1,1,pool_cv,CV-013,False,False,False,True,sails.js
+E-learning,e-learning,1,1,pool_cv,CV-013,False,False,False,False,e-learning
+Product Ownership,product ownership,1,1,pool_cv,CV-013,False,False,False,False,product ownership
+Embedded C,Embedded C,1,1,pool_cv,CV-014,False,False,True,False,embedded c
+C C++,C/C++,1,1,pool_cv,CV-014,False,False,True,False,c c++
+Assembly,Assembly,1,1,pool_cv,CV-014,False,False,True,False,assembly
+Freertos,FreeRTOS,1,1,pool_cv,CV-014,False,False,True,False,freertos
+Zephyr,Zephyr,1,1,pool_cv,CV-014,False,False,True,False,zephyr
+Autosar,AUTOSAR,1,1,pool_cv,CV-014,False,False,True,False,autosar
+Aspice,ASPICE,1,1,pool_cv,CV-014,False,False,True,False,aspice
+Misra-c,MISRA-C,1,1,pool_cv,CV-014,False,False,True,False,misra-c
+Polyspace,Polyspace,1,1,pool_cv,CV-014,False,False,True,False,polyspace
+Trace32,Trace32,1,1,pool_cv,CV-014,False,False,True,False,trace32
+Gdb,gdb,1,1,pool_cv,CV-014,False,False,True,False,gdb
+Make Cmake,Make/CMake,1,1,pool_cv,CV-014,False,False,True,False,make cmake
+Sparx Enterprise Architect,Sparx Enterprise Architect,1,1,pool_cv,CV-014,False,False,False,True,sparx enterprise architect
+Tasking,Tasking,1,1,pool_cv,CV-014,False,False,False,True,tasking
+Hightec,HighTec,1,1,pool_cv,CV-014,False,False,False,True,hightec
+Gcc,GCC,1,1,pool_cv,CV-014,False,False,False,True,gcc
+Ghs,GHS,1,1,pool_cv,CV-014,False,False,False,True,ghs
+Bootstrap,Bootstrap,1,1,pool_cv,CV-014,False,False,False,True,bootstrap
+J2ee,J2EE,1,1,pool_cv,CV-015,False,False,True,False,j2ee
+Spring Security,Spring Security,1,1,pool_cv,CV-015,False,False,True,False,spring security
+Devops Practice,DevOps Practices,1,1,pool_cv,CV-015,False,False,True,False,devops practice
+Scrum Framework,Scrum framework,1,1,pool_cv,CV-015,False,False,True,False,scrum framework
+Agile Delivery,Agile Delivery,1,1,pool_cv,CV-015,False,False,False,False,agile delivery
+Unit Testing,Unit Testing,1,1,pool_cv,CV-016,False,False,True,False,unit testing
+Test Driven Development,Test Driven Development,1,1,pool_cv,CV-016,False,False,True,False,test driven development
+Kotlin Programming,Kotlin Programming,1,1,pool_cv,CV-016,False,False,True,False,kotlin programming
+Swift Programming,Swift Programming,1,1,pool_cv,CV-016,False,False,True,False,swift programming
+C++ Programming,C++ Programming,1,1,pool_cv,CV-016,False,False,True,False,c++ programming
+Performance Optimization,Performance Optimization,1,1,pool_cv,CV-016,False,False,True,False,performance optimization
+Bloc Cubit,BLoC/Cubit,1,1,pool_cv,CV-016,False,False,True,False,bloc cubit
+Viper Architecture,VIPER architecture,1,1,pool_cv,CV-016,False,False,True,False,viper architecture
+Education Technology,education technology,1,1,pool_cv,CV-016,False,False,False,False,education technology
+Telematics,telematics,1,1,pool_cv,CV-016,False,False,False,False,telematics
+Agile Practice,Agile practices,1,1,pool_cv,CV-016,False,False,False,False,agile practice
+Manual Testing,Manual Testing,1,1,pool_cv,CV-017,False,False,True,False,manual testing
+Functional Testing,Functional Testing,1,1,pool_cv,CV-017,False,False,True,False,functional testing
+Regression Testing,Regression Testing,1,1,pool_cv,CV-017,False,False,True,False,regression testing
+Mobile Testing,mobile testing,1,1,pool_cv,CV-017,False,False,True,False,mobile testing
+Performance Testing,Performance Testing,1,1,pool_cv,CV-017,False,False,True,False,performance testing
+Data Testing,Data Testing,1,1,pool_cv,CV-017,False,False,True,False,data testing
+Katalon,katalon,1,1,pool_cv,CV-017,False,False,False,True,katalon
+Jmeter,jMeter,1,1,pool_cv,CV-017,False,False,False,True,jmeter
+Greenplum,Greenplum,1,1,pool_cv,CV-017,False,False,False,True,greenplum
+Phpmyadmin,phpMyAdmin,1,1,pool_cv,CV-017,False,False,False,True,phpmyadmin
+Defect Documentation,defect documentation,1,1,pool_cv,CV-017,False,False,False,False,defect documentation
+Clean Code,Clean Code,1,1,pool_cv,CV-018,False,False,True,False,clean code
+Mvc,MVC,1,1,pool_cv,CV-018,False,False,True,False,mvc
+Flutterflow,Flutterflow,1,1,pool_cv,CV-018,False,False,False,True,flutterflow
+Codemagic,Codemagic,1,1,pool_cv,CV-018,False,False,False,True,codemagic
+Jfrog,JFrog,1,1,pool_cv,CV-018,False,False,False,True,jfrog
+Bitbucket,Bitbucket,1,1,pool_cv,CV-018,False,False,False,True,bitbucket
+Cobol,COBOL,1,1,pool_cv,CV-019,False,False,True,False,cobol
+Maven,maven,1,1,pool_cv,CV-019,False,False,False,True,maven
+Kiro,Kiro,1,1,pool_cv,CV-019,False,False,False,True,kiro
+Jira Confluence,Jira/Confluence,1,1,pool_cv,CV-019,False,False,False,True,jira confluence
+Junit,JUnit,1,1,pool_cv,CV-019,False,False,False,True,junit
+Jsp,JSP,1,1,pool_cv,CV-019,False,False,False,True,jsp
+Powermockito,Powermockito,1,1,pool_cv,CV-019,False,False,False,True,powermockito
+Mockito,Mockito,1,1,pool_cv,CV-019,False,False,False,True,mockito
+Whitebox,Whitebox,1,1,pool_cv,CV-019,False,False,False,True,whitebox
+Reflection,Reflection,1,1,pool_cv,CV-019,False,False,False,True,reflection
+Vba,VBA,1,1,pool_cv,CV-019,False,False,False,True,vba
+Salesforce Administrator,Salesforce Administrator,1,1,pool_cv,CV-019,False,False,False,True,salesforce administrator
+Ms SQL Server,MS SQL Server,1,1,pool_cv,CV-019,False,False,False,True,ms sql server
+Java Swing,Java Swing,1,1,pool_cv,CV-019,False,False,False,True,java swing
+Jdbc,JDBC,1,1,pool_cv,CV-019,False,False,False,True,jdbc
+Hr-tech,hr-tech,1,1,pool_cv,CV-019,False,False,False,False,hr-tech
+Audit-systems,audit-systems,1,1,pool_cv,CV-019,False,False,False,False,audit-systems
+Cloud Native,Cloud Native,1,1,pool_cv,CV-020,False,False,True,False,cloud native
+Tracing,tracing,1,1,pool_cv,CV-020,False,False,True,False,tracing
+Oci,OCI,1,1,pool_cv,CV-020,False,False,True,False,oci
+Calico,Calico,1,1,pool_cv,CV-020,False,False,True,False,calico
+Cilium,Cilium,1,1,pool_cv,CV-020,False,False,True,False,cilium
+Aviatrix,Aviatrix,1,1,pool_cv,CV-020,False,False,True,False,aviatrix
+Kong,KONG,1,1,pool_cv,CV-020,False,False,True,False,kong
+Nvidia,NVIDIA,1,1,pool_cv,CV-020,False,False,True,False,nvidia
+Anthropic Claude,Anthropic Claude,1,1,pool_cv,CV-020,False,False,True,False,anthropic claude
+Springmvc,SpringMVC,1,1,pool_cv,CV-020,False,False,False,True,springmvc
+Spring Cloud,Spring Cloud,1,1,pool_cv,CV-020,False,False,False,True,spring cloud
+Spring Cloud Alibaba,Spring Cloud Alibaba,1,1,pool_cv,CV-020,False,False,False,True,spring cloud alibaba
+Spring Cloud Gateway,Spring Cloud Gateway,1,1,pool_cv,CV-020,False,False,False,True,spring cloud gateway
+Nacos,Nacos,1,1,pool_cv,CV-020,False,False,False,True,nacos
+Sentinel,Sentinel,1,1,pool_cv,CV-020,False,False,False,True,sentinel
+Seata,Seata,1,1,pool_cv,CV-020,False,False,False,True,seata
+Eureka,Eureka,1,1,pool_cv,CV-020,False,False,False,True,eureka
+Consul,Consul,1,1,pool_cv,CV-020,False,False,False,True,consul
+Hystrix,Hystrix,1,1,pool_cv,CV-020,False,False,False,True,hystrix
+Openfeign,OpenFeign,1,1,pool_cv,CV-020,False,False,False,True,openfeign
+Vr Development,VR Development,1,1,pool_cv,CV-020,False,False,False,True,vr development
+ETL,ETL,1,1,pool_cv,CV-021,False,False,True,False,etl
+Tool Calling,Tool calling,1,1,pool_cv,CV-021,False,False,True,False,tool calling
+Multi-agent Orchestration,Multi-agent orchestration,1,1,pool_cv,CV-021,False,False,True,False,multi-agent orchestration
+Human Review,Human review,1,1,pool_cv,CV-021,False,False,True,False,human review
+Uat,UAT,1,1,pool_cv,CV-021,False,False,True,False,uat
+Test Scripting,Test scripting,1,1,pool_cv,CV-021,False,False,True,False,test scripting
+Application Support,Application Support,1,1,pool_cv,CV-021,False,False,True,False,application support
+Static Analysis,Static analysis,1,1,pool_cv,CV-021,False,False,True,False,static analysis
+Dynamic Analysis,Dynamic analysis,1,1,pool_cv,CV-021,False,False,True,False,dynamic analysis
+Requirements Elicitation,Requirements elicitation,1,1,pool_cv,CV-021,False,False,True,False,requirements elicitation
+Workflow Mapping,Workflow mapping,1,1,pool_cv,CV-021,False,False,True,False,workflow mapping
+Sharepoint,SharePoint,1,1,pool_cv,CV-021,False,False,True,False,sharepoint
+Hr Operations,HR operations,1,1,pool_cv,CV-021,False,False,False,False,hr operations
+Maritime Technology,maritime technology,1,1,pool_cv,CV-021,False,False,False,False,maritime technology
+API Management,API management,1,1,pool_cv,CV-022,False,False,True,False,api management
+Saas Logistics,SaaS logistics,1,1,pool_cv,CV-022,False,False,True,False,saas logistics
+Scrum Master,Scrum Master,1,1,pool_cv,CV-022,False,False,True,False,scrum master
+Leadership Development,Leadership Development,1,1,pool_cv,CV-022,False,False,True,False,leadership development
+Technical Execution,Technical Execution,1,1,pool_cv,CV-022,False,False,True,False,technical execution
+Data Storage,Data Storage,1,1,pool_cv,CV-022,False,False,True,False,data storage
+Android Tablet,Android tablet,1,1,pool_cv,CV-022,False,False,False,False,android tablet
+Web and Mobile,Web and mobile,1,1,pool_cv,CV-022,False,False,False,False,web and mobile
+Agile Best Practice,Agile best practices,1,1,pool_cv,CV-022,False,False,False,False,agile best practice
+Cross-border Collaboration,cross-border collaboration,1,1,pool_cv,CV-022,False,False,False,False,cross-border collaboration
+Strategic Guidance,strategic guidance,1,1,pool_cv,CV-022,False,False,False,False,strategic guidance
+Sdlc,SDLC,1,1,pool_cv,CV-023,False,False,True,False,sdlc
+Oop,OOP,1,1,pool_cv,CV-023,False,False,True,False,oop
+Requests,Requests,1,1,pool_cv,CV-023,False,False,True,False,requests
+Page Object Model,Page Object Model,1,1,pool_cv,CV-023,False,False,True,False,page object model
+Lambdatest,LambdaTest,1,1,pool_cv,CV-023,False,False,False,True,lambdatest
+Software Testing,software testing,1,1,pool_cv,CV-023,False,False,False,False,software testing
+Saas Platform,saas platform,1,1,pool_cv,CV-023,False,False,False,False,saas platform
+Framework Design,framework design,1,1,pool_cv,CV-023,False,False,False,False,framework design
+Architecture Decision,architecture decision,1,1,pool_cv,CV-023,False,False,False,False,architecture decision
+Cypress,Cypress,1,1,pool_cv,CV-024,False,False,True,False,cypress
+Webdriverio,WebdriverIO,1,1,pool_cv,CV-024,False,False,True,False,webdriverio
+Ai in Testing,AI in Testing,1,1,pool_cv,CV-024,False,False,True,False,ai in testing
+Readyapi,ReadyAPI,1,1,pool_cv,CV-024,False,False,False,True,readyapi
+Rmit University,RMIT University,1,1,pool_cv,CV-024,False,False,False,True,rmit university
+Recruitment System,recruitment systems,1,1,pool_cv,CV-024,False,False,False,False,recruitment system
+Bug Triage,bug triage,1,1,pool_cv,CV-024,False,False,False,False,bug triage
+Sprint Planning,sprint planning,1,1,pool_cv,CV-024,False,False,False,False,sprint planning
+API Gateway,API Gateway,1,1,pool_cv,CV-025,False,False,False,True,api gateway
+Mq,MQ,1,1,pool_cv,CV-025,False,False,False,True,mq
+Azure Devops Server,Azure DevOps Server,1,1,pool_cv,CV-025,False,False,False,True,azure devops server
+Xunit,xUnit,1,1,pool_cv,CV-025,False,False,False,True,xunit
+Industry 4.0,Industry 4.0,1,1,pool_cv,CV-025,False,False,False,False,industry 4.0
+Incident Management,incident management,1,1,pool_cv,CV-025,False,False,False,False,incident management
+Cassandra,Cassandra,1,1,pool_cv,CV-026,False,False,True,False,cassandra
+Mocha,Mocha,1,1,pool_cv,CV-026,False,False,True,False,mocha
+Javascript Es6+,JavaScript ES6+,1,1,pool_cv,CV-027,False,False,False,True,javascript es6+
+Pharmacy Procurement,pharmacy procurement,1,1,pool_cv,CV-027,False,False,False,False,pharmacy procurement
+Web-based Platform,web-based platform,1,1,pool_cv,CV-027,False,False,False,False,web-based platform
+Managing Prioritie,managing priorities,1,1,pool_cv,CV-027,False,False,False,False,managing prioritie
+Collaborative Work,collaborative work,1,1,pool_cv,CV-027,False,False,False,False,collaborative work
+Client-facing Delivery,client-facing delivery,1,1,pool_cv,CV-027,False,False,False,False,client-facing delivery
+Event-driven System,Event-Driven Systems,1,1,pool_cv,CV-028,False,False,True,False,event-driven system
+Backend Automation,Backend Automation,1,1,pool_cv,CV-028,False,False,True,False,backend automation
+UI Development,UI Development,1,1,pool_cv,CV-028,False,False,True,False,ui development
+Convolutional Neural Network,Convolutional Neural Networks,1,1,pool_cv,CV-028,False,False,True,False,convolutional neural network
+Feature Analysis,Feature Analysis,1,1,pool_cv,CV-028,False,False,True,False,feature analysis
+Traffic Prediction,Traffic Prediction,1,1,pool_cv,CV-028,False,False,True,False,traffic prediction
+Nosql Database Design,NoSQL Database Design,1,1,pool_cv,CV-028,False,False,True,False,nosql database design
+Sns,SNS,1,1,pool_cv,CV-028,False,False,False,True,sns
+Sqs,SQS,1,1,pool_cv,CV-028,False,False,False,True,sqs
+Model Optimization,model optimization,1,1,pool_cv,CV-028,False,False,False,False,model optimization
+Authentication Authorization,Authentication/Authorization,1,1,pool_cv,CV-029,False,False,True,False,authentication authorization
+Redux Toolkit,Redux Toolkit,1,1,pool_cv,CV-029,False,False,True,False,redux toolkit
+Redux Thunk,Redux Thunk,1,1,pool_cv,CV-029,False,False,True,False,redux thunk
+Redux Saga,Redux Saga,1,1,pool_cv,CV-029,False,False,True,False,redux saga
+React Context,React Context,1,1,pool_cv,CV-029,False,False,True,False,react context
+React Query,React Query,1,1,pool_cv,CV-029,False,False,True,False,react query
+Spring Batch,Spring Batch,1,1,pool_cv,CV-030,False,False,True,False,spring batch
+Jooq,JOOQ,1,1,pool_cv,CV-030,False,False,True,False,jooq
+Openai Apis,OpenAI APIs,1,1,pool_cv,CV-030,False,False,True,False,openai apis
+Bitbucket Pipeline,bitbucket pipelines,1,1,pool_cv,CV-030,False,False,False,True,bitbucket pipeline
+Technical Design,technical design,1,1,pool_cv,CV-030,False,False,False,False,technical design
+Knowledge Sharing,knowledge sharing,1,1,pool_cv,CV-030,False,False,False,False,knowledge sharing
+Amazon Mwaa,Amazon MWAA,1,1,pool_cv,CV-031,False,False,False,True,amazon mwaa
+Cloud Composer,Cloud Composer,1,1,pool_cv,CV-031,False,False,False,True,cloud composer
+Dataflow,Dataflow,1,1,pool_cv,CV-031,False,False,False,True,dataflow
+Debezium,Debezium,1,1,pool_cv,CV-031,False,False,False,True,debezium
+Qliksense,QlikSense,1,1,pool_cv,CV-031,False,False,False,True,qliksense
+Industrial Analytics,industrial analytics,1,1,pool_cv,CV-031,False,False,False,False,industrial analytics
+Competitive Analysis,competitive analysis,1,1,pool_cv,CV-031,False,False,False,False,competitive analysis
+Data Quality Check,data quality checks,1,1,pool_cv,CV-031,False,False,False,False,data quality check
+Llm Post-training,LLM post-training,1,1,pool_cv,CV-032,False,False,True,False,llm post-training
+Vector Retrieval,vector retrieval,1,1,pool_cv,CV-032,False,False,True,False,vector retrieval
+Agent Framework,agent frameworks,1,1,pool_cv,CV-032,False,False,True,False,agent framework
+Speech and Multimodal Modeling,speech and multimodal modeling,1,1,pool_cv,CV-032,False,False,True,False,speech and multimodal modeling
+Tensorrt,TensorRT,1,1,pool_cv,CV-032,False,False,True,False,tensorrt
+Cuda,CUDA,1,1,pool_cv,CV-032,False,False,True,False,cuda
+Triton,Triton,1,1,pool_cv,CV-032,False,False,True,False,triton
+Speech Analysis,speech analysis,1,1,pool_cv,CV-032,False,False,False,False,speech analysis
+Multimodal Modeling,multimodal modeling,1,1,pool_cv,CV-032,False,False,False,False,multimodal modeling
+Genai,GenAI,1,1,pool_cv,CV-033,False,False,True,False,genai
+Llm Application,LLM applications,1,1,pool_cv,CV-033,False,False,True,False,llm application
+Prompt Design,prompt design,1,1,pool_cv,CV-033,False,False,True,False,prompt design
+Azure Openai,Azure OpenAI,1,1,pool_cv,CV-033,False,False,True,False,azure openai
+Azure Ai Document Intelligence,Azure AI Document Intelligence,1,1,pool_cv,CV-033,False,False,True,False,azure ai document intelligence
+Azure Ai Foundry,Azure AI Foundry,1,1,pool_cv,CV-033,False,False,False,True,azure ai foundry
+AWS Bedrock,AWS Bedrock,1,1,pool_cv,CV-033,False,False,False,True,aws bedrock
+News Intelligence,news intelligence,1,1,pool_cv,CV-033,False,False,False,False,news intelligence
+Payment Processing,payment processing,1,1,pool_cv,CV-033,False,False,False,False,payment processing
+Face Recognition,face recognition,1,1,pool_cv,CV-033,False,False,False,False,face recognition
+Agents,Agents,1,1,pool_cv,CV-034,False,False,True,False,agents
+Mariadb,MariaDB,1,1,pool_cv,CV-034,False,False,True,False,mariadb
+Websockets,WebSockets,1,1,pool_cv,CV-034,False,False,True,False,websockets
+Mern,MERN,1,1,pool_cv,CV-034,False,False,False,True,mern
+Transformer,Transformer,1,1,pool_cv,CV-034,False,False,False,True,transformer
+Bpe,BPE,1,1,pool_cv,CV-034,False,False,False,True,bpe
+Bm25,BM25,1,1,pool_cv,CV-034,False,False,False,True,bm25
+Rdbms,RDBMS,1,1,pool_cv,CV-035,False,False,True,False,rdbms
+Geographic Information System,Geographic Information System,1,1,pool_cv,CV-035,False,False,True,False,geographic information system
+Data Mart,Data Mart,1,1,pool_cv,CV-035,False,False,True,False,data mart
+Data Warehousing,Data Warehousing,1,1,pool_cv,CV-035,False,False,True,False,data warehousing
+Ms. SQL Server,Ms. SQL Server,1,1,pool_cv,CV-035,False,False,True,False,ms. sql server
+Cloudera,Cloudera,1,1,pool_cv,CV-035,False,False,True,False,cloudera
+Postgis,PostGIS,1,1,pool_cv,CV-035,False,False,True,False,postgis
+Azure Data Lake Service,Azure Data Lake Service,1,1,pool_cv,CV-035,False,False,False,True,azure data lake service
+Cloudera Hdp,Cloudera HDP,1,1,pool_cv,CV-035,False,False,False,True,cloudera hdp
+Google Pub Sub,Google Pub/Sub,1,1,pool_cv,CV-035,False,False,False,True,google pub sub
+AWS Glue,AWS Glue,1,1,pool_cv,CV-035,False,False,False,True,aws glue
+AWS Athena,AWS Athena,1,1,pool_cv,CV-035,False,False,False,True,aws athena
+Mapr,MapR,1,1,pool_cv,CV-035,False,False,False,True,mapr
+Arcgis,ArcGIS,1,1,pool_cv,CV-035,False,False,False,True,arcgis
+Qgis,QGIS,1,1,pool_cv,CV-035,False,False,False,True,qgis
+Transportation,transportation,1,1,pool_cv,CV-035,False,False,False,False,transportation
+Client Requirement Gathering,Client requirement gathering,1,1,pool_cv,CV-035,False,False,False,False,client requirement gathering
+Oracle Db,Oracle DB,1,1,pool_cv,CV-036,False,False,True,False,oracle db
+Microsoft Azure Data Factory,Microsoft Azure Data Factory,1,1,pool_cv,CV-036,False,False,True,False,microsoft azure data factory
+Datastage,Datastage,1,1,pool_cv,CV-036,False,False,True,False,datastage
+Informatica,Informatica,1,1,pool_cv,CV-036,False,False,True,False,informatica
+Sap Businessobject,SAP BusinessObjects,1,1,pool_cv,CV-036,False,False,True,False,sap businessobject
+Pl SQL,PL/SQL,1,1,pool_cv,CV-036,False,False,True,False,pl sql
+Bash Scripting,Bash Scripting,1,1,pool_cv,CV-036,False,False,True,False,bash scripting
+Jquery,jQuery,1,1,pool_cv,CV-036,False,False,True,False,jquery
+Attunity Replicate,Attunity Replicate,1,1,pool_cv,CV-036,False,False,False,True,attunity replicate
+Sap Business Object Report,SAP Business Object Report,1,1,pool_cv,CV-036,False,False,False,True,sap business object report
+Data-driven Solution,data-driven solutions,1,1,pool_cv,CV-036,False,False,False,False,data-driven solution
+Tf-idf,TF-IDF,1,1,pool_cv,CV-037,False,False,True,False,tf-idf
+Bert,BERT,1,1,pool_cv,CV-037,False,False,True,False,bert
+Leankit,LeanKit,1,1,pool_cv,CV-037,False,False,False,True,leankit
+Agentic System,Agentic Systems,1,1,pool_cv,CV-038,False,False,True,False,agentic system
+Rag Architecture,RAG Architecture,1,1,pool_cv,CV-038,False,False,True,False,rag architecture
+Ai Agent Design,AI Agent Design,1,1,pool_cv,CV-038,False,False,True,False,ai agent design
+Workflow Automation,Workflow Automation,1,1,pool_cv,CV-038,False,False,True,False,workflow automation
+Security and Identity,Security & Identity,1,1,pool_cv,CV-038,False,False,True,False,security and identity
+Oauth 2.0,OAuth 2.0,1,1,pool_cv,CV-038,False,False,True,False,oauth 2.0
+Oidc,OIDC,1,1,pool_cv,CV-038,False,False,True,False,oidc
+Zero Trust Architecture,Zero Trust Architecture,1,1,pool_cv,CV-038,False,False,True,False,zero trust architecture
+Ibm Watsonx,IBM Watsonx,1,1,pool_cv,CV-038,False,False,False,True,ibm watsonx
+Clickhouse,Clickhouse,1,1,pool_cv,CV-038,False,False,False,True,clickhouse
+Bytekv,ByteKV,1,1,pool_cv,CV-038,False,False,False,True,bytekv
+AWS Dms,AWS DMS,1,1,pool_cv,CV-038,False,False,False,True,aws dms
+Enterprise Banking,enterprise banking,1,1,pool_cv,CV-038,False,False,False,False,enterprise banking
+Apac,APAC,1,1,pool_cv,CV-038,False,False,False,False,apac
+Data Platform,data platform,1,1,pool_cv,CV-038,False,False,False,False,data platform
+Technical Discovery,technical discovery,1,1,pool_cv,CV-038,False,False,False,False,technical discovery
+Operational Workflow,operational workflows,1,1,pool_cv,CV-038,False,False,False,False,operational workflow
+Advanced Analytics,Advanced Analytics,1,1,pool_cv,CV-039,False,False,True,False,advanced analytics
+Topic Modeling,Topic Modeling,1,1,pool_cv,CV-039,False,False,True,False,topic modeling
+Data Quality Management,Data Quality Management,1,1,pool_cv,CV-039,False,False,True,False,data quality management
+Alteryx,Alteryx,1,1,pool_cv,CV-039,False,False,True,False,alteryx
+ETL Processe,ETL processes,1,1,pool_cv,CV-039,False,False,True,False,etl processe
+Qlik,Qlik,1,1,pool_cv,CV-039,False,False,False,True,qlik
+Confluence,Confluence,1,1,pool_cv,CV-039,False,False,False,True,confluence
+Energy,energy,1,1,pool_cv,CV-039,False,False,False,False,energy
+Model Fine-tuning,Model Fine-Tuning,1,1,pool_cv,CV-040,False,False,True,False,model fine-tuning
+Lora,LoRA,1,1,pool_cv,CV-040,False,False,True,False,lora
+Keras,Keras,1,1,pool_cv,CV-040,False,False,True,False,keras
+Lime,LIME,1,1,pool_cv,CV-040,False,False,True,False,lime
+Time Series Analysis,Time Series Analysis,1,1,pool_cv,CV-040,False,False,True,False,time series analysis
+Object Detection,Object Detection,1,1,pool_cv,CV-040,False,False,True,False,object detection
+Image Classification,Image Classification,1,1,pool_cv,CV-040,False,False,True,False,image classification
+Image Segmentation,Image Segmentation,1,1,pool_cv,CV-040,False,False,True,False,image segmentation
+Multimodal Data,multimodal data,1,1,pool_cv,CV-040,False,False,False,False,multimodal data
+Boto3,boto3,1,1,pool_cv,CV-041,False,False,True,False,boto3
+Event-driven Architecture,Event-driven architecture,1,1,pool_cv,CV-041,False,False,True,False,event-driven architecture
+Peft Lora,PEFT/LoRA,1,1,pool_cv,CV-041,False,False,True,False,peft lora
+Model Distillation,Model Distillation,1,1,pool_cv,CV-041,False,False,True,False,model distillation
+Cnn,CNN,1,1,pool_cv,CV-041,False,False,True,False,cnn
+Openai API,OpenAI API,1,1,pool_cv,CV-041,False,False,True,False,openai api
+Amazon Bedrock,Amazon Bedrock,1,1,pool_cv,CV-041,False,False,True,False,amazon bedrock
+Gemini,Gemini,1,1,pool_cv,CV-041,False,False,True,False,gemini
+Gpt-4,GPT-4,1,1,pool_cv,CV-041,False,False,True,False,gpt-4
+Ray Serve,Ray Serve,1,1,pool_cv,CV-041,False,False,False,True,ray serve
+Faster R-cnn,Faster R-CNN,1,1,pool_cv,CV-041,False,False,False,True,faster r-cnn
+Mask R-cnn,Mask R-CNN,1,1,pool_cv,CV-041,False,False,False,True,mask r-cnn
+Biobert,BioBERT,1,1,pool_cv,CV-041,False,False,False,True,biobert
+Lstm,LSTM,1,1,pool_cv,CV-041,False,False,False,True,lstm
+Clinical Workflow,clinical workflows,1,1,pool_cv,CV-041,False,False,False,False,clinical workflow
+Policy Optimization,Policy Optimization,1,1,pool_cv,CV-042,False,False,True,False,policy optimization
+Simulation Environment,Simulation Environments,1,1,pool_cv,CV-042,False,False,True,False,simulation environment
+Supply Demand Simulation,Supply Demand Simulation,1,1,pool_cv,CV-042,False,False,True,False,supply demand simulation
+Dynamic Pricing,Dynamic Pricing,1,1,pool_cv,CV-042,False,False,True,False,dynamic pricing
+End-to-end Testing,End-to-End Testing,1,1,pool_cv,CV-042,False,False,True,False,end-to-end testing
+Drift Detection,Drift Detection,1,1,pool_cv,CV-042,False,False,True,False,drift detection
+Model Monitoring,Model Monitoring,1,1,pool_cv,CV-042,False,False,True,False,model monitoring
+Pipeline Orchestration,Pipeline Orchestration,1,1,pool_cv,CV-042,False,False,True,False,pipeline orchestration
+Gpu Training,GPU Training,1,1,pool_cv,CV-042,False,False,True,False,gpu training
+Multi-gpu Fine-tuning,Multi-GPU Fine-Tuning,1,1,pool_cv,CV-042,False,False,True,False,multi-gpu fine-tuning
+Awq Quantization,AWQ Quantization,1,1,pool_cv,CV-042,False,False,True,False,awq quantization
+Experimentation,Experimentation,1,1,pool_cv,CV-043,False,False,True,False,experimentation
+Causal Inference,Causal Inference,1,1,pool_cv,CV-043,False,False,True,False,causal inference
+Statistical Modeling,Statistical Modeling,1,1,pool_cv,CV-043,False,False,True,False,statistical modeling
+Classification,Classification,1,1,pool_cv,CV-043,False,False,True,False,classification
+Regression,Regression,1,1,pool_cv,CV-043,False,False,True,False,regression
+Embeddings,Embeddings,1,1,pool_cv,CV-043,False,False,True,False,embeddings
+Ai Quality Metrics,AI Quality Metrics,1,1,pool_cv,CV-043,False,False,True,False,ai quality metrics
+ETL ELT,ETL/ELT,1,1,pool_cv,CV-043,False,False,True,False,etl elt
+Feature Pipeline,Feature Pipelines,1,1,pool_cv,CV-043,False,False,True,False,feature pipeline
+Gradient Boosting,gradient boosting,1,1,pool_cv,CV-043,False,False,False,True,gradient boosting
+Ride-sharing,ride-sharing,1,1,pool_cv,CV-043,False,False,False,False,ride-sharing
+Scala,Scala,1,1,pool_cv,CV-044,False,False,True,False,scala
+Hugging Face,Hugging Face,1,1,pool_cv,CV-044,False,False,True,False,hugging face
+Two-stage Retrieval and Ranking,Two-Stage Retrieval & Ranking,1,1,pool_cv,CV-044,False,False,True,False,two-stage retrieval and ranking
+Learning-to-rank,Learning-to-Rank,1,1,pool_cv,CV-044,False,False,True,False,learning-to-rank
+Dense Retrieval,Dense Retrieval,1,1,pool_cv,CV-044,False,False,True,False,dense retrieval
+Candidate Generation,Candidate Generation,1,1,pool_cv,CV-044,False,False,True,False,candidate generation
+Re-ranking,Re-ranking,1,1,pool_cv,CV-044,False,False,True,False,re-ranking
+Contextual Bandit,Contextual Bandits,1,1,pool_cv,CV-044,False,False,True,False,contextual bandit
+Implicit Feedback Modeling,Implicit Feedback Modeling,1,1,pool_cv,CV-044,False,False,True,False,implicit feedback modeling
+Cold-start Handling,Cold-Start Handling,1,1,pool_cv,CV-044,False,False,True,False,cold-start handling
+Constrained Ranking,Constrained Ranking,1,1,pool_cv,CV-044,False,False,True,False,constrained ranking
+Semantic Search,Semantic Search,1,1,pool_cv,CV-044,False,False,True,False,semantic search
+Embedding Model,Embedding Models,1,1,pool_cv,CV-044,False,False,True,False,embedding model
+Fine-tuning,Fine-tuning,1,1,pool_cv,CV-044,False,False,True,False,fine-tuning
+A B Testing and Experimentation,A/B Testing & Experimentation,1,1,pool_cv,CV-044,False,False,True,False,a b testing and experimentation
+Counterfactual Evaluation,Counterfactual Evaluation,1,1,pool_cv,CV-044,False,False,True,False,counterfactual evaluation
+Lakehouse,Lakehouse,1,1,pool_cv,CV-045,False,False,True,False,lakehouse
+Warehousing,Warehousing,1,1,pool_cv,CV-045,False,False,True,False,warehousing
+Onelake,OneLake,1,1,pool_cv,CV-045,False,False,True,False,onelake
+Data Warehouse Architecture,Data warehouse architecture,1,1,pool_cv,CV-045,False,False,True,False,data warehouse architecture
+Analytical Data Modeling,Analytical data modeling,1,1,pool_cv,CV-045,False,False,True,False,analytical data modeling
+Full and Incremental Loading,Full and Incremental loading,1,1,pool_cv,CV-045,False,False,True,False,full and incremental loading
+Notebooks and Dataflows Gen2,Notebooks and Dataflows Gen2,1,1,pool_cv,CV-045,False,False,True,False,notebooks and dataflows gen2
+Cloud Data Platform,Cloud Data Platforms,1,1,pool_cv,CV-045,False,False,True,False,cloud data platform
+ETL ELT and Orchestration,ETL/ELT and Orchestration,1,1,pool_cv,CV-045,False,False,True,False,etl elt and orchestration
+Azure Synapse,Azure Synapse,1,1,pool_cv,CV-045,False,False,True,False,azure synapse
+Stitch,Stitch,1,1,pool_cv,CV-045,False,False,True,False,stitch
+Azure Synapse Analytics,Azure Synapse Analytics,1,1,pool_cv,CV-045,False,False,False,True,azure synapse analytics
+Vendor Assessment,vendor assessment,1,1,pool_cv,CV-045,False,False,False,False,vendor assessment
+Llm Application Pipeline,LLM application pipelines,1,1,pool_cv,CV-046,False,False,True,False,llm application pipeline
+Hybrid Retrieval,hybrid retrieval,1,1,pool_cv,CV-046,False,False,True,False,hybrid retrieval
+Qdrant,Qdrant,1,1,pool_cv,CV-046,False,False,True,False,qdrant
+Lora Peft,LoRA/PEFT,1,1,pool_cv,CV-046,False,False,True,False,lora peft
+Gitlab Ci Cd,gitlab CI/CD,1,1,pool_cv,CV-046,False,False,True,False,gitlab ci cd
+Beautifulsoup,BeautifulSoup,1,1,pool_cv,CV-046,False,False,False,True,beautifulsoup
+Cnns,CNNs,1,1,pool_cv,CV-046,False,False,False,True,cnns
+Resnet,ResNet,1,1,pool_cv,CV-046,False,False,False,True,resnet
+Mlflow,MLflow,1,1,pool_cv,CV-046,False,False,False,True,mlflow
+Visual Communication,Visual Communication,1,1,pool_cv,CV-047,False,False,True,False,visual communication
+Visual Storytelling,Visual Storytelling,1,1,pool_cv,CV-047,False,False,True,False,visual storytelling
+Layout Design,Layout Design,1,1,pool_cv,CV-047,False,False,True,False,layout design
+Composition,Composition,1,1,pool_cv,CV-047,False,False,True,False,composition
+Typography,Typography,1,1,pool_cv,CV-047,False,False,True,False,typography
+Color Theory,Color Theory,1,1,pool_cv,CV-047,False,False,True,False,color theory
+Information Design,Information Design,1,1,pool_cv,CV-047,False,False,True,False,information design
+Brand Guideline,Brand Guidelines,1,1,pool_cv,CV-047,False,False,True,False,brand guideline
+Logo Design,Logo Design,1,1,pool_cv,CV-047,False,False,True,False,logo design
+Visual Identity System,Visual Identity Systems,1,1,pool_cv,CV-047,False,False,True,False,visual identity system
+Marketing Collateral,Marketing Collateral,1,1,pool_cv,CV-047,False,False,True,False,marketing collateral
+Adobe Indesign,Adobe InDesign,1,1,pool_cv,CV-047,False,False,True,False,adobe indesign
+Adobe After Effect,Adobe After Effects,1,1,pool_cv,CV-047,False,False,True,False,adobe after effect
+Digital Design,Digital Designs,1,1,pool_cv,CV-047,False,False,True,False,digital design
+Web Graphics,Web Graphics,1,1,pool_cv,CV-047,False,False,True,False,web graphics
+Landing Page Design,Landing Page Design,1,1,pool_cv,CV-047,False,False,True,False,landing page design
+Social Media Design,social media design,1,1,pool_cv,CV-047,False,False,True,False,social media design
+Digital Campaign,Digital campaigns,1,1,pool_cv,CV-047,False,False,True,False,digital campaign
+Responsive Design,Responsive Design,1,1,pool_cv,CV-047,False,False,True,False,responsive design
+UI Design,Ui Design,1,1,pool_cv,CV-047,False,False,True,False,ui design
+Visual Asset,Visual Assets,1,1,pool_cv,CV-047,False,False,True,False,visual asset
+Adobe Creative Cloud,Adobe Creative Cloud,1,1,pool_cv,CV-047,False,False,False,True,adobe creative cloud
+User Experience Design,User Experience Design,1,1,pool_cv,CV-048,False,False,True,False,user experience design
+User Interface Design,User Interface Design,1,1,pool_cv,CV-048,False,False,True,False,user interface design
+Prototyping,Prototyping,1,1,pool_cv,CV-048,False,False,True,False,prototyping
+User Flow,User Flows,1,1,pool_cv,CV-048,False,False,True,False,user flow
+Information Architecture,Information Architecture,1,1,pool_cv,CV-048,False,False,True,False,information architecture
+Usability Testing,Usability Testing,1,1,pool_cv,CV-048,False,False,True,False,usability testing
+Ai Product Design,AI Product Design,1,1,pool_cv,CV-048,False,False,True,False,ai product design
+Figjam,FigJam,1,1,pool_cv,CV-048,False,False,False,True,figjam
+Trello,Trello,1,1,pool_cv,CV-048,False,False,False,True,trello
+Notion,Notion,1,1,pool_cv,CV-048,False,False,False,True,notion
+Mantine UI,Mantine UI,1,1,pool_cv,CV-048,False,False,False,True,mantine ui
+Hotjar,hotjar,1,1,pool_cv,CV-048,False,False,False,True,hotjar
+Dovetail,Dovetail,1,1,pool_cv,CV-048,False,False,False,True,dovetail
+Figma Make,Figma Make,1,1,pool_cv,CV-048,False,False,False,True,figma make
+Custom Gpt,Custom GPT,1,1,pool_cv,CV-048,False,False,False,True,custom gpt
+Video-editing,video-editing,1,1,pool_cv,CV-048,False,False,False,False,video-editing
+Packaging Design,Packaging Design,1,1,pool_cv,CV-049,False,False,True,False,packaging design
+Social Media Graphics,Social Media Graphics,1,1,pool_cv,CV-049,False,False,True,False,social media graphics
+Instagram Reels and Post,Instagram Reels and Posts,1,1,pool_cv,CV-049,False,False,True,False,instagram reels and post
+Interactive Social Media Content,Interactive Social Media Content,1,1,pool_cv,CV-049,False,False,True,False,interactive social media content
+Brand Identity Asset,Brand Identity Assets,1,1,pool_cv,CV-049,False,False,True,False,brand identity asset
+Creative Strategy Development,Creative Strategy Development,1,1,pool_cv,CV-049,False,False,True,False,creative strategy development
+Project Timeline Management,Project Timeline Management,1,1,pool_cv,CV-049,False,False,True,False,project timeline management
+High-quality Graphics Delivery,High-Quality Graphics Delivery,1,1,pool_cv,CV-049,False,False,True,False,high-quality graphics delivery
+Client Satisfaction,Client Satisfaction,1,1,pool_cv,CV-049,False,False,True,False,client satisfaction
+Consistent Visual Branding,Consistent Visual Branding,1,1,pool_cv,CV-049,False,False,True,False,consistent visual branding
+Fashion,fashion,1,1,pool_cv,CV-049,False,False,False,False,fashion
+Cinematography,Cinematography,1,1,pool_cv,CV-050,False,False,True,False,cinematography
+Post-production,Post-production,1,1,pool_cv,CV-050,False,False,True,False,post-production
+Entertainment,entertainment,1,1,pool_cv,CV-050,False,False,False,False,entertainment
+Sports,sports,1,1,pool_cv,CV-050,False,False,False,False,sports
+Video Production,video production,1,1,pool_cv,CV-051,False,False,True,False,video production
+Post Production,Post Production,1,1,pool_cv,CV-051,False,False,True,False,post production
+Storyboarding,storyboarding,1,1,pool_cv,CV-051,False,False,False,False,storyboarding
+UI UX,UI/UX,1,1,pool_cv,CV-052,False,False,True,False,ui ux
+Hci,HCI,1,1,pool_cv,CV-052,False,False,True,False,hci
+Ai Product,AI Product,1,1,pool_cv,CV-052,False,False,True,False,ai product
+Global Growth,Global Growth,1,1,pool_cv,CV-052,False,False,True,False,global growth
+User Acquisition,User Acquisition,1,1,pool_cv,CV-052,False,False,True,False,user acquisition
+Go-to-Market,Go-to-Market,1,1,pool_cv,CV-052,False,False,True,False,go-to-market
+Claude Ai,Claude AI,1,1,pool_cv,CV-052,False,False,False,True,claude ai
+Unity,Unity,1,1,pool_cv,CV-052,False,False,False,True,unity
+Hci Design,HCI Design,1,1,pool_cv,CV-052,False,False,False,False,hci design
+Video,Video,1,1,pool_cv,CV-053,False,False,True,False,video
+Residential Property Development,residential property development,1,1,pool_cv,CV-053,False,False,False,False,residential property development
+Wedding Photography,wedding photography,1,1,pool_cv,CV-053,False,False,False,False,wedding photography
+UX Research,UX Research,1,1,pool_cv,CV-054,False,False,True,False,ux research
+UX UI Design,UX/UI Design,1,1,pool_cv,CV-054,False,False,True,False,ux ui design
+Google Analytics 4,Google Analytics 4,1,1,pool_cv,CV-054,False,False,True,False,google analytics 4
+Customer-centric Approach,Customer-Centric Approach,1,1,pool_cv,CV-055,False,False,True,False,customer-centric approach
+Conferencing,Conferencing,1,1,pool_cv,CV-055,False,False,True,False,conferencing
+Product Promotion,Product Promotion,1,1,pool_cv,CV-055,False,False,True,False,product promotion
+Partnership Development,Partnership Development,1,1,pool_cv,CV-055,False,False,True,False,partnership development
+Security Framework Consultancy,Security Framework Consultancy,1,1,pool_cv,CV-055,False,False,True,False,security framework consultancy
+Vulnerabilities Scanning,Vulnerabilities Scanning,1,1,pool_cv,CV-055,False,False,True,False,vulnerabilities scanning
+Account Servicing,Account Servicing,1,1,pool_cv,CV-055,False,False,True,False,account servicing
+Paloalto,PaloAlto,1,1,pool_cv,CV-055,False,False,False,True,paloalto
+Tenable Io,Tenable IO,1,1,pool_cv,CV-055,False,False,False,True,tenable io
+Digital Shadow,Digital Shadow,1,1,pool_cv,CV-055,False,False,False,True,digital shadow
+Riskiq,RiskIQ,1,1,pool_cv,CV-055,False,False,False,True,riskiq
+Fintech Solution,Fintech Solutions,1,1,pool_cv,CV-055,False,False,False,False,fintech solution
+Integrated Marketing Strategy Development,Integrated Marketing Strategy Development,1,1,pool_cv,CV-056,False,False,True,False,integrated marketing strategy development
+Campaign Coordination and Execution,Campaign Coordination & Execution,1,1,pool_cv,CV-056,False,False,True,False,campaign coordination and execution
+Budget Monitoring,Budget Monitoring,1,1,pool_cv,CV-056,False,False,True,False,budget monitoring
+Stakeholder Presentation,Stakeholder Presentation,1,1,pool_cv,CV-056,False,False,True,False,stakeholder presentation
+Strategic Recommendation,strategic recommendations,1,1,pool_cv,CV-056,False,False,False,False,strategic recommendation
+Industrial Research,Industrial Research,1,1,pool_cv,CV-057,False,False,True,False,industrial research
+Food Engineering,Food Engineering,1,1,pool_cv,CV-057,False,False,True,False,food engineering
+R and D Planning,R&D Planning,1,1,pool_cv,CV-057,False,False,True,False,r and d planning
+Formulation,Formulation,1,1,pool_cv,CV-057,False,False,True,False,formulation
+Sensory Evaluation,Sensory Evaluation,1,1,pool_cv,CV-057,False,False,True,False,sensory evaluation
+Product Optimization,Product Optimization,1,1,pool_cv,CV-057,False,False,True,False,product optimization
+Production Processe,Production Processes,1,1,pool_cv,CV-057,False,False,True,False,production processe
+Market Intelligence,Market Intelligence,1,1,pool_cv,CV-057,False,False,True,False,market intelligence
+Food and Beverage,food and beverage,1,1,pool_cv,CV-057,False,False,False,False,food and beverage
+Dairy,dairy,1,1,pool_cv,CV-057,False,False,False,False,dairy
+Coconut-based Product,coconut-based products,1,1,pool_cv,CV-057,False,False,False,False,coconut-based product
+Strategic Sales Management,Strategic Sales Management,1,1,pool_cv,CV-058,False,False,True,False,strategic sales management
+Revenue Growth Strategy,Revenue Growth Strategy,1,1,pool_cv,CV-058,False,False,True,False,revenue growth strategy
+Profitability Improvement,Profitability Improvement,1,1,pool_cv,CV-058,False,False,True,False,profitability improvement
+Customer Retention,Customer Retention,1,1,pool_cv,CV-058,False,False,True,False,customer retention
+New Business Development,New Business Development,1,1,pool_cv,CV-058,False,False,True,False,new business development
+Customer Satisfaction Management,Customer Satisfaction Management,1,1,pool_cv,CV-058,False,False,True,False,customer satisfaction management
+Commercial Partnership Development,Commercial Partnership Development,1,1,pool_cv,CV-058,False,False,True,False,commercial partnership development
+Food Ingredient,Food Ingredients,1,1,pool_cv,CV-058,False,False,False,False,food ingredient
+Beverage Industry,Beverage Industry,1,1,pool_cv,CV-058,False,False,False,False,beverage industry
+Functional Ingredient,Functional Ingredients,1,1,pool_cv,CV-058,False,False,False,False,functional ingredient
+Food Processing Industry,Food Processing Industry,1,1,pool_cv,CV-058,False,False,False,False,food processing industry
+Microsoft Word,Microsoft Word,1,1,pool_cv,CV-059,False,False,True,False,microsoft word
+Microsoft Powerpoint,Microsoft PowerPoint,1,1,pool_cv,CV-059,False,False,True,False,microsoft powerpoint
+CRM Software,CRM software,1,1,pool_cv,CV-059,False,False,True,False,crm software
+Influencing,Influencing,1,1,pool_cv,CV-059,False,False,True,False,influencing
+Esg,ESG,1,1,pool_cv,CV-059,False,False,False,False,esg
+Self-motivated,Self-motivated,1,1,pool_cv,CV-059,False,False,False,False,self-motivated
+Fast Learner,Fast Learner,1,1,pool_cv,CV-059,False,False,False,False,fast learner
+Office 360,Office 360,1,1,pool_cv,CV-060,False,False,True,False,office 360
+Xcode,Xcode,1,1,pool_cv,CV-060,False,False,True,False,xcode
+Strategy Execution,Strategy Execution,1,1,pool_cv,CV-061,False,False,True,False,strategy execution
+Program Delivery,Program Delivery,1,1,pool_cv,CV-061,False,False,True,False,program delivery
+Retail Sales Leadership,Retail Sales Leadership,1,1,pool_cv,CV-062,False,False,True,False,retail sales leadership
+Vendor Funding Negotiation,Vendor Funding Negotiation,1,1,pool_cv,CV-062,False,False,True,False,vendor funding negotiation
+Inventory Optimization,Inventory Optimization,1,1,pool_cv,CV-062,False,False,True,False,inventory optimization
+Multi-unit Team Leadership,Multi-Unit Team Leadership,1,1,pool_cv,CV-062,False,False,True,False,multi-unit team leadership
+Store Layout,Store Layout,1,1,pool_cv,CV-062,False,False,True,False,store layout
+Planograms,Planograms,1,1,pool_cv,CV-062,False,False,True,False,planograms
+Sales Training,Sales Training,1,1,pool_cv,CV-062,False,False,True,False,sales training
+Onboarding,Onboarding,1,1,pool_cv,CV-062,False,False,True,False,onboarding
+International Purchasing,International Purchasing,1,1,pool_cv,CV-062,False,False,True,False,international purchasing
+Performance Coaching,Performance Coaching,1,1,pool_cv,CV-062,False,False,True,False,performance coaching
+Sap Pos,SAP POS,1,1,pool_cv,CV-062,False,False,False,True,sap pos
+Software Design,Software Design,1,1,pool_cv,CV-063,False,False,True,False,software design
+Presentations,Presentations,1,1,pool_cv,CV-063,False,False,True,False,presentations
+3d Modeling,3D Modeling,1,1,pool_cv,CV-063,False,False,True,False,3d modeling
+Supervised Learning,Supervised Learning,1,1,pool_cv,CV-063,False,False,True,False,supervised learning
+Unsupervised Learning,Unsupervised Learning,1,1,pool_cv,CV-063,False,False,True,False,unsupervised learning
+User-centered Development,User-Centered Development,1,1,pool_cv,CV-063,False,False,True,False,user-centered development
+Solana,Solana,1,1,pool_cv,CV-063,False,False,True,False,solana
+Web3.js,Web3.js,1,1,pool_cv,CV-063,False,False,True,False,web3.js
+Helius API,Helius API,1,1,pool_cv,CV-063,False,False,True,False,helius api
+Freecad,FreeCAD,1,1,pool_cv,CV-063,False,False,False,True,freecad
+Linkedin Sales Navigator,LinkedIn Sales Navigator,1,1,pool_cv,CV-064,False,False,False,True,linkedin sales navigator
+Leadiq,LeadIQ,1,1,pool_cv,CV-064,False,False,False,True,leadiq
+Lusha,Lusha,1,1,pool_cv,CV-064,False,False,False,True,lusha
+Zoom Info,Zoom Info,1,1,pool_cv,CV-064,False,False,False,True,zoom info
+Groove,Groove,1,1,pool_cv,CV-064,False,False,False,True,groove
+Ms Team,MS Teams,1,1,pool_cv,CV-064,False,False,False,True,ms team
+Calendly,Calendly,1,1,pool_cv,CV-064,False,False,False,True,calendly
+Ms Office Application,MS Office applications,1,1,pool_cv,CV-064,False,False,False,True,ms office application
+Coaching,coaching,1,1,pool_cv,CV-064,False,False,False,False,coaching
+B2C and B2B Marketing,B2C & B2B Marketing,1,1,pool_cv,CV-065,False,False,True,False,b2c and b2b marketing
+KPI Monitoring,KPI Monitoring,1,1,pool_cv,CV-065,False,False,True,False,kpi monitoring
+Html Coding,HTML Coding,1,1,pool_cv,CV-065,False,False,True,False,html coding
+Ai Optimization,AI optimization,1,1,pool_cv,CV-065,False,False,True,False,ai optimization
+Sound Design and Engineering,Sound Design & Engineering,1,1,pool_cv,CV-065,False,False,True,False,sound design and engineering
+Marketing Analytics,Marketing Analytics,1,1,pool_cv,CV-065,False,False,True,False,marketing analytics
+Measuring KPI S,Measuring KPI's,1,1,pool_cv,CV-065,False,False,True,False,measuring kpi s
+Growth Analytics,Growth Analytics,1,1,pool_cv,CV-065,False,False,True,False,growth analytics
+Optimizing,Optimizing,1,1,pool_cv,CV-065,False,False,True,False,optimizing
+Journey Building,Journey Building,1,1,pool_cv,CV-065,False,False,True,False,journey building
+Intelligence Reporting,Intelligence Reporting,1,1,pool_cv,CV-065,False,False,True,False,intelligence reporting
+Creative Concept Development,Creative Concept Development,1,1,pool_cv,CV-065,False,False,True,False,creative concept development
+Multimedia Content Creation,Multimedia Content Creation,1,1,pool_cv,CV-065,False,False,True,False,multimedia content creation
+Project and Deadline Management,Project & Deadline Management,1,1,pool_cv,CV-065,False,False,True,False,project and deadline management
+Content Workflow Coordination,Content Workflow Coordination,1,1,pool_cv,CV-065,False,False,True,False,content workflow coordination
+Social Video Strategy,Social Video Strategy,1,1,pool_cv,CV-065,False,False,True,False,social video strategy
+Performance Analytics,Performance Analytics,1,1,pool_cv,CV-065,False,False,True,False,performance analytics
+Car Wash,car wash,1,1,pool_cv,CV-065,False,False,False,False,car wash
+Health and Wellness,health and wellness,1,1,pool_cv,CV-065,False,False,False,False,health and wellness
+Wine Industry,wine industry,1,1,pool_cv,CV-065,False,False,False,False,wine industry
+Strategic Partnership,Strategic partnerships,1,1,pool_cv,CV-066,False,False,True,False,strategic partnership
+Commercial Analysis,Commercial analysis,1,1,pool_cv,CV-066,False,False,True,False,commercial analysis
+Negotiation Support,Negotiation support,1,1,pool_cv,CV-066,False,False,True,False,negotiation support
+Ai Saa,AI SaaS,1,1,pool_cv,CV-067,False,False,True,False,ai saa
+Smart Iot Solution,Smart IoT solutions,1,1,pool_cv,CV-067,False,False,True,False,smart iot solution
+B2B Management,B2B management,1,1,pool_cv,CV-067,False,False,True,False,b2b management
+Business Model Innovation,Business Model Innovation,1,1,pool_cv,CV-067,False,False,True,False,business model innovation
+Channel and Si Ecosystem,Channel & SI Ecosystem,1,1,pool_cv,CV-067,False,False,True,False,channel and si ecosystem
+Green Tech,Green Tech,1,1,pool_cv,CV-067,False,False,True,False,green tech
+Hardware-as-a-service,Hardware-as-a-Service,1,1,pool_cv,CV-067,False,False,True,False,hardware-as-a-service
+Rpa,RPA,1,1,pool_cv,CV-067,False,False,True,False,rpa
+Iot Hw-sw Integration,IoT HW-SW Integration,1,1,pool_cv,CV-067,False,False,True,False,iot hw-sw integration
+Predictive Maintenance,Predictive Maintenance,1,1,pool_cv,CV-067,False,False,True,False,predictive maintenance
+Hotels,Hotels,1,1,pool_cv,CV-067,False,False,False,False,hotels
+Paid Media Strategy,Paid Media Strategy,1,1,pool_cv,CV-068,False,False,True,False,paid media strategy
+Account Based Marketing,Account Based Marketing,1,1,pool_cv,CV-068,False,False,True,False,account based marketing
+Conversion Rate Optimization,Conversion Rate Optimization,1,1,pool_cv,CV-068,False,False,True,False,conversion rate optimization
+CRM Data Analysis,CRM Data Analysis,1,1,pool_cv,CV-068,False,False,True,False,crm data analysis
+Performance Metrics Optimization,Performance Metrics Optimization,1,1,pool_cv,CV-068,False,False,True,False,performance metrics optimization
+Copywriting,Copywriting,1,1,pool_cv,CV-068,False,False,True,False,copywriting
+Content Scheduling,Content Scheduling,1,1,pool_cv,CV-068,False,False,True,False,content scheduling
+Social Media Strategie,Social Media Strategies,1,1,pool_cv,CV-068,False,False,True,False,social media strategie
+Creative Campaign Development,Creative Campaign Development,1,1,pool_cv,CV-068,False,False,True,False,creative campaign development
+Meta,Meta,1,1,pool_cv,CV-068,False,False,False,True,meta
+Youtube,YouTube,1,1,pool_cv,CV-068,False,False,False,True,youtube
+Linkedin,LinkedIn,1,1,pool_cv,CV-068,False,False,False,True,linkedin
+Leadsquared CRM,LeadSquared CRM,1,1,pool_cv,CV-068,False,False,False,True,leadsquared crm
+Utm Tagging,UTM Tagging,1,1,pool_cv,CV-068,False,False,False,True,utm tagging
+Commercial Strategy,Commercial Strategy,1,1,pool_cv,CV-069,False,False,True,False,commercial strategy
+Profitability Management,Profitability Management,1,1,pool_cv,CV-069,False,False,True,False,profitability management
+Business Planning,Business Planning,1,1,pool_cv,CV-069,False,False,True,False,business planning
+Trade Marketing,Trade Marketing,1,1,pool_cv,CV-069,False,False,True,False,trade marketing
+Btl Marketing,BTL Marketing,1,1,pool_cv,CV-069,False,False,True,False,btl marketing
+Consumer Insight,Consumer Insights,1,1,pool_cv,CV-069,False,False,True,False,consumer insight
+Product Launch,Product Launch,1,1,pool_cv,CV-069,False,False,True,False,product launch
+Brand Strategy,Brand Strategy,1,1,pool_cv,CV-069,False,False,True,False,brand strategy
+Dealer Management,Dealer Management,1,1,pool_cv,CV-069,False,False,True,False,dealer management
+Digital Transformation,Digital Transformation,1,1,pool_cv,CV-069,False,False,True,False,digital transformation
+Leadership and Analytics,Leadership & Analytics,1,1,pool_cv,CV-069,False,False,True,False,leadership and analytics
+Sap Vistex,SAP Vistex,1,1,pool_cv,CV-069,False,False,False,True,sap vistex
+Nielsen,Nielsen,1,1,pool_cv,CV-069,False,False,False,True,nielsen
+Consumer Good,consumer goods,1,1,pool_cv,CV-069,False,False,False,False,consumer good
+Instagram Reel,Instagram Reels,1,1,pool_cv,CV-070,False,False,True,False,instagram reel
+Youtube Short,YouTube Shorts,1,1,pool_cv,CV-070,False,False,True,False,youtube short
+Viral Hook,Viral Hooks,1,1,pool_cv,CV-070,False,False,True,False,viral hook
+Scripting,Scripting,1,1,pool_cv,CV-070,False,False,True,False,scripting
+Captions,Captions,1,1,pool_cv,CV-070,False,False,True,False,captions
+Trend Spotting,Trend Spotting,1,1,pool_cv,CV-070,False,False,True,False,trend spotting
+Account Growth,Account Growth,1,1,pool_cv,CV-070,False,False,True,False,account growth
+Social Analytics,Social Analytics,1,1,pool_cv,CV-070,False,False,True,False,social analytics
+Organic Growth Strategie,Organic Growth Strategies,1,1,pool_cv,CV-070,False,False,True,False,organic growth strategie
+Data-driven Iteration,Data-Driven Iteration,1,1,pool_cv,CV-070,False,False,True,False,data-driven iteration
+Ai Tools for Content,AI Tools for Content,1,1,pool_cv,CV-070,False,False,True,False,ai tools for content
+International Team Collaboration,International Team Collaboration,1,1,pool_cv,CV-070,False,False,True,False,international team collaboration
+Creative Art,Creative Arts,1,1,pool_cv,CV-070,False,False,True,False,creative art
+Film and Tv,Film & TV,1,1,pool_cv,CV-070,False,False,True,False,film and tv
+Content Direction,content direction,1,1,pool_cv,CV-070,False,False,False,False,content direction
+Creative Leadership,creative leadership,1,1,pool_cv,CV-070,False,False,False,False,creative leadership
+Marketing Automation,Marketing Automation,1,1,pool_cv,CV-071,False,False,True,False,marketing automation
+Funnel Optimization,Funnel Optimization,1,1,pool_cv,CV-071,False,False,True,False,funnel optimization
+Sales Funnel Optimization,Sales Funnel Optimization,1,1,pool_cv,CV-071,False,False,True,False,sales funnel optimization
+Online Marketing,Online Marketing,1,1,pool_cv,CV-071,False,False,True,False,online marketing
+Gpt,GPT,1,1,pool_cv,CV-071,False,False,False,True,gpt
+Web Content Writing,Web Content Writing,1,1,pool_cv,CV-072,False,False,True,False,web content writing
+Event Planning,Event Planning,1,1,pool_cv,CV-072,False,False,True,False,event planning
+Google Keyword Planner,Google Keyword Planner,1,1,pool_cv,CV-072,False,False,False,True,google keyword planner
+Ahrefs,Ahrefs,1,1,pool_cv,CV-072,False,False,False,True,ahrefs
+Google Search Console,Google Search Console,1,1,pool_cv,CV-072,False,False,False,True,google search console
+Digital Content,Digital Content,1,1,pool_cv,CV-073,False,False,True,False,digital content
+Social Media Management,Social Media Management,1,1,pool_cv,CV-073,False,False,True,False,social media management
+Influencer Partnership,Influencer Partnerships,1,1,pool_cv,CV-073,False,False,True,False,influencer partnership
+Photography,Photography,1,1,pool_cv,CV-073,False,False,True,False,photography
+SEM,SEM,1,1,pool_cv,CV-073,False,False,True,False,sem
+Email Marketing,Email Marketing,1,1,pool_cv,CV-073,False,False,True,False,email marketing
+Instagram,Instagram,1,1,pool_cv,CV-073,False,False,True,False,instagram
+Xhs,XHS,1,1,pool_cv,CV-073,False,False,True,False,xhs
+Google Slide,Google Slides,1,1,pool_cv,CV-073,False,False,True,False,google slide
+Google Doc,Google Docs,1,1,pool_cv,CV-073,False,False,True,False,google doc
+Ad Performance Metrics,Ad Performance Metrics,1,1,pool_cv,CV-074,False,False,True,False,ad performance metrics
+Ppc,PPC,1,1,pool_cv,CV-074,False,False,True,False,ppc
+Strategic Alignment,strategic alignment,1,1,pool_cv,CV-074,False,False,False,False,strategic alignment
+Financial Leadership,Financial Leadership,1,1,pool_cv,CV-075,False,False,True,False,financial leadership
+Group Consolidation,Group Consolidation,1,1,pool_cv,CV-075,False,False,True,False,group consolidation
+Budget Forecast,Budget Forecasts,1,1,pool_cv,CV-075,False,False,True,False,budget forecast
+Investor Relation,Investor Relations,1,1,pool_cv,CV-075,False,False,True,False,investor relation
+Business Partnering,Business Partnering,1,1,pool_cv,CV-075,False,False,True,False,business partnering
+Board Reporting,Board Reporting,1,1,pool_cv,CV-075,False,False,True,False,board reporting
+Cost Optimisation,Cost Optimisation,1,1,pool_cv,CV-075,False,False,True,False,cost optimisation
+Statutory Audit,Statutory Audit,1,1,pool_cv,CV-075,False,False,True,False,statutory audit
+Transfer Pricing,Transfer Pricing,1,1,pool_cv,CV-075,False,False,True,False,transfer pricing
+Microsoft-based Finance System,Microsoft-based finance systems,1,1,pool_cv,CV-075,False,False,False,True,microsoft-based finance system
+Sage,Sage,1,1,pool_cv,CV-075,False,False,False,True,sage
+Investment Banking Analysis,Investment Banking Analysis,1,1,pool_cv,CV-076,False,False,True,False,investment banking analysis
+Financial Statement Analysis,Financial Statement Analysis,1,1,pool_cv,CV-076,False,False,True,False,financial statement analysis
+Ratio Analysis,Ratio Analysis,1,1,pool_cv,CV-076,False,False,True,False,ratio analysis
+Advanced Excel,Advanced Excel,1,1,pool_cv,CV-076,False,False,True,False,advanced excel
+Company Valuation,Company Valuation,1,1,pool_cv,CV-076,False,False,True,False,company valuation
+Research and Industry Analysis,Research & Industry Analysis,1,1,pool_cv,CV-076,False,False,True,False,research and industry analysis
+Data Analysis Optimization,Data analysis optimization,1,1,pool_cv,CV-076,False,False,True,False,data analysis optimization
+Financial Modeling Technique,Financial modeling techniques,1,1,pool_cv,CV-076,False,False,True,False,financial modeling technique
+Valuation Documentation Preparation,Valuation documentation preparation,1,1,pool_cv,CV-076,False,False,True,False,valuation documentation preparation
+Dcf,DCF,1,1,pool_cv,CV-076,False,False,False,True,dcf
+Precedent Transaction,Precedent Transactions,1,1,pool_cv,CV-076,False,False,False,True,precedent transaction
+Sec Filing,SEC filings,1,1,pool_cv,CV-076,False,False,False,True,sec filing
+10-k,10-K,1,1,pool_cv,CV-076,False,False,False,True,10-k
+10-q,10-Q,1,1,pool_cv,CV-076,False,False,False,True,10-q
+8-k,8-K,1,1,pool_cv,CV-076,False,False,False,True,8-k
+6-k,6-K,1,1,pool_cv,CV-076,False,False,False,True,6-k
+Investment Banking,investment banking,1,1,pool_cv,CV-076,False,False,False,False,investment banking
+Corporate Finance,corporate finance,1,1,pool_cv,CV-076,False,False,False,False,corporate finance
+M and a,M&A,1,1,pool_cv,CV-076,False,False,False,False,m and a
+Capital Market,capital markets,1,1,pool_cv,CV-076,False,False,False,False,capital market
+Taxations,Taxations,1,1,pool_cv,CV-077,False,False,True,False,taxations
+Sun Accounting System,SUN Accounting System,1,1,pool_cv,CV-077,False,False,True,False,sun accounting system
+Insurance Brokerage,insurance brokerage,1,1,pool_cv,CV-077,False,False,False,False,insurance brokerage
+Manned Security,manned security,1,1,pool_cv,CV-077,False,False,False,False,manned security
+Sun Wah Group,sun wah group,1,1,pool_cv,CV-077,False,False,False,False,sun wah group
+Property Investment,property investment,1,1,pool_cv,CV-077,False,False,False,False,property investment
+Shipping,shipping,1,1,pool_cv,CV-077,False,False,False,False,shipping
+Variance Analysis,variance analysis,1,1,pool_cv,CV-077,False,False,False,False,variance analysis
+Internal Control Review,internal control review,1,1,pool_cv,CV-077,False,False,False,False,internal control review
+Flex Accounting System,Flex accounting system,1,1,pool_cv,CV-078,False,False,False,True,flex accounting system
+Oracle Netsuite,Oracle Netsuite,1,1,pool_cv,CV-078,False,False,False,True,oracle netsuite
+Management Reporting,Management Reporting,1,1,pool_cv,CV-079,False,False,True,False,management reporting
+Flexsystem,FlexSystem,1,1,pool_cv,CV-079,False,False,False,True,flexsystem
+Multiable,Multiable,1,1,pool_cv,CV-079,False,False,False,True,multiable
+Financial Modeling,Financial Modeling,1,1,pool_cv,CV-080,False,False,True,False,financial modeling
+Management Accounting,Management Accounting,1,1,pool_cv,CV-080,False,False,True,False,management accounting
+Investment,investment,1,1,pool_cv,CV-080,False,False,False,False,investment
+Digital Asset,digital assets,1,1,pool_cv,CV-080,False,False,False,False,digital asset
+Property Management,property management,1,1,pool_cv,CV-080,False,False,False,False,property management
+Liaison,liaison,1,1,pool_cv,CV-080,False,False,False,False,liaison
+Reporting,reporting,1,1,pool_cv,CV-080,False,False,False,False,reporting
+Creative Solution,Creative Solutions,1,1,pool_cv,CV-081,False,False,True,False,creative solution
+Effective Time Management,Effective Time Management,1,1,pool_cv,CV-081,False,False,True,False,effective time management
+Workflow Enhancement,Workflow Enhancement,1,1,pool_cv,CV-081,False,False,True,False,workflow enhancement
+Policy and Advisory,Policy and Advisory,1,1,pool_cv,CV-081,False,False,True,False,policy and advisory
+Nutrition,Nutrition,1,1,pool_cv,CV-081,False,False,True,False,nutrition
+Health Screening,Health Screening,1,1,pool_cv,CV-081,False,False,True,False,health screening
+Stock Management,Stock Management,1,1,pool_cv,CV-081,False,False,True,False,stock management
+Oltp System,OLTP system,1,1,pool_cv,CV-081,False,False,False,True,oltp system
+General Ledger Account,General Ledger Accounts,1,1,pool_cv,CV-082,False,False,True,False,general ledger account
+Reconciliation,Reconciliation,1,1,pool_cv,CV-082,False,False,True,False,reconciliation
+Financial Audit,Financial Audits,1,1,pool_cv,CV-082,False,False,True,False,financial audit
+Forecasting and Budgeting,Forecasting and Budgeting,1,1,pool_cv,CV-082,False,False,True,False,forecasting and budgeting
+Mbc,MBC,1,1,pool_cv,CV-082,False,False,False,True,mbc
+Oracle ERP,Oracle ERP,1,1,pool_cv,CV-082,False,False,False,True,oracle erp
+Accpac Window,Accpac Windows,1,1,pool_cv,CV-082,False,False,False,True,accpac window
+Just Login,Just login,1,1,pool_cv,CV-082,False,False,False,True,just login
+Singapore Taxes Compliance,Singapore Taxes Compliance,1,1,pool_cv,CV-083,False,False,True,False,singapore taxes compliance
+Iras Tax Return,IRAS Tax Returns,1,1,pool_cv,CV-083,False,False,True,False,iras tax return
+Tax Audit Query Management,Tax Audit Query Management,1,1,pool_cv,CV-083,False,False,True,False,tax audit query management
+Singapore Gst Compliance,Singapore GST Compliance,1,1,pool_cv,CV-083,False,False,True,False,singapore gst compliance
+Acap Review,ACAP Review,1,1,pool_cv,CV-083,False,False,True,False,acap review
+International Tax Coordination,International Tax Coordination,1,1,pool_cv,CV-083,False,False,True,False,international tax coordination
+Corporate Governance,Corporate Governance,1,1,pool_cv,CV-083,False,False,True,False,corporate governance
+Tax Computation,Tax Computations,1,1,pool_cv,CV-083,False,False,True,False,tax computation
+Cashflow Planning,Cashflow Planning,1,1,pool_cv,CV-083,False,False,True,False,cashflow planning
+Cross-border Tax Exposure,Cross-border Tax Exposure,1,1,pool_cv,CV-083,False,False,True,False,cross-border tax exposure
+Corporate Secretarial,Corporate Secretarial,1,1,pool_cv,CV-083,False,False,True,False,corporate secretarial
+Acra Compliance,ACRA Compliance,1,1,pool_cv,CV-083,False,False,True,False,acra compliance
+Aml Cft Cpf,AML CFT CPF,1,1,pool_cv,CV-083,False,False,True,False,aml cft cpf
+Corporate Compliance,corporate compliance,1,1,pool_cv,CV-083,False,False,False,False,corporate compliance
+Executive Support,Executive support,1,1,pool_cv,CV-084,False,False,True,False,executive support
+Inbox Management,Inbox management,1,1,pool_cv,CV-084,False,False,True,False,inbox management
+Project Coordination,Project coordination,1,1,pool_cv,CV-084,False,False,True,False,project coordination
+CRM Administration,CRM administration,1,1,pool_cv,CV-084,False,False,True,False,crm administration
+Lead Research,Lead research,1,1,pool_cv,CV-084,False,False,True,False,lead research
+Email Campaign,Email campaigns,1,1,pool_cv,CV-084,False,False,True,False,email campaign
+Client Onboarding,Client onboarding,1,1,pool_cv,CV-084,False,False,True,False,client onboarding
+Follow Up,Follow up,1,1,pool_cv,CV-084,False,False,True,False,follow up
+Process Documentation,Process documentation,1,1,pool_cv,CV-084,False,False,True,False,process documentation
+Healthcare Administration,Healthcare administration,1,1,pool_cv,CV-084,False,False,True,False,healthcare administration
+Ehr Record Audit,EHR record audits,1,1,pool_cv,CV-084,False,False,True,False,ehr record audit
+Ai Video Production,AI video production,1,1,pool_cv,CV-084,False,False,True,False,ai video production
+Saas Product Storytelling,SaaS product storytelling,1,1,pool_cv,CV-084,False,False,True,False,saas product storytelling
+Content Strategy,Content strategy,1,1,pool_cv,CV-084,False,False,True,False,content strategy
+Theranest,TheraNest,1,1,pool_cv,CV-084,False,False,False,True,theranest
+Monday CRM,Monday CRM,1,1,pool_cv,CV-084,False,False,False,True,monday crm
+Ev Charging,EV charging,1,1,pool_cv,CV-084,False,False,False,False,ev charging
+Global Sourcing Strategy,Global Sourcing Strategy,1,1,pool_cv,CV-085,False,False,True,False,global sourcing strategy
+Commodity Management,Commodity Management,1,1,pool_cv,CV-085,False,False,True,False,commodity management
+Steel,Steel,1,1,pool_cv,CV-085,False,False,True,False,steel
+Aluminum,Aluminum,1,1,pool_cv,CV-085,False,False,True,False,aluminum
+Metals,Metals,1,1,pool_cv,CV-085,False,False,True,False,metals
+Castings,Castings,1,1,pool_cv,CV-085,False,False,True,False,castings
+Forgings,Forgings,1,1,pool_cv,CV-085,False,False,True,False,forgings
+Stampings,Stampings,1,1,pool_cv,CV-085,False,False,True,False,stampings
+Resins,Resins,1,1,pool_cv,CV-085,False,False,True,False,resins
+Plastics,Plastics,1,1,pool_cv,CV-085,False,False,True,False,plastics
+Amm Index Pricing,AMM Index Pricing,1,1,pool_cv,CV-085,False,False,True,False,amm index pricing
+Should-cost Modeling,Should-Cost Modeling,1,1,pool_cv,CV-085,False,False,True,False,should-cost modeling
+Total Cost of Ownership,Total Cost of Ownership,1,1,pool_cv,CV-085,False,False,True,False,total cost of ownership
+Low-cost Country Sourcing,Low-Cost Country Sourcing,1,1,pool_cv,CV-085,False,False,True,False,low-cost country sourcing
+Supplier Qualification,Supplier Qualification,1,1,pool_cv,CV-085,False,False,True,False,supplier qualification
+Supplier Development,Supplier Development,1,1,pool_cv,CV-085,False,False,True,False,supplier development
+Supplier Risk Management,Supplier Risk Management,1,1,pool_cv,CV-085,False,False,True,False,supplier risk management
+Tariff Mitigation,Tariff Mitigation,1,1,pool_cv,CV-085,False,False,True,False,tariff mitigation
+Landed Cost,Landed Cost,1,1,pool_cv,CV-085,False,False,True,False,landed cost
+Strategic Negotiation,Strategic Negotiations,1,1,pool_cv,CV-085,False,False,True,False,strategic negotiation
+Long-term Agreement,Long-Term Agreements,1,1,pool_cv,CV-085,False,False,True,False,long-term agreement
+Va-ve,VA-VE,1,1,pool_cv,CV-085,False,False,True,False,va-ve
+Spend Analytics,Spend Analytics,1,1,pool_cv,CV-085,False,False,True,False,spend analytics
+Working Capital,Working Capital,1,1,pool_cv,CV-085,False,False,True,False,working capital
+Procurement Transformation,Procurement Transformation,1,1,pool_cv,CV-085,False,False,True,False,procurement transformation
+Organization Design,Organization Design,1,1,pool_cv,CV-085,False,False,True,False,organization design
+Lean,Lean,1,1,pool_cv,CV-085,False,False,True,False,lean
+Lean Six Sigma,Lean Six Sigma,1,1,pool_cv,CV-085,False,False,True,False,lean six sigma
+Black Belt,Black Belt,1,1,pool_cv,CV-085,False,False,True,False,black belt
+Ai-enabled Procurement,AI-Enabled Procurement,1,1,pool_cv,CV-085,False,False,True,False,ai-enabled procurement
+E-sourcing,e-Sourcing,1,1,pool_cv,CV-085,False,False,True,False,e-sourcing
+Web-based Rfq,Web-Based RFQ,1,1,pool_cv,CV-085,False,False,True,False,web-based rfq
+Private Equity Value Creation,Private Equity Value Creation,1,1,pool_cv,CV-085,False,False,True,False,private equity value creation
+Cross Cultural Leadership,Cross Cultural Leadership,1,1,pool_cv,CV-085,False,False,True,False,cross cultural leadership
+Ariba,Ariba,1,1,pool_cv,CV-085,False,False,False,True,ariba
+Coupa,Coupa,1,1,pool_cv,CV-085,False,False,False,True,coupa
+Microsoft Dynamics Ax,Microsoft Dynamics AX,1,1,pool_cv,CV-085,False,False,False,True,microsoft dynamics ax
+Mrp,MRP,1,1,pool_cv,CV-085,False,False,False,True,mrp
+Sourcing,sourcing,1,1,pool_cv,CV-085,False,False,False,False,sourcing
+Regional Hr Leadership,Regional HR Leadership,1,1,pool_cv,CV-086,False,False,True,False,regional hr leadership
+Strategic Business Partnering,Strategic Business Partnering,1,1,pool_cv,CV-086,False,False,True,False,strategic business partnering
+Labour Law,Labour Law,1,1,pool_cv,CV-086,False,False,True,False,labour law
+Employee Lifecycle,Employee Lifecycle,1,1,pool_cv,CV-086,False,False,True,False,employee lifecycle
+Hr Policy Advisory,HR Policy Advisory,1,1,pool_cv,CV-086,False,False,True,False,hr policy advisory
+Government Liaison,Government Liaison,1,1,pool_cv,CV-086,False,False,True,False,government liaison
+Executive Sourcing,Executive Sourcing,1,1,pool_cv,CV-086,False,False,True,False,executive sourcing
+Learning and Development,Learning & Development,1,1,pool_cv,CV-086,False,False,True,False,learning and development
+Psychological Testing,Psychological Testing,1,1,pool_cv,CV-086,False,False,True,False,psychological testing
+Behavioral Assessment,Behavioral Assessment,1,1,pool_cv,CV-086,False,False,True,False,behavioral assessment
+Career Coaching,Career Coaching,1,1,pool_cv,CV-086,False,False,True,False,career coaching
+Counselling,Counselling,1,1,pool_cv,CV-086,False,False,True,False,counselling
+Facilitation,Facilitation,1,1,pool_cv,CV-086,False,False,True,False,facilitation
+Ifs,IFS,1,1,pool_cv,CV-086,False,False,False,True,ifs
+Boondmanager,BoondManager,1,1,pool_cv,CV-086,False,False,False,True,boondmanager
+Definitiv,Definitiv,1,1,pool_cv,CV-086,False,False,False,True,definitiv
+Hr21,HR21,1,1,pool_cv,CV-086,False,False,False,True,hr21
+Ichris,iChris,1,1,pool_cv,CV-086,False,False,False,True,ichris
+Jobstreet,Jobstreet,1,1,pool_cv,CV-086,False,False,False,True,jobstreet
+Linkedin Recruiter,LinkedIn Recruiter,1,1,pool_cv,CV-086,False,False,False,True,linkedin recruiter
+Jobadder,JobAdder,1,1,pool_cv,CV-086,False,False,False,True,jobadder
+Mycareersfuture,MyCareersFuture,1,1,pool_cv,CV-086,False,False,False,True,mycareersfuture
+Felix,Felix,1,1,pool_cv,CV-086,False,False,False,True,felix
+Regional Operations,Regional Operations,1,1,pool_cv,CV-086,False,False,False,False,regional operations
+Strategic Advisory,Strategic Advisory,1,1,pool_cv,CV-086,False,False,False,False,strategic advisory
+Culture Engagement,Culture Engagement,1,1,pool_cv,CV-086,False,False,False,False,culture engagement
+Data-driven Insight,Data-Driven Insights,1,1,pool_cv,CV-086,False,False,False,False,data-driven insight
+Leadership and Mentorship,Leadership & Mentorship,1,1,pool_cv,CV-086,False,False,False,False,leadership and mentorship
+Client Collaboration,Client Collaboration,1,1,pool_cv,CV-086,False,False,False,False,client collaboration
+Regulatory Advisory,Regulatory Advisory,1,1,pool_cv,CV-086,False,False,False,False,regulatory advisory
+Career Development,Career Development,1,1,pool_cv,CV-086,False,False,False,False,career development
+Speaking Engagement,Speaking Engagements,1,1,pool_cv,CV-086,False,False,False,False,speaking engagement
+Data Pipeline Automation,Data Pipeline Automation,1,1,pool_cv,CV-087,False,False,True,False,data pipeline automation
+KPI Tracking,KPI Tracking,1,1,pool_cv,CV-087,False,False,True,False,kpi tracking
+Performance Visibility,Performance Visibility,1,1,pool_cv,CV-087,False,False,True,False,performance visibility
+Safe,SAFe,1,1,pool_cv,CV-087,False,False,True,False,safe
+Backlog Ownership,Backlog Ownership,1,1,pool_cv,CV-087,False,False,True,False,backlog ownership
+Nps,nps,1,1,pool_cv,CV-087,False,False,True,False,nps
+Ncd,NCD,1,1,pool_cv,CV-087,False,False,True,False,ncd
+Product Delivery,Product Delivery,1,1,pool_cv,CV-087,False,False,True,False,product delivery
+Pmo Governance,PMO Governance,1,1,pool_cv,CV-087,False,False,True,False,pmo governance
+Baseline Standard,Baseline Standards,1,1,pool_cv,CV-087,False,False,True,False,baseline standard
+Scope Definition,Scope Definition,1,1,pool_cv,CV-087,False,False,True,False,scope definition
+Lifecycle Management,Lifecycle Management,1,1,pool_cv,CV-087,False,False,True,False,lifecycle management
+Customer Success,Customer Success,1,1,pool_cv,CV-087,False,False,True,False,customer success
+Gcaa,GCAA,1,1,pool_cv,CV-087,False,False,True,False,gcaa
+Icao,ICAO,1,1,pool_cv,CV-087,False,False,True,False,icao
+Dgca,DGCA,1,1,pool_cv,CV-087,False,False,True,False,dgca
+Faa,Faa,1,1,pool_cv,CV-087,False,False,True,False,faa
+Finops Reporting,FinOps Reporting,1,1,pool_cv,CV-087,False,False,True,False,finops reporting
+Arms,ARMS,1,1,pool_cv,CV-087,False,False,False,True,arms
+Cmss,CMSS,1,1,pool_cv,CV-087,False,False,False,True,cmss
+Fidelio,Fidelio,1,1,pool_cv,CV-087,False,False,False,True,fidelio
+Opera,Opera,1,1,pool_cv,CV-087,False,False,False,True,opera
+Aerospace,aerospace,1,1,pool_cv,CV-087,False,False,False,False,aerospace
+Aviation,aviation,1,1,pool_cv,CV-087,False,False,False,False,aviation
+Customer-centric Service,customer-centric service,1,1,pool_cv,CV-087,False,False,False,False,customer-centric service
+Service Design Improvement,service design improvement,1,1,pool_cv,CV-087,False,False,False,False,service design improvement
+Operational Change Program,operational change programs,1,1,pool_cv,CV-087,False,False,False,False,operational change program
+Payroll Management,Payroll Management,1,1,pool_cv,CV-088,False,False,True,False,payroll management
+Income Tax,Income Tax,1,1,pool_cv,CV-088,False,False,True,False,income tax
+Leave Management,Leave Management,1,1,pool_cv,CV-088,False,False,True,False,leave management
+Payroll Taxe,Payroll Taxes,1,1,pool_cv,CV-088,False,False,True,False,payroll taxe
+Office Administration,Office Administration,1,1,pool_cv,CV-088,False,False,True,False,office administration
+Recruitment Sourcing,Recruitment Sourcing,1,1,pool_cv,CV-088,False,False,True,False,recruitment sourcing
+Employee Retention,Employee Retention,1,1,pool_cv,CV-088,False,False,True,False,employee retention
+Sage Easy Pay,Sage Easy Pay,1,1,pool_cv,CV-088,False,False,False,True,sage easy pay
+Whyze,WHYZE,1,1,pool_cv,CV-088,False,False,False,True,whyze
+Timesoft,TIMESOFT,1,1,pool_cv,CV-088,False,False,False,True,timesoft
+Wechat,WeChat,1,1,pool_cv,CV-088,False,False,False,True,wechat
+Whatsapp,WhatsApp,1,1,pool_cv,CV-088,False,False,False,True,whatsapp
+Telegram,Telegram,1,1,pool_cv,CV-088,False,False,False,True,telegram
+Iso,ISO,1,1,pool_cv,CV-088,False,False,False,True,iso
+Singapore,Singapore,1,1,pool_cv,CV-088,False,False,False,False,singapore
+Malaysia,Malaysia,1,1,pool_cv,CV-088,False,False,False,False,malaysia
+Taiwan,Taiwan,1,1,pool_cv,CV-088,False,False,False,False,taiwan
+Hong Kong,Hong Kong,1,1,pool_cv,CV-088,False,False,False,False,hong kong
+Uk,UK,1,1,pool_cv,CV-088,False,False,False,False,uk
+Indonesia,Indonesia,1,1,pool_cv,CV-088,False,False,False,False,indonesia
+Japan,Japan,1,1,pool_cv,CV-088,False,False,False,False,japan
+Hr Operations and Administration,HR Operations & Administration,1,1,pool_cv,CV-089,False,False,True,False,hr operations and administration
+Training and Event Coordination,Training & Event Coordination,1,1,pool_cv,CV-089,False,False,True,False,training and event coordination
+Payroll Coordination and Verification,Payroll Coordination & Verification,1,1,pool_cv,CV-089,False,False,True,False,payroll coordination and verification
+Procurement Coordination,Procurement Coordination,1,1,pool_cv,CV-089,False,False,True,False,procurement coordination
+Leave Administration and Compliance,Leave Administration & Compliance,1,1,pool_cv,CV-089,False,False,True,False,leave administration and compliance
+Personnel Management,Personnel Management,1,1,pool_cv,CV-089,False,False,True,False,personnel management
+Employee Lifecycle Management,Employee Lifecycle Management,1,1,pool_cv,CV-089,False,False,True,False,employee lifecycle management
+Ms Office Suite,MS Office Suite,1,1,pool_cv,CV-089,False,False,True,False,ms office suite
+Hr and Payroll System,HR & Payroll Systems,1,1,pool_cv,CV-089,False,False,True,False,hr and payroll system
+Vendor and Administrative Coordination,Vendor & Administrative Coordination,1,1,pool_cv,CV-089,False,False,True,False,vendor and administrative coordination
+Google Workspace,Google Workspace,1,1,pool_cv,CV-089,False,False,False,True,google workspace
+Corporate,corporate,1,1,pool_cv,CV-089,False,False,False,False,corporate
+Event Management,event management,1,1,pool_cv,CV-089,False,False,False,False,event management
+Critical Thinking and Problem Solving,Critical thinking and problem solving,1,1,pool_cv,CV-090,False,False,False,False,critical thinking and problem solving
+Professionalism and Strong Work Ethic,Professionalism and strong work ethic,1,1,pool_cv,CV-090,False,False,False,False,professionalism and strong work ethic
+Oral and Written Communications Skill,Oral and written communications skills,1,1,pool_cv,CV-090,False,False,False,False,oral and written communications skill
+Sales and Operation Management,Sales & Operation Management,1,1,pool_cv,CV-091,False,False,True,False,sales and operation management
+Team Productivity,Team Productivity,1,1,pool_cv,CV-091,False,False,True,False,team productivity
+Multi-unit Retail Environment,Multi-unit retail environments,1,1,pool_cv,CV-091,False,False,True,False,multi-unit retail environment
+Stock Replenishment,Stock Replenishment,1,1,pool_cv,CV-091,False,False,True,False,stock replenishment
+Product Availability,Product Availability,1,1,pool_cv,CV-091,False,False,True,False,product availability
+Merchandising,Merchandising,1,1,pool_cv,CV-091,False,False,True,False,merchandising
+Staff Performance Appraisal,Staff Performance Appraisals,1,1,pool_cv,CV-091,False,False,True,False,staff performance appraisal
+Career Progression Planning,Career Progression Planning,1,1,pool_cv,CV-091,False,False,True,False,career progression planning
+Strategic Initiative,Strategic Initiatives,1,1,pool_cv,CV-091,False,False,True,False,strategic initiative
+New Store Expansion,New Store Expansions,1,1,pool_cv,CV-091,False,False,True,False,new store expansion
+Grand Opening,Grand Openings,1,1,pool_cv,CV-091,False,False,True,False,grand opening
+Specialized Project,Specialized Projects,1,1,pool_cv,CV-091,False,False,True,False,specialized project
+Warehouse Planning,Warehouse Planning,1,1,pool_cv,CV-092,False,False,True,False,warehouse planning
+ERP Implementation,ERP Implementation,1,1,pool_cv,CV-092,False,False,True,False,erp implementation
+Weighbridge Handling,Weighbridge Handling,1,1,pool_cv,CV-092,False,False,True,False,weighbridge handling
+Forklift Operation,Forklift Operation,1,1,pool_cv,CV-092,False,False,True,False,forklift operation
+5s Practice,5S Practices,1,1,pool_cv,CV-092,False,False,True,False,5s practice
+Workplace Safety,Workplace Safety,1,1,pool_cv,CV-092,False,False,True,False,workplace safety
+Hr Support,HR Support,1,1,pool_cv,CV-092,False,False,True,False,hr support
+Payroll Assistance,Payroll Assistance,1,1,pool_cv,CV-092,False,False,True,False,payroll assistance
+Foreign Worker Management,Foreign Worker Management,1,1,pool_cv,CV-092,False,False,True,False,foreign worker management
+Labour Compliance,Labour Compliance,1,1,pool_cv,CV-092,False,False,True,False,labour compliance
+Waste Disposal,Waste Disposal,1,1,pool_cv,CV-092,False,False,True,False,waste disposal
+Case Coordination,Case Coordination,1,1,pool_cv,CV-092,False,False,True,False,case coordination
+Internal Audit Support,Internal Audit Support,1,1,pool_cv,CV-092,False,False,True,False,internal audit support
+Business Leadership,Business Leadership,1,1,pool_cv,CV-093,False,False,True,False,business leadership
+Marketing Strategy Development,Marketing Strategy Development,1,1,pool_cv,CV-093,False,False,True,False,marketing strategy development
+Organizational Change Leadership,Organizational Change Leadership,1,1,pool_cv,CV-093,False,False,True,False,organizational change leadership
+Brand and Marketing Strategy,Brand & Marketing Strategy,1,1,pool_cv,CV-093,False,False,True,False,brand and marketing strategy
+Brand Positioning,Brand Positioning,1,1,pool_cv,CV-093,False,False,True,False,brand positioning
+Campaign Plan,Campaign Plans,1,1,pool_cv,CV-093,False,False,True,False,campaign plan
+Thought Leadership,Thought Leadership,1,1,pool_cv,CV-093,False,False,True,False,thought leadership
+Youth Consumer Marketing,Youth Consumer Marketing,1,1,pool_cv,CV-093,False,False,True,False,youth consumer marketing
+Digital Growth Performance Marketing,Digital Growth Performance Marketing,1,1,pool_cv,CV-093,False,False,True,False,digital growth performance marketing
+Customer Journey Funnel,Customer Journey Funnels,1,1,pool_cv,CV-093,False,False,True,False,customer journey funnel
+Martech and Ai Integration,MarTech & AI Integration,1,1,pool_cv,CV-093,False,False,True,False,martech and ai integration
+Marketplace Channel Strategy,Marketplace Channel Strategy,1,1,pool_cv,CV-093,False,False,True,False,marketplace channel strategy
+Intellectual Property Creation,Intellectual Property Creation,1,1,pool_cv,CV-093,False,False,True,False,intellectual property creation
+Integrated Marketing Campaign,Integrated Marketing Campaigns,1,1,pool_cv,CV-093,False,False,True,False,integrated marketing campaign
+Creative and Content,Creative & Content,1,1,pool_cv,CV-093,False,False,True,False,creative and content
+Influencer Engagement,Influencer Engagement,1,1,pool_cv,CV-093,False,False,True,False,influencer engagement
+Digital Content Storytelling,Digital Content Storytelling,1,1,pool_cv,CV-093,False,False,True,False,digital content storytelling
+Experience Design,Experience Design,1,1,pool_cv,CV-093,False,False,True,False,experience design
+User Interface User Experience Optimization,User Interface/User Experience Optimization,1,1,pool_cv,CV-093,False,False,True,False,user interface user experience optimization
+Customer Engagement Framework,Customer Engagement Frameworks,1,1,pool_cv,CV-093,False,False,True,False,customer engagement framework
+Capability Building,Capability Building,1,1,pool_cv,CV-093,False,False,True,False,capability building
+Talent Development,Talent Development,1,1,pool_cv,CV-093,False,False,True,False,talent development
+Process Optimization,Process Optimization,1,1,pool_cv,CV-093,False,False,True,False,process optimization
+Basecamp,Basecamp,1,1,pool_cv,CV-093,False,False,False,True,basecamp
+Chatgpt,ChatGPT,1,1,pool_cv,CV-093,False,False,False,True,chatgpt
+Bfsi,BFSI,1,1,pool_cv,CV-093,False,False,False,False,bfsi
+Digital Twin Platform,Digital twin platforms,1,1,pool_cv,CV-094,False,False,True,False,digital twin platform
+Iot Data Framework,IoT data frameworks,1,1,pool_cv,CV-094,False,False,True,False,iot data framework
+Ai Computer Vision,AI computer vision,1,1,pool_cv,CV-094,False,False,True,False,ai computer vision
+Api-first Ecosystem,API-first ecosystems,1,1,pool_cv,CV-094,False,False,True,False,api-first ecosystem
+Agile and Waterfall Delivery,Agile & waterfall delivery,1,1,pool_cv,CV-094,False,False,True,False,agile and waterfall delivery
+Building Engineering,Building engineering,1,1,pool_cv,CV-094,False,False,True,False,building engineering
+Testing and Commissioning,Testing & commissioning,1,1,pool_cv,CV-094,False,False,True,False,testing and commissioning
+Retro-commissioning,Retro-commissioning,1,1,pool_cv,CV-094,False,False,True,False,retro-commissioning
+Healthcare and Mission-critical Facilitie,Healthcare & mission-critical facilities,1,1,pool_cv,CV-094,False,False,True,False,healthcare and mission-critical facilitie
+Energy and Carbon Analytics,Energy & carbon analytics,1,1,pool_cv,CV-094,False,False,True,False,energy and carbon analytics
+Esg Reporting,ESG reporting,1,1,pool_cv,CV-094,False,False,True,False,esg reporting
+Statutory Compliance,Statutory compliance,1,1,pool_cv,CV-094,False,False,True,False,statutory compliance
+Bim Management,BIM Management,1,1,pool_cv,CV-094,False,False,False,True,bim management
+Cde,CDE,1,1,pool_cv,CV-094,False,False,False,True,cde
+Building Service,building services,1,1,pool_cv,CV-094,False,False,False,False,building service
+District Cooling,district cooling,1,1,pool_cv,CV-094,False,False,False,False,district cooling
+Healthcare Facilitie,healthcare facilities,1,1,pool_cv,CV-094,False,False,False,False,healthcare facilitie
+Digital Twin,digital twin,1,1,pool_cv,CV-094,False,False,False,False,digital twin
+Platform Leadership,Platform leadership,1,1,pool_cv,CV-094,False,False,False,False,platform leadership
+Product Strategy,Product Strategy,1,1,pool_cv,CV-094,False,False,False,False,product strategy
+Sports-venue-management,sports-venue-management,1,1,pool_cv,CV-095,False,False,False,False,sports-venue-management
+Technical Scoping,technical scoping,1,1,pool_cv,CV-095,False,False,False,False,technical scoping
+Jsf,JSF,1,1,pool_cv,CV-096,False,False,True,False,jsf
+Jbpm,JBPM,1,1,pool_cv,CV-096,False,False,True,False,jbpm
+Fraud Detection,fraud detection,1,1,pool_cv,CV-096,False,False,False,False,fraud detection
+Product Roadmap Development,product roadmap development,1,1,pool_cv,CV-097,False,False,True,False,product roadmap development
+Payment,payment,1,1,pool_cv,CV-097,False,False,True,False,payment
+Product Management,Product Management,1,1,pool_cv,CV-097,False,False,True,False,product management
+Seller Workflow,seller workflows,1,1,pool_cv,CV-097,False,False,True,False,seller workflow
+Logistics Integration,logistics integration,1,1,pool_cv,CV-097,False,False,True,False,logistics integration
+3pl Shipping,3PL shipping,1,1,pool_cv,CV-097,False,False,True,False,3pl shipping
+Sprints,sprints,1,1,pool_cv,CV-097,False,False,True,False,sprints
+Content Management,Content Management,1,1,pool_cv,CV-097,False,False,True,False,content management
+Organizational Growth,organizational growth,1,1,pool_cv,CV-097,False,False,True,False,organizational growth
+Efficiency,efficiency,1,1,pool_cv,CV-097,False,False,True,False,efficiency
+Monetization,monetization,1,1,pool_cv,CV-097,False,False,True,False,monetization
+Data Entry,Data Entry,1,1,pool_cv,CV-098,False,False,True,False,data entry
+Record Keeping,Record Keeping,1,1,pool_cv,CV-098,False,False,True,False,record keeping
+Order Processing,Order Processing,1,1,pool_cv,CV-098,False,False,True,False,order processing
+Quality Check,Quality Checks,1,1,pool_cv,CV-098,False,False,True,False,quality check
+Coordination,Coordination,1,1,pool_cv,CV-098,False,False,True,False,coordination
+Workflow Management,Workflow Management,1,1,pool_cv,CV-098,False,False,True,False,workflow management
+Sop Development,SOP Development,1,1,pool_cv,CV-098,False,False,True,False,sop development
+Meta Business Suite,Meta Business Suite,1,1,pool_cv,CV-098,False,False,True,False,meta business suite
+Woocommerce,WooCommerce,1,1,pool_cv,CV-098,False,False,False,True,woocommerce
+Bukku,Bukku,1,1,pool_cv,CV-098,False,False,False,True,bukku
+Ai-assisted Workflow,AI-assisted workflows,1,1,pool_cv,CV-098,False,False,False,True,ai-assisted workflow
+Business Strategy,Business Strategy,1,1,pool_cv,CV-099,False,False,True,False,business strategy
+Operations Management,Operations Management,1,1,pool_cv,CV-099,False,False,True,False,operations management
+B2B Marketing,B2B Marketing,1,1,pool_cv,CV-099,False,False,True,False,b2b marketing
+Strategic Consulting,Strategic Consulting,1,1,pool_cv,CV-099,False,False,True,False,strategic consulting
+Ai Transformation,AI Transformation,1,1,pool_cv,CV-099,False,False,True,False,ai transformation
+Multi-model Orchestration,Multi-model orchestration,1,1,pool_cv,CV-100,False,False,True,False,multi-model orchestration
+Anti-fabrication Check,anti-fabrication checks,1,1,pool_cv,CV-100,False,False,True,False,anti-fabrication check
+Web-search-grounded Generation,web-search-grounded generation,1,1,pool_cv,CV-100,False,False,True,False,web-search-grounded generation
+Structured Extraction,structured extraction,1,1,pool_cv,CV-100,False,False,True,False,structured extraction
+Vercel,Vercel,1,1,pool_cv,CV-100,False,False,True,False,vercel
+Cloudflare Dns,Cloudflare DNS,1,1,pool_cv,CV-100,False,False,True,False,cloudflare dns
+Spf Dkim Dmarc,SPF/DKIM/DMARC,1,1,pool_cv,CV-100,False,False,True,False,spf dkim dmarc
+B2B Sales and Outreach,B2B sales and outreach,1,1,pool_cv,CV-100,False,False,True,False,b2b sales and outreach
+Market and Competitive Research,market and competitive research,1,1,pool_cv,CV-100,False,False,True,False,market and competitive research
+Conversational Ai,conversational AI,1,1,unlabelled_jd,JD-001,True,False,False,False,conversational ai
+Vertex Ai,Vertex AI,1,1,unlabelled_jd,JD-001,True,False,False,False,vertex ai
+Google Cloud Vertex Ai,Google Cloud Vertex AI,1,1,unlabelled_jd,JD-001,False,False,False,True,google cloud vertex ai
+Software Engineering,software engineering,1,1,unlabelled_jd,JD-001,False,False,False,False,software engineering
+Distributed Training,distributed training,1,1,unlabelled_jd,JD-002,True,False,False,False,distributed training
+Large-scale Model,large-scale models,1,1,unlabelled_jd,JD-002,True,False,False,False,large-scale model
+Training Dynamics,training dynamics,1,1,unlabelled_jd,JD-002,True,False,False,False,training dynamics
+Logging Tool,logging tools,1,1,unlabelled_jd,JD-002,True,False,False,False,logging tool
+Checkpointing System,checkpointing systems,1,1,unlabelled_jd,JD-002,True,False,False,False,checkpointing system
+Diffusion Model,diffusion models,1,1,unlabelled_jd,JD-002,False,True,False,False,diffusion model
+Torchscript,TorchScript,1,1,unlabelled_jd,JD-002,False,True,False,False,torchscript
+Weights and Biase,Weights & Biases,1,1,unlabelled_jd,JD-002,False,False,False,True,weights and biase
+Tensorboard,TensorBoard,1,1,unlabelled_jd,JD-002,False,False,False,True,tensorboard
+Engineering Rigor,engineering rigor,1,1,unlabelled_jd,JD-002,False,False,False,False,engineering rigor
+Open-source Contribution,open-source contributions,1,1,unlabelled_jd,JD-002,False,False,False,False,open-source contribution
+Data Role,data roles,1,1,unlabelled_jd,JD-003,True,False,False,False,data role
+Dimensional Modeling,dimensional modeling,1,1,unlabelled_jd,JD-003,True,False,False,False,dimensional modeling
+Governance Framework,governance frameworks,1,1,unlabelled_jd,JD-003,True,False,False,False,governance framework
+Statistics,Statistics,1,1,unlabelled_jd,JD-003,False,True,False,False,statistics
+Model Monitoring Framework,model monitoring frameworks,1,1,unlabelled_jd,JD-005,False,True,False,False,model monitoring framework
+Cloud Technology,cloud technology,1,1,unlabelled_jd,JD-005,False,False,False,False,cloud technology
+Analytical Thinking,analytical thinking,1,1,unlabelled_jd,JD-005,False,False,False,False,analytical thinking
+Learning New Technologie,learning new technologies,1,1,unlabelled_jd,JD-006,False,False,False,False,learning new technologie
+Ml Workflow,ML workflows,1,1,unlabelled_jd,JD-007,True,False,False,False,ml workflow
+Sagemaker,Sagemaker,1,1,unlabelled_jd,JD-007,False,True,False,False,sagemaker
+Athena,Athena,1,1,unlabelled_jd,JD-007,False,False,False,True,athena
+Glue,Glue,1,1,unlabelled_jd,JD-007,False,False,False,True,glue
+Looker,Looker,1,1,unlabelled_jd,JD-007,False,False,False,True,looker
+Ai-driven Content Creation,AI-driven content creation,1,1,unlabelled_jd,JD-008,True,False,False,False,ai-driven content creation
+Mobile Performance,mobile performance,1,1,unlabelled_jd,JD-009,True,False,False,False,mobile performance
+Video Ads,video ads,1,1,unlabelled_jd,JD-009,True,False,False,False,video ads
+3d Character,3D characters,1,1,unlabelled_jd,JD-009,False,True,False,False,3d character
+Vfx,VFX,1,1,unlabelled_jd,JD-009,False,True,False,False,vfx
+Storyboards,storyboards,1,1,unlabelled_jd,JD-009,False,True,False,False,storyboards
+Creative Strategy,creative strategy,1,1,unlabelled_jd,JD-009,False,False,False,False,creative strategy
+Mobile Game,mobile games,1,1,unlabelled_jd,JD-009,False,False,False,False,mobile game
+Cross-department Collaboration,cross-department collaboration,1,1,unlabelled_jd,JD-009,False,False,False,False,cross-department collaboration
+3d Design,3D design,1,1,unlabelled_jd,JD-010,False,True,False,False,3d design
+Aigc Tool,AIGC tools,1,1,unlabelled_jd,JD-010,False,True,False,False,aigc tool
+Stable Diffusion,Stable Diffusion,1,1,unlabelled_jd,JD-010,False,True,False,False,stable diffusion
+Coding Education,coding education,1,1,unlabelled_jd,JD-010,False,False,False,False,coding education
+Developer Tool,developer tools,1,1,unlabelled_jd,JD-010,False,False,False,False,developer tool
+User Research,User Research,1,1,unlabelled_jd,JD-010,False,False,False,False,user research
+Creative Media,creative media,1,1,unlabelled_jd,JD-011,True,False,False,False,creative media
+Cms Tool,CMS tools,1,1,unlabelled_jd,JD-011,False,True,False,False,cms tool
+Cross-cultural Design,cross-cultural design,1,1,unlabelled_jd,JD-011,False,True,False,False,cross-cultural design
+Design Trend,design trends,1,1,unlabelled_jd,JD-011,False,False,False,False,design trend
+Creativity,creativity,1,1,unlabelled_jd,JD-011,False,False,False,False,creativity
+Proactivity,proactivity,1,1,unlabelled_jd,JD-011,False,False,False,False,proactivity
+Wireframes,wireframes,1,1,unlabelled_jd,JD-012,True,False,False,False,wireframes
+User Storie,user stories,1,1,unlabelled_jd,JD-012,True,False,False,False,user storie
+User Journey,user journeys,1,1,unlabelled_jd,JD-012,True,False,False,False,user journey
+Mockups,mockups,1,1,unlabelled_jd,JD-012,True,False,False,False,mockups
+Digital Product,digital products,1,1,unlabelled_jd,JD-012,True,False,False,False,digital product
+User-centered Design,user-centered design,1,1,unlabelled_jd,JD-012,True,False,False,False,user-centered design
+Mobile-first Design,mobile-first design,1,1,unlabelled_jd,JD-012,True,False,False,False,mobile-first design
+Prototyping Tool,prototyping tools,1,1,unlabelled_jd,JD-012,False,True,False,False,prototyping tool
+Financial Services Industry,financial services industry,1,1,unlabelled_jd,JD-012,False,True,False,False,financial services industry
+Consumer Behavior,consumer behavior,1,1,unlabelled_jd,JD-012,False,True,False,False,consumer behavior
+Accessibility Testing,accessibility testing,1,1,unlabelled_jd,JD-013,True,False,False,False,accessibility testing
+Ci Cd Integration,CI/CD integration,1,1,unlabelled_jd,JD-013,True,False,False,False,ci cd integration
+Performance Testing Tool,performance testing tools,1,1,unlabelled_jd,JD-013,False,True,False,False,performance testing tool
+Wcag,WCAG,1,1,unlabelled_jd,JD-013,False,False,False,True,wcag
+UX Design,UX design,1,1,unlabelled_jd,JD-013,False,False,False,False,ux design
+Quality Evangelism,quality evangelism,1,1,unlabelled_jd,JD-013,False,False,False,False,quality evangelism
+Developer Coaching,developer coaching,1,1,unlabelled_jd,JD-013,False,False,False,False,developer coaching
+Design System Health,design system health,1,1,unlabelled_jd,JD-013,False,False,False,False,design system health
+Infrastructure-as-code,Infrastructure-as-Code,1,1,unlabelled_jd,JD-014,True,False,False,False,infrastructure-as-code
+AWS Certification,AWS certifications,1,1,unlabelled_jd,JD-014,False,True,False,False,aws certification
+AWS Cloudformation,AWS CloudFormation,1,1,unlabelled_jd,JD-014,False,False,False,True,aws cloudformation
+Gpu-based Workload,GPU-based workloads,1,1,unlabelled_jd,JD-015,False,True,False,False,gpu-based workload
+Model Training,model training,1,1,unlabelled_jd,JD-015,False,True,False,False,model training
+Edge Compute Orchestration,edge compute orchestration,1,1,unlabelled_jd,JD-015,False,True,False,False,edge compute orchestration
+Mediasoup,Mediasoup,1,1,unlabelled_jd,JD-015,False,True,False,False,mediasoup
+Multimodal Foundation Model,multimodal foundation models,1,1,unlabelled_jd,JD-015,False,False,False,False,multimodal foundation model
+Hardware-in-the-loop Simulation,hardware-in-the-loop simulation,1,1,unlabelled_jd,JD-015,False,False,False,False,hardware-in-the-loop simulation
+Tdd,TDD,1,1,unlabelled_jd,JD-016,True,False,False,False,tdd
+Svelte,Svelte,1,1,unlabelled_jd,JD-016,False,True,False,False,svelte
+Scalability,scalability,1,1,unlabelled_jd,JD-016,False,False,False,False,scalability
+M365 Administration,M365 Administration,1,1,unlabelled_jd,JD-017,True,False,False,False,m365 administration
+Microsoft 365,Microsoft 365,1,1,unlabelled_jd,JD-017,False,False,False,True,microsoft 365
+Software,software,1,1,unlabelled_jd,JD-017,False,False,False,True,software
+It Support,IT Support,1,1,unlabelled_jd,JD-017,False,False,False,False,it support
+Service Desk,Service Desk,1,1,unlabelled_jd,JD-017,False,False,False,False,service desk
+System Customization,system customization,1,1,unlabelled_jd,JD-018,True,False,False,False,system customization
+Technical Solution,technical solutions,1,1,unlabelled_jd,JD-018,True,False,False,False,technical solution
+Accounting Industry,accounting industry,1,1,unlabelled_jd,JD-018,False,True,False,False,accounting industry
+Bi,bi,1,1,unlabelled_jd,JD-018,False,False,False,True,bi
+Analytical Abilitie,analytical abilities,1,1,unlabelled_jd,JD-018,False,False,False,False,analytical abilitie
+Bachelor S Degree Computer Science,Bachelor's degree Computer Science,1,1,unlabelled_jd,JD-019,False,True,False,False,bachelor s degree computer science
+Aruba Certification,Aruba certification,1,1,unlabelled_jd,JD-019,False,True,False,False,aruba certification
+Mandarin,Mandarin,1,1,unlabelled_jd,JD-019,False,True,False,False,mandarin
+Imanage,iManage,1,1,unlabelled_jd,JD-019,False,False,False,True,imanage
+Wifi,WiFi,1,1,unlabelled_jd,JD-019,False,False,False,False,wifi
+Team Player,team player,1,1,unlabelled_jd,JD-019,False,False,False,False,team player
+Judgment,judgment,1,1,unlabelled_jd,JD-019,False,False,False,False,judgment
+Systems Programming,systems programming,1,1,unlabelled_jd,JD-020,True,False,False,False,systems programming
+Async Programming,async programming,1,1,unlabelled_jd,JD-020,True,False,False,False,async programming
+Blockchain Concept,blockchain concepts,1,1,unlabelled_jd,JD-020,True,False,False,False,blockchain concept
+Cryptographic Method,cryptographic methods,1,1,unlabelled_jd,JD-020,True,False,False,False,cryptographic method
+Oauth,OAuth,1,1,unlabelled_jd,JD-020,False,True,False,False,oauth
+Openid,OpenID,1,1,unlabelled_jd,JD-020,False,True,False,False,openid
+Did,DID,1,1,unlabelled_jd,JD-020,False,True,False,False,did
+Verifiable Credential,Verifiable Credentials,1,1,unlabelled_jd,JD-020,False,True,False,False,verifiable credential
+Smart Contract,smart contracts,1,1,unlabelled_jd,JD-020,False,True,False,False,smart contract
+Identity System,identity systems,1,1,unlabelled_jd,JD-020,False,False,False,False,identity system
+Autonomous Mobile Robot,autonomous mobile robots,1,1,unlabelled_jd,JD-021,True,False,False,False,autonomous mobile robot
+Pcb Schematics,PCB schematics,1,1,unlabelled_jd,JD-021,True,False,False,False,pcb schematics
+Circuit Schematics,circuit schematics,1,1,unlabelled_jd,JD-021,False,True,False,False,circuit schematics
+Electrical Line Diagram,electrical line diagrams,1,1,unlabelled_jd,JD-021,False,True,False,False,electrical line diagram
+Multimeter,multimeter,1,1,unlabelled_jd,JD-021,False,True,False,False,multimeter
+Oscilloscope,oscilloscope,1,1,unlabelled_jd,JD-021,False,True,False,False,oscilloscope
+Industrial Automation,industrial automation,1,1,unlabelled_jd,JD-021,False,False,False,False,industrial automation
+Self-motivation,self-motivation,1,1,unlabelled_jd,JD-021,False,False,False,False,self-motivation
+Detail-oriented,detail-oriented,1,1,unlabelled_jd,JD-021,False,False,False,False,detail-oriented
+Backend Development,backend development,1,1,unlabelled_jd,JD-022,True,False,False,False,backend development
+Mixpanel,Mixpanel,1,1,unlabelled_jd,JD-022,False,True,False,False,mixpanel
+Payment Gateway Integration,payment gateway integrations,1,1,unlabelled_jd,JD-022,False,True,False,False,payment gateway integration
+Tango,Tango,1,1,unlabelled_jd,JD-022,False,True,False,False,tango
+Bmi,BMI,1,1,unlabelled_jd,JD-022,False,True,False,False,bmi
+Zinc,Zinc,1,1,unlabelled_jd,JD-022,False,True,False,False,zinc
+Games,games,1,1,unlabelled_jd,JD-022,False,False,False,False,games
+Planning,planning,1,1,unlabelled_jd,JD-022,False,False,False,False,planning
+Software Architecture,software architecture,1,1,unlabelled_jd,JD-023,True,False,False,False,software architecture
+Design Pattern,design patterns,1,1,unlabelled_jd,JD-023,True,False,False,False,design pattern
+Agile Environment,Agile environments,1,1,unlabelled_jd,JD-023,True,False,False,False,agile environment
+Startup Culture,startup culture,1,1,unlabelled_jd,JD-023,False,True,False,False,startup culture
+Client-facing Role,client-facing roles,1,1,unlabelled_jd,JD-023,False,True,False,False,client-facing role
+Low-latency System,low-latency systems,1,1,unlabelled_jd,JD-023,False,True,False,False,low-latency system
+High-performance Code Optimization,high-performance code optimization,1,1,unlabelled_jd,JD-023,False,True,False,False,high-performance code optimization
+Devops Tool,DevOps tools,1,1,unlabelled_jd,JD-023,False,False,False,True,devops tool
+Non-standard Project,non-standard projects,1,1,unlabelled_jd,JD-024,False,True,False,False,non-standard project
+A-grade Project,A-grade projects,1,1,unlabelled_jd,JD-024,False,True,False,False,a-grade project
+Dispensing System,dispensing systems,1,1,unlabelled_jd,JD-024,False,True,False,False,dispensing system
+3c Automation,3C automation,1,1,unlabelled_jd,JD-024,False,True,False,False,3c automation
+Linkage Mechanism,linkage mechanisms,1,1,unlabelled_jd,JD-024,False,True,False,False,linkage mechanism
+Tolerance Analysis,tolerance analysis,1,1,unlabelled_jd,JD-024,False,True,False,False,tolerance analysis
+Overseas Posting Experience,overseas posting experience,1,1,unlabelled_jd,JD-024,False,True,False,False,overseas posting experience
+Fluent in Chinese English,fluent in Chinese/English,1,1,unlabelled_jd,JD-024,False,True,False,False,fluent in chinese english
+Creative Thinking,creative thinking,1,1,unlabelled_jd,JD-024,False,False,False,False,creative thinking
+Proactive Attitude,proactive attitude,1,1,unlabelled_jd,JD-024,False,False,False,False,proactive attitude
+Execution,execution,1,1,unlabelled_jd,JD-024,False,False,False,False,execution
+Infrastructure Architecture,infrastructure architecture,1,1,unlabelled_jd,JD-025,False,False,False,False,infrastructure architecture
+Cloud Architecture,cloud architecture,1,1,unlabelled_jd,JD-026,True,False,False,False,cloud architecture
+Solution Selling,solution selling,1,1,unlabelled_jd,JD-026,True,False,False,False,solution selling
+Containerization,containerization,1,1,unlabelled_jd,JD-026,True,False,False,False,containerization
+Multi-cloud,multi-cloud,1,1,unlabelled_jd,JD-026,False,True,False,False,multi-cloud
+Ai Ml,AI/ML,1,1,unlabelled_jd,JD-026,False,True,False,False,ai ml
+Devsecops,DevSecOps,1,1,unlabelled_jd,JD-026,False,True,False,False,devsecops
+Consultative Engagement,consultative engagement,1,1,unlabelled_jd,JD-026,False,False,False,False,consultative engagement
+API Platform,API Platform,1,1,unlabelled_jd,JD-027,True,False,False,False,api platform
+API Architecture,API architecture,1,1,unlabelled_jd,JD-027,False,False,False,False,api architecture
+Cpa,CPA,1,1,unlabelled_jd,JD-029,False,True,False,False,cpa
+Acca,ACCA,1,1,unlabelled_jd,JD-029,False,True,False,False,acca
+Cfa,CFA,1,1,unlabelled_jd,JD-029,False,True,False,False,cfa
+Stakeholder Influence,stakeholder influence,1,1,unlabelled_jd,JD-029,False,False,False,False,stakeholder influence
+Additional Language Skill,additional language skills,1,1,unlabelled_jd,JD-030,False,True,False,False,additional language skill
+Leadership Experience,leadership experience,1,1,unlabelled_jd,JD-030,False,True,False,False,leadership experience
+Extracurricular Involvement,extracurricular involvement,1,1,unlabelled_jd,JD-030,False,True,False,False,extracurricular involvement
+Tax Audit,tax audit,1,1,unlabelled_jd,JD-031,True,False,False,False,tax audit
+Transfer Pricing Documentation,transfer pricing documentation,1,1,unlabelled_jd,JD-031,True,False,False,False,transfer pricing documentation
+Government Connection,government connections,1,1,unlabelled_jd,JD-031,True,False,False,False,government connection
+Technical Vision,technical vision,1,1,unlabelled_jd,JD-032,True,False,False,False,technical vision
+Engineering Leadership,engineering leadership,1,1,unlabelled_jd,JD-032,True,False,False,False,engineering leadership
+Ai Strategie,AI strategies,1,1,unlabelled_jd,JD-032,True,False,False,False,ai strategie
+Devops Processe,DevOps processes,1,1,unlabelled_jd,JD-032,True,False,False,False,devops processe
+Ml Experience,ML experience,1,1,unlabelled_jd,JD-032,False,True,False,False,ml experience
+Backend System,backend systems,1,1,unlabelled_jd,JD-032,False,False,False,False,backend system
+Distributed Architecture,distributed architecture,1,1,unlabelled_jd,JD-032,False,False,False,False,distributed architecture
+Financial Control,financial control,1,1,unlabelled_jd,JD-033,True,False,False,False,financial control
+Quality Control Management,quality control management,1,1,unlabelled_jd,JD-033,True,False,False,False,quality control management
+Lean Manufacturing,lean manufacturing,1,1,unlabelled_jd,JD-033,True,False,False,False,lean manufacturing
+Machining Plants in Vietnam,machining plants in Vietnam,1,1,unlabelled_jd,JD-033,False,True,False,False,machining plants in vietnam
+Client Network,client networks,1,1,unlabelled_jd,JD-033,False,True,False,False,client network
+Customer Management,customer management,1,1,unlabelled_jd,JD-033,False,True,False,False,customer management
+Succession Planning,succession planning,1,1,unlabelled_jd,JD-033,False,True,False,False,succession planning
+Machining,machining,1,1,unlabelled_jd,JD-033,False,False,False,False,machining
+Semiconductors,semiconductors,1,1,unlabelled_jd,JD-033,False,False,False,False,semiconductors
+New Energy,new energy,1,1,unlabelled_jd,JD-033,False,False,False,False,new energy
+Cross-departmental Coordination,cross-departmental coordination,1,1,unlabelled_jd,JD-033,False,False,False,False,cross-departmental coordination
+Marketplace Experience,marketplace experience,1,1,unlabelled_jd,JD-034,True,False,False,False,marketplace experience
+Performance Reporting,performance reporting,1,1,unlabelled_jd,JD-034,True,False,False,False,performance reporting
+Brand Profitability,brand profitability,1,1,unlabelled_jd,JD-034,True,False,False,False,brand profitability
+Analytical Capabilitie,analytical capabilities,1,1,unlabelled_jd,JD-034,False,False,False,False,analytical capabilitie
+Results-driven,results-driven,1,1,unlabelled_jd,JD-034,False,False,False,False,results-driven
+Omnichannel Marketing,omnichannel marketing,1,1,unlabelled_jd,JD-035,True,False,False,False,omnichannel marketing
+Media Planning,media planning,1,1,unlabelled_jd,JD-035,True,False,False,False,media planning
+Team Development,team development,1,1,unlabelled_jd,JD-035,True,False,False,False,team development
+Strategic Leadership,strategic leadership,1,1,unlabelled_jd,JD-035,True,False,False,False,strategic leadership
+Master S Degree,Master's degree,1,1,unlabelled_jd,JD-035,False,True,False,False,master s degree
+Health and Beauty,health and beauty,1,1,unlabelled_jd,JD-035,False,False,False,False,health and beauty
+Agentic Ai,agentic AI,1,1,unlabelled_jd,JD-036,True,False,False,False,agentic ai
+Chatbots,chatbots,1,1,unlabelled_jd,JD-036,True,False,False,False,chatbots
+Virtual Assistant,virtual assistants,1,1,unlabelled_jd,JD-036,True,False,False,False,virtual assistant
+Martech,MarTech,1,1,unlabelled_jd,JD-036,False,False,False,False,martech
+Loan Product,loan products,1,1,unlabelled_jd,JD-036,False,False,False,False,loan product
+Credit Card Product,credit card products,1,1,unlabelled_jd,JD-036,False,False,False,False,credit card product
+Business Insight,business insight,1,1,unlabelled_jd,JD-036,False,False,False,False,business insight
+Team-oriented,team-oriented,1,1,unlabelled_jd,JD-036,False,False,False,False,team-oriented
+Independent Operation,independent operation,1,1,unlabelled_jd,JD-036,False,False,False,False,independent operation
+Product Positioning,product positioning,1,1,unlabelled_jd,JD-037,True,False,False,False,product positioning
+Campaign Execution,campaign execution,1,1,unlabelled_jd,JD-037,True,False,False,False,campaign execution
+Startup,startup,1,1,unlabelled_jd,JD-037,False,True,False,False,startup
+Entrepreneurial Spirit,entrepreneurial spirit,1,1,unlabelled_jd,JD-037,False,True,False,False,entrepreneurial spirit
+Interior Design,interior design,1,1,unlabelled_jd,JD-037,False,False,False,False,interior design
+Resourcefulness,resourcefulness,1,1,unlabelled_jd,JD-037,False,False,False,False,resourcefulness
+Analytics Tool,analytics tools,1,1,unlabelled_jd,JD-038,False,True,False,False,analytics tool
+Additional Language,additional languages,1,1,unlabelled_jd,JD-038,False,True,False,False,additional language
+Innovation,innovation,1,1,unlabelled_jd,JD-038,False,False,False,False,innovation
+Analysis,analysis,1,1,unlabelled_jd,JD-038,False,False,False,False,analysis
+Vendor Management,vendor management,1,1,unlabelled_jd,JD-039,True,False,False,False,vendor management
+Cost Control,cost control,1,1,unlabelled_jd,JD-039,True,False,False,False,cost control
+Cips,CIPS,1,1,unlabelled_jd,JD-039,False,True,False,False,cips
+Cilt,CILT,1,1,unlabelled_jd,JD-039,False,True,False,False,cilt
+Administration,administration,1,1,unlabelled_jd,JD-039,False,True,False,False,administration
+Company Secretarial Matter,company secretarial matters,1,1,unlabelled_jd,JD-039,False,True,False,False,company secretarial matter
+Business Management,business management,1,1,unlabelled_jd,JD-039,False,False,False,False,business management
+Engineering,engineering,1,1,unlabelled_jd,JD-039,False,False,False,False,engineering
+Business,business,1,1,unlabelled_jd,JD-040,False,False,False,False,business
+Client-oriented,client-oriented,1,1,unlabelled_jd,JD-040,False,False,False,False,client-oriented
+Sourcing Candidate,sourcing candidates,1,1,unlabelled_jd,JD-041,True,False,False,False,sourcing candidate
+Employer Branding,employer branding,1,1,unlabelled_jd,JD-041,True,False,False,False,employer branding
+Candidate Experience,candidate experience,1,1,unlabelled_jd,JD-041,True,False,False,False,candidate experience
+Screening Call,screening calls,1,1,unlabelled_jd,JD-041,True,False,False,False,screening call
+Offer Management,offer management,1,1,unlabelled_jd,JD-041,True,False,False,False,offer management
+Pre-boarding,pre-boarding,1,1,unlabelled_jd,JD-041,True,False,False,False,pre-boarding
+Onboarding Process,onboarding process,1,1,unlabelled_jd,JD-041,True,False,False,False,onboarding process
+Talent Acquisition,Talent Acquisition,1,1,unlabelled_jd,JD-041,False,False,False,False,talent acquisition
+Rapport Building,rapport building,1,1,unlabelled_jd,JD-041,False,False,False,False,rapport building
+Verbal Communication,verbal communication,1,1,unlabelled_jd,JD-041,False,False,False,False,verbal communication
+Written Communication,written communication,1,1,unlabelled_jd,JD-041,False,False,False,False,written communication
+Travel Administration,travel administration,1,1,unlabelled_jd,JD-042,True,False,False,False,travel administration
+Booking Travel,booking travel,1,1,unlabelled_jd,JD-042,True,False,False,False,booking travel
+Car Booking,car bookings,1,1,unlabelled_jd,JD-042,True,False,False,False,car booking
+Organization,organization,1,1,unlabelled_jd,JD-042,False,False,False,False,organization
+Independence,independence,1,1,unlabelled_jd,JD-042,False,False,False,False,independence
+Initiative,initiative,1,1,unlabelled_jd,JD-042,False,False,False,False,initiative
+Client Engagement,client engagement,1,1,unlabelled_jd,JD-043,True,False,False,False,client engagement
+Regulatory Framework,regulatory frameworks,1,1,unlabelled_jd,JD-043,False,True,False,False,regulatory framework
+Strategic Alliance,strategic alliances,1,1,unlabelled_jd,JD-043,False,True,False,False,strategic alliance
+Vendor Relationship,vendor relationships,1,1,unlabelled_jd,JD-043,False,True,False,False,vendor relationship
+Teams,Teams,1,1,unlabelled_jd,JD-043,False,False,False,True,teams
+It Systems Integration,IT systems integration,1,1,unlabelled_jd,JD-043,False,False,False,False,it systems integration
+Malaysia It Regulation,Malaysia IT regulations,1,1,unlabelled_jd,JD-043,False,False,False,False,malaysia it regulation
+Self-driven,self-driven,1,1,unlabelled_jd,JD-043,False,False,False,False,self-driven
+Commercial Banking,commercial banking,1,1,unlabelled_jd,JD-044,True,False,False,False,commercial banking
+Sme Lending,SME lending,1,1,unlabelled_jd,JD-044,True,False,False,False,sme lending
+Relationship Management,relationship management,1,1,unlabelled_jd,JD-044,True,False,False,False,relationship management
+Financial Sales,financial sales,1,1,unlabelled_jd,JD-044,True,False,False,False,financial sales
+Credit Principle,credit principles,1,1,unlabelled_jd,JD-044,True,False,False,False,credit principle
+Broker Network,broker network,1,1,unlabelled_jd,JD-044,False,True,False,False,broker network
+Referral Agent,referral agents,1,1,unlabelled_jd,JD-044,False,True,False,False,referral agent
+Sme Client,SME clients,1,1,unlabelled_jd,JD-044,False,True,False,False,sme client
+Smes,SMEs,1,1,unlabelled_jd,JD-044,False,False,False,False,smes
+Account Planning,account planning,1,1,unlabelled_jd,JD-045,True,False,False,False,account planning
+Stress Management,stress management,1,1,unlabelled_jd,JD-045,False,False,False,False,stress management
+B2B International Sales,B2B international sales,1,1,unlabelled_jd,JD-046,True,False,False,False,b2b international sales
+Sales Management,sales management,1,1,unlabelled_jd,JD-046,True,False,False,False,sales management
+North American Region,North American region,1,1,unlabelled_jd,JD-046,True,False,False,False,north american region
+High-level Negotiation,high-level negotiations,1,1,unlabelled_jd,JD-046,True,False,False,False,high-level negotiation
+Cross-departmental Collaboration,cross-departmental collaboration,1,1,unlabelled_jd,JD-046,True,False,False,False,cross-departmental collaboration
+Large-scale Project Contract,large-scale project contracts,1,1,unlabelled_jd,JD-046,False,True,False,False,large-scale project contract
+Performance Pressure,performance pressure,1,1,unlabelled_jd,JD-046,False,True,False,False,performance pressure
+Negotiations,negotiations,1,1,unlabelled_jd,JD-046,False,False,False,False,negotiations
+Technical Team,technical team,1,1,unlabelled_jd,JD-047,False,True,False,False,technical team
+Distributors,distributors,1,1,unlabelled_jd,JD-047,False,True,False,False,distributors
+Enthusiasm,enthusiasm,1,1,unlabelled_jd,JD-047,False,False,False,False,enthusiasm
+Dynamic,dynamic,1,1,unlabelled_jd,JD-047,False,False,False,False,dynamic
+Passionate,passionate,1,1,unlabelled_jd,JD-047,False,False,False,False,passionate
+Self Organization,self organization,1,1,unlabelled_jd,JD-047,False,False,False,False,self organization
+Goal Setting,goal setting,1,1,unlabelled_jd,JD-047,False,False,False,False,goal setting
+Discipline,discipline,1,1,unlabelled_jd,JD-047,False,False,False,False,discipline
+Listening,listening,1,1,unlabelled_jd,JD-047,False,False,False,False,listening
+Client Acquisition,client acquisition,1,1,unlabelled_jd,JD-048,True,False,False,False,client acquisition
+Project Handover,project handover,1,1,unlabelled_jd,JD-048,True,False,False,False,project handover
+Payment Collection,payment collection,1,1,unlabelled_jd,JD-048,True,False,False,False,payment collection
+Bidding Process,bidding process,1,1,unlabelled_jd,JD-048,True,False,False,False,bidding process
+Qualification Document,qualification documents,1,1,unlabelled_jd,JD-048,True,False,False,False,qualification document
+Design Proposal,design proposals,1,1,unlabelled_jd,JD-048,True,False,False,False,design proposal
+Quotations,quotations,1,1,unlabelled_jd,JD-048,True,False,False,False,quotations
+Follow-ups,follow-ups,1,1,unlabelled_jd,JD-048,True,False,False,False,follow-ups
+Post-sales Issue,post-sales issues,1,1,unlabelled_jd,JD-048,True,False,False,False,post-sales issue
+Commercial Fit-out Industry,commercial fit-out industry,1,1,unlabelled_jd,JD-048,True,False,False,False,commercial fit-out industry
+Mep Fit-out Project,MEP fit-out projects,1,1,unlabelled_jd,JD-048,True,False,False,False,mep fit-out project
+Commercial Fit-out,commercial fit-out,1,1,unlabelled_jd,JD-048,False,False,False,False,commercial fit-out
+Mep Fit-out,MEP fit-out,1,1,unlabelled_jd,JD-048,False,False,False,False,mep fit-out
+Data Center,data centers,1,1,unlabelled_jd,JD-048,False,False,False,False,data center
+Interior Decoration,interior decoration,1,1,unlabelled_jd,JD-048,False,False,False,False,interior decoration
+Market Experience,market experience,1,1,unlabelled_jd,JD-048,False,False,False,False,market experience
+Stakeholder Coordination,stakeholder coordination,1,1,unlabelled_jd,JD-048,False,False,False,False,stakeholder coordination
+Pharmaceutical Sales,pharmaceutical sales,1,1,unlabelled_jd,JD-049,True,False,False,False,pharmaceutical sales
+Specialty Care,specialty care,1,1,unlabelled_jd,JD-049,True,False,False,False,specialty care
+Territory Action Plan,territory action plans,1,1,unlabelled_jd,JD-049,True,False,False,False,territory action plan
+Product Strategie,product strategies,1,1,unlabelled_jd,JD-049,True,False,False,False,product strategie
+Healthcare Professional,healthcare professionals,1,1,unlabelled_jd,JD-049,True,False,False,False,healthcare professional
+Sales Forecast,sales forecasts,1,1,unlabelled_jd,JD-049,True,False,False,False,sales forecast
+Market Insight,market insights,1,1,unlabelled_jd,JD-049,True,False,False,False,market insight
+Scientific Meeting,scientific meetings,1,1,unlabelled_jd,JD-049,True,False,False,False,scientific meeting
+Conferences,conferences,1,1,unlabelled_jd,JD-049,True,False,False,False,conferences
+Exhibitions,exhibitions,1,1,unlabelled_jd,JD-049,True,False,False,False,exhibitions
+Dermatology,dermatology,1,1,unlabelled_jd,JD-049,False,True,False,False,dermatology
+Rheumatology,rheumatology,1,1,unlabelled_jd,JD-049,False,True,False,False,rheumatology
+Immunology,immunology,1,1,unlabelled_jd,JD-049,False,False,False,False,immunology
+Presentation Skill,presentation skills,1,1,unlabelled_jd,JD-049,False,False,False,False,presentation skill
+Priority Management,priority management,1,1,unlabelled_jd,JD-049,False,False,False,False,priority management
+Capital Raising,capital raising,1,1,unlabelled_jd,JD-050,True,False,False,False,capital raising
+Fundraising,fundraising,1,1,unlabelled_jd,JD-050,True,False,False,False,fundraising
+Institutional Finance,institutional finance,1,1,unlabelled_jd,JD-050,False,True,False,False,institutional finance
+Crypto Fund,crypto funds,1,1,unlabelled_jd,JD-050,False,True,False,False,crypto fund
+Family Office,family offices,1,1,unlabelled_jd,JD-050,False,True,False,False,family office
+Crypto,crypto,1,1,unlabelled_jd,JD-050,False,False,False,False,crypto
+Target Achievement,target achievement,1,1,unlabelled_jd,JD-050,False,False,False,False,target achievement

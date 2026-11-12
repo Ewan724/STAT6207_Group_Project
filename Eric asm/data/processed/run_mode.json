@@ -1,0 +1,7 @@
+{
+  "run_mode": "real_data",
+  "data_source": "/Users/ngeric/Desktop/Deep learning/Asm4",
+  "data_source_name": "Asm4",
+  "reason": "Read-only corpus: CV PDFs, labelled JD+hired-CV PDFs and the Manatal workbook.",
+  "seed": 42
+}

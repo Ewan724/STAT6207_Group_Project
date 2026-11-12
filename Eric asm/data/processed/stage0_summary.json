@@ -1,0 +1,21 @@
+{
+  "data_root": "/Users/ngeric/Desktop/Deep learning/Asm4",
+  "run_mode": "real_data",
+  "pool_cvs": 100,
+  "gt_cvs": 10,
+  "gt_jds": 10,
+  "unlabelled_jds": 50,
+  "unique_candidates": 110,
+  "ground_truth_rows": 10,
+  "manifest_files": 112,
+  "alignment_rows": 100,
+  "alignment_title_matches": 100,
+  "alignment_company_matches": 100,
+  "dedupe_keep_new": 10,
+  "jd_dedupe_excluded": 2,
+  "leakage_checks": {
+    "hired_for_in_cv_text": 0,
+    "pxx_in_cv_text": 0,
+    "pxx_in_gt_cv_text": 0
+  }
+}

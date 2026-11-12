@@ -1,0 +1,63 @@
+{
+  "distance_threshold": 0.6,
+  "n_clusters_before_guardrail": 191,
+  "n_clusters": 196,
+  "n_terms": 1963,
+  "grid": [
+    {
+      "threshold": 0.3,
+      "n_clusters": 671
+    },
+    {
+      "threshold": 0.34,
+      "n_clusters": 549
+    },
+    {
+      "threshold": 0.38,
+      "n_clusters": 438
+    },
+    {
+      "threshold": 0.42,
+      "n_clusters": 365
+    },
+    {
+      "threshold": 0.46,
+      "n_clusters": 314
+    },
+    {
+      "threshold": 0.5,
+      "n_clusters": 269
+    },
+    {
+      "threshold": 0.55,
+      "n_clusters": 232
+    },
+    {
+      "threshold": 0.6,
+      "n_clusters": 191
+    }
+  ],
+  "embedding_method": "char-tfidf+svd",
+  "singleton_rate": 0.1173,
+  "silhouette_cosine": 0.3899,
+  "mean_coherence": 0.7168,
+  "guardrail_mixed_clusters": {
+    "Java__vs__JavaScript": 0,
+    "C__vs__C++": 0,
+    "C#__vs__C++": 0,
+    "React__vs__React Native": 0,
+    "SQL__vs__NoSQL": 0,
+    "MySQL__vs__SQL Server": 0,
+    "Microsoft Azure__vs__AWS": 0,
+    "Google Cloud Platform__vs__AWS": 0,
+    "Power BI__vs__Tableau": 0,
+    "WMS__vs__OMS": 0,
+    "UI__vs__UX": 0,
+    "Angular__vs__AngularJS": 0,
+    "TensorFlow__vs__PyTorch": 0,
+    "Docker__vs__Kubernetes": 0,
+    "ETL__vs__ELT": 0
+  },
+  "n_aliases": 291,
+  "training_documents": 148
+}

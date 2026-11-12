@@ -1,0 +1,17 @@
+{
+  "requested_documents": 170,
+  "success": 170,
+  "success_rate": 1.0,
+  "failed": 0,
+  "fallback": 0,
+  "mean_elapsed_sec": 27.62,
+  "total_elapsed_sec": 0.0,
+  "model": "qwen3.5:4b",
+  "primary_model_configured": "qwen3.5:4b",
+  "installed_models": [
+    "qwen3.5:4b",
+    "qwen3.8:27b",
+    "gemma4:26b"
+  ],
+  "workers": 2
+}

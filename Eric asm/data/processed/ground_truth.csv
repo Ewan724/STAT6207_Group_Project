@@ -1,0 +1,11 @@
+jd_id,jd_title,role_family,jd_location,jd_salary,hired_cv_id,hired_cv_title,hired_cv_company,source_pdf,notes
+P01,Regional Finance Controller,Finance & Legal,"Kuala Lumpur, Malaysia","MYR 25,000 / month",CAND-101,Regional Finance Manager,Cardia Bioplastics (Malaysia) Sdn Bhd,P01 - Regional Finance Controller.pdf,one relevant CV per JD; all other candidates are non-relevant
+P02,Sales Manager in Indonesia,Sales & BD,,"IDR 35,000,000 – 40,000,000 / month",CAND-102,Technical Sales Specialist,PT. Chemico Surabaya,P02 - Sales Manager in Indonesia.pdf,one relevant CV per JD; all other candidates are non-relevant
+P03,GTM Marketing Manager / Lead,Marketing,,,CAND-103,Head of Growth & Digital Transformation,Step Ahead,P03 - GTM Marketing Manager - Lead.pdf,one relevant CV per JD; all other candidates are non-relevant
+P04,Data Engineer,Data & AI,"Kuala Lumpur, Malaysia",,CAND-104,Data Engineer,BP,P04 - Data Engineer.pdf,one relevant CV per JD; all other candidates are non-relevant
+P05,Product Manager — WMS & Warehouse Integrations,Product,,,CAND-105,Senior Product Manager,Shopee International,P05 - Product Manager - WMS & Warehouse Integrations.pdf,one relevant CV per JD; all other candidates are non-relevant
+P06,Deployment Strategist,Data & AI,"Singapore, Singapore","SGD 9,000 – 20,000",CAND-106,"Principal, Data Science",Boston Consulting Group,P06 - Deployment Strategist.pdf,one relevant CV per JD; all other candidates are non-relevant
+P07,Marketing Manager (HK & SG),Marketing,,,CAND-107,Marketing Manager,HKT Enterprise Solutions,P07 - Marketing Manager (HK & SG).pdf,one relevant CV per JD; all other candidates are non-relevant
+P08,Field Service Engineer (FSE),Engineering,"Singapore, Singapore","SGD 5,000 – 6,000 / month",CAND-108,Field Service Engineer,Tokyo Electron Singapore Pte Ltd,P08 - Field Service Engineer (FSE).pdf,one relevant CV per JD; all other candidates are non-relevant
+P09,Tech Lead,Engineering,"Shah Alam, Malaysia","MYR 9,000 – 15,000 / month",CAND-109,Tech Lead,JaGaApp / Red Ideas Holdings Berhad,P09 - Tech Lead.pdf,one relevant CV per JD; all other candidates are non-relevant
+P10,Regional Lead Designer UI/UX,Design & Creative,,"MYR 10,000 / month",CAND-110,"Lead, UI/UX",My E.G. Services Bhd,P10 - Regional Lead Designer UI - UX.pdf,one relevant CV per JD; all other candidates are non-relevant

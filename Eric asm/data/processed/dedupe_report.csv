@@ -1,0 +1,11 @@
+hired_cv_id,hired_title,hired_company,top1_pool_cv,top1_cosine,top1_title,top1_company,top2_pool_cv,top2_cosine,top3_pool_cv,top3_cosine,decision,notes
+CAND-101,Regional Finance Manager,Cardia Bioplastics (Malaysia) Sdn Bhd,CV-075,0.2645,Assistant Senior Finance Manager,Linnovate Partners (AFS) Sdn Bhd,CV-079,0.2492,CV-080,0.2102,keep_new,No exact duplicate
+CAND-102,Technical Sales Specialist,PT. Chemico Surabaya,CV-058,0.2172,Senior Commercial & Business Development Manager – Food Division,PT Esco Chemicals Mitrautama,CV-057,0.1669,CV-064,0.0788,keep_new,No exact duplicate
+CAND-103,Head of Growth & Digital Transformation,Step Ahead,CV-069,0.1717,Regional Brand Manager,Kansai Nerolac Paints,CV-068,0.1536,CV-065,0.1388,keep_new,No exact duplicate
+CAND-104,Data Engineer,BP,CV-045,0.1587,Data Engineer Lead,CBTW,CV-035,0.1388,CV-046,0.1333,keep_new,No exact duplicate
+CAND-105,Senior Product Manager,Shopee International,CV-097,0.1071,Founding Head of Indonesia,Korean e-commerce company,CV-083,0.0787,CV-022,0.0719,keep_new,No exact duplicate
+CAND-106,"Principal, Data Science",Boston Consulting Group,CV-042,0.1006,Senior Data Scientist,Uber,CV-043,0.0962,CV-040,0.0952,keep_new,No exact duplicate
+CAND-107,Marketing Manager,HKT Enterprise Solutions,CV-069,0.1389,Regional Brand Manager,Kansai Nerolac Paints,CV-068,0.137,CV-065,0.1213,keep_new,No exact duplicate
+CAND-108,Field Service Engineer,Tokyo Electron Singapore Pte Ltd,CV-002,0.3129,Field Service Engineer I,ASM WPE (S) Ltd,CV-021,0.0618,CV-064,0.0616,keep_new,No exact duplicate
+CAND-109,Tech Lead,JaGaApp / Red Ideas Holdings Berhad,CV-018,0.1273,Senior Software Engineer,"Maya Bank, Inc.",CV-016,0.1068,CV-022,0.0788,keep_new,No exact duplicate
+CAND-110,"Lead, UI/UX",My E.G. Services Bhd,CV-048,0.2588,Lead UI/UX Designer,Thumb Technologies,CV-047,0.1549,CV-049,0.126,keep_new,No exact duplicate

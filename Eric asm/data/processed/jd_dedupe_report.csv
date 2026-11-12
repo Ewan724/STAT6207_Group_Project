@@ -1,0 +1,51 @@
+jd_id,title,nearest_gt_jd,nearest_gt_title,cosine,decision
+JD-001,AI Engineer,P04,Data Engineer,0.1039,keep
+JD-002,AI Research Engineer (HCMC),P04,Data Engineer,0.1013,keep
+JD-003,Business Intelligence Analyst (ID),P04,Data Engineer,0.2176,keep
+JD-004,Data Engineer,P04,Data Engineer,0.9925,exclude_from_training
+JD-005,Data Scientist,P04,Data Engineer,0.1874,keep
+JD-006,Machine Learning Engineer,P04,Data Engineer,0.0736,keep
+JD-007,Senior/Lead Data Engineer,P04,Data Engineer,0.2726,keep
+JD-008,AI Artist/Video Editor,P03,GTM Marketing Manager / Lead,0.1125,keep
+JD-009,Creative Director,P10,Regional Lead Designer UI/UX,0.168,keep
+JD-010,Product Designer,P10,Regional Lead Designer UI/UX,0.2538,keep
+JD-011,Senior Creative Designer,P10,Regional Lead Designer UI/UX,0.0806,keep
+JD-012,UI/UX Designer - HK,P10,Regional Lead Designer UI/UX,0.3479,keep
+JD-013,Design-Oriented QA / Test-Automation Engineer,P10,Regional Lead Designer UI/UX,0.1068,keep
+JD-014,Dev Ops,P09,Tech Lead,0.1528,keep
+JD-015,Distributed System Engineer (SG),P04,Data Engineer,0.11,keep
+JD-016,Fullstack Engineer,P10,Regional Lead Designer UI/UX,0.0854,keep
+JD-017,IT Support Officer,P09,Tech Lead,0.0755,keep
+JD-018,Netsuite Engineer,P04,Data Engineer,0.0933,keep
+JD-019,Network Engineer,P09,Tech Lead,0.0731,keep
+JD-020,Rust Engineer,P04,Data Engineer,0.0586,keep
+JD-021,Senior Embedded Engineer _Shenzhen,P08,Field Service Engineer (FSE),0.0548,keep
+JD-022,Senior Golang Developer,P09,Tech Lead,0.0602,keep
+JD-023,Senior Java Developer,P09,Tech Lead,0.1529,keep
+JD-024,"Senior Mechanical Engineer (3 HC, SEA & TW & NA)",P09,Tech Lead,0.0558,keep
+JD-025,Site Reliability Engineer,P09,Tech Lead,0.0685,keep
+JD-026,Solution Architect (ID),P09,Tech Lead,0.0925,keep
+JD-027,Sr Engineer (Backend),P06,Deployment Strategist,0.0677,keep
+JD-028,Tech Lead,P09,Tech Lead,0.9688,exclude_from_training
+JD-029,Head of Finance,P01,Regional Finance Controller,0.227,keep
+JD-030,"Legal & Compliance, Research Compliance Associate",P01,Regional Finance Controller,0.0654,keep
+JD-031,Tax manager - Indonesia,P01,Regional Finance Controller,0.1186,keep
+JD-032,Chief Technology Officer (CTO),P09,Tech Lead,0.1109,keep
+JD-033,Factory director,P01,Regional Finance Controller,0.0867,keep
+JD-034,Brand Manager,P03,GTM Marketing Manager / Lead,0.0926,keep
+JD-035,"Head of CRM, Analytics and Media",P07,Marketing Manager (HK & SG),0.163,keep
+JD-036,MarTech Specialist,P07,Marketing Manager (HK & SG),0.089,keep
+JD-037,Product Marketing Manager (Go-to-Market Specialist),P03,GTM Marketing Manager / Lead,0.1594,keep
+JD-038,Senior Performance Marketing Manager,P07,Marketing Manager (HK & SG),0.1445,keep
+JD-039,Head of Procurement,P01,Regional Finance Controller,0.1125,keep
+JD-040,Omni Channel eCommerce Operations Manager,P05,Product Manager — WMS & Warehouse Integrations,0.1816,keep
+JD-041,Talent Acquisition Specialist,P02,Sales Manager in Indonesia,0.0504,keep
+JD-042,Travel Specialist,P07,Marketing Manager (HK & SG),0.0417,keep
+JD-043,Account Manager (Malaysia),P02,Sales Manager in Indonesia,0.106,keep
+JD-044,Business Development Manager (SME Loans),P01,Regional Finance Controller,0.1306,keep
+JD-045,Enterprise Account Manager,P02,Sales Manager in Indonesia,0.1064,keep
+JD-046,North America Sales Director,P03,GTM Marketing Manager / Lead,0.0816,keep
+JD-047,Sales Engineer,P02,Sales Manager in Indonesia,0.0761,keep
+JD-048,sales manager,P02,Sales Manager in Indonesia,0.093,keep
+JD-049,Sales Representative (Immunology),P02,Sales Manager in Indonesia,0.1341,keep
+JD-050,Web3 BD Manager,P07,Marketing Manager (HK & SG),0.0621,keep

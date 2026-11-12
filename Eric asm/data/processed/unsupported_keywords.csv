@@ -1,0 +1,121 @@
+doc_id,doc_type,keyword,reason
+CV-002,cv,Health and Safety,not_in_source_text
+CV-002,cv,Process Optimization,not_in_source_text
+CV-010,cv,System Architecture,not_in_source_text
+CV-010,cv,Product Management,not_in_source_text
+CV-012,cv,RESTful APIs,not_in_source_text
+CV-019,cv,VB.net,not_in_source_text
+CV-023,cv,API Testing,not_in_source_text
+CV-023,cv,UI/API Cross-layer Verification,not_in_source_text
+CV-023,cv,Software Engineering System Development,not_in_source_text
+CV-026,cv,Jenkins,not_in_source_text
+CV-026,cv,Ansible,not_in_source_text
+CV-026,cv,Helm,not_in_source_text
+CV-028,cv,AWS Lambda,not_in_source_text
+CV-030,cv,Jenkins,not_in_source_text
+CV-030,cv,Ansible,not_in_source_text
+CV-030,cv,Helm,not_in_source_text
+CV-030,cv,Django,not_in_source_text
+CV-030,cv,Angular,not_in_source_text
+CV-035,cv,AWS EMR,not_in_source_text
+CV-052,cv,Hardware Software Integration,not_in_source_text
+CV-052,cv,Community Management,not_in_source_text
+CV-062,cv,P&L Management,not_in_source_text
+CV-075,cv,Treasury Management,not_in_source_text
+CV-076,cv,Comparable Company Analysis,not_in_source_text
+CV-077,cv,Google Sheets,not_in_source_text
+CV-077,cv,Google Sheets,not_in_source_text
+CV-084,cv,Calendar management,not_in_source_text
+CV-085,cv,LME Index Pricing,not_in_source_text
+CV-085,cv,Inventory Management,not_in_source_text
+CV-086,cv,People Management,not_in_source_text
+CV-090,cv,CRM systems,not_in_source_text
+CV-092,cv,Domestic Inquiry Support,not_in_source_text
+CV-094,cv,B2B SaaS product strategy,not_in_source_text
+CV-096,cv,Docker,not_in_source_text
+CV-096,cv,Angular,not_in_source_text
+CV-096,cv,Jenkins,not_in_source_text
+CV-096,cv,Ansible,not_in_source_text
+CV-096,cv,Helm,not_in_source_text
+P02,jd,sales forecasting,not_in_source_text
+P02,jd,distributor management,not_in_source_text
+P03,jd,brand operations,not_in_source_text
+P06,jd,stakeholder management,not_in_source_text
+P08,jd,semiconductor wafer fab equipment,not_in_source_text
+P09,jd,architecture design,not_in_source_text
+P09,jd,project management,not_in_source_text
+JD-003,jd,CI/CD,not_in_source_text
+JD-005,jd,startup experience,not_in_source_text
+JD-009,jd,art assets,not_in_source_text
+JD-010,jd,Motion design,not_in_source_text
+JD-012,jd,responsive design,not_in_source_text
+JD-013,jd,visual regression testing,not_in_source_text
+JD-013,jd,end-to-end testing,not_in_source_text
+JD-013,jd,JavaScript frameworks,not_in_source_text
+JD-013,jd,ISTQB certification,not_in_source_text
+JD-013,jd,design system knowledge,not_in_source_text
+JD-013,jd,screen readers,not_in_source_text
+JD-017,jd,firewall configuration,not_in_source_text
+JD-017,jd,SME environment,not_in_source_text
+JD-018,jd,workflow management,not_in_source_text
+JD-019,jd,Cisco routing,not_in_source_text
+JD-019,jd,Cisco certification,not_in_source_text
+JD-019,jd,Palo Alto certification,not_in_source_text
+JD-019,jd,Cisco routing,not_in_source_text
+JD-021,jd,hardware debugging,not_in_source_text
+JD-021,jd,test equipment,not_in_source_text
+JD-026,jd,hybrid cloud,not_in_source_text
+JD-026,jd,Southeast Asia clients,not_in_source_text
+JD-029,jd,financial reporting,not_in_source_text
+JD-032,jd,security practices,not_in_source_text
+JD-032,jd,fintech exposure,not_in_source_text
+JD-033,jd,machining operations management,not_in_source_text
+JD-033,jd,cost optimization,not_in_source_text
+JD-033,jd,independent operational experience,not_in_source_text
+JD-033,jd,R&D coordination,not_in_source_text
+JD-034,jd,project management,not_in_source_text
+JD-036,jd,CRM integration,not_in_source_text
+JD-037,jd,experimentation,not_in_source_text
+JD-037,jd,A/B testing,not_in_source_text
+JD-038,jd,reporting tools,not_in_source_text
+JD-040,jd,client management,not_in_source_text
+JD-040,jd,KPI monitoring,not_in_source_text
+JD-040,jd,team leadership,not_in_source_text
+JD-040,jd,cost control,not_in_source_text
+JD-040,jd,safety compliance,not_in_source_text
+JD-042,jd,flight booking,not_in_source_text
+JD-042,jd,hotel booking,not_in_source_text
+JD-042,jd,expense processing,not_in_source_text
+JD-042,jd,Microsoft Word,not_in_source_text
+JD-042,jd,Microsoft Word,not_in_source_text
+JD-041,jd,interview coordination,not_in_source_text
+JD-041,jd,talent pipeline management,not_in_source_text
+JD-041,jd,hiring needs identification,not_in_source_text
+JD-041,jd,job description design,not_in_source_text
+JD-041,jd,assessment management,not_in_source_text
+JD-041,jd,hiring forecasting,not_in_source_text
+JD-041,jd,recruitment reporting,not_in_source_text
+JD-041,jd,e-commerce experience,not_in_source_text
+JD-041,jd,startup environment experience,not_in_source_text
+JD-043,jd,hunter mentality,not_in_source_text
+JD-043,jd,channel management,not_in_source_text
+JD-045,jd,enterprise sales,not_in_source_text
+JD-045,jd,revenue management,not_in_source_text
+JD-045,jd,C-level relationships,not_in_source_text
+JD-045,jd,F500 accounts,not_in_source_text
+JD-045,jd,10-12 years experience,not_in_source_text
+JD-046,jd,English proficiency,not_in_source_text
+JD-046,jd,camera industry,not_in_source_text
+JD-046,jd,key client relationships,not_in_source_text
+JD-048,jd,complaints handling,not_in_source_text
+JD-048,jd,cross-departmental coordination,not_in_source_text
+JD-048,jd,Business Development experience,not_in_source_text
+JD-048,jd,Marketing background,not_in_source_text
+JD-048,jd,Engineering Management background,not_in_source_text
+JD-048,jd,large design firms experience,not_in_source_text
+JD-048,jd,interior decoration firms experience,not_in_source_text
+JD-048,jd,construction firms experience,not_in_source_text
+JD-048,jd,data centers experience,not_in_source_text
+JD-048,jd,Chinese language skills,not_in_source_text
+JD-048,jd,English language skills,not_in_source_text
+JD-050,jd,networking,not_in_source_text

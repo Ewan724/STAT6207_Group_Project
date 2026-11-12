@@ -1,0 +1,292 @@
+raw_term,canonical_term,source,confidence,notes
+js,JavaScript,curated,1.0,hand-curated; distinct technologies never merged
+java script,JavaScript,curated,1.0,hand-curated; distinct technologies never merged
+javascript,JavaScript,curated,1.0,hand-curated; distinct technologies never merged
+java-script,JavaScript,curated,1.0,hand-curated; distinct technologies never merged
+ts,TypeScript,curated,1.0,hand-curated; distinct technologies never merged
+typescript,TypeScript,curated,1.0,hand-curated; distinct technologies never merged
+type script,TypeScript,curated,1.0,hand-curated; distinct technologies never merged
+gcp,Google Cloud Platform,curated,1.0,hand-curated; distinct technologies never merged
+google cloud,Google Cloud Platform,curated,1.0,hand-curated; distinct technologies never merged
+google cloud platform,Google Cloud Platform,curated,1.0,hand-curated; distinct technologies never merged
+aws,AWS,curated,1.0,hand-curated; distinct technologies never merged
+amazon web services,AWS,curated,1.0,hand-curated; distinct technologies never merged
+azure,Microsoft Azure,curated,1.0,hand-curated; distinct technologies never merged
+microsoft azure,Microsoft Azure,curated,1.0,hand-curated; distinct technologies never merged
+ms azure,Microsoft Azure,curated,1.0,hand-curated; distinct technologies never merged
+k8s,Kubernetes,curated,1.0,hand-curated; distinct technologies never merged
+kube,Kubernetes,curated,1.0,hand-curated; distinct technologies never merged
+kubernetes,Kubernetes,curated,1.0,hand-curated; distinct technologies never merged
+postgres,PostgreSQL,curated,1.0,hand-curated; distinct technologies never merged
+postgresql,PostgreSQL,curated,1.0,hand-curated; distinct technologies never merged
+psql,PostgreSQL,curated,1.0,hand-curated; distinct technologies never merged
+mysql,MySQL,curated,1.0,hand-curated; distinct technologies never merged
+my sql,MySQL,curated,1.0,hand-curated; distinct technologies never merged
+mssql,SQL Server,curated,1.0,hand-curated; distinct technologies never merged
+sql server,SQL Server,curated,1.0,hand-curated; distinct technologies never merged
+microsoft sql server,SQL Server,curated,1.0,hand-curated; distinct technologies never merged
+ms sql,SQL Server,curated,1.0,hand-curated; distinct technologies never merged
+ml,Machine Learning,curated,1.0,hand-curated; distinct technologies never merged
+machine learning,Machine Learning,curated,1.0,hand-curated; distinct technologies never merged
+ai,Artificial Intelligence,curated,1.0,hand-curated; distinct technologies never merged
+artificial intelligence,Artificial Intelligence,curated,1.0,hand-curated; distinct technologies never merged
+nlp,Natural Language Processing,curated,1.0,hand-curated; distinct technologies never merged
+natural language processing,Natural Language Processing,curated,1.0,hand-curated; distinct technologies never merged
+llm,Large Language Model,curated,1.0,hand-curated; distinct technologies never merged
+llms,Large Language Model,curated,1.0,hand-curated; distinct technologies never merged
+large language model,Large Language Model,curated,1.0,hand-curated; distinct technologies never merged
+large language models,Large Language Model,curated,1.0,hand-curated; distinct technologies never merged
+rag,Retrieval-Augmented Generation,curated,1.0,hand-curated; distinct technologies never merged
+retrieval augmented generation,Retrieval-Augmented Generation,curated,1.0,hand-curated; distinct technologies never merged
+retrieval-augmented generation,Retrieval-Augmented Generation,curated,1.0,hand-curated; distinct technologies never merged
+ci/cd,CI/CD,curated,1.0,hand-curated; distinct technologies never merged
+cicd,CI/CD,curated,1.0,hand-curated; distinct technologies never merged
+continuous integration continuous deployment,CI/CD,curated,1.0,hand-curated; distinct technologies never merged
+continuous integration,CI/CD,curated,1.0,hand-curated; distinct technologies never merged
+devops,DevOps,curated,1.0,hand-curated; distinct technologies never merged
+dev ops,DevOps,curated,1.0,hand-curated; distinct technologies never merged
+node.js,Node.js,curated,1.0,hand-curated; distinct technologies never merged
+nodejs,Node.js,curated,1.0,hand-curated; distinct technologies never merged
+node,Node.js,curated,1.0,hand-curated; distinct technologies never merged
+react.js,React,curated,1.0,hand-curated; distinct technologies never merged
+reactjs,React,curated,1.0,hand-curated; distinct technologies never merged
+react,React,curated,1.0,hand-curated; distinct technologies never merged
+vue.js,Vue.js,curated,1.0,hand-curated; distinct technologies never merged
+vuejs,Vue.js,curated,1.0,hand-curated; distinct technologies never merged
+vue,Vue.js,curated,1.0,hand-curated; distinct technologies never merged
+next.js,Next.js,curated,1.0,hand-curated; distinct technologies never merged
+nextjs,Next.js,curated,1.0,hand-curated; distinct technologies never merged
+c#,C#,curated,1.0,hand-curated; distinct technologies never merged
+c sharp,C#,curated,1.0,hand-curated; distinct technologies never merged
+csharp,C#,curated,1.0,hand-curated; distinct technologies never merged
+c++,C++,curated,1.0,hand-curated; distinct technologies never merged
+cpp,C++,curated,1.0,hand-curated; distinct technologies never merged
+.net,.NET,curated,1.0,hand-curated; distinct technologies never merged
+dotnet,.NET,curated,1.0,hand-curated; distinct technologies never merged
+asp.net,.NET,curated,1.0,hand-curated; distinct technologies never merged
+power bi,Power BI,curated,1.0,hand-curated; distinct technologies never merged
+powerbi,Power BI,curated,1.0,hand-curated; distinct technologies never merged
+tableau,Tableau,curated,1.0,hand-curated; distinct technologies never merged
+excel,Excel,curated,1.0,hand-curated; distinct technologies never merged
+microsoft excel,Excel,curated,1.0,hand-curated; distinct technologies never merged
+ms excel,Excel,curated,1.0,hand-curated; distinct technologies never merged
+ifrs,IFRS,curated,1.0,hand-curated; distinct technologies never merged
+international financial reporting standards,IFRS,curated,1.0,hand-curated; distinct technologies never merged
+gaap,US GAAP,curated,1.0,hand-curated; distinct technologies never merged
+us gaap,US GAAP,curated,1.0,hand-curated; distinct technologies never merged
+fp&a,FP&A,curated,1.0,hand-curated; distinct technologies never merged
+fpa,FP&A,curated,1.0,hand-curated; distinct technologies never merged
+financial planning and analysis,FP&A,curated,1.0,hand-curated; distinct technologies never merged
+erp,ERP,curated,1.0,hand-curated; distinct technologies never merged
+enterprise resource planning,ERP,curated,1.0,hand-curated; distinct technologies never merged
+wms,WMS,curated,1.0,hand-curated; distinct technologies never merged
+warehouse management system,WMS,curated,1.0,hand-curated; distinct technologies never merged
+warehouse management systems,WMS,curated,1.0,hand-curated; distinct technologies never merged
+oms,OMS,curated,1.0,hand-curated; distinct technologies never merged
+order management system,OMS,curated,1.0,hand-curated; distinct technologies never merged
+order management systems,OMS,curated,1.0,hand-curated; distinct technologies never merged
+crm,CRM,curated,1.0,hand-curated; distinct technologies never merged
+customer relationship management,CRM,curated,1.0,hand-curated; distinct technologies never merged
+seo,SEO,curated,1.0,hand-curated; distinct technologies never merged
+search engine optimisation,SEO,curated,1.0,hand-curated; distinct technologies never merged
+search engine optimization,SEO,curated,1.0,hand-curated; distinct technologies never merged
+sem,SEM,curated,1.0,hand-curated; distinct technologies never merged
+search engine marketing,SEM,curated,1.0,hand-curated; distinct technologies never merged
+gtm,Go-to-Market,curated,1.0,hand-curated; distinct technologies never merged
+go-to-market,Go-to-Market,curated,1.0,hand-curated; distinct technologies never merged
+go to market,Go-to-Market,curated,1.0,hand-curated; distinct technologies never merged
+b2b,B2B,curated,1.0,hand-curated; distinct technologies never merged
+business to business,B2B,curated,1.0,hand-curated; distinct technologies never merged
+b2c,B2C,curated,1.0,hand-curated; distinct technologies never merged
+business to consumer,B2C,curated,1.0,hand-curated; distinct technologies never merged
+p&l,P&L,curated,1.0,hand-curated; distinct technologies never merged
+pnl,P&L,curated,1.0,hand-curated; distinct technologies never merged
+profit and loss,P&L,curated,1.0,hand-curated; distinct technologies never merged
+kpi,KPI,curated,1.0,hand-curated; distinct technologies never merged
+kpis,KPI,curated,1.0,hand-curated; distinct technologies never merged
+key performance indicator,KPI,curated,1.0,hand-curated; distinct technologies never merged
+key performance indicators,KPI,curated,1.0,hand-curated; distinct technologies never merged
+sla,SLA,curated,1.0,hand-curated; distinct technologies never merged
+slas,SLA,curated,1.0,hand-curated; distinct technologies never merged
+service level agreement,SLA,curated,1.0,hand-curated; distinct technologies never merged
+service level agreements,SLA,curated,1.0,hand-curated; distinct technologies never merged
+api,API,curated,1.0,hand-curated; distinct technologies never merged
+apis,API,curated,1.0,hand-curated; distinct technologies never merged
+application programming interface,API,curated,1.0,hand-curated; distinct technologies never merged
+sdk,SDK,curated,1.0,hand-curated; distinct technologies never merged
+sdks,SDK,curated,1.0,hand-curated; distinct technologies never merged
+etl,ETL,curated,1.0,hand-curated; distinct technologies never merged
+extract transform load,ETL,curated,1.0,hand-curated; distinct technologies never merged
+elt,ELT,curated,1.0,hand-curated; distinct technologies never merged
+extract load transform,ELT,curated,1.0,hand-curated; distinct technologies never merged
+dbt,dbt,curated,1.0,hand-curated; distinct technologies never merged
+data build tool,dbt,curated,1.0,hand-curated; distinct technologies never merged
+sql,SQL,curated,1.0,hand-curated; distinct technologies never merged
+structured query language,SQL,curated,1.0,hand-curated; distinct technologies never merged
+nosql,NoSQL,curated,1.0,hand-curated; distinct technologies never merged
+no sql,NoSQL,curated,1.0,hand-curated; distinct technologies never merged
+ui,UI,curated,1.0,hand-curated; distinct technologies never merged
+user interface,UI,curated,1.0,hand-curated; distinct technologies never merged
+ux,UX,curated,1.0,hand-curated; distinct technologies never merged
+user experience,UX,curated,1.0,hand-curated; distinct technologies never merged
+figma,Figma,curated,1.0,hand-curated; distinct technologies never merged
+jira,JIRA,curated,1.0,hand-curated; distinct technologies never merged
+agile,Agile,curated,1.0,hand-curated; distinct technologies never merged
+agile methodology,Agile,curated,1.0,hand-curated; distinct technologies never merged
+scrum,Scrum,curated,1.0,hand-curated; distinct technologies never merged
+golang,Golang,curated,1.0,hand-curated; distinct technologies never merged
+go language,Golang,curated,1.0,hand-curated; distinct technologies never merged
+pytorch,PyTorch,curated,1.0,hand-curated; distinct technologies never merged
+torch,PyTorch,curated,1.0,hand-curated; distinct technologies never merged
+tensorflow,TensorFlow,curated,1.0,hand-curated; distinct technologies never merged
+tf,TensorFlow,curated,1.0,hand-curated; distinct technologies never merged
+scikit-learn,scikit-learn,curated,1.0,hand-curated; distinct technologies never merged
+scikit learn,scikit-learn,curated,1.0,hand-curated; distinct technologies never merged
+sklearn,scikit-learn,curated,1.0,hand-curated; distinct technologies never merged
+spark,Apache Spark,curated,1.0,hand-curated; distinct technologies never merged
+apache spark,Apache Spark,curated,1.0,hand-curated; distinct technologies never merged
+airflow,Apache Airflow,curated,1.0,hand-curated; distinct technologies never merged
+apache airflow,Apache Airflow,curated,1.0,hand-curated; distinct technologies never merged
+snowflake,Snowflake,curated,1.0,hand-curated; distinct technologies never merged
+bigquery,BigQuery,curated,1.0,hand-curated; distinct technologies never merged
+big query,BigQuery,curated,1.0,hand-curated; distinct technologies never merged
+docker,Docker,curated,1.0,hand-curated; distinct technologies never merged
+terraform,Terraform,curated,1.0,hand-curated; distinct technologies never merged
+jenkins,Jenkins,curated,1.0,hand-curated; distinct technologies never merged
+ansible,Ansible,curated,1.0,hand-curated; distinct technologies never merged
+git,Git,curated,1.0,hand-curated; distinct technologies never merged
+linux,Linux,curated,1.0,hand-curated; distinct technologies never merged
+rest api,REST API,curated,1.0,hand-curated; distinct technologies never merged
+restful api,REST API,curated,1.0,hand-curated; distinct technologies never merged
+rest,REST API,curated,1.0,hand-curated; distinct technologies never merged
+microservices,Microservices,curated,1.0,hand-curated; distinct technologies never merged
+microservice,Microservices,curated,1.0,hand-curated; distinct technologies never merged
+kafka,Kafka,curated,1.0,hand-curated; distinct technologies never merged
+apache kafka,Kafka,curated,1.0,hand-curated; distinct technologies never merged
+rabbitmq,RabbitMQ,curated,1.0,hand-curated; distinct technologies never merged
+elasticsearch,Elasticsearch,curated,1.0,hand-curated; distinct technologies never merged
+elastic search,Elasticsearch,curated,1.0,hand-curated; distinct technologies never merged
+mongodb,MongoDB,curated,1.0,hand-curated; distinct technologies never merged
+mongo db,MongoDB,curated,1.0,hand-curated; distinct technologies never merged
+redis,Redis,curated,1.0,hand-curated; distinct technologies never merged
+salesforce,Salesforce,curated,1.0,hand-curated; distinct technologies never merged
+hubspot,HubSpot,curated,1.0,hand-curated; distinct technologies never merged
+google analytics,Google Analytics,curated,1.0,hand-curated; distinct technologies never merged
+ga4,Google Analytics,curated,1.0,hand-curated; distinct technologies never merged
+google ads,Google Ads,curated,1.0,hand-curated; distinct technologies never merged
+adwords,Google Ads,curated,1.0,hand-curated; distinct technologies never merged
+google adwords,Google Ads,curated,1.0,hand-curated; distinct technologies never merged
+meta ads,Meta Ads,curated,1.0,hand-curated; distinct technologies never merged
+facebook ads,Meta Ads,curated,1.0,hand-curated; distinct technologies never merged
+photoshop,Adobe Photoshop,curated,1.0,hand-curated; distinct technologies never merged
+adobe photoshop,Adobe Photoshop,curated,1.0,hand-curated; distinct technologies never merged
+illustrator,Adobe Illustrator,curated,1.0,hand-curated; distinct technologies never merged
+adobe illustrator,Adobe Illustrator,curated,1.0,hand-curated; distinct technologies never merged
+adobe xd,Adobe XD,curated,1.0,hand-curated; distinct technologies never merged
+xd,Adobe XD,curated,1.0,hand-curated; distinct technologies never merged
+sketch,Sketch,curated,1.0,hand-curated; distinct technologies never merged
+html,HTML,curated,1.0,hand-curated; distinct technologies never merged
+html5,HTML,curated,1.0,hand-curated; distinct technologies never merged
+css,CSS,curated,1.0,hand-curated; distinct technologies never merged
+css3,CSS,curated,1.0,hand-curated; distinct technologies never merged
+java,Java,curated,1.0,hand-curated; distinct technologies never merged
+spring boot,Spring Boot,curated,1.0,hand-curated; distinct technologies never merged
+php,PHP,curated,1.0,hand-curated; distinct technologies never merged
+laravel,Laravel,curated,1.0,hand-curated; distinct technologies never merged
+django,Django,curated,1.0,hand-curated; distinct technologies never merged
+angular,Angular,curated,1.0,hand-curated; distinct technologies never merged
+angularjs,Angular,curated,1.0,hand-curated; distinct technologies never merged
+sap,SAP,curated,1.0,hand-curated; distinct technologies never merged
+workday,Workday,curated,1.0,hand-curated; distinct technologies never merged
+successfactors,SAP SuccessFactors,curated,1.0,hand-curated; distinct technologies never merged
+sap successfactors,SAP SuccessFactors,curated,1.0,hand-curated; distinct technologies never merged
+product management,Product Management,curated,1.0,hand-curated; distinct technologies never merged
+product strategy,Product Strategy,curated,1.0,hand-curated; distinct technologies never merged
+roadmap,Roadmap,curated,1.0,hand-curated; distinct technologies never merged
+product roadmap,Roadmap,curated,1.0,hand-curated; distinct technologies never merged
+user research,User Research,curated,1.0,hand-curated; distinct technologies never merged
+a/b testing,A/B Testing,curated,1.0,hand-curated; distinct technologies never merged
+ab testing,A/B Testing,curated,1.0,hand-curated; distinct technologies never merged
+split testing,A/B Testing,curated,1.0,hand-curated; distinct technologies never merged
+design system,Design System,curated,1.0,hand-curated; distinct technologies never merged
+design systems,Design System,curated,1.0,hand-curated; distinct technologies never merged
+prototyping,Prototyping,curated,1.0,hand-curated; distinct technologies never merged
+prototype,Prototyping,curated,1.0,hand-curated; distinct technologies never merged
+wireframing,Wireframing,curated,1.0,hand-curated; distinct technologies never merged
+wireframe,Wireframing,curated,1.0,hand-curated; distinct technologies never merged
+usability testing,Usability Testing,curated,1.0,hand-curated; distinct technologies never merged
+interaction design,Interaction Design,curated,1.0,hand-curated; distinct technologies never merged
+accessibility,Accessibility,curated,1.0,hand-curated; distinct technologies never merged
+a11y,Accessibility,curated,1.0,hand-curated; distinct technologies never merged
+financial reporting,Financial Reporting,curated,1.0,hand-curated; distinct technologies never merged
+financial analysis,Financial Analysis,curated,1.0,hand-curated; distinct technologies never merged
+budgeting,Budgeting,curated,1.0,hand-curated; distinct technologies never merged
+budget,Budgeting,curated,1.0,hand-curated; distinct technologies never merged
+forecasting,Forecasting,curated,1.0,hand-curated; distinct technologies never merged
+forecast,Forecasting,curated,1.0,hand-curated; distinct technologies never merged
+cash flow management,Cash Flow Management,curated,1.0,hand-curated; distinct technologies never merged
+cash flow,Cash Flow Management,curated,1.0,hand-curated; distinct technologies never merged
+internal controls,Internal Controls,curated,1.0,hand-curated; distinct technologies never merged
+internal control,Internal Controls,curated,1.0,hand-curated; distinct technologies never merged
+manufacturing costing,Manufacturing Costing,curated,1.0,hand-curated; distinct technologies never merged
+costing,Manufacturing Costing,curated,1.0,hand-curated; distinct technologies never merged
+taxation,Taxation,curated,1.0,hand-curated; distinct technologies never merged
+tax planning,Taxation,curated,1.0,hand-curated; distinct technologies never merged
+tax,Taxation,curated,1.0,hand-curated; distinct technologies never merged
+audit,Audit,curated,1.0,hand-curated; distinct technologies never merged
+auditing,Audit,curated,1.0,hand-curated; distinct technologies never merged
+talent acquisition,Talent Acquisition,curated,1.0,hand-curated; distinct technologies never merged
+recruitment,Recruitment,curated,1.0,hand-curated; distinct technologies never merged
+recruiting,Recruitment,curated,1.0,hand-curated; distinct technologies never merged
+payroll,Payroll,curated,1.0,hand-curated; distinct technologies never merged
+employee relations,Employee Relations,curated,1.0,hand-curated; distinct technologies never merged
+performance management,Performance Management,curated,1.0,hand-curated; distinct technologies never merged
+compensation and benefits,Compensation and Benefits,curated,1.0,hand-curated; distinct technologies never merged
+compensation & benefits,Compensation and Benefits,curated,1.0,hand-curated; distinct technologies never merged
+compensation,Compensation and Benefits,curated,1.0,hand-curated; distinct technologies never merged
+onboarding,Onboarding,curated,1.0,hand-curated; distinct technologies never merged
+hris,HRIS,curated,1.0,hand-curated; distinct technologies never merged
+human resource information system,HRIS,curated,1.0,hand-curated; distinct technologies never merged
+field service,Field Service,curated,1.0,hand-curated; distinct technologies never merged
+preventive maintenance,Preventive Maintenance,curated,1.0,hand-curated; distinct technologies never merged
+preventative maintenance,Preventive Maintenance,curated,1.0,hand-curated; distinct technologies never merged
+troubleshooting,Troubleshooting,curated,1.0,hand-curated; distinct technologies never merged
+semiconductor equipment,Semiconductor Equipment,curated,1.0,hand-curated; distinct technologies never merged
+semiconductor,Semiconductor Equipment,curated,1.0,hand-curated; distinct technologies never merged
+cleanroom,Cleanroom,curated,1.0,hand-curated; distinct technologies never merged
+clean room,Cleanroom,curated,1.0,hand-curated; distinct technologies never merged
+plc,PLC,curated,1.0,hand-curated; distinct technologies never merged
+programmable logic controller,PLC,curated,1.0,hand-curated; distinct technologies never merged
+electrical systems,Electrical Systems,curated,1.0,hand-curated; distinct technologies never merged
+electrical,Electrical Systems,curated,1.0,hand-curated; distinct technologies never merged
+technical documentation,Technical Documentation,curated,1.0,hand-curated; distinct technologies never merged
+stakeholder management,Stakeholder Management,curated,1.0,hand-curated; distinct technologies never merged
+stakeholder communication,Stakeholder Management,curated,1.0,hand-curated; distinct technologies never merged
+key account management,Key Account Management,curated,1.0,hand-curated; distinct technologies never merged
+account management,Key Account Management,curated,1.0,hand-curated; distinct technologies never merged
+business development,Business Development,curated,1.0,hand-curated; distinct technologies never merged
+lead generation,Lead Generation,curated,1.0,hand-curated; distinct technologies never merged
+sales pipeline,Sales Pipeline,curated,1.0,hand-curated; distinct technologies never merged
+pipeline management,Sales Pipeline,curated,1.0,hand-curated; distinct technologies never merged
+negotiation,Negotiation,curated,1.0,hand-curated; distinct technologies never merged
+negotiating,Negotiation,curated,1.0,hand-curated; distinct technologies never merged
+demand generation,Demand Generation,curated,1.0,hand-curated; distinct technologies never merged
+content marketing,Content Marketing,curated,1.0,hand-curated; distinct technologies never merged
+email marketing,Email Marketing,curated,1.0,hand-curated; distinct technologies never merged
+marketing automation,Marketing Automation,curated,1.0,hand-curated; distinct technologies never merged
+brand management,Brand Management,curated,1.0,hand-curated; distinct technologies never merged
+branding,Brand Management,curated,1.0,hand-curated; distinct technologies never merged
+campaign management,Campaign Management,curated,1.0,hand-curated; distinct technologies never merged
+campaigns,Campaign Management,curated,1.0,hand-curated; distinct technologies never merged
+market research,Market Research,curated,1.0,hand-curated; distinct technologies never merged
+data warehousing,Data Warehousing,curated,1.0,hand-curated; distinct technologies never merged
+data warehouse,Data Warehousing,curated,1.0,hand-curated; distinct technologies never merged
+statistics,Statistics,curated,1.0,hand-curated; distinct technologies never merged
+statistical analysis,Statistics,curated,1.0,hand-curated; distinct technologies never merged
+deep learning,Deep Learning,curated,1.0,hand-curated; distinct technologies never merged
+data pipeline,Data Pipeline,curated,1.0,hand-curated; distinct technologies never merged
+data pipelines,Data Pipeline,curated,1.0,hand-curated; distinct technologies never merged
+prompt engineering,Prompt Engineering,curated,1.0,hand-curated; distinct technologies never merged
+vector database,Vector Database,curated,1.0,hand-curated; distinct technologies never merged
+vector databases,Vector Database,curated,1.0,hand-curated; distinct technologies never merged
+vector search,Vector Database,curated,1.0,hand-curated; distinct technologies never merged
