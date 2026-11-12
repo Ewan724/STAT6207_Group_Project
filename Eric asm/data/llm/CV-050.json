@@ -1,0 +1,83 @@
+{
+  "doc_id": "CV-050",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "06120fc039dae5d128d8a556dd97f893a208fc29edb5aee5567caa29a1bb81cc",
+  "timestamp": "2026-11-12T03:25:11.284170+00:00",
+  "elapsed_sec": 19.32,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-050\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Senior Video Editor / Videographer\",\n  \"current_company\": \"IMAX Corporation\",\n  \"role_family\": \"Design & Creative\",\n  \"seniority\": \"senior\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Video editing\",\n    \"Cinematography\",\n    \"Videography\",\n    \"Post-production\"\n  ],\n  \"tools_technologies\": [],\n  \"domains\": [\n    \"entertainment\",\n    \"hospitality\",\n    \"sports\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": null,\n      \"institution\": \"California State University, Long Beach\",\n      \"year\": 2012\n    },\n    {\n      \"degree\": \"Associate's Degree\",\n      \"field\": null,\n      \"institution\": \"Long Beach City College\",\n      \"year\": 2010\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"collaboration\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Senior Video editor / Videographer\",\n      \"company\": \"IMAX Corporation\",\n      \"start\": \"2020-01\",\n      \"end\": \"2026-01\"\n    },\n    {\n      \"title\": \"Cinematographer / Video Editor · Video Editor / Producer\",\n      \"company\": \"Westin Hotels & Resorts\",\n      \"start\": \"2019-01\",\n      \"end\": \"2020-01\"\n    },\n    {\n      \"title\": \"Head Videographer / Video Editor / Producer\",\n      \"company\": \"CAL SOUTH SOCCER\",\n      \"start\": \"2016-01\",\n      \"end\": \"2020-01\"\n    },\n    {\n      \"title\": \"Producer / Editor\",\n      \"company\": \"Spectrum Networks (formerly Time Warner Cable Sports)\",\n      \"start\": \"2012-01\",\n      \"end\": \"2018-01\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-050",
+    "doc_type": "cv",
+    "current_title": "Senior Video Editor / Videographer",
+    "current_company": "IMAX Corporation",
+    "role_family": "Design & Creative",
+    "seniority": "senior",
+    "total_years_experience": null,
+    "skills": [
+      "Video editing",
+      "Cinematography",
+      "Videography",
+      "Post-production"
+    ],
+    "tools_technologies": [],
+    "domains": [
+      "entertainment",
+      "hospitality",
+      "sports"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": null,
+        "institution": "California State University, Long Beach",
+        "year": 2012
+      },
+      {
+        "degree": "Associate's Degree",
+        "field": null,
+        "institution": "Long Beach City College",
+        "year": 2010
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [],
+    "soft_skills": [
+      "team leadership",
+      "collaboration"
+    ],
+    "work_history": [
+      {
+        "title": "Senior Video editor / Videographer",
+        "company": "IMAX Corporation",
+        "start": "2020-01",
+        "end": "2026-01"
+      },
+      {
+        "title": "Cinematographer / Video Editor · Video Editor / Producer",
+        "company": "Westin Hotels & Resorts",
+        "start": "2019-01",
+        "end": "2020-01"
+      },
+      {
+        "title": "Head Videographer / Video Editor / Producer",
+        "company": "CAL SOUTH SOCCER",
+        "start": "2016-01",
+        "end": "2020-01"
+      },
+      {
+        "title": "Producer / Editor",
+        "company": "Spectrum Networks (formerly Time Warner Cable Sports)",
+        "start": "2012-01",
+        "end": "2018-01"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

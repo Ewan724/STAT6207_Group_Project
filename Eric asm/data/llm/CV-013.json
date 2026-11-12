@@ -1,0 +1,128 @@
+{
+  "doc_id": "CV-013",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "df3b8d5b1688151fe21588184ae8bf5cca4ee02a34bec8cc3b3d4d971656606f",
+  "timestamp": "2026-11-12T03:13:35.594966+00:00",
+  "elapsed_sec": 36.92,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-013\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Sr. Software Development Engineer - 2\",\n  \"current_company\": \"GoComet India Pvt Ltd\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"senior\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Node.js\",\n    \"Ruby on Rails\",\n    \"TypeScript\",\n    \"Distributed Systems\",\n    \"Microservices\",\n    \"Apache Kafka\",\n    \"AWS\",\n    \"React\",\n    \"Next.js\",\n    \"Redux\",\n    \"AngularJS\",\n    \"Tailwind CSS\",\n    \"GraphQL\",\n    \"TypeORM\",\n    \"Jest\",\n    \"Express.js\",\n    \"Nestjs\",\n    \"C++\",\n    \"Python\",\n    \"SQL\",\n    \"PostgreSQL\",\n    \"MongoDB\"\n  ],\n  \"tools_technologies\": [\n    \"Ruby on Rails\",\n    \"React\",\n    \"Next.js\",\n    \"Redux\",\n    \"AngularJS\",\n    \"Tailwind CSS\",\n    \"GraphQL\",\n    \"TypeORM\",\n    \"Jest\",\n    \"Express.js\",\n    \"Nestjs\",\n    \"C++\",\n    \"Python\",\n    \"PostgreSQL\",\n    \"MongoDB\",\n    \"AWS\",\n    \"EC2\",\n    \"ECS\",\n    \"S3\",\n    \"Lambda\",\n    \"Route 53\",\n    \"Jenkins\",\n    \"Sails.js\"\n  ],\n  \"domains\": [\n    \"SaaS\",\n    \"e-learning\",\n    \"enterprise software\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Computer Science and Engineering\",\n      \"institution\": \"LNM Institute of Information Technology\",\n      \"year\": 2018\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"India\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\",\n    \"product ownership\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Sr. Software Development Engineer - 2\",\n      \"company\": \"GoComet India Pvt Ltd\",\n      \"start\": \"2025-02\",\n      \"end\": \"2026-06\"\n    },\n    {\n      \"title\": \"Software Development Engineer - 2\",\n      \"company\": \"House of Vaaree\",\n      \"start\": \"2024-10\",\n      \"end\": \"2024-12\"\n    },\n    {\n      \"title\": \"Software Development Engineer\",\n      \"company\": \"NEETPrep GoodEd Technologies\",\n      \"start\": \"2023-03\",\n      \"end\": \"2024-08\"\n    },\n    {\n      \"title\": \"Founding Engineer and Product Owner\",\n      \"company\": \"Upstepping.co\",\n      \"start\": \"2022-01\",\n      \"end\": \"2022-11\"\n    },\n    {\n      \"title\": \"Frontend Engineer\",\n      \"company\": \"Learn4O\",\n      \"start\": \"2022-01\",\n      \"end\": \"2022-11\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-013",
+    "doc_type": "cv",
+    "current_title": "Sr. Software Development Engineer - 2",
+    "current_company": "GoComet India Pvt Ltd",
+    "role_family": "Engineering",
+    "seniority": "senior",
+    "total_years_experience": null,
+    "skills": [
+      "Node.js",
+      "Ruby on Rails",
+      "TypeScript",
+      "Distributed Systems",
+      "Microservices",
+      "Apache Kafka",
+      "AWS",
+      "React",
+      "Next.js",
+      "Redux",
+      "AngularJS",
+      "Tailwind CSS",
+      "GraphQL",
+      "TypeORM",
+      "Jest",
+      "Express.js",
+      "Nestjs",
+      "C++",
+      "Python",
+      "SQL",
+      "PostgreSQL",
+      "MongoDB"
+    ],
+    "tools_technologies": [
+      "Ruby on Rails",
+      "React",
+      "Next.js",
+      "Redux",
+      "AngularJS",
+      "Tailwind CSS",
+      "GraphQL",
+      "TypeORM",
+      "Jest",
+      "Express.js",
+      "Nestjs",
+      "C++",
+      "Python",
+      "PostgreSQL",
+      "MongoDB",
+      "AWS",
+      "EC2",
+      "ECS",
+      "S3",
+      "Lambda",
+      "Route 53",
+      "Jenkins",
+      "Sails.js"
+    ],
+    "domains": [
+      "SaaS",
+      "e-learning",
+      "enterprise software"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Computer Science and Engineering",
+        "institution": "LNM Institute of Information Technology",
+        "year": 2018
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "India"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring",
+      "product ownership"
+    ],
+    "work_history": [
+      {
+        "title": "Sr. Software Development Engineer - 2",
+        "company": "GoComet India Pvt Ltd",
+        "start": "2025-02",
+        "end": "2026-06"
+      },
+      {
+        "title": "Software Development Engineer - 2",
+        "company": "House of Vaaree",
+        "start": "2024-10",
+        "end": "2024-12"
+      },
+      {
+        "title": "Software Development Engineer",
+        "company": "NEETPrep GoodEd Technologies",
+        "start": "2023-03",
+        "end": "2024-08"
+      },
+      {
+        "title": "Founding Engineer and Product Owner",
+        "company": "Upstepping.co",
+        "start": "2022-01",
+        "end": "2022-11"
+      },
+      {
+        "title": "Frontend Engineer",
+        "company": "Learn4O",
+        "start": "2022-01",
+        "end": "2022-11"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

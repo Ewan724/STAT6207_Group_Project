@@ -1,0 +1,103 @@
+{
+  "doc_id": "CV-072",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "06f33a3ad25d59d1ea64eddd6b45aad0bc9cf3f939298bd53cd0ebe33ebbfb8e",
+  "timestamp": "2026-11-12T03:33:27.339853+00:00",
+  "elapsed_sec": 45.13,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-072\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"SEO Executive\",\n  \"current_company\": \"ZALORA Group\",\n  \"role_family\": \"Marketing\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Search Engine Optimization\",\n    \"Web Content Writing\",\n    \"Digital Marketing\",\n    \"Artificial Intelligence\",\n    \"Project Management\",\n    \"Event Planning\",\n    \"Market Research\"\n  ],\n  \"tools_technologies\": [\n    \"Google Keyword Planner\",\n    \"Ahrefs\",\n    \"Google Search Console\",\n    \"Looker Studio\",\n    \"WordPress\"\n  ],\n  \"domains\": [\n    \"e-commerce\",\n    \"digital marketing\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Master's Degree\",\n      \"field\": null,\n      \"institution\": \"University of Malaya\",\n      \"year\": null\n    },\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": null,\n      \"institution\": \"University of Malaya\",\n      \"year\": null\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [\n    \"English\",\n    \"Cantonese\"\n  ],\n  \"locations\": [\n    \"Malaysia\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\",\n    \"cross-functional collaboration\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"SEO Executive\",\n      \"company\": \"ZALORA Group\",\n      \"start\": \"2025-11\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Project Consultant\",\n      \"company\": \"Jabatan Perhutanan Negeri Selangor\",\n      \"start\": \"2025-08\",\n      \"end\": \"2025-09\"\n    },\n    {\n      \"title\": \"SEO Marketing Executive\",\n      \"company\": \"Triple A (M) Sdn. Bhd.\",\n      \"start\": \"2024-05\",\n      \"end\": \"2025-11\"\n    },\n    {\n      \"title\": \"Research assistant\",\n      \"company\": \"University of Malaya\",\n      \"start\": \"2024-01\",\n      \"end\": \"2024-05\"\n    },\n    {\n      \"title\": \"Talent Marketing\",\n      \"company\": \"United Chinese School Committees' Association Of Malaysia\",\n      \"start\": \"2023-08\",\n      \"end\": \"2023-09\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-072",
+    "doc_type": "cv",
+    "current_title": "SEO Executive",
+    "current_company": "ZALORA Group",
+    "role_family": "Marketing",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "Search Engine Optimization",
+      "Web Content Writing",
+      "Digital Marketing",
+      "Artificial Intelligence",
+      "Project Management",
+      "Event Planning",
+      "Market Research"
+    ],
+    "tools_technologies": [
+      "Google Keyword Planner",
+      "Ahrefs",
+      "Google Search Console",
+      "Looker Studio",
+      "WordPress"
+    ],
+    "domains": [
+      "e-commerce",
+      "digital marketing"
+    ],
+    "education": [
+      {
+        "degree": "Master's Degree",
+        "field": null,
+        "institution": "University of Malaya",
+        "year": null
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "field": null,
+        "institution": "University of Malaya",
+        "year": null
+      }
+    ],
+    "certifications": [],
+    "languages": [
+      "English",
+      "Cantonese"
+    ],
+    "locations": [
+      "Malaysia"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring",
+      "cross-functional collaboration"
+    ],
+    "work_history": [
+      {
+        "title": "SEO Executive",
+        "company": "ZALORA Group",
+        "start": "2025-11",
+        "end": "Present"
+      },
+      {
+        "title": "Project Consultant",
+        "company": "Jabatan Perhutanan Negeri Selangor",
+        "start": "2025-08",
+        "end": "2025-09"
+      },
+      {
+        "title": "SEO Marketing Executive",
+        "company": "Triple A (M) Sdn. Bhd.",
+        "start": "2024-05",
+        "end": "2025-11"
+      },
+      {
+        "title": "Research assistant",
+        "company": "University of Malaya",
+        "start": "2024-01",
+        "end": "2024-05"
+      },
+      {
+        "title": "Talent Marketing",
+        "company": "United Chinese School Committees' Association Of Malaysia",
+        "start": "2023-08",
+        "end": "2023-09"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

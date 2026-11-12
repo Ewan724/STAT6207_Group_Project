@@ -1,0 +1,95 @@
+{
+  "doc_id": "CAND-106",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "3f2cf8aa6991f629454fe3e3c923d0ebbfa62dee664e2a1bc3272ab3f073af8a",
+  "timestamp": "2026-11-12T03:42:54.434097+00:00",
+  "elapsed_sec": 14.78,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CAND-106\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Principal, Data Science\",\n  \"current_company\": \"Boston Consulting Group\",\n  \"role_family\": \"Data & AI\",\n  \"seniority\": \"lead\",\n  \"total_years_experience\": 8,\n  \"skills\": [\"Python\", \"SQL\", \"Spark\", \"Git\", \"Docker\", \"GCP\", \"AWS\", \"Azure\", \"Machine Learning\", \"Data Science\"],\n  \"tools_technologies\": [\"Gurobi\", \"Tableau\"],\n  \"domains\": [\"fintech\", \"insurance\", \"retail\", \"marketing\"],\n  \"education\": [\n    {\n      \"degree\": \"Master's Degree\",\n      \"field\": \"Data Science\",\n      \"institution\": \"New York University\",\n      \"year\": 2016\n    },\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Unknown\",\n      \"institution\": \"University of Illinois at Urbana-Champaign\",\n      \"year\": 2014\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\"Singapore\"],\n  \"soft_skills\": [\"team leadership\", \"mentoring\"],\n  \"work_history\": [\n    {\n      \"title\": \"Principal, Data Science\",\n      \"company\": \"Boston Consulting Group\",\n      \"start\": \"2025-09\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Lead Data Scientist\",\n      \"company\": \"Boston Consulting Group\",\n      \"start\": \"2021-05\",\n      \"end\": \"2023-10\"\n    },\n    {\n      \"title\": \"Data Scientist / Senior Data Scientist\",\n      \"company\": \"Boston Consulting Group\",\n      \"start\": \"2017-09\",\n      \"end\": \"2021-04\"\n    },\n    {\n      \"title\": \"Data Science Consultant\",\n      \"company\": \"Deloitte Consulting LLP\",\n      \"start\": \"2016-07\",\n      \"end\": \"2017-08\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CAND-106",
+    "doc_type": "cv",
+    "current_title": "Principal, Data Science",
+    "current_company": "Boston Consulting Group",
+    "role_family": "Data & AI",
+    "seniority": "lead",
+    "total_years_experience": 8,
+    "skills": [
+      "Python",
+      "SQL",
+      "Spark",
+      "Git",
+      "Docker",
+      "GCP",
+      "AWS",
+      "Azure",
+      "Machine Learning",
+      "Data Science"
+    ],
+    "tools_technologies": [
+      "Gurobi",
+      "Tableau"
+    ],
+    "domains": [
+      "fintech",
+      "insurance",
+      "retail",
+      "marketing"
+    ],
+    "education": [
+      {
+        "degree": "Master's Degree",
+        "field": "Data Science",
+        "institution": "New York University",
+        "year": 2016
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Unknown",
+        "institution": "University of Illinois at Urbana-Champaign",
+        "year": 2014
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Singapore"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring"
+    ],
+    "work_history": [
+      {
+        "title": "Principal, Data Science",
+        "company": "Boston Consulting Group",
+        "start": "2025-09",
+        "end": "Present"
+      },
+      {
+        "title": "Lead Data Scientist",
+        "company": "Boston Consulting Group",
+        "start": "2021-05",
+        "end": "2023-10"
+      },
+      {
+        "title": "Data Scientist / Senior Data Scientist",
+        "company": "Boston Consulting Group",
+        "start": "2017-09",
+        "end": "2021-04"
+      },
+      {
+        "title": "Data Science Consultant",
+        "company": "Deloitte Consulting LLP",
+        "start": "2016-07",
+        "end": "2017-08"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

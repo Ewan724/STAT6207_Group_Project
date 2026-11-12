@@ -1,0 +1,96 @@
+{
+  "doc_id": "CV-017",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "448669447b39c00be9927330395ba84f5e291a11c9e111f69b6a8876c25d176a",
+  "timestamp": "2026-11-12T03:14:34.921208+00:00",
+  "elapsed_sec": 31.74,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-017\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Quality Assurance Engineer\",\n  \"current_company\": \"PT XLSMART Telecom Sejahtera Tbk\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Quality Assurance\",\n    \"Manual Testing\",\n    \"Functional Testing\",\n    \"Regression Testing\",\n    \"API Testing\",\n    \"mobile testing\",\n    \"Performance Testing\",\n    \"Data Testing\",\n    \"Automation\"\n  ],\n  \"tools_technologies\": [\n    \"Playwright\",\n    \"Selenium\",\n    \"katalon\",\n    \"Appium\",\n    \"Postman\",\n    \"jMeter\",\n    \"Python\",\n    \"SQL\",\n    \"BigQuery\",\n    \"Greenplum\",\n    \"Allure\",\n    \"phpMyAdmin\"\n  ],\n  \"domains\": [\n    \"telecommunications\",\n    \"fintech\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Informatics / Computer Science\",\n      \"institution\": \"Universitas Jenderal Soedirman\",\n      \"year\": null\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Indonesia\"\n  ],\n  \"soft_skills\": [\n    \"team collaboration\",\n    \"defect documentation\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Quality Assurance Engineer\",\n      \"company\": \"PT XLSMART TELECOM SEJAHTERA TBK\",\n      \"start\": \"2025-07\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"tester project\",\n      \"company\": \"PT Smartfren Telecom Tbk\",\n      \"start\": \"2024-08\",\n      \"end\": \"2025-07\"\n    },\n    {\n      \"title\": \"Software Quality Assurance\",\n      \"company\": \"KipasKipas\",\n      \"start\": \"2023-02\",\n      \"end\": \"2024-06\"\n    },\n    {\n      \"title\": \"Web Developer\",\n      \"company\": \"PT. NOTO TEKNOLOGI INDONESIA\",\n      \"start\": \"2019-11\",\n      \"end\": \"2020-04\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-017",
+    "doc_type": "cv",
+    "current_title": "Quality Assurance Engineer",
+    "current_company": "PT XLSMART Telecom Sejahtera Tbk",
+    "role_family": "Engineering",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "Quality Assurance",
+      "Manual Testing",
+      "Functional Testing",
+      "Regression Testing",
+      "API Testing",
+      "mobile testing",
+      "Performance Testing",
+      "Data Testing",
+      "Automation"
+    ],
+    "tools_technologies": [
+      "Playwright",
+      "Selenium",
+      "katalon",
+      "Appium",
+      "Postman",
+      "jMeter",
+      "Python",
+      "SQL",
+      "BigQuery",
+      "Greenplum",
+      "Allure",
+      "phpMyAdmin"
+    ],
+    "domains": [
+      "telecommunications",
+      "fintech"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Informatics / Computer Science",
+        "institution": "Universitas Jenderal Soedirman",
+        "year": null
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Indonesia"
+    ],
+    "soft_skills": [
+      "team collaboration",
+      "defect documentation"
+    ],
+    "work_history": [
+      {
+        "title": "Quality Assurance Engineer",
+        "company": "PT XLSMART TELECOM SEJAHTERA TBK",
+        "start": "2025-07",
+        "end": "Present"
+      },
+      {
+        "title": "tester project",
+        "company": "PT Smartfren Telecom Tbk",
+        "start": "2024-08",
+        "end": "2025-07"
+      },
+      {
+        "title": "Software Quality Assurance",
+        "company": "KipasKipas",
+        "start": "2023-02",
+        "end": "2024-06"
+      },
+      {
+        "title": "Web Developer",
+        "company": "PT. NOTO TEKNOLOGI INDONESIA",
+        "start": "2019-11",
+        "end": "2020-04"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

@@ -1,0 +1,131 @@
+{
+  "doc_id": "CV-015",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "1b24e1a6ca8cb2c308194107aef31bc906ded0c6343ba73d0e742af25b2b4080",
+  "timestamp": "2026-11-12T03:14:03.175817+00:00",
+  "elapsed_sec": 27.58,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-015\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Staff Software Engineer / Technical Lead\",\n  \"current_company\": \"Ivanti\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"lead\",\n  \"total_years_experience\": 13,\n  \"skills\": [\n    \"Java\",\n    \"J2EE\",\n    \"Spring Boot\",\n    \"Hibernate\",\n    \"RESTful APIs\",\n    \"Microservices\",\n    \"Spring Security\",\n    \"OAuth2\",\n    \"AWS\",\n    \"Docker\",\n    \"Kubernetes\",\n    \"Jenkins\",\n    \"Git\",\n    \"Github Actions\",\n    \"DevOps Practices\",\n    \"CI/CD\",\n    \"Kafka\",\n    \"PostgreSQL\",\n    \"MySQL\",\n    \"Oracle\",\n    \"HBase\",\n    \"Apache Phoenix\",\n    \"Hadoop\",\n    \"Spark\",\n    \"ElasticSearch\",\n    \"Agile\",\n    \"Scrum framework\"\n  ],\n  \"tools_technologies\": [\n    \"Spring Boot\",\n    \"Hibernate\",\n    \"AWS\",\n    \"Jenkins\",\n    \"Git\",\n    \"Github Actions\",\n    \"Kafka\",\n    \"PostgreSQL\",\n    \"MySQL\",\n    \"Oracle\",\n    \"HBase\",\n    \"Apache Phoenix\",\n    \"Hadoop\",\n    \"Spark\",\n    \"ElasticSearch\"\n  ],\n  \"domains\": [\n    \"fintech\",\n    \"enterprise software\",\n    \"cloud computing\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Master's Degree\",\n      \"field\": null,\n      \"institution\": \"K J Somaiya Institute of Management Studies and Research\",\n      \"year\": null\n    },\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": null,\n      \"institution\": \"University of Mumbai\",\n      \"year\": null\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"India\"\n  ],\n  \"soft_skills\": [\n    \"Technical Leadership\",\n    \"Agile Delivery\",\n    \"Team Management\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Staff Software Engineer / Technical Lead\",\n      \"company\": \"Ivanti\",\n      \"start\": \"2021-06\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Staff Software Engineer (Technical Lead Track)\",\n      \"company\": \"Zyme Solutions (E2open)\",\n      \"start\": \"2015-10\",\n      \"end\": \"2021-06\"\n    },\n    {\n      \"title\": \"Technical Lead\",\n      \"company\": \"Ondot Systems\",\n      \"start\": \"2011-10\",\n      \"end\": \"2015-09\"\n    },\n    {\n      \"title\": \"Senior Software Engineer\",\n      \"company\": \"Zycus Infotech\",\n      \"start\": \"2009-06\",\n      \"end\": \"2011-09\"\n    },\n    {\n      \"title\": \"Software Developer\",\n      \"company\": \"Nucsoft Ltd\",\n      \"start\": \"2008-07\",\n      \"end\": \"2009-05\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-015",
+    "doc_type": "cv",
+    "current_title": "Staff Software Engineer / Technical Lead",
+    "current_company": "Ivanti",
+    "role_family": "Engineering",
+    "seniority": "lead",
+    "total_years_experience": 13,
+    "skills": [
+      "Java",
+      "J2EE",
+      "Spring Boot",
+      "Hibernate",
+      "RESTful APIs",
+      "Microservices",
+      "Spring Security",
+      "OAuth2",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "Git",
+      "Github Actions",
+      "DevOps Practices",
+      "CI/CD",
+      "Kafka",
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "HBase",
+      "Apache Phoenix",
+      "Hadoop",
+      "Spark",
+      "ElasticSearch",
+      "Agile",
+      "Scrum framework"
+    ],
+    "tools_technologies": [
+      "Spring Boot",
+      "Hibernate",
+      "AWS",
+      "Jenkins",
+      "Git",
+      "Github Actions",
+      "Kafka",
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "HBase",
+      "Apache Phoenix",
+      "Hadoop",
+      "Spark",
+      "ElasticSearch"
+    ],
+    "domains": [
+      "fintech",
+      "enterprise software",
+      "cloud computing"
+    ],
+    "education": [
+      {
+        "degree": "Master's Degree",
+        "field": null,
+        "institution": "K J Somaiya Institute of Management Studies and Research",
+        "year": null
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "field": null,
+        "institution": "University of Mumbai",
+        "year": null
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "India"
+    ],
+    "soft_skills": [
+      "Technical Leadership",
+      "Agile Delivery",
+      "Team Management"
+    ],
+    "work_history": [
+      {
+        "title": "Staff Software Engineer / Technical Lead",
+        "company": "Ivanti",
+        "start": "2021-06",
+        "end": "Present"
+      },
+      {
+        "title": "Staff Software Engineer (Technical Lead Track)",
+        "company": "Zyme Solutions (E2open)",
+        "start": "2015-10",
+        "end": "2021-06"
+      },
+      {
+        "title": "Technical Lead",
+        "company": "Ondot Systems",
+        "start": "2011-10",
+        "end": "2015-09"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "company": "Zycus Infotech",
+        "start": "2009-06",
+        "end": "2011-09"
+      },
+      {
+        "title": "Software Developer",
+        "company": "Nucsoft Ltd",
+        "start": "2008-07",
+        "end": "2009-05"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

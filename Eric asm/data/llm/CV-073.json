@@ -1,0 +1,116 @@
+{
+  "doc_id": "CV-073",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "84db0a2fa72bdb2a64b08b07a8637e8d794c1a8aeeabfcc4e798d475f2c78c3c",
+  "timestamp": "2026-11-12T03:33:39.888008+00:00",
+  "elapsed_sec": 48.68,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-073\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Marketing & PR\",\n  \"current_company\": \"Lalamove Singapore\",\n  \"role_family\": \"Marketing\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Marketing\",\n    \"Digital Content\",\n    \"Social Media Management\",\n    \"Brand Management\",\n    \"Influencer Partnerships\",\n    \"Content Creation\",\n    \"Photography\",\n    \"Videography\",\n    \"Video Editing\",\n    \"E-commerce\",\n    \"Data Analysis\",\n    \"SEO\",\n    \"SEM\",\n    \"Email Marketing\",\n    \"TikTok\",\n    \"Instagram\",\n    \"XHS\",\n    \"HubSpot\",\n    \"SEMrush\",\n    \"Sendgrid\",\n    \"Shopcada\",\n    \"TikTok Shop Seller Center\",\n    \"TikTok Affiliate Center\",\n    \"TikTok Live Manager\",\n    \"Excel\",\n    \"Google Sheets\",\n    \"Google Slides\",\n    \"Google Docs\",\n    \"CapCut Pro\",\n    \"Canva\"\n  ],\n  \"tools_technologies\": [\n    \"HubSpot\",\n    \"SEMrush\",\n    \"Sendgrid\",\n    \"Shopcada\",\n    \"TikTok Shop Seller Center\",\n    \"TikTok Affiliate Center\",\n    \"TikTok Live Manager\",\n    \"CapCut Pro\",\n    \"Canva\"\n  ],\n  \"domains\": [\n    \"e-commerce\",\n    \"social media\",\n    \"influencer marketing\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Master's Degree\",\n      \"field\": \"Business\",\n      \"institution\": \"Murdoch University\",\n      \"year\": null\n    },\n    {\n      \"degree\": \"Associate's Degree\",\n      \"field\": \"unknown\",\n      \"institution\": \"Kaplan Higher Education Academy\",\n      \"year\": null\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Singapore\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\",\n    \"project management\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Marketing & PR\",\n      \"company\": \"Lalamove Singapore\",\n      \"start\": \"2025-04\",\n      \"end\": \"2026-01\"\n    },\n    {\n      \"title\": \"Influencer Marketing (Contract)\",\n      \"company\": \"Boom Digital Media\",\n      \"start\": \"2023-07\",\n      \"end\": \"2024-01\"\n    },\n    {\n      \"title\": \"Digital Marketing & Communication\",\n      \"company\": \"Purpur Fashion Trend Pte Ltd\",\n      \"start\": \"2022-07\",\n      \"end\": \"2023-07\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-073",
+    "doc_type": "cv",
+    "current_title": "Marketing & PR",
+    "current_company": "Lalamove Singapore",
+    "role_family": "Marketing",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "Marketing",
+      "Digital Content",
+      "Social Media Management",
+      "Brand Management",
+      "Influencer Partnerships",
+      "Content Creation",
+      "Photography",
+      "Videography",
+      "Video Editing",
+      "E-commerce",
+      "Data Analysis",
+      "SEO",
+      "SEM",
+      "Email Marketing",
+      "TikTok",
+      "Instagram",
+      "XHS",
+      "HubSpot",
+      "SEMrush",
+      "Sendgrid",
+      "Shopcada",
+      "TikTok Shop Seller Center",
+      "TikTok Affiliate Center",
+      "TikTok Live Manager",
+      "Excel",
+      "Google Sheets",
+      "Google Slides",
+      "Google Docs",
+      "CapCut Pro",
+      "Canva"
+    ],
+    "tools_technologies": [
+      "HubSpot",
+      "SEMrush",
+      "Sendgrid",
+      "Shopcada",
+      "TikTok Shop Seller Center",
+      "TikTok Affiliate Center",
+      "TikTok Live Manager",
+      "CapCut Pro",
+      "Canva"
+    ],
+    "domains": [
+      "e-commerce",
+      "social media",
+      "influencer marketing"
+    ],
+    "education": [
+      {
+        "degree": "Master's Degree",
+        "field": "Business",
+        "institution": "Murdoch University",
+        "year": null
+      },
+      {
+        "degree": "Associate's Degree",
+        "field": "unknown",
+        "institution": "Kaplan Higher Education Academy",
+        "year": null
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Singapore"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring",
+      "project management"
+    ],
+    "work_history": [
+      {
+        "title": "Marketing & PR",
+        "company": "Lalamove Singapore",
+        "start": "2025-04",
+        "end": "2026-01"
+      },
+      {
+        "title": "Influencer Marketing (Contract)",
+        "company": "Boom Digital Media",
+        "start": "2023-07",
+        "end": "2024-01"
+      },
+      {
+        "title": "Digital Marketing & Communication",
+        "company": "Purpur Fashion Trend Pte Ltd",
+        "start": "2022-07",
+        "end": "2023-07"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

@@ -1,0 +1,92 @@
+{
+  "doc_id": "CV-079",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "5ad9125a7af42fc4164a8fc8301cde1847ca2b2803167d3d0a2263b8f73545c7",
+  "timestamp": "2026-11-12T03:35:50.801436+00:00",
+  "elapsed_sec": 50.14,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-079\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Finance Manager\",\n  \"current_company\": \"Hunlicar Financial Services Company Limited\",\n  \"role_family\": \"Finance & Legal\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": 13,\n  \"skills\": [\"Accounting\", \"financial reporting\", \"Audit\", \"Tax\", \"Management Reporting\", \"Internal Controls\", \"Due Diligence\"],\n  \"tools_technologies\": [\"FlexSystem\", \"MYOB\", \"Multiable\", \"SAP\", \"Microsoft Office\"],\n  \"domains\": [\"finance\", \"accounting\"],\n  \"education\": [{\"degree\": \"Bachelor's Degree\", \"field\": \"Accounting\", \"institution\": \"Hong Kong Metropolitan University\", \"year\": 2011}],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\"Hong Kong\"],\n  \"soft_skills\": [\"People Management\"],\n  \"work_history\": [\n    {\n      \"title\": \"Finance Manager\",\n      \"company\": \"Hunlicar Financial Services Company Limited\",\n      \"start\": \"2024-10\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Senior Accountant\",\n      \"company\": \"PT Investment Corporation Limited\",\n      \"start\": \"2017-09\",\n      \"end\": \"2024-03\"\n    },\n    {\n      \"title\": \"Senior Accountant\",\n      \"company\": \"Zenith CPA Limited\",\n      \"start\": \"2014-12\",\n      \"end\": \"2017-09\"\n    },\n    {\n      \"title\": \"Accounting Officer\",\n      \"company\": \"Yu Fat Hong (Hong Kong) Limited (Sino Care Group)\",\n      \"start\": \"2012-12\",\n      \"end\": \"2014-09\"\n    },\n    {\n      \"title\": \"Accounting Assistant\",\n      \"company\": \"Sino Care Enterprise Management Limited (Sino Care Group)\",\n      \"start\": \"2011-06\",\n      \"end\": \"2012-11\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-079",
+    "doc_type": "cv",
+    "current_title": "Finance Manager",
+    "current_company": "Hunlicar Financial Services Company Limited",
+    "role_family": "Finance & Legal",
+    "seniority": "mid",
+    "total_years_experience": 13,
+    "skills": [
+      "Accounting",
+      "financial reporting",
+      "Audit",
+      "Tax",
+      "Management Reporting",
+      "Internal Controls",
+      "Due Diligence"
+    ],
+    "tools_technologies": [
+      "FlexSystem",
+      "MYOB",
+      "Multiable",
+      "SAP",
+      "Microsoft Office"
+    ],
+    "domains": [
+      "finance",
+      "accounting"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Accounting",
+        "institution": "Hong Kong Metropolitan University",
+        "year": 2011
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Hong Kong"
+    ],
+    "soft_skills": [
+      "People Management"
+    ],
+    "work_history": [
+      {
+        "title": "Finance Manager",
+        "company": "Hunlicar Financial Services Company Limited",
+        "start": "2024-10",
+        "end": "Present"
+      },
+      {
+        "title": "Senior Accountant",
+        "company": "PT Investment Corporation Limited",
+        "start": "2017-09",
+        "end": "2024-03"
+      },
+      {
+        "title": "Senior Accountant",
+        "company": "Zenith CPA Limited",
+        "start": "2014-12",
+        "end": "2017-09"
+      },
+      {
+        "title": "Accounting Officer",
+        "company": "Yu Fat Hong (Hong Kong) Limited (Sino Care Group)",
+        "start": "2012-12",
+        "end": "2014-09"
+      },
+      {
+        "title": "Accounting Assistant",
+        "company": "Sino Care Enterprise Management Limited (Sino Care Group)",
+        "start": "2011-06",
+        "end": "2012-11"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

@@ -1,0 +1,100 @@
+{
+  "doc_id": "CV-065",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "9e434610c32661478179ec0b6bdb0dce8a5392fae21b822634b4b9fa1d9306d2",
+  "timestamp": "2026-11-12T03:30:44.907859+00:00",
+  "elapsed_sec": 55.18,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-065\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Specialist, Marketing (Digital Marketing)\",\n  \"current_company\": \"ZIPS Car Wash\",\n  \"role_family\": \"Marketing\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Content Creation\",\n    \"Videography\",\n    \"Data Analytics\",\n    \"Project Management\",\n    \"B2C & B2B Marketing\",\n    \"KPI Monitoring\",\n    \"Campaigns\",\n    \"HTML Coding\",\n    \"AI optimization\",\n    \"Sound Design & Engineering\",\n    \"Marketing Analytics\",\n    \"Measuring KPI's\",\n    \"Growth Analytics\",\n    \"Optimizing\",\n    \"Journey Building\",\n    \"Intelligence Reporting\",\n    \"Creative Concept Development\",\n    \"Brand Consistency\",\n    \"Multimedia Content Creation\",\n    \"Stakeholder Collaboration\",\n    \"Project & Deadline Management\",\n    \"Content Workflow Coordination\",\n    \"Social Video Strategy\",\n    \"Performance Analytics\"\n  ],\n  \"tools_technologies\": [\n    \"Google Ads\",\n    \"Facebook Ads\"\n  ],\n  \"domains\": [\n    \"car wash\",\n    \"health and wellness\",\n    \"wine industry\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Master's Degree\",\n      \"field\": \"Mass Communications\",\n      \"institution\": \"Stephen F. Austin University\",\n      \"year\": 2021\n    },\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"unknown\",\n      \"institution\": \"Louisiana Tech University\",\n      \"year\": 2020\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [],\n  \"soft_skills\": [\n    \"team management\",\n    \"mentoring\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Specialist, Marketing (Digital Marketing)\",\n      \"company\": \"ZIPS Car Wash\",\n      \"start\": \"2026-03\",\n      \"end\": \"2026-10\"\n    },\n    {\n      \"title\": \"Manager, Marketing (Digital Marketing)\",\n      \"company\": \"CareConnectStrategies\",\n      \"start\": \"2024-01\",\n      \"end\": \"2026-01\"\n    },\n    {\n      \"title\": \"Manager, Digital Marketing Lead\",\n      \"company\": \"Jackson Family Wines\",\n      \"start\": \"2022-06\",\n      \"end\": \"2023-12\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-065",
+    "doc_type": "cv",
+    "current_title": "Specialist, Marketing (Digital Marketing)",
+    "current_company": "ZIPS Car Wash",
+    "role_family": "Marketing",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "Content Creation",
+      "Videography",
+      "Data Analytics",
+      "Project Management",
+      "B2C & B2B Marketing",
+      "KPI Monitoring",
+      "Campaigns",
+      "HTML Coding",
+      "AI optimization",
+      "Sound Design & Engineering",
+      "Marketing Analytics",
+      "Measuring KPI's",
+      "Growth Analytics",
+      "Optimizing",
+      "Journey Building",
+      "Intelligence Reporting",
+      "Creative Concept Development",
+      "Brand Consistency",
+      "Multimedia Content Creation",
+      "Stakeholder Collaboration",
+      "Project & Deadline Management",
+      "Content Workflow Coordination",
+      "Social Video Strategy",
+      "Performance Analytics"
+    ],
+    "tools_technologies": [
+      "Google Ads",
+      "Facebook Ads"
+    ],
+    "domains": [
+      "car wash",
+      "health and wellness",
+      "wine industry"
+    ],
+    "education": [
+      {
+        "degree": "Master's Degree",
+        "field": "Mass Communications",
+        "institution": "Stephen F. Austin University",
+        "year": 2021
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "field": "unknown",
+        "institution": "Louisiana Tech University",
+        "year": 2020
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [],
+    "soft_skills": [
+      "team management",
+      "mentoring"
+    ],
+    "work_history": [
+      {
+        "title": "Specialist, Marketing (Digital Marketing)",
+        "company": "ZIPS Car Wash",
+        "start": "2026-03",
+        "end": "2026-10"
+      },
+      {
+        "title": "Manager, Marketing (Digital Marketing)",
+        "company": "CareConnectStrategies",
+        "start": "2024-01",
+        "end": "2026-01"
+      },
+      {
+        "title": "Manager, Digital Marketing Lead",
+        "company": "Jackson Family Wines",
+        "start": "2022-06",
+        "end": "2023-12"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

@@ -1,0 +1,62 @@
+{
+  "doc_id": "CV-054",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "b48e2dcd07748ae844e2e7ac1052a93bb9cc900f9cd0ddce3c5800b7fb100898",
+  "timestamp": "2026-11-12T03:26:22.918422+00:00",
+  "elapsed_sec": 35.54,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-054\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"UX/UI Design Intern\",\n  \"current_company\": \"THD Cyber Security\",\n  \"role_family\": \"Design & Creative\",\n  \"seniority\": \"intern\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"UX Research\",\n    \"UX/UI Design\",\n    \"Figma\",\n    \"Framer\",\n    \"Canva\",\n    \"Google Analytics 4\"\n  ],\n  \"tools_technologies\": [],\n  \"domains\": [],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Multimedia Communications\",\n      \"institution\": \"University of Social Sciences and Humanities, VNU-HCM\",\n      \"year\": null\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Vietnam\"\n  ],\n  \"soft_skills\": [],\n  \"work_history\": [\n    {\n      \"title\": \"UX/UI Design Intern\",\n      \"company\": \"THD Cyber Security\",\n      \"start\": \"2025-10\",\n      \"end\": \"2025-12\"\n    },\n    {\n      \"title\": \"Communications Contributor\",\n      \"company\": \"Youth Confessions · Ybox.vn\",\n      \"start\": \"2023-01\",\n      \"end\": \"2023-06\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-054",
+    "doc_type": "cv",
+    "current_title": "UX/UI Design Intern",
+    "current_company": "THD Cyber Security",
+    "role_family": "Design & Creative",
+    "seniority": "intern",
+    "total_years_experience": null,
+    "skills": [
+      "UX Research",
+      "UX/UI Design",
+      "Figma",
+      "Framer",
+      "Canva",
+      "Google Analytics 4"
+    ],
+    "tools_technologies": [],
+    "domains": [],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Multimedia Communications",
+        "institution": "University of Social Sciences and Humanities, VNU-HCM",
+        "year": null
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Vietnam"
+    ],
+    "soft_skills": [],
+    "work_history": [
+      {
+        "title": "UX/UI Design Intern",
+        "company": "THD Cyber Security",
+        "start": "2025-10",
+        "end": "2025-12"
+      },
+      {
+        "title": "Communications Contributor",
+        "company": "Youth Confessions · Ybox.vn",
+        "start": "2023-01",
+        "end": "2023-06"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

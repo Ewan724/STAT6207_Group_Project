@@ -1,0 +1,70 @@
+{
+  "doc_id": "CV-009",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "a28b9951b4b0cfdaa6cf0510950ced6a2e1a8739594834cfe39f2f077e2c6116",
+  "timestamp": "2026-11-12T03:12:32.298952+00:00",
+  "elapsed_sec": 20.55,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-009\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Team Lead / Senior Backend Engineer\",\n  \"current_company\": \"MobilityOne Sdn Bhd\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"senior\",\n  \"total_years_experience\": 7,\n  \"skills\": [\"Java\", \"Spring Boot\", \"Microservices\", \"OAuth2\", \"keycloak\", \"Temporal\", \"MySQL\", \"Docker\", \"AliCloud\", \"Linux\"],\n  \"tools_technologies\": [],\n  \"domains\": [\"fintech\", \"payments\"],\n  \"education\": null,\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [],\n  \"soft_skills\": [\"team leadership\", \"code reviews\", \"architecture standards\"],\n  \"work_history\": [\n    {\n      \"title\": \"Team Lead / Senior Backend Engineer\",\n      \"company\": \"MobilityOne Sdn Bhd\",\n      \"start\": \"2022-01\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Software Engineer\",\n      \"company\": \"Mobilityone Sdn Bhd\",\n      \"start\": \"2018-01\",\n      \"end\": \"2022-01\"\n    },\n    {\n      \"title\": \"Java Software Engineer\",\n      \"company\": \"Pooya Co Inc\",\n      \"start\": \"2015-01\",\n      \"end\": \"2018-01\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-009",
+    "doc_type": "cv",
+    "current_title": "Team Lead / Senior Backend Engineer",
+    "current_company": "MobilityOne Sdn Bhd",
+    "role_family": "Engineering",
+    "seniority": "senior",
+    "total_years_experience": 7,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "OAuth2",
+      "keycloak",
+      "Temporal",
+      "MySQL",
+      "Docker",
+      "AliCloud",
+      "Linux"
+    ],
+    "tools_technologies": [],
+    "domains": [
+      "fintech",
+      "payments"
+    ],
+    "education": [],
+    "certifications": [],
+    "languages": [],
+    "locations": [],
+    "soft_skills": [
+      "team leadership",
+      "code reviews",
+      "architecture standards"
+    ],
+    "work_history": [
+      {
+        "title": "Team Lead / Senior Backend Engineer",
+        "company": "MobilityOne Sdn Bhd",
+        "start": "2022-01",
+        "end": "Present"
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Mobilityone Sdn Bhd",
+        "start": "2018-01",
+        "end": "2022-01"
+      },
+      {
+        "title": "Java Software Engineer",
+        "company": "Pooya Co Inc",
+        "start": "2015-01",
+        "end": "2018-01"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

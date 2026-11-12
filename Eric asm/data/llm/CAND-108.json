@@ -1,0 +1,93 @@
+{
+  "doc_id": "CAND-108",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "40911a245aa4d11fec336dfa5ce23da950fb939efa37865393510568935c012d",
+  "timestamp": "2026-11-12T03:43:27.674238+00:00",
+  "elapsed_sec": 16.58,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CAND-108\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Field Service Engineer\",\n  \"current_company\": \"Tokyo Electron Singapore Pte Ltd\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": 10,\n  \"skills\": [\"Preventive & Corrective Maintenance\", \"Equipment Troubleshooting & Reliability\", \"Semiconductor Process & Tool Performance\", \"Root Cause Analysis & Continuous Improvement\", \"Cross-functional Collaboration\", \"Leadership & Team Supervision\", \"Engineering Documentation & Reporting\", \"Safety\", \"Quality & Compliance Management\", \"Problem-Solving\", \"Communication\"],\n  \"tools_technologies\": [],\n  \"domains\": [\"semiconductor\", \"electronics\"],\n  \"education\": [{\"degree\": \"Associate's Degree\", \"field\": \"Electrical/Electronic Engineering\", \"institution\": \"Temasek Polytechnic\", \"year\": 2017}],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\"Singapore\"],\n  \"soft_skills\": [\"team supervision\", \"mentoring\", \"communication\"],\n  \"work_history\": [\n    {\n      \"title\": \"Field Service Engineer\",\n      \"company\": \"Tokyo Electron Singapore Pte Ltd\",\n      \"start\": \"2024-06\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Equipment Engineer\",\n      \"company\": \"STMicroelectronics\",\n      \"start\": \"2022-05\",\n      \"end\": \"2024-06\"\n    },\n    {\n      \"title\": \"Technical Specialist\",\n      \"company\": \"Micron Semiconductors\",\n      \"start\": \"2016-05\",\n      \"end\": \"2022-05\"\n    },\n    {\n      \"title\": \"Engineering Specialist\",\n      \"company\": \"Seagate Technology International Pte Ltd\",\n      \"start\": \"2014-04\",\n      \"end\": \"2016-04\"\n    },\n    {\n      \"title\": \"Trainer\",\n      \"company\": \"Singapore Armed Forces\",\n      \"start\": \"2013-07\",\n      \"end\": \"2014-03\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CAND-108",
+    "doc_type": "cv",
+    "current_title": "Field Service Engineer",
+    "current_company": "Tokyo Electron Singapore Pte Ltd",
+    "role_family": "Engineering",
+    "seniority": "mid",
+    "total_years_experience": 10,
+    "skills": [
+      "Preventive & Corrective Maintenance",
+      "Equipment Troubleshooting & Reliability",
+      "Cross-functional Collaboration",
+      "Leadership & Team Supervision",
+      "Engineering Documentation & Reporting",
+      "Safety",
+      "Quality & Compliance Management"
+    ],
+    "tools_technologies": [],
+    "domains": [
+      "semiconductor",
+      "electronics"
+    ],
+    "education": [
+      {
+        "degree": "Associate's Degree",
+        "field": "Electrical/Electronic Engineering",
+        "institution": "Temasek Polytechnic",
+        "year": 2017
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Singapore"
+    ],
+    "soft_skills": [
+      "team supervision",
+      "mentoring",
+      "communication"
+    ],
+    "work_history": [
+      {
+        "title": "Field Service Engineer",
+        "company": "Tokyo Electron Singapore Pte Ltd",
+        "start": "2024-06",
+        "end": "Present"
+      },
+      {
+        "title": "Equipment Engineer",
+        "company": "STMicroelectronics",
+        "start": "2022-05",
+        "end": "2024-06"
+      },
+      {
+        "title": "Technical Specialist",
+        "company": "Micron Semiconductors",
+        "start": "2016-05",
+        "end": "2022-05"
+      },
+      {
+        "title": "Engineering Specialist",
+        "company": "Seagate Technology International Pte Ltd",
+        "start": "2014-04",
+        "end": "2016-04"
+      },
+      {
+        "title": "Trainer",
+        "company": "Singapore Armed Forces",
+        "start": "2013-07",
+        "end": "2014-03"
+      }
+    ]
+  },
+  "validation_errors": [
+    "keyword_word_count:Semiconductor Process & Tool Performance",
+    "keyword_word_count:Root Cause Analysis & Continuous Improvement",
+    "generic_keyword:Problem-Solving",
+    "generic_keyword:Communication"
+  ],
+  "dropped_keywords": []
+}

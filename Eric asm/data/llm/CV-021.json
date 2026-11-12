@@ -1,0 +1,141 @@
+{
+  "doc_id": "CV-021",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "27f72b0691995f4bcfcd74f524961318878537eb37c95fd9a1fac7f621a20b44",
+  "timestamp": "2026-11-12T03:15:37.779299+00:00",
+  "elapsed_sec": 29.13,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-021\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Software Engineer\",\n  \"current_company\": \"NCS Pte. Ltd.\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"C#\",\n    \".NET\",\n    \"Python\",\n    \"SQL\",\n    \"API integration\",\n    \"ETL\",\n    \"AWS DynamoDB\",\n    \"Prompt engineering\",\n    \"Tool calling\",\n    \"Multi-agent orchestration\",\n    \"Human review\",\n    \"UAT\",\n    \"Test scripting\",\n    \"Application Support\",\n    \"OWASP ZAP\",\n    \"Static analysis\",\n    \"Dynamic analysis\",\n    \"Requirements elicitation\",\n    \"Workflow mapping\",\n    \"Vendor coordination\",\n    \"User training\",\n    \"Excel\",\n    \"SharePoint\",\n    \"TypeScript\",\n    \"Node.js\",\n    \"Next.js\",\n    \"React\",\n    \"PostgreSQL\",\n    \"Prisma\",\n    \"Docker\",\n    \"Github Actions\",\n    \"Vitest\",\n    \"Playwright\"\n  ],\n  \"tools_technologies\": [\n    \"C#\",\n    \".NET\",\n    \"Python\",\n    \"SQL\",\n    \"AWS DynamoDB\",\n    \"OWASP ZAP\",\n    \"Prisma\",\n    \"Docker\",\n    \"Github Actions\",\n    \"Vitest\",\n    \"Playwright\"\n  ],\n  \"domains\": [\n    \"enterprise software\",\n    \"HR operations\",\n    \"maritime technology\",\n    \"cyber security\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Information Systems\",\n      \"institution\": \"Singapore Management University\",\n      \"year\": 2022\n    },\n    {\n      \"degree\": \"Associate's Degree\",\n      \"field\": null,\n      \"institution\": \"Nanyang Polytechnic\",\n      \"year\": 2017\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Singapore\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\",\n    \"user training\",\n    \"Vendor coordination\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Software Engineer\",\n      \"company\": \"NCS Pte. Ltd.\",\n      \"start\": \"2026-04\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"AI Software Engineer\",\n      \"company\": \"NCS Pte. Ltd.\",\n      \"start\": \"2022-01\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Research assistant\",\n      \"company\": \"Singapore Management University\",\n      \"start\": \"2021-12\",\n      \"end\": \"2021-12\"\n    },\n    {\n      \"title\": \"Maritime Tech Solutions Intern\",\n      \"company\": \"Alpha Ori Technologies\",\n      \"start\": \"2020-05\",\n      \"end\": \"2020-07\"\n    },\n    {\n      \"title\": \"IT Intern\",\n      \"company\": \"OSM Thome\",\n      \"start\": \"2018-05\",\n      \"end\": \"2018-10\"\n    },\n    {\n      \"title\": \"Intern\",\n      \"company\": \"Rightspot\",\n      \"start\": \"2016-07\",\n      \"end\": \"2016-10\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-021",
+    "doc_type": "cv",
+    "current_title": "Software Engineer",
+    "current_company": "NCS Pte. Ltd.",
+    "role_family": "Engineering",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "C#",
+      "NET",
+      "Python",
+      "SQL",
+      "API integration",
+      "ETL",
+      "AWS DynamoDB",
+      "Prompt engineering",
+      "Tool calling",
+      "Multi-agent orchestration",
+      "Human review",
+      "UAT",
+      "Test scripting",
+      "Application Support",
+      "OWASP ZAP",
+      "Static analysis",
+      "Dynamic analysis",
+      "Requirements elicitation",
+      "Workflow mapping",
+      "Vendor coordination",
+      "User training",
+      "Excel",
+      "SharePoint",
+      "TypeScript",
+      "Node.js",
+      "Next.js",
+      "React",
+      "PostgreSQL",
+      "Prisma",
+      "Docker",
+      "Github Actions",
+      "Vitest",
+      "Playwright"
+    ],
+    "tools_technologies": [
+      "C#",
+      "NET",
+      "Python",
+      "SQL",
+      "AWS DynamoDB",
+      "OWASP ZAP",
+      "Prisma",
+      "Docker",
+      "Github Actions",
+      "Vitest",
+      "Playwright"
+    ],
+    "domains": [
+      "enterprise software",
+      "HR operations",
+      "maritime technology",
+      "cyber security"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Information Systems",
+        "institution": "Singapore Management University",
+        "year": 2022
+      },
+      {
+        "degree": "Associate's Degree",
+        "field": null,
+        "institution": "Nanyang Polytechnic",
+        "year": 2017
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Singapore"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring",
+      "user training",
+      "Vendor coordination"
+    ],
+    "work_history": [
+      {
+        "title": "Software Engineer",
+        "company": "NCS Pte. Ltd.",
+        "start": "2026-04",
+        "end": "Present"
+      },
+      {
+        "title": "AI Software Engineer",
+        "company": "NCS Pte. Ltd.",
+        "start": "2022-01",
+        "end": "Present"
+      },
+      {
+        "title": "Research assistant",
+        "company": "Singapore Management University",
+        "start": "2021-12",
+        "end": "2021-12"
+      },
+      {
+        "title": "Maritime Tech Solutions Intern",
+        "company": "Alpha Ori Technologies",
+        "start": "2020-05",
+        "end": "2020-07"
+      },
+      {
+        "title": "IT Intern",
+        "company": "OSM Thome",
+        "start": "2018-05",
+        "end": "2018-10"
+      },
+      {
+        "title": "Intern",
+        "company": "Rightspot",
+        "start": "2016-07",
+        "end": "2016-10"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

@@ -1,0 +1,89 @@
+{
+  "doc_id": "CV-060",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "4d8a9256fd079453b76390daf2fd1d648182eb65bab97ff9cd91626d0319bc99",
+  "timestamp": "2026-11-12T03:28:53.124918+00:00",
+  "elapsed_sec": 40.44,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-060\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Insurance Agent\",\n  \"current_company\": \"Allianz\",\n  \"role_family\": \"Sales & BD\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Office 360\",\n    \"Java\",\n    \"HTML\",\n    \"Linux\",\n    \"Xcode\"\n  ],\n  \"tools_technologies\": [\n    \"Canva\"\n  ],\n  \"domains\": [\n    \"insurance\",\n    \"retail\",\n    \"hospitality\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"IT\",\n      \"institution\": \"University of Nottingham\",\n      \"year\": 2023\n    },\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"unknown\",\n      \"institution\": \"New Era University College\",\n      \"year\": 2023\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Malaysia\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\",\n    \"problem solving\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Insurance Agent\",\n      \"company\": \"Allianz\",\n      \"start\": \"2023-08\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Account cum admin\",\n      \"company\": \"ROICHEF KITCHEN\",\n      \"start\": \"2022-08\",\n      \"end\": \"2025-04\"\n    },\n    {\n      \"title\": \"Foodcourt Manager\",\n      \"company\": \"Food court operator (Malaysia)\",\n      \"start\": \"2019-03\",\n      \"end\": \"2022-07\"\n    },\n    {\n      \"title\": \"Cashier / Store Manager\",\n      \"company\": \"Richo Maketing Sdn.Bhd.\",\n      \"start\": \"2016-08\",\n      \"end\": \"2020-08\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-060",
+    "doc_type": "cv",
+    "current_title": "Insurance Agent",
+    "current_company": "Allianz",
+    "role_family": "Sales & BD",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "Office 360",
+      "Java",
+      "HTML",
+      "Linux",
+      "Xcode"
+    ],
+    "tools_technologies": [
+      "Canva"
+    ],
+    "domains": [
+      "insurance",
+      "retail",
+      "hospitality"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "IT",
+        "institution": "University of Nottingham",
+        "year": 2023
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "field": "unknown",
+        "institution": "New Era University College",
+        "year": 2023
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Malaysia"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring",
+      "problem solving"
+    ],
+    "work_history": [
+      {
+        "title": "Insurance Agent",
+        "company": "Allianz",
+        "start": "2023-08",
+        "end": "Present"
+      },
+      {
+        "title": "Account cum admin",
+        "company": "ROICHEF KITCHEN",
+        "start": "2022-08",
+        "end": "2025-04"
+      },
+      {
+        "title": "Foodcourt Manager",
+        "company": "Food court operator (Malaysia)",
+        "start": "2019-03",
+        "end": "2022-07"
+      },
+      {
+        "title": "Cashier / Store Manager",
+        "company": "Richo Maketing Sdn.Bhd.",
+        "start": "2016-08",
+        "end": "2020-08"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

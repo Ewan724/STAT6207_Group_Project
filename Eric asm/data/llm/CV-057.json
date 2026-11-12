@@ -1,0 +1,112 @@
+{
+  "doc_id": "CV-057",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "8616f4375a9b5582c4b2d7a6ad1a4854efe6214297dcd1929b259a86c97a7639",
+  "timestamp": "2026-11-12T03:27:37.893573+00:00",
+  "elapsed_sec": 55.96,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-057\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Account Manager\",\n  \"current_company\": \"MANE\",\n  \"role_family\": \"Sales & BD\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Industrial Research\",\n    \"Food Engineering\",\n    \"R&D Planning\",\n    \"Formulation\",\n    \"Sensory Evaluation\",\n    \"Product Optimization\",\n    \"Production Processes\",\n    \"Customer Engagement\",\n    \"Technical Sales\",\n    \"Market Intelligence\",\n    \"Negotiation\",\n    \"Cross-functional Collaboration\"\n  ],\n  \"tools_technologies\": [],\n  \"domains\": [\n    \"food and beverage\",\n    \"dairy\",\n    \"coconut-based products\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Food Science and Technology\",\n      \"institution\": \"Universitas Sriwijaya\",\n      \"year\": 2018\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Indonesia\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\",\n    \"customer relationship management\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Account Manager\",\n      \"company\": \"MANE\",\n      \"start\": \"2026-04\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Sr. Sales Executive\",\n      \"company\": \"PT Jinyoung\",\n      \"start\": \"2025-01\",\n      \"end\": \"2026-03\"\n    },\n    {\n      \"title\": \"Technical Specialist\",\n      \"company\": \"Brenntag\",\n      \"start\": \"2024-04\",\n      \"end\": \"2024-12\"\n    },\n    {\n      \"title\": \"Sr Research and Development\",\n      \"company\": \"Savoria\",\n      \"start\": \"2021-07\",\n      \"end\": \"2024-04\"\n    },\n    {\n      \"title\": \"Senior Food Technologist\",\n      \"company\": \"SAMBU GROUP\",\n      \"start\": \"2019-04\",\n      \"end\": \"2021-07\"\n    },\n    {\n      \"title\": \"Assistant of post harvest physiology\",\n      \"company\": \"Universitas Sriwijaya\",\n      \"start\": \"2018-01\",\n      \"end\": \"2018-07\"\n    },\n    {\n      \"title\": \"Assistant of biochemistry\",\n      \"company\": \"Universitas Sriwijaya\",\n      \"start\": \"2017-01\",\n      \"end\": \"2017-07\"\n    },\n    {\n      \"title\": \"Teaching assistant\",\n      \"company\": \"Universitas Sriwijaya\",\n      \"start\": \"2016-01\",\n      \"end\": \"2016-07\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-057",
+    "doc_type": "cv",
+    "current_title": "Account Manager",
+    "current_company": "MANE",
+    "role_family": "Sales & BD",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "Industrial Research",
+      "Food Engineering",
+      "R&D Planning",
+      "Formulation",
+      "Sensory Evaluation",
+      "Product Optimization",
+      "Production Processes",
+      "Customer Engagement",
+      "Technical Sales",
+      "Market Intelligence",
+      "Negotiation",
+      "Cross-functional Collaboration"
+    ],
+    "tools_technologies": [],
+    "domains": [
+      "food and beverage",
+      "dairy",
+      "coconut-based products"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Food Science and Technology",
+        "institution": "Universitas Sriwijaya",
+        "year": 2018
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Indonesia"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring",
+      "customer relationship management"
+    ],
+    "work_history": [
+      {
+        "title": "Account Manager",
+        "company": "MANE",
+        "start": "2026-04",
+        "end": "Present"
+      },
+      {
+        "title": "Sr. Sales Executive",
+        "company": "PT Jinyoung",
+        "start": "2025-01",
+        "end": "2026-03"
+      },
+      {
+        "title": "Technical Specialist",
+        "company": "Brenntag",
+        "start": "2024-04",
+        "end": "2024-12"
+      },
+      {
+        "title": "Sr Research and Development",
+        "company": "Savoria",
+        "start": "2021-07",
+        "end": "2024-04"
+      },
+      {
+        "title": "Senior Food Technologist",
+        "company": "SAMBU GROUP",
+        "start": "2019-04",
+        "end": "2021-07"
+      },
+      {
+        "title": "Assistant of post harvest physiology",
+        "company": "Universitas Sriwijaya",
+        "start": "2018-01",
+        "end": "2018-07"
+      },
+      {
+        "title": "Assistant of biochemistry",
+        "company": "Universitas Sriwijaya",
+        "start": "2017-01",
+        "end": "2017-07"
+      },
+      {
+        "title": "Teaching assistant",
+        "company": "Universitas Sriwijaya",
+        "start": "2016-01",
+        "end": "2016-07"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

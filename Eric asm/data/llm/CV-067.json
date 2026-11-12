@@ -1,0 +1,101 @@
+{
+  "doc_id": "CV-067",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "1bb4e03c97d3d9b7cf3ca4c31da4040a3d5d51a82234cc28a10ef624181462a5",
+  "timestamp": "2026-11-12T03:31:26.456092+00:00",
+  "elapsed_sec": 41.55,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-067\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Marketing Manager (GTM Sprint)\",\n  \"current_company\": \"Chinese Road (HK) Ltd.\",\n  \"role_family\": \"Marketing\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\"AI SaaS\", \"Smart IoT solutions\", \"B2B management\", \"Business Model Innovation\", \"Key Account Management\", \"Channel & SI Ecosystem\", \"Technical Sales\", \"Project Management\", \"Green Tech\", \"Hardware-as-a-Service\", \"RPA\", \"IoT HW-SW Integration\", \"Predictive Maintenance\"],\n  \"tools_technologies\": [],\n  \"domains\": [\"AI\", \"IoT\", \"SaaS\", \"Government\", \"3PL\", \"Hotels\", \"F&B\", \"Logistics\", \"Retail\", \"Hospitality\"],\n  \"education\": [{\"degree\": \"Master's Degree\", \"field\": null, \"institution\": \"University of Wales\", \"year\": null}],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\"Hong Kong\"],\n  \"soft_skills\": [\"team leadership\", \"mentoring\"],\n  \"work_history\": [\n    {\n      \"title\": \"Marketing Manager (GTM Sprint)\",\n      \"company\": \"Chinese Road (HK) Ltd.\",\n      \"start\": \"2026-04\",\n      \"end\": \"2026-07\"\n    },\n    {\n      \"title\": \"Business Manager (GTM & Scaling)\",\n      \"company\": \"Meta-Archit Software Technology (HK) Ltd.\",\n      \"start\": \"2025-01\",\n      \"end\": \"2025-12\"\n    },\n    {\n      \"title\": \"Sales Manager (Commercial Sector Penetration)\",\n      \"company\": \"SecurePro Technology Security Ltd.\",\n      \"start\": \"2024-01\",\n      \"end\": \"2024-12\"\n    },\n    {\n      \"title\": \"Sales Manager (New Product Launch)\",\n      \"company\": \"Qiair Technoscience Ltd.\",\n      \"start\": \"2021-01\",\n      \"end\": \"2023-12\"\n    },\n    {\n      \"title\": \"Sales Manager (Model Innovation)\",\n      \"company\": \"FS Electronic Technology Co., Ltd.\",\n      \"start\": \"2020-01\",\n      \"end\": \"2021-12\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-067",
+    "doc_type": "cv",
+    "current_title": "Marketing Manager (GTM Sprint)",
+    "current_company": "Chinese Road (HK) Ltd.",
+    "role_family": "Marketing",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "AI SaaS",
+      "Smart IoT solutions",
+      "B2B management",
+      "Business Model Innovation",
+      "Key Account Management",
+      "Channel & SI Ecosystem",
+      "Technical Sales",
+      "Project Management",
+      "Green Tech",
+      "Hardware-as-a-Service",
+      "RPA",
+      "IoT HW-SW Integration",
+      "Predictive Maintenance"
+    ],
+    "tools_technologies": [],
+    "domains": [
+      "AI",
+      "IoT",
+      "SaaS",
+      "Government",
+      "3PL",
+      "Hotels",
+      "F&B",
+      "Logistics",
+      "Retail",
+      "Hospitality"
+    ],
+    "education": [
+      {
+        "degree": "Master's Degree",
+        "field": null,
+        "institution": "University of Wales",
+        "year": null
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Hong Kong"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring"
+    ],
+    "work_history": [
+      {
+        "title": "Marketing Manager (GTM Sprint)",
+        "company": "Chinese Road (HK) Ltd.",
+        "start": "2026-04",
+        "end": "2026-07"
+      },
+      {
+        "title": "Business Manager (GTM & Scaling)",
+        "company": "Meta-Archit Software Technology (HK) Ltd.",
+        "start": "2025-01",
+        "end": "2025-12"
+      },
+      {
+        "title": "Sales Manager (Commercial Sector Penetration)",
+        "company": "SecurePro Technology Security Ltd.",
+        "start": "2024-01",
+        "end": "2024-12"
+      },
+      {
+        "title": "Sales Manager (New Product Launch)",
+        "company": "Qiair Technoscience Ltd.",
+        "start": "2021-01",
+        "end": "2023-12"
+      },
+      {
+        "title": "Sales Manager (Model Innovation)",
+        "company": "FS Electronic Technology Co., Ltd.",
+        "start": "2020-01",
+        "end": "2021-12"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

@@ -1,0 +1,105 @@
+{
+  "doc_id": "CV-023",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "066989302f7689541ce2bdaf43450220aa1a1a8cca95443b1e096ad030b9b505",
+  "timestamp": "2026-11-12T03:16:05.279314+00:00",
+  "elapsed_sec": 27.5,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-023\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Software QA Engineer\",\n  \"current_company\": \"趨勢科技股份有限公司\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Python\",\n    \"API Testing\",\n    \"Appium\",\n    \"Selenium\",\n    \"GitHub Actions\",\n    \"UI/API Cross-layer Verification\",\n    \"Failure Log Root Cause Analysis\",\n    \"Git\",\n    \"JavaScript\",\n    \"SDLC\",\n    \"OOP\",\n    \"Software Engineering System Development\",\n    \"CI/CD\",\n    \"pytest\",\n    \"Requests\",\n    \"Page Object Model\"\n  ],\n  \"tools_technologies\": [\n    \"Appium\",\n    \"Selenium\",\n    \"GitHub Actions\",\n    \"Allure\",\n    \"Postman\",\n    \"LambdaTest\"\n  ],\n  \"domains\": [\n    \"software testing\",\n    \"game development\",\n    \"saas platform\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Electronic Computer Science\",\n      \"institution\": \"私立龍華科技大學\",\n      \"year\": 2017\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Taiwan\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\",\n    \"framework design\",\n    \"architecture decision\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Software QA Engineer\",\n      \"company\": \"趨勢科技股份有限公司\",\n      \"start\": \"2026-08\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"自動測試\",\n      \"company\": \"遊戲橘子數位科技股份有限公司\",\n      \"start\": \"2025-11\",\n      \"end\": \"2026-07\"\n    },\n    {\n      \"title\": \"軟體工程師\",\n      \"company\": \"九亭\",\n      \"start\": \"2023-06\",\n      \"end\": \"2025-06\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-023",
+    "doc_type": "cv",
+    "current_title": "Software QA Engineer",
+    "current_company": "趨勢科技股份有限公司",
+    "role_family": "Engineering",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "Python",
+      "Appium",
+      "Selenium",
+      "GitHub Actions",
+      "Git",
+      "JavaScript",
+      "SDLC",
+      "OOP",
+      "CI/CD",
+      "pytest",
+      "Requests",
+      "Page Object Model"
+    ],
+    "tools_technologies": [
+      "Appium",
+      "Selenium",
+      "GitHub Actions",
+      "Allure",
+      "Postman",
+      "LambdaTest"
+    ],
+    "domains": [
+      "software testing",
+      "game development",
+      "saas platform"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Electronic Computer Science",
+        "institution": "私立龍華科技大學",
+        "year": 2017
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Taiwan"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring",
+      "framework design",
+      "architecture decision"
+    ],
+    "work_history": [
+      {
+        "title": "Software QA Engineer",
+        "company": "趨勢科技股份有限公司",
+        "start": "2026-08",
+        "end": "Present"
+      },
+      {
+        "title": "自動測試",
+        "company": "遊戲橘子數位科技股份有限公司",
+        "start": "2025-11",
+        "end": "2026-07"
+      },
+      {
+        "title": "軟體工程師",
+        "company": "九亭",
+        "start": "2023-06",
+        "end": "2025-06"
+      }
+    ]
+  },
+  "validation_errors": [
+    "keyword_word_count:Failure Log Root Cause Analysis"
+  ],
+  "dropped_keywords": [
+    {
+      "keyword": "API Testing",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "UI/API Cross-layer Verification",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "Software Engineering System Development",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

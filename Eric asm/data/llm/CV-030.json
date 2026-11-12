@@ -1,0 +1,134 @@
+{
+  "doc_id": "CV-030",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "efeff642206e35630ae05473f167691e88a0a801fce735d4d210791990d71bc3",
+  "timestamp": "2026-11-12T03:21:19.761706+00:00",
+  "elapsed_sec": 20.42,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-030\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Senior Software Engineer\",\n  \"current_company\": \"Multiplier\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"senior\",\n  \"total_years_experience\": 7,\n  \"skills\": [\n    \"Java\",\n    \"Kotlin\",\n    \"Go\",\n    \"TypeScript\",\n    \"JavaScript\",\n    \"Spring Boot\",\n    \"Spring Batch\",\n    \"JOOQ\",\n    \"GraphQL\",\n    \"gRPC\",\n    \"PostgreSQL\",\n    \"MongoDB\",\n    \"Redis\",\n    \"Elasticsearch\",\n    \"Kafka\",\n    \"AWS\",\n    \"Google Cloud Platform\",\n    \"Azure\",\n    \"Docker\",\n    \"Kubernetes\",\n    \"CI/CD\",\n    \"OpenAI APIs\",\n    \"Claude\",\n    \"Agentic Workflows\",\n    \"Prompt Engineering\"\n  ],\n  \"tools_technologies\": [\n    \"bitbucket pipelines\",\n    \"Jenkins\",\n    \"Ansible\",\n    \"Helm\",\n    \"Django\",\n    \"Angular\",\n    \"PHP\",\n    \"CodeIgniter\",\n    \"MySQL\"\n  ],\n  \"domains\": [\n    \"fintech\",\n    \"e-commerce\",\n    \"payroll\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Computer Science\",\n      \"institution\": \"Ho Chi Minh City University of Technology\",\n      \"year\": 2017\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Vietnam\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\",\n    \"technical design\",\n    \"knowledge sharing\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Senior Software Engineer\",\n      \"company\": \"Multiplier\",\n      \"start\": \"2022-03\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Technical Team Lead\",\n      \"company\": \"Brankas\",\n      \"start\": \"2020-10\",\n      \"end\": \"2022-03\"\n    },\n    {\n      \"title\": \"Senior Backend Engineer\",\n      \"company\": \"Sendo\",\n      \"start\": \"2019-10\",\n      \"end\": \"2020-10\"\n    },\n    {\n      \"title\": \"Backend Engineer\",\n      \"company\": \"Grab\",\n      \"start\": \"2019-01\",\n      \"end\": \"2019-10\"\n    },\n    {\n      \"title\": \"Full Stack Developer\",\n      \"company\": \"B2BE GSS Vietnam CO. LTD\",\n      \"start\": \"2017-12\",\n      \"end\": \"2018-12\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-030",
+    "doc_type": "cv",
+    "current_title": "Senior Software Engineer",
+    "current_company": "Multiplier",
+    "role_family": "Engineering",
+    "seniority": "senior",
+    "total_years_experience": 7,
+    "skills": [
+      "Java",
+      "Kotlin",
+      "Go",
+      "TypeScript",
+      "JavaScript",
+      "Spring Boot",
+      "Spring Batch",
+      "JOOQ",
+      "GraphQL",
+      "gRPC",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "Elasticsearch",
+      "Kafka",
+      "AWS",
+      "Google Cloud Platform",
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "OpenAI APIs",
+      "Claude",
+      "Agentic Workflows",
+      "Prompt Engineering"
+    ],
+    "tools_technologies": [
+      "bitbucket pipelines",
+      "PHP",
+      "CodeIgniter",
+      "MySQL"
+    ],
+    "domains": [
+      "fintech",
+      "e-commerce",
+      "payroll"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Computer Science",
+        "institution": "Ho Chi Minh City University of Technology",
+        "year": 2017
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Vietnam"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring",
+      "technical design",
+      "knowledge sharing"
+    ],
+    "work_history": [
+      {
+        "title": "Senior Software Engineer",
+        "company": "Multiplier",
+        "start": "2022-03",
+        "end": "Present"
+      },
+      {
+        "title": "Technical Team Lead",
+        "company": "Brankas",
+        "start": "2020-10",
+        "end": "2022-03"
+      },
+      {
+        "title": "Senior Backend Engineer",
+        "company": "Sendo",
+        "start": "2019-10",
+        "end": "2020-10"
+      },
+      {
+        "title": "Backend Engineer",
+        "company": "Grab",
+        "start": "2019-01",
+        "end": "2019-10"
+      },
+      {
+        "title": "Full Stack Developer",
+        "company": "B2BE GSS Vietnam CO. LTD",
+        "start": "2017-12",
+        "end": "2018-12"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "Jenkins",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "Ansible",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "Helm",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "Django",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "Angular",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

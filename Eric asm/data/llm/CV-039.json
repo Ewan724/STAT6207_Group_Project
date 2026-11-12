@@ -1,0 +1,99 @@
+{
+  "doc_id": "CV-039",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "925412df6f9f75b00764f90f68980df4ad8a830a8ac8b7a77cb9140f5517999a",
+  "timestamp": "2026-11-12T03:22:58.589754+00:00",
+  "elapsed_sec": 20.53,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-039\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Business Data Analyst\",\n  \"current_company\": \"RAKBANK\",\n  \"role_family\": \"Data & AI\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": 7,\n  \"skills\": [\n    \"Python\",\n    \"NLP\",\n    \"Data Modeling\",\n    \"SQL\",\n    \"Tableau\",\n    \"Agile methodology\",\n    \"Advanced Analytics\",\n    \"Topic Modeling\",\n    \"Data Quality Management\",\n    \"Predictive Modeling\",\n    \"Anomaly Detection\",\n    \"Power BI\",\n    \"Alteryx\",\n    \"Stakeholder Engagement\",\n    \"ETL processes\"\n  ],\n  \"tools_technologies\": [\n    \"Redshift\",\n    \"Qlik\",\n    \"Power Query\",\n    \"DAX\",\n    \"JIRA\",\n    \"Confluence\"\n  ],\n  \"domains\": [\n    \"fintech\",\n    \"energy\",\n    \"supply chain\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Computer Science Engineering\",\n      \"institution\": \"SRM University, Chennai, India\",\n      \"year\": 2018\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"United Arab Emirates\",\n    \"India\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\",\n    \"stakeholder engagement\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Business Data Analyst\",\n      \"company\": \"RAKBANK\",\n      \"start\": \"2025-01\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Assistant Manager Data Analyst\",\n      \"company\": \"GFG ALLIANCE\",\n      \"start\": \"2023-06\",\n      \"end\": \"2024-12\"\n    },\n    {\n      \"title\": \"Senior Business Data Analyst\",\n      \"company\": \"Prescience Decision Solutions\",\n      \"start\": \"2021-12\",\n      \"end\": \"2023-05\"\n    },\n    {\n      \"title\": \"Data Analyst\",\n      \"company\": \"Mu Sigma Business Solutions\",\n      \"start\": \"2018-08\",\n      \"end\": \"2021-11\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-039",
+    "doc_type": "cv",
+    "current_title": "Business Data Analyst",
+    "current_company": "RAKBANK",
+    "role_family": "Data & AI",
+    "seniority": "mid",
+    "total_years_experience": 7,
+    "skills": [
+      "Python",
+      "NLP",
+      "Data Modeling",
+      "SQL",
+      "Tableau",
+      "Agile methodology",
+      "Advanced Analytics",
+      "Topic Modeling",
+      "Data Quality Management",
+      "Predictive Modeling",
+      "Anomaly Detection",
+      "Power BI",
+      "Alteryx",
+      "Stakeholder Engagement",
+      "ETL processes"
+    ],
+    "tools_technologies": [
+      "Redshift",
+      "Qlik",
+      "Power Query",
+      "DAX",
+      "JIRA",
+      "Confluence"
+    ],
+    "domains": [
+      "fintech",
+      "energy",
+      "supply chain"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Computer Science Engineering",
+        "institution": "SRM University, Chennai, India",
+        "year": 2018
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "United Arab Emirates",
+      "India"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring",
+      "stakeholder engagement"
+    ],
+    "work_history": [
+      {
+        "title": "Business Data Analyst",
+        "company": "RAKBANK",
+        "start": "2025-01",
+        "end": "Present"
+      },
+      {
+        "title": "Assistant Manager Data Analyst",
+        "company": "GFG ALLIANCE",
+        "start": "2023-06",
+        "end": "2024-12"
+      },
+      {
+        "title": "Senior Business Data Analyst",
+        "company": "Prescience Decision Solutions",
+        "start": "2021-12",
+        "end": "2023-05"
+      },
+      {
+        "title": "Data Analyst",
+        "company": "Mu Sigma Business Solutions",
+        "start": "2018-08",
+        "end": "2021-11"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

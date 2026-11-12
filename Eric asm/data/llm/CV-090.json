@@ -1,0 +1,106 @@
+{
+  "doc_id": "CV-090",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "45c9c1d84b0dfee1a79e2f463f8dc7d73bbf545051d566f2364b018996989414",
+  "timestamp": "2026-11-12T03:38:39.998130+00:00",
+  "elapsed_sec": 24.6,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-090\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"HOD Customer Service Executive\",\n  \"current_company\": \"Aesthetic & wellness clinic (Malaysia)\",\n  \"role_family\": \"Operations & HR\",\n  \"seniority\": \"unknown\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Critical thinking and problem solving\",\n    \"Teamwork and collaboration\",\n    \"Professionalism and strong work ethic\",\n    \"Oral and written communications skills\",\n    \"Positive Attitude\",\n    \"Thinking skills\",\n    \"Self-management\",\n    \"Willingness to learn\"\n  ],\n  \"tools_technologies\": [\n    \"CRM systems\"\n  ],\n  \"domains\": [\n    \"healthcare\",\n    \"hospitality\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": null,\n      \"institution\": \"Attractive and Admired Design Service\",\n      \"year\": 2026\n    },\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": null,\n      \"institution\": \"Geomatika University College\",\n      \"year\": 2020\n    },\n    {\n      \"degree\": \"Secondary School Certificate\",\n      \"field\": null,\n      \"institution\": \"Smk seri garing\",\n      \"year\": 2004\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Malaysia\"\n  ],\n  \"soft_skills\": [\n    \"Critical thinking and problem solving\",\n    \"Teamwork and collaboration\",\n    \"Professionalism and strong work ethic\",\n    \"Oral and written communications skills\",\n    \"Positive Attitude\",\n    \"Thinking skills\",\n    \"Self-management\",\n    \"Willingness to learn\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"HOD Customer Service Executive\",\n      \"company\": \"Aesthetic & wellness clinic (Malaysia)\",\n      \"start\": \"2023-03\",\n      \"end\": \"2026-09\"\n    },\n    {\n      \"title\": \"HOD of Front Desk and Lounge Exc Manager\",\n      \"company\": \"23 Century International Life Sciences\",\n      \"start\": \"2019-04\",\n      \"end\": \"2023-01\"\n    },\n    {\n      \"title\": \"HOD OF CUSTOMER SERVICE EXECUTIVE\",\n      \"company\": \"Zell - V Sdn Bhd\",\n      \"start\": \"2009-11\",\n      \"end\": \"2019-02\"\n    },\n    {\n      \"title\": \"Customer Service Executive\",\n      \"company\": \"AEON CREDIT SDN BHD\",\n      \"start\": \"2005-12\",\n      \"end\": \"2009-09\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-090",
+    "doc_type": "cv",
+    "current_title": "HOD Customer Service Executive",
+    "current_company": "Aesthetic & wellness clinic (Malaysia)",
+    "role_family": "Operations & HR",
+    "seniority": "unknown",
+    "total_years_experience": null,
+    "skills": [
+      "Teamwork and collaboration",
+      "Positive Attitude",
+      "Thinking skills",
+      "Self-management",
+      "Willingness to learn"
+    ],
+    "tools_technologies": [],
+    "domains": [
+      "healthcare",
+      "hospitality"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": null,
+        "institution": "Attractive and Admired Design Service",
+        "year": 2026
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "field": null,
+        "institution": "Geomatika University College",
+        "year": 2020
+      },
+      {
+        "degree": "Secondary School Certificate",
+        "field": null,
+        "institution": "Smk seri garing",
+        "year": 2004
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Malaysia"
+    ],
+    "soft_skills": [
+      "Critical thinking and problem solving",
+      "Teamwork and collaboration",
+      "Professionalism and strong work ethic",
+      "Oral and written communications skills",
+      "Positive Attitude",
+      "Thinking skills",
+      "Self-management",
+      "Willingness to learn"
+    ],
+    "work_history": [
+      {
+        "title": "HOD Customer Service Executive",
+        "company": "Aesthetic & wellness clinic (Malaysia)",
+        "start": "2023-03",
+        "end": "2026-09"
+      },
+      {
+        "title": "HOD of Front Desk and Lounge Exc Manager",
+        "company": "23 Century International Life Sciences",
+        "start": "2019-04",
+        "end": "2023-01"
+      },
+      {
+        "title": "HOD OF CUSTOMER SERVICE EXECUTIVE",
+        "company": "Zell - V Sdn Bhd",
+        "start": "2009-11",
+        "end": "2019-02"
+      },
+      {
+        "title": "Customer Service Executive",
+        "company": "AEON CREDIT SDN BHD",
+        "start": "2005-12",
+        "end": "2009-09"
+      }
+    ]
+  },
+  "validation_errors": [
+    "keyword_word_count:Critical thinking and problem solving",
+    "keyword_word_count:Professionalism and strong work ethic",
+    "keyword_word_count:Oral and written communications skills"
+  ],
+  "dropped_keywords": [
+    {
+      "keyword": "CRM systems",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "doc_id": "CV-022",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "f3a1c51c4f3a9ee1458a4ef6ab78c8325721c291e01579296107227d71eaa88a",
+  "timestamp": "2026-11-12T03:15:54.687220+00:00",
+  "elapsed_sec": 32.73,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-022\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"IT Manager\",\n  \"current_company\": \"Chubb\",\n  \"role_family\": \"Leadership/Other\",\n  \"seniority\": \"unknown\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Team Coaching\",\n    \"Teaching English as a Foreign Language\",\n    \"Analytical Skills\",\n    \"API management\",\n    \"Agile Methodologies\",\n    \"SaaS logistics\",\n    \"Project Management\",\n    \"Scrum Master\",\n    \"Leadership Development\",\n    \"Communication\",\n    \"Conflict Resolution\",\n    \"Strategic Planning\",\n    \"Technical Execution\",\n    \"Software Development\",\n    \"Cloud Computing\",\n    \"Data Storage\",\n    \"Network Storage\"\n  ],\n  \"tools_technologies\": [],\n  \"domains\": [\n    \"SaaS\",\n    \"network storage\",\n    \"Android tablet\",\n    \"Web and mobile\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"College of Executive Coaching\",\n      \"field\": null,\n      \"institution\": \"College of Executive Coaching\",\n      \"year\": null\n    },\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": null,\n      \"institution\": \"University of Arizona\",\n      \"year\": null\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [\n    \"English\"\n  ],\n  \"locations\": [\n    \"Taiwan\"\n  ],\n  \"soft_skills\": [\n    \"team coaching\",\n    \"mentoring\",\n    \"Agile best practices\",\n    \"cross-border collaboration\",\n    \"change management\",\n    \"decision-making\",\n    \"conflict resolution\",\n    \"strategic guidance\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"IT Manager\",\n      \"company\": \"Chubb\",\n      \"start\": \"2025-09\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Leadership and Team Coach\",\n      \"company\": \"Freelance\",\n      \"start\": \"2024-05\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Engineering Manager / Technical Project Manager / Scrum Master\",\n      \"company\": \"Kempus\",\n      \"start\": \"2023-04\",\n      \"end\": \"2024-10\"\n    },\n    {\n      \"title\": \"Senior Technical Program Manager / Agile Coach\",\n      \"company\": \"Quincus\",\n      \"start\": \"2021-05\",\n      \"end\": \"2023-04\"\n    },\n    {\n      \"title\": \"Software Development Manager / Agile Coach\",\n      \"company\": \"Cloud Interactive\",\n      \"start\": \"2019-11\",\n      \"end\": \"2021-03\"\n    },\n    {\n      \"title\": \"Software Program Manager / Scrum Master\",\n      \"company\": \"InQuartik Co.\",\n      \"start\": \"2016-01\",\n      \"end\": \"2019-10\"\n    },\n    {\n      \"title\": \"Software Project Manager\",\n      \"company\": \"Acer Inc.\",\n      \"start\": \"2011-01\",\n      \"end\": \"2015-12\"\n    },\n    {\n      \"title\": \"Product Planner (Software Product Management)\",\n      \"company\": \"D LINK\",\n      \"start\": \"2008-12\",\n      \"end\": \"2010-12\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-022",
+    "doc_type": "cv",
+    "current_title": "IT Manager",
+    "current_company": "Chubb",
+    "role_family": "Leadership/Other",
+    "seniority": "unknown",
+    "total_years_experience": null,
+    "skills": [
+      "Team Coaching",
+      "Analytical Skills",
+      "API management",
+      "Agile Methodologies",
+      "SaaS logistics",
+      "Project Management",
+      "Scrum Master",
+      "Leadership Development",
+      "Conflict Resolution",
+      "Strategic Planning",
+      "Technical Execution",
+      "Software Development",
+      "Cloud Computing",
+      "Data Storage",
+      "Network Storage"
+    ],
+    "tools_technologies": [],
+    "domains": [
+      "SaaS",
+      "network storage",
+      "Android tablet",
+      "Web and mobile"
+    ],
+    "education": [
+      {
+        "degree": "College of Executive Coaching",
+        "field": null,
+        "institution": "College of Executive Coaching",
+        "year": null
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "field": null,
+        "institution": "University of Arizona",
+        "year": null
+      }
+    ],
+    "certifications": [],
+    "languages": [
+      "English"
+    ],
+    "locations": [
+      "Taiwan"
+    ],
+    "soft_skills": [
+      "team coaching",
+      "mentoring",
+      "Agile best practices",
+      "cross-border collaboration",
+      "change management",
+      "decision-making",
+      "conflict resolution",
+      "strategic guidance"
+    ],
+    "work_history": [
+      {
+        "title": "IT Manager",
+        "company": "Chubb",
+        "start": "2025-09",
+        "end": "Present"
+      },
+      {
+        "title": "Leadership and Team Coach",
+        "company": "Freelance",
+        "start": "2024-05",
+        "end": "Present"
+      },
+      {
+        "title": "Engineering Manager / Technical Project Manager / Scrum Master",
+        "company": "Kempus",
+        "start": "2023-04",
+        "end": "2024-10"
+      },
+      {
+        "title": "Senior Technical Program Manager / Agile Coach",
+        "company": "Quincus",
+        "start": "2021-05",
+        "end": "2023-04"
+      },
+      {
+        "title": "Software Development Manager / Agile Coach",
+        "company": "Cloud Interactive",
+        "start": "2019-11",
+        "end": "2021-03"
+      },
+      {
+        "title": "Software Program Manager / Scrum Master",
+        "company": "InQuartik Co.",
+        "start": "2016-01",
+        "end": "2019-10"
+      },
+      {
+        "title": "Software Project Manager",
+        "company": "Acer Inc.",
+        "start": "2011-01",
+        "end": "2015-12"
+      },
+      {
+        "title": "Product Planner (Software Product Management)",
+        "company": "D LINK",
+        "start": "2008-12",
+        "end": "2010-12"
+      }
+    ]
+  },
+  "validation_errors": [
+    "keyword_word_count:Teaching English as a Foreign Language",
+    "generic_keyword:Communication"
+  ],
+  "dropped_keywords": []
+}

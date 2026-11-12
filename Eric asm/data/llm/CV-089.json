@@ -1,0 +1,99 @@
+{
+  "doc_id": "CV-089",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "ed19969982ec06b292e74b8b29a233757bca5d7e9bd2891a198b6e1234debef0",
+  "timestamp": "2026-11-12T03:38:27.141906+00:00",
+  "elapsed_sec": 28.54,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-089\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Administration Supervisor (HR & Operations)\",\n  \"current_company\": \"ICONS International School\",\n  \"role_family\": \"Operations & HR\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"HR Operations & Administration\",\n    \"Training & Event Coordination\",\n    \"Payroll Coordination & Verification\",\n    \"Procurement Coordination\",\n    \"Leave Administration & Compliance\",\n    \"Personnel Management\",\n    \"Talent Acquisition & Hiring Support\",\n    \"Labor and HR Laws and Regulations\",\n    \"Employee Lifecycle Management\",\n    \"MS Office Suite\",\n    \"HRIS & Employee Data Management\",\n    \"HR & Payroll Systems\",\n    \"SOP Development & Process Improvement\",\n    \"Vendor & Administrative Coordination\"\n  ],\n  \"tools_technologies\": [\n    \"Excel\",\n    \"Google Workspace\"\n  ],\n  \"domains\": [\n    \"education\",\n    \"corporate\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": null,\n      \"institution\": \"UOW KDU MALAYSIA\",\n      \"year\": 2022\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Malaysia\"\n  ],\n  \"soft_skills\": [\n    \"stakeholder communication\",\n    \"event management\",\n    \"team coordination\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Administration Supervisor (HR & Operations)\",\n      \"company\": \"ICONS International School\",\n      \"start\": \"2025-11\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Executive, Human Capital\",\n      \"company\": \"SATS Ltd\",\n      \"start\": \"2024-04\",\n      \"end\": \"2025-10\"\n    },\n    {\n      \"title\": \"Project Coordinator\",\n      \"company\": \"SNP UNIVERSAL SDN BHD\",\n      \"start\": \"2023-08\",\n      \"end\": \"2024-03\"\n    },\n    {\n      \"title\": \"Event Coordinator (Intern)\",\n      \"company\": \"APLUS ULTIMATE MARKETING & CONSULTANCY\",\n      \"start\": \"2023-04\",\n      \"end\": \"2023-07\"\n    },\n    {\n      \"title\": \"PR & COMMUNICATION EXECUTIVE\",\n      \"company\": \"NP Asia\",\n      \"start\": \"2021-12\",\n      \"end\": \"2023-03\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-089",
+    "doc_type": "cv",
+    "current_title": "Administration Supervisor (HR & Operations)",
+    "current_company": "ICONS International School",
+    "role_family": "Operations & HR",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "HR Operations & Administration",
+      "Training & Event Coordination",
+      "Payroll Coordination & Verification",
+      "Procurement Coordination",
+      "Leave Administration & Compliance",
+      "Personnel Management",
+      "Employee Lifecycle Management",
+      "MS Office Suite",
+      "HR & Payroll Systems",
+      "Vendor & Administrative Coordination"
+    ],
+    "tools_technologies": [
+      "Excel",
+      "Google Workspace"
+    ],
+    "domains": [
+      "education",
+      "corporate"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": null,
+        "institution": "UOW KDU MALAYSIA",
+        "year": 2022
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Malaysia"
+    ],
+    "soft_skills": [
+      "stakeholder communication",
+      "event management",
+      "team coordination"
+    ],
+    "work_history": [
+      {
+        "title": "Administration Supervisor (HR & Operations)",
+        "company": "ICONS International School",
+        "start": "2025-11",
+        "end": "Present"
+      },
+      {
+        "title": "Executive, Human Capital",
+        "company": "SATS Ltd",
+        "start": "2024-04",
+        "end": "2025-10"
+      },
+      {
+        "title": "Project Coordinator",
+        "company": "SNP UNIVERSAL SDN BHD",
+        "start": "2023-08",
+        "end": "2024-03"
+      },
+      {
+        "title": "Event Coordinator (Intern)",
+        "company": "APLUS ULTIMATE MARKETING & CONSULTANCY",
+        "start": "2023-04",
+        "end": "2023-07"
+      },
+      {
+        "title": "PR & COMMUNICATION EXECUTIVE",
+        "company": "NP Asia",
+        "start": "2021-12",
+        "end": "2023-03"
+      }
+    ]
+  },
+  "validation_errors": [
+    "keyword_word_count:Talent Acquisition & Hiring Support",
+    "keyword_word_count:Labor and HR Laws and Regulations",
+    "keyword_word_count:HRIS & Employee Data Management",
+    "keyword_word_count:SOP Development & Process Improvement"
+  ],
+  "dropped_keywords": []
+}

@@ -1,0 +1,126 @@
+{
+  "doc_id": "CV-080",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "62df9a8848afd72088b4d82232b3013b1e46f3a2502af0fd869bbec8c4b46bbf",
+  "timestamp": "2026-11-12T03:36:07.388885+00:00",
+  "elapsed_sec": 53.66,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-080\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Finance Manager & Company Secretary, MIC of Finance for licence company\",\n  \"current_company\": \"Tykhe Capital (Hong Kong) Limited\",\n  \"role_family\": \"Finance & Legal\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Accounting\",\n    \"Financial Management\",\n    \"Financial Analysis\",\n    \"Financial Reporting\",\n    \"Financial Planning\",\n    \"Budgeting\",\n    \"Forecasting\",\n    \"Financial Modeling\",\n    \"Management Accounting\",\n    \"Tax Planning\",\n    \"Auditing\"\n  ],\n  \"tools_technologies\": [\n    \"ERP System\",\n    \"MS Office\",\n    \"用友\"\n  ],\n  \"domains\": [\n    \"finance\",\n    \"investment\",\n    \"digital assets\",\n    \"property management\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Accounting\",\n      \"institution\": \"Lingnan University\",\n      \"year\": 2002\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [\n    \"English\",\n    \"Mandarin\",\n    \"Cantonese\"\n  ],\n  \"locations\": [\n    \"Hong Kong\",\n    \"Zhuhai\",\n    \"China\",\n    \"Philippine\",\n    \"Vietnam\",\n    \"Thailand\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\",\n    \"liaison\",\n    \"reporting\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Finance Manager & Company Secretary, MIC of Finance for licence company\",\n      \"company\": \"Tykhe Capital (Hong Kong) Limited\",\n      \"start\": \"2025-07\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Accounting and Back Office Manager\",\n      \"company\": \"Epiphron Capital (Hong Kong) Limited\",\n      \"start\": \"2019-05\",\n      \"end\": \"2025-07\"\n    },\n    {\n      \"title\": \"Senior Accountant\",\n      \"company\": \"Jinchuan Group (Hong Kong) Resources Holding Limited\",\n      \"start\": \"2014-05\",\n      \"end\": \"2019-05\"\n    },\n    {\n      \"title\": \"Senior Accountant\",\n      \"company\": \"China Agri-Products Exchange Ltd\",\n      \"start\": \"2011-05\",\n      \"end\": \"2013-11\"\n    },\n    {\n      \"title\": \"Accountant\",\n      \"company\": \"Liu Chong Hing Investment Co Ltd\",\n      \"start\": \"2009-07\",\n      \"end\": \"2011-04\"\n    },\n    {\n      \"title\": \"Management Accountant\",\n      \"company\": \"Laws Apparel Group - Run Wide Ltd\",\n      \"start\": \"2006-08\",\n      \"end\": \"2009-02\"\n    },\n    {\n      \"title\": \"Assistant Accountant\",\n      \"company\": \"Laws Apparel Group - Run Wide Ltd\",\n      \"start\": \"2005-07\",\n      \"end\": \"2006-07\"\n    },\n    {\n      \"title\": \"Audit Assistant\",\n      \"company\": \"CPA firm (Hong Kong)\",\n      \"start\": \"2004-04\",\n      \"end\": \"2005-04\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-080",
+    "doc_type": "cv",
+    "current_title": "Finance Manager & Company Secretary, MIC of Finance for licence company",
+    "current_company": "Tykhe Capital (Hong Kong) Limited",
+    "role_family": "Finance & Legal",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "Accounting",
+      "Financial Management",
+      "Financial Analysis",
+      "Financial Reporting",
+      "Financial Planning",
+      "Budgeting",
+      "Forecasting",
+      "Financial Modeling",
+      "Management Accounting",
+      "Tax Planning",
+      "Auditing"
+    ],
+    "tools_technologies": [
+      "ERP System",
+      "MS Office",
+      "用友"
+    ],
+    "domains": [
+      "finance",
+      "investment",
+      "digital assets",
+      "property management"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Accounting",
+        "institution": "Lingnan University",
+        "year": 2002
+      }
+    ],
+    "certifications": [],
+    "languages": [
+      "English",
+      "Mandarin",
+      "Cantonese"
+    ],
+    "locations": [
+      "Hong Kong",
+      "Zhuhai",
+      "China",
+      "Philippine",
+      "Vietnam",
+      "Thailand"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring",
+      "liaison",
+      "reporting"
+    ],
+    "work_history": [
+      {
+        "title": "Finance Manager & Company Secretary, MIC of Finance for licence company",
+        "company": "Tykhe Capital (Hong Kong) Limited",
+        "start": "2025-07",
+        "end": "Present"
+      },
+      {
+        "title": "Accounting and Back Office Manager",
+        "company": "Epiphron Capital (Hong Kong) Limited",
+        "start": "2019-05",
+        "end": "2025-07"
+      },
+      {
+        "title": "Senior Accountant",
+        "company": "Jinchuan Group (Hong Kong) Resources Holding Limited",
+        "start": "2014-05",
+        "end": "2019-05"
+      },
+      {
+        "title": "Senior Accountant",
+        "company": "China Agri-Products Exchange Ltd",
+        "start": "2011-05",
+        "end": "2013-11"
+      },
+      {
+        "title": "Accountant",
+        "company": "Liu Chong Hing Investment Co Ltd",
+        "start": "2009-07",
+        "end": "2011-04"
+      },
+      {
+        "title": "Management Accountant",
+        "company": "Laws Apparel Group - Run Wide Ltd",
+        "start": "2006-08",
+        "end": "2009-02"
+      },
+      {
+        "title": "Assistant Accountant",
+        "company": "Laws Apparel Group - Run Wide Ltd",
+        "start": "2005-07",
+        "end": "2006-07"
+      },
+      {
+        "title": "Audit Assistant",
+        "company": "CPA firm (Hong Kong)",
+        "start": "2004-04",
+        "end": "2005-04"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

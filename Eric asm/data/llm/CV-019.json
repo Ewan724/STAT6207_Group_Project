@@ -1,0 +1,153 @@
+{
+  "doc_id": "CV-019",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "ff1d18a1f107dd315e38be4a5bcdda01c088438f96059b5e606e5c0facbdaac5",
+  "timestamp": "2026-11-12T03:15:08.643026+00:00",
+  "elapsed_sec": 33.72,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-019\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Tech Lead\",\n  \"current_company\": \"Myridius/RCG Information Technology Philippines, Inc.\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"lead\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Java\",\n    \"Spring Boot\",\n    \"REST API\",\n    \"Angular\",\n    \"JavaScript\",\n    \"HTML/CSS\",\n    \"COBOL\",\n    \"Salesforce\"\n  ],\n  \"tools_technologies\": [\n    \"nodejs\",\n    \"maven\",\n    \"sql\",\n    \"Kiro\",\n    \"cursor\",\n    \"Claude\",\n    \"Git\",\n    \"Jenkins\",\n    \"Jira/Confluence\",\n    \"JUnit\",\n    \"JSP\",\n    \"Powermockito\",\n    \"Mockito\",\n    \"Whitebox\",\n    \"Reflection\",\n    \"VBA\",\n    \"Salesforce Administrator\",\n    \"VB.net\",\n    \"MS SQL Server\",\n    \"SQLite\",\n    \"MySQL\",\n    \"Jasper Reports\",\n    \"Java Swing\",\n    \"JDBC\"\n  ],\n  \"domains\": [\n    \"e-commerce\",\n    \"fintech\",\n    \"hr-tech\",\n    \"audit-systems\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Business/Commerce, General\",\n      \"institution\": \"Asian Institute of Management\",\n      \"year\": 2017\n    },\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"unknown\",\n      \"institution\": \"De La Salle University\",\n      \"year\": 2005\n    },\n    {\n      \"degree\": \"High School diploma\",\n      \"field\": \"unknown\",\n      \"institution\": \"Xavier High School\",\n      \"year\": 1997\n    }\n  ],\n  \"certifications\": [\n    \"Salesforce Administrator\"\n  ],\n  \"languages\": [],\n  \"locations\": [\n    \"Philippines\",\n    \"Manila\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\",\n    \"code review\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Tech Lead\",\n      \"company\": \"Myridius/RCG Information Technology Philippines, Inc.\",\n      \"start\": \"2026-06\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Senior Java Developer\",\n      \"company\": \"VERTERE\",\n      \"start\": \"2025-07\",\n      \"end\": \"2025-12\"\n    },\n    {\n      \"title\": \"Tech Lead\",\n      \"company\": \"Ascendion\",\n      \"start\": \"2025-06\",\n      \"end\": \"2025-07\"\n    },\n    {\n      \"title\": \"Senior Java Developer\",\n      \"company\": \"STRATPOINT\",\n      \"start\": \"2025-05\",\n      \"end\": \"2025-06\"\n    },\n    {\n      \"title\": \"Packaged App Development Senior Analyst\",\n      \"company\": \"Accenture\",\n      \"start\": \"2023-01\",\n      \"end\": \"2025-01\"\n    },\n    {\n      \"title\": \"Application systems engineer\",\n      \"company\": \"Fujitsu/Weserv Systems Intl., Inc.\",\n      \"start\": \"2021-01\",\n      \"end\": \"2023-01\"\n    },\n    {\n      \"title\": \"Manager\",\n      \"company\": \"Uy Tit and Co., Inc.\",\n      \"start\": \"2008-01\",\n      \"end\": \"2021-01\"\n    },\n    {\n      \"title\": \"IT Auditor\",\n      \"company\": \"Philippine Savings Bank\",\n      \"start\": \"2007-01\",\n      \"end\": \"2008-01\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-019",
+    "doc_type": "cv",
+    "current_title": "Tech Lead",
+    "current_company": "Myridius/RCG Information Technology Philippines, Inc.",
+    "role_family": "Engineering",
+    "seniority": "lead",
+    "total_years_experience": null,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "REST API",
+      "Angular",
+      "JavaScript",
+      "HTML/CSS",
+      "COBOL",
+      "Salesforce"
+    ],
+    "tools_technologies": [
+      "nodejs",
+      "maven",
+      "sql",
+      "Kiro",
+      "cursor",
+      "Claude",
+      "Git",
+      "Jenkins",
+      "Jira/Confluence",
+      "JUnit",
+      "JSP",
+      "Powermockito",
+      "Mockito",
+      "Whitebox",
+      "Reflection",
+      "VBA",
+      "Salesforce Administrator",
+      "MS SQL Server",
+      "SQLite",
+      "MySQL",
+      "Jasper Reports",
+      "Java Swing",
+      "JDBC"
+    ],
+    "domains": [
+      "e-commerce",
+      "fintech",
+      "hr-tech",
+      "audit-systems"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Business/Commerce, General",
+        "institution": "Asian Institute of Management",
+        "year": 2017
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "field": "unknown",
+        "institution": "De La Salle University",
+        "year": 2005
+      },
+      {
+        "degree": "High School diploma",
+        "field": "unknown",
+        "institution": "Xavier High School",
+        "year": 1997
+      }
+    ],
+    "certifications": [
+      "Salesforce Administrator"
+    ],
+    "languages": [],
+    "locations": [
+      "Philippines",
+      "Manila"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring",
+      "code review"
+    ],
+    "work_history": [
+      {
+        "title": "Tech Lead",
+        "company": "Myridius/RCG Information Technology Philippines, Inc.",
+        "start": "2026-06",
+        "end": "Present"
+      },
+      {
+        "title": "Senior Java Developer",
+        "company": "VERTERE",
+        "start": "2025-07",
+        "end": "2025-12"
+      },
+      {
+        "title": "Tech Lead",
+        "company": "Ascendion",
+        "start": "2025-06",
+        "end": "2025-07"
+      },
+      {
+        "title": "Senior Java Developer",
+        "company": "STRATPOINT",
+        "start": "2025-05",
+        "end": "2025-06"
+      },
+      {
+        "title": "Packaged App Development Senior Analyst",
+        "company": "Accenture",
+        "start": "2023-01",
+        "end": "2025-01"
+      },
+      {
+        "title": "Application systems engineer",
+        "company": "Fujitsu/Weserv Systems Intl., Inc.",
+        "start": "2021-01",
+        "end": "2023-01"
+      },
+      {
+        "title": "Manager",
+        "company": "Uy Tit and Co., Inc.",
+        "start": "2008-01",
+        "end": "2021-01"
+      },
+      {
+        "title": "IT Auditor",
+        "company": "Philippine Savings Bank",
+        "start": "2007-01",
+        "end": "2008-01"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "VB.net",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

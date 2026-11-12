@@ -1,0 +1,126 @@
+{
+  "doc_id": "CV-018",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "edf75b5010c71ff9d701f6cae41e219b19aeae391ef2bda9e8bad39586f1e404",
+  "timestamp": "2026-11-12T03:14:50.363888+00:00",
+  "elapsed_sec": 29.88,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-018\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Senior Software Engineer\",\n  \"current_company\": \"Maya Bank, Inc.\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"senior\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Dart\",\n    \"Swift\",\n    \"Kotlin\",\n    \"Python\",\n    \"Java\",\n    \"PHP\",\n    \"Flutter\",\n    \"JavaScript\",\n    \"HTML\",\n    \"CSS\",\n    \"FastAPI\",\n    \"Laravel\",\n    \"Nodejs\",\n    \"AWS\",\n    \"Google Cloud Platform\",\n    \"Firebase\",\n    \"MySQL\",\n    \"PostgreSQL\",\n    \"NoSQL\",\n    \"Git\",\n    \"Clean Code\",\n    \"MVVM\",\n    \"MVC\"\n  ],\n  \"tools_technologies\": [\n    \"Flutterflow\",\n    \"webflow\",\n    \"Jenkins\",\n    \"Codemagic\",\n    \"Sonarqube\",\n    \"JFrog\",\n    \"Bitbucket\",\n    \"Angular\"\n  ],\n  \"domains\": [\n    \"fintech\",\n    \"e-commerce\",\n    \"mobile development\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Information Technology\",\n      \"institution\": \"Cavite State University - Main Campus\",\n      \"year\": 2020\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Philippines\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\",\n    \"collaboration\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Senior Software Engineer\",\n      \"company\": \"Maya Bank, Inc.\",\n      \"start\": \"2025-10\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Senior Flutter Engineer\",\n      \"company\": \"UnionDigital Bank Inc.\",\n      \"start\": \"2025-05\",\n      \"end\": \"2025-10\"\n    },\n    {\n      \"title\": \"Senior Software Engineer\",\n      \"company\": \"Philippine Digital Assets Exchange Inc.\",\n      \"start\": \"2022-06\",\n      \"end\": \"2025-05\"\n    },\n    {\n      \"title\": \"Software Engineer - Flutter\",\n      \"company\": \"YONDU INC.\",\n      \"start\": \"2021-06\",\n      \"end\": \"2022-07\"\n    },\n    {\n      \"title\": \"Software Engineer\",\n      \"company\": \"LEENTech Network Solutions Inc.\",\n      \"start\": \"2020-06\",\n      \"end\": \"2021-06\"\n    },\n    {\n      \"title\": \"Web Developer - Internship\",\n      \"company\": \"LEENTech Network Solutions Inc.\",\n      \"start\": \"2019-06\",\n      \"end\": \"2019-07\"\n    },\n    {\n      \"title\": \"Technology Consultant\",\n      \"company\": \"Freelance Remote\",\n      \"start\": \"2018-01\",\n      \"end\": \"2023-12\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-018",
+    "doc_type": "cv",
+    "current_title": "Senior Software Engineer",
+    "current_company": "Maya Bank, Inc.",
+    "role_family": "Engineering",
+    "seniority": "senior",
+    "total_years_experience": null,
+    "skills": [
+      "Dart",
+      "Swift",
+      "Kotlin",
+      "Python",
+      "Java",
+      "PHP",
+      "Flutter",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "FastAPI",
+      "Laravel",
+      "Nodejs",
+      "AWS",
+      "Google Cloud Platform",
+      "Firebase",
+      "MySQL",
+      "PostgreSQL",
+      "NoSQL",
+      "Git",
+      "Clean Code",
+      "MVVM",
+      "MVC"
+    ],
+    "tools_technologies": [
+      "Flutterflow",
+      "webflow",
+      "Jenkins",
+      "Codemagic",
+      "Sonarqube",
+      "JFrog",
+      "Bitbucket",
+      "Angular"
+    ],
+    "domains": [
+      "fintech",
+      "e-commerce",
+      "mobile development"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Information Technology",
+        "institution": "Cavite State University - Main Campus",
+        "year": 2020
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Philippines"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring",
+      "collaboration"
+    ],
+    "work_history": [
+      {
+        "title": "Senior Software Engineer",
+        "company": "Maya Bank, Inc.",
+        "start": "2025-10",
+        "end": "Present"
+      },
+      {
+        "title": "Senior Flutter Engineer",
+        "company": "UnionDigital Bank Inc.",
+        "start": "2025-05",
+        "end": "2025-10"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "company": "Philippine Digital Assets Exchange Inc.",
+        "start": "2022-06",
+        "end": "2025-05"
+      },
+      {
+        "title": "Software Engineer - Flutter",
+        "company": "YONDU INC.",
+        "start": "2021-06",
+        "end": "2022-07"
+      },
+      {
+        "title": "Software Engineer",
+        "company": "LEENTech Network Solutions Inc.",
+        "start": "2020-06",
+        "end": "2021-06"
+      },
+      {
+        "title": "Web Developer - Internship",
+        "company": "LEENTech Network Solutions Inc.",
+        "start": "2019-06",
+        "end": "2019-07"
+      },
+      {
+        "title": "Technology Consultant",
+        "company": "Freelance Remote",
+        "start": "2018-01",
+        "end": "2023-12"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

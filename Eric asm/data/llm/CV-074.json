@@ -1,0 +1,120 @@
+{
+  "doc_id": "CV-074",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "2a359588f58831b8cf3511bc2e64b076928a9c845aadd58c45368dc26a8e15dd",
+  "timestamp": "2026-11-12T03:34:13.428402+00:00",
+  "elapsed_sec": 46.08,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-074\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Senior Digital Marketing Specialist\",\n  \"current_company\": \"Xurrent\",\n  \"role_family\": \"Marketing\",\n  \"seniority\": \"senior\",\n  \"total_years_experience\": 8,\n  \"skills\": [\n    \"Meta Ads Manager\",\n    \"Facebook Ads\",\n    \"A/B Testing\",\n    \"Google Analytics\",\n    \"Ad Performance Metrics\",\n    \"SEO\",\n    \"PPC\",\n    \"Canva\",\n    \"Adobe Photoshop\",\n    \"Adobe Illustrator\",\n    \"Figma\",\n    \"Sketching\",\n    \"Invision\",\n    \"Adobe XD\",\n    \"WordPress\",\n    \"Shopify\",\n    \"HubSpot\",\n    \"Contentful\",\n    \"Drupal\",\n    \"Joomla\",\n    \"Magento\",\n    \"JavaScript\",\n    \"Python\",\n    \"SQL\",\n    \"PHP\",\n    \"Ruby\",\n    \"Java\",\n    \"C#\",\n    \"React.js\",\n    \"Node.js\"\n  ],\n  \"tools_technologies\": [\n    \"Meta Ads Manager\",\n    \"Facebook Ads\",\n    \"Google Analytics\",\n    \"Canva\",\n    \"Adobe Photoshop\",\n    \"Adobe Illustrator\",\n    \"Figma\",\n    \"Invision\",\n    \"Adobe XD\",\n    \"WordPress\",\n    \"Shopify\",\n    \"HubSpot\",\n    \"Contentful\",\n    \"Drupal\",\n    \"Joomla\",\n    \"Magento\",\n    \"React.js\",\n    \"Node.js\"\n  ],\n  \"domains\": [\n    \"digital marketing\",\n    \"advertising\",\n    \"social media\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": null,\n      \"institution\": \"Texas State University\",\n      \"year\": 2015\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"United States\"\n  ],\n  \"soft_skills\": [\n    \"team collaboration\",\n    \"strategic alignment\",\n    \"data analysis\",\n    \"creative design\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Senior Digital Marketing Specialist\",\n      \"company\": \"Xurrent\",\n      \"start\": \"2022-07\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Digital Marketing Consultant\",\n      \"company\": \"Accenture\",\n      \"start\": \"2020-05\",\n      \"end\": \"2022-06\"\n    },\n    {\n      \"title\": \"Marketing Associate\",\n      \"company\": \"Kiewit\",\n      \"start\": \"2016-01\",\n      \"end\": \"2020-02\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-074",
+    "doc_type": "cv",
+    "current_title": "Senior Digital Marketing Specialist",
+    "current_company": "Xurrent",
+    "role_family": "Marketing",
+    "seniority": "senior",
+    "total_years_experience": 8,
+    "skills": [
+      "Meta Ads Manager",
+      "Facebook Ads",
+      "A/B Testing",
+      "Google Analytics",
+      "Ad Performance Metrics",
+      "SEO",
+      "PPC",
+      "Canva",
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Figma",
+      "Sketching",
+      "Invision",
+      "Adobe XD",
+      "WordPress",
+      "Shopify",
+      "HubSpot",
+      "Contentful",
+      "Drupal",
+      "Joomla",
+      "Magento",
+      "JavaScript",
+      "Python",
+      "SQL",
+      "PHP",
+      "Ruby",
+      "Java",
+      "C#",
+      "React.js",
+      "Node.js"
+    ],
+    "tools_technologies": [
+      "Meta Ads Manager",
+      "Facebook Ads",
+      "Google Analytics",
+      "Canva",
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Figma",
+      "Invision",
+      "Adobe XD",
+      "WordPress",
+      "Shopify",
+      "HubSpot",
+      "Contentful",
+      "Drupal",
+      "Joomla",
+      "Magento",
+      "React.js",
+      "Node.js"
+    ],
+    "domains": [
+      "digital marketing",
+      "advertising",
+      "social media"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": null,
+        "institution": "Texas State University",
+        "year": 2015
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "United States"
+    ],
+    "soft_skills": [
+      "team collaboration",
+      "strategic alignment",
+      "data analysis",
+      "creative design"
+    ],
+    "work_history": [
+      {
+        "title": "Senior Digital Marketing Specialist",
+        "company": "Xurrent",
+        "start": "2022-07",
+        "end": "Present"
+      },
+      {
+        "title": "Digital Marketing Consultant",
+        "company": "Accenture",
+        "start": "2020-05",
+        "end": "2022-06"
+      },
+      {
+        "title": "Marketing Associate",
+        "company": "Kiewit",
+        "start": "2016-01",
+        "end": "2020-02"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

@@ -1,0 +1,72 @@
+{
+  "doc_id": "CV-066",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "9dbd96aaa6eec53ac56f18563202e45eee0fce1f069a8e9f641b4f1c61b09a82",
+  "timestamp": "2026-11-12T03:31:15.509615+00:00",
+  "elapsed_sec": 42.15,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-066\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Head of Marketing\",\n  \"current_company\": \"MC Polysan LTD\",\n  \"role_family\": \"Marketing\",\n  \"seniority\": \"lead\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Strategic partnerships\",\n    \"Market expansion\",\n    \"Commercial analysis\",\n    \"Pricing\",\n    \"Negotiation support\",\n    \"Cross-functional leadership\",\n    \"Team Management\",\n    \"Google Analytics\"\n  ],\n  \"tools_technologies\": [],\n  \"domains\": [\n    \"retail\",\n    \"e-commerce\",\n    \"B2B\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Master's Degree\",\n      \"field\": \"Finance\",\n      \"institution\": \"Sumy State University\",\n      \"year\": null\n    },\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"unknown\",\n      \"institution\": \"Sumy Trade College\",\n      \"year\": null\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Germany\"\n  ],\n  \"soft_skills\": [\n    \"Team Management\",\n    \"Cross-functional leadership\",\n    \"mentoring\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Head of Marketing\",\n      \"company\": \"MC Polysan LTD\",\n      \"start\": \"2012-10\",\n      \"end\": \"2026-05\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-066",
+    "doc_type": "cv",
+    "current_title": "Head of Marketing",
+    "current_company": "MC Polysan LTD",
+    "role_family": "Marketing",
+    "seniority": "lead",
+    "total_years_experience": null,
+    "skills": [
+      "Strategic partnerships",
+      "Market expansion",
+      "Commercial analysis",
+      "Pricing",
+      "Negotiation support",
+      "Cross-functional leadership",
+      "Team Management",
+      "Google Analytics"
+    ],
+    "tools_technologies": [],
+    "domains": [
+      "retail",
+      "e-commerce",
+      "B2B"
+    ],
+    "education": [
+      {
+        "degree": "Master's Degree",
+        "field": "Finance",
+        "institution": "Sumy State University",
+        "year": null
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "field": "unknown",
+        "institution": "Sumy Trade College",
+        "year": null
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Germany"
+    ],
+    "soft_skills": [
+      "Team Management",
+      "Cross-functional leadership",
+      "mentoring"
+    ],
+    "work_history": [
+      {
+        "title": "Head of Marketing",
+        "company": "MC Polysan LTD",
+        "start": "2012-10",
+        "end": "2026-05"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

@@ -1,0 +1,100 @@
+{
+  "doc_id": "CV-047",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "4a22b4e3d989643932c0fe28fd6c9e2dc94e8a886fe92d572d778bc1241b1db5",
+  "timestamp": "2026-11-12T03:24:24.773978+00:00",
+  "elapsed_sec": 22.08,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-047\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Graphic Designer\",\n  \"current_company\": \"Wayfair\",\n  \"role_family\": \"Design & Creative\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": 5,\n  \"skills\": [\"Graphic Design\", \"Visual Communication\", \"Visual Storytelling\", \"Layout Design\", \"Composition\", \"Typography\", \"Color Theory\", \"Information Design\", \"Brand Identity\", \"Brand Guidelines\", \"Logo Design\", \"Visual Identity Systems\", \"Creative Direction\", \"Brand Consistency\", \"Marketing Collateral\", \"Adobe Photoshop\", \"Adobe Illustrator\", \"Adobe InDesign\", \"Adobe After Effects\", \"Digital Designs\", \"Web Graphics\", \"Landing Page Design\", \"social media design\", \"Digital campaigns\", \"Responsive Design\", \"Ui Design\", \"Visual Assets\", \"Figma\", \"Wireframing\"],\n  \"tools_technologies\": [\"Adobe Creative Cloud\", \"Adobe XD\", \"Figma\"],\n  \"domains\": [\"e-commerce\", \"SaaS\", \"logistics\"],\n  \"education\": [{\"degree\": \"Master's Degree\", \"field\": \"Graphic Design and Visual Communication\", \"institution\": \"Savannah College of Art and Design\", \"year\": 2026}, {\"degree\": \"Bachelor's Degree\", \"field\": \"Unknown\", \"institution\": \"Veer Narmad South Gujarat University, G.C.P.I.A.I.F.\", \"year\": 2021}],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [],\n  \"soft_skills\": [\"team leadership\", \"mentoring\"],\n  \"work_history\": [{\"title\": \"Graphic Designer\", \"company\": \"Wayfair\", \"start\": \"2026-04\", \"end\": \"Present\"}, {\"title\": \"Graphic Designer\", \"company\": \"Neon IT Systems\", \"start\": \"2020-08\", \"end\": \"2023-07\"}]\n}",
+  "parsed": {
+    "doc_id": "CV-047",
+    "doc_type": "cv",
+    "current_title": "Graphic Designer",
+    "current_company": "Wayfair",
+    "role_family": "Design & Creative",
+    "seniority": "mid",
+    "total_years_experience": 5,
+    "skills": [
+      "Graphic Design",
+      "Visual Communication",
+      "Visual Storytelling",
+      "Layout Design",
+      "Composition",
+      "Typography",
+      "Color Theory",
+      "Information Design",
+      "Brand Identity",
+      "Brand Guidelines",
+      "Logo Design",
+      "Visual Identity Systems",
+      "Creative Direction",
+      "Brand Consistency",
+      "Marketing Collateral",
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Adobe InDesign",
+      "Adobe After Effects",
+      "Digital Designs",
+      "Web Graphics",
+      "Landing Page Design",
+      "social media design",
+      "Digital campaigns",
+      "Responsive Design",
+      "Ui Design",
+      "Visual Assets",
+      "Figma",
+      "Wireframing"
+    ],
+    "tools_technologies": [
+      "Adobe Creative Cloud",
+      "Adobe XD",
+      "Figma"
+    ],
+    "domains": [
+      "e-commerce",
+      "SaaS",
+      "logistics"
+    ],
+    "education": [
+      {
+        "degree": "Master's Degree",
+        "field": "Graphic Design and Visual Communication",
+        "institution": "Savannah College of Art and Design",
+        "year": 2026
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Unknown",
+        "institution": "Veer Narmad South Gujarat University, G.C.P.I.A.I.F.",
+        "year": 2021
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [],
+    "soft_skills": [
+      "team leadership",
+      "mentoring"
+    ],
+    "work_history": [
+      {
+        "title": "Graphic Designer",
+        "company": "Wayfair",
+        "start": "2026-04",
+        "end": "Present"
+      },
+      {
+        "title": "Graphic Designer",
+        "company": "Neon IT Systems",
+        "start": "2020-08",
+        "end": "2023-07"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

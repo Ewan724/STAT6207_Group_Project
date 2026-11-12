@@ -1,0 +1,131 @@
+{
+  "doc_id": "CV-070",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "0b63c2eae7b7dc67a5e9e6d5b97ac108593f5db58657a71678e6958969aa1315",
+  "timestamp": "2026-11-12T03:32:42.211612+00:00",
+  "elapsed_sec": 47.83,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-070\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Marketing Manager (Creative & Content Lead)\",\n  \"current_company\": \"Mova\",\n  \"role_family\": \"Marketing\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Short-Form Video\",\n    \"TikTok\",\n    \"Instagram Reels\",\n    \"YouTube Shorts\",\n    \"Viral Hooks\",\n    \"Scripting\",\n    \"Captions\",\n    \"Storytelling\",\n    \"Trend Spotting\",\n    \"CapCut\",\n    \"Adobe Premiere Pro\",\n    \"Photoshop\",\n    \"Illustrator\",\n    \"Account Growth\",\n    \"Social Analytics\",\n    \"Organic Growth Strategies\",\n    \"Data-Driven Iteration\",\n    \"AI Tools for Content\",\n    \"International Team Collaboration\",\n    \"Creative Arts\",\n    \"Film & TV\"\n  ],\n  \"tools_technologies\": [\n    \"CapCut\",\n    \"Adobe Premiere Pro\",\n    \"Photoshop\",\n    \"Illustrator\"\n  ],\n  \"domains\": [\n    \"social media\",\n    \"content creation\",\n    \"short-form video\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Film & TV\",\n      \"field\": null,\n      \"institution\": \"JMC Melbourne\",\n      \"year\": null\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [\n    \"English\"\n  ],\n  \"locations\": [\n    \"Indonesia\",\n    \"Singapore\",\n    \"Melbourne\"\n  ],\n  \"soft_skills\": [\n    \"team collaboration\",\n    \"content direction\",\n    \"project management\",\n    \"creative leadership\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Marketing Manager (Creative & Content Lead)\",\n      \"company\": \"Mova\",\n      \"start\": \"2026-01\",\n      \"end\": \"2026-07\"\n    },\n    {\n      \"title\": \"Social Media & Ads Manager (Contract)\",\n      \"company\": \"KORE\",\n      \"start\": \"2025-07\",\n      \"end\": \"2026-06\"\n    },\n    {\n      \"title\": \"Freelance Content & Video\",\n      \"company\": \"Astra Daihatsu, Fish Lab, Mana Sablon\",\n      \"start\": \"2025-07\",\n      \"end\": \"2025-08\"\n    },\n    {\n      \"title\": \"Branding, Marketing & Content Lead (Contract)\",\n      \"company\": \"ALV Helmet\",\n      \"start\": \"2024-01\",\n      \"end\": \"2025-01\"\n    },\n    {\n      \"title\": \"Content Producer (Videographer, Editor & Photographer)\",\n      \"company\": \"Garis Temu\",\n      \"start\": \"2023-09\",\n      \"end\": \"2024-07\"\n    },\n    {\n      \"title\": \"Branding & Content Manager\",\n      \"company\": \"Public figure / creator\",\n      \"start\": \"2023-02\",\n      \"end\": \"2024-04\"\n    },\n    {\n      \"title\": \"Branding & Content Marketing Manager\",\n      \"company\": \"T94 Entertainment\",\n      \"start\": \"2022-09\",\n      \"end\": \"2023-02\"\n    },\n    {\n      \"title\": \"Content creator (Part-Time)\",\n      \"company\": \"IREC Melbourne\",\n      \"start\": \"2020-01\",\n      \"end\": \"2022-01\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-070",
+    "doc_type": "cv",
+    "current_title": "Marketing Manager (Creative & Content Lead)",
+    "current_company": "Mova",
+    "role_family": "Marketing",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "Short-Form Video",
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts",
+      "Viral Hooks",
+      "Scripting",
+      "Captions",
+      "Storytelling",
+      "Trend Spotting",
+      "CapCut",
+      "Adobe Premiere Pro",
+      "Photoshop",
+      "Illustrator",
+      "Account Growth",
+      "Social Analytics",
+      "Organic Growth Strategies",
+      "Data-Driven Iteration",
+      "AI Tools for Content",
+      "International Team Collaboration",
+      "Creative Arts",
+      "Film & TV"
+    ],
+    "tools_technologies": [
+      "CapCut",
+      "Adobe Premiere Pro",
+      "Photoshop",
+      "Illustrator"
+    ],
+    "domains": [
+      "social media",
+      "content creation",
+      "short-form video"
+    ],
+    "education": [
+      {
+        "degree": "Film & TV",
+        "field": null,
+        "institution": "JMC Melbourne",
+        "year": null
+      }
+    ],
+    "certifications": [],
+    "languages": [
+      "English"
+    ],
+    "locations": [
+      "Indonesia",
+      "Singapore",
+      "Melbourne"
+    ],
+    "soft_skills": [
+      "team collaboration",
+      "content direction",
+      "project management",
+      "creative leadership"
+    ],
+    "work_history": [
+      {
+        "title": "Marketing Manager (Creative & Content Lead)",
+        "company": "Mova",
+        "start": "2026-01",
+        "end": "2026-07"
+      },
+      {
+        "title": "Social Media & Ads Manager (Contract)",
+        "company": "KORE",
+        "start": "2025-07",
+        "end": "2026-06"
+      },
+      {
+        "title": "Freelance Content & Video",
+        "company": "Astra Daihatsu, Fish Lab, Mana Sablon",
+        "start": "2025-07",
+        "end": "2025-08"
+      },
+      {
+        "title": "Branding, Marketing & Content Lead (Contract)",
+        "company": "ALV Helmet",
+        "start": "2024-01",
+        "end": "2025-01"
+      },
+      {
+        "title": "Content Producer (Videographer, Editor & Photographer)",
+        "company": "Garis Temu",
+        "start": "2023-09",
+        "end": "2024-07"
+      },
+      {
+        "title": "Branding & Content Manager",
+        "company": "Public figure / creator",
+        "start": "2023-02",
+        "end": "2024-04"
+      },
+      {
+        "title": "Branding & Content Marketing Manager",
+        "company": "T94 Entertainment",
+        "start": "2022-09",
+        "end": "2023-02"
+      },
+      {
+        "title": "Content creator (Part-Time)",
+        "company": "IREC Melbourne",
+        "start": "2020-01",
+        "end": "2022-01"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

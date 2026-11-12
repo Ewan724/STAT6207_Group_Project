@@ -1,0 +1,111 @@
+{
+  "doc_id": "CV-069",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "16d769110124f11c1088450b3fa8ce1a894cbc329ad076f39221696f4888a166",
+  "timestamp": "2026-11-12T03:32:07.733347+00:00",
+  "elapsed_sec": 41.27,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-069\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Regional Brand Manager\",\n  \"current_company\": \"Kansai Nerolac Paints\",\n  \"role_family\": \"Marketing\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"P&L Management\",\n    \"Commercial Strategy\",\n    \"Revenue Growth\",\n    \"Profitability Management\",\n    \"GTM Strategy\",\n    \"Business Planning\",\n    \"Brand Management\",\n    \"Category Management\",\n    \"Trade Marketing\",\n    \"BTL Marketing\",\n    \"Consumer Insights\",\n    \"Product Marketing\",\n    \"Product Launch\",\n    \"Brand Strategy\",\n    \"Channel Development\",\n    \"Dealer Management\",\n    \"E-commerce\",\n    \"Digital Transformation\",\n    \"Leadership & Analytics\",\n    \"Stakeholder Management\"\n  ],\n  \"tools_technologies\": [\n    \"SAP Vistex\",\n    \"Nielsen\"\n  ],\n  \"domains\": [\n    \"consumer goods\",\n    \"retail\",\n    \"B2B\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Master's Degree\",\n      \"field\": \"Marketing\",\n      \"institution\": \"Welingkar Institute of Management Development & Research\",\n      \"year\": 2018\n    },\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Arts, Science & Commerce\",\n      \"institution\": \"SIES College of Arts, Science & Commerce\",\n      \"year\": 2012\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"India\"\n  ],\n  \"soft_skills\": [\n    \"Leadership\",\n    \"Stakeholder Management\",\n    \"Cross-functional Leadership\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Regional Brand Manager\",\n      \"company\": \"Kansai Nerolac Paints\",\n      \"start\": \"2024-03\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Regional Commercial Manager\",\n      \"company\": \"Rentokil HiCare Services\",\n      \"start\": \"2022-11\",\n      \"end\": \"2024-03\"\n    },\n    {\n      \"title\": \"Assistant Brand Manager\",\n      \"company\": \"SAMSONITE INC\",\n      \"start\": \"2022-05\",\n      \"end\": \"2022-11\"\n    },\n    {\n      \"title\": \"Brand Executive\",\n      \"company\": \"Eureka Forbes Ltd\",\n      \"start\": \"2020-12\",\n      \"end\": \"2022-05\"\n    },\n    {\n      \"title\": \"BTL Executive - GTM\",\n      \"company\": \"UltraTech Cement\",\n      \"start\": \"2018-03\",\n      \"end\": \"2020-11\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-069",
+    "doc_type": "cv",
+    "current_title": "Regional Brand Manager",
+    "current_company": "Kansai Nerolac Paints",
+    "role_family": "Marketing",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "P&L Management",
+      "Commercial Strategy",
+      "Revenue Growth",
+      "Profitability Management",
+      "GTM Strategy",
+      "Business Planning",
+      "Brand Management",
+      "Category Management",
+      "Trade Marketing",
+      "BTL Marketing",
+      "Consumer Insights",
+      "Product Marketing",
+      "Product Launch",
+      "Brand Strategy",
+      "Channel Development",
+      "Dealer Management",
+      "E-commerce",
+      "Digital Transformation",
+      "Leadership & Analytics",
+      "Stakeholder Management"
+    ],
+    "tools_technologies": [
+      "SAP Vistex",
+      "Nielsen"
+    ],
+    "domains": [
+      "consumer goods",
+      "retail",
+      "B2B"
+    ],
+    "education": [
+      {
+        "degree": "Master's Degree",
+        "field": "Marketing",
+        "institution": "Welingkar Institute of Management Development & Research",
+        "year": 2018
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Arts, Science & Commerce",
+        "institution": "SIES College of Arts, Science & Commerce",
+        "year": 2012
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "India"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Stakeholder Management",
+      "Cross-functional Leadership"
+    ],
+    "work_history": [
+      {
+        "title": "Regional Brand Manager",
+        "company": "Kansai Nerolac Paints",
+        "start": "2024-03",
+        "end": "Present"
+      },
+      {
+        "title": "Regional Commercial Manager",
+        "company": "Rentokil HiCare Services",
+        "start": "2022-11",
+        "end": "2024-03"
+      },
+      {
+        "title": "Assistant Brand Manager",
+        "company": "SAMSONITE INC",
+        "start": "2022-05",
+        "end": "2022-11"
+      },
+      {
+        "title": "Brand Executive",
+        "company": "Eureka Forbes Ltd",
+        "start": "2020-12",
+        "end": "2022-05"
+      },
+      {
+        "title": "BTL Executive - GTM",
+        "company": "UltraTech Cement",
+        "start": "2018-03",
+        "end": "2020-11"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

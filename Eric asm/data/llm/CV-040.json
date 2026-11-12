@@ -1,0 +1,119 @@
+{
+  "doc_id": "CV-040",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "f5914bcd199676eca9c71ab6d1260f9a5ed1ad9ca474924e83b517ebdc189d50",
+  "timestamp": "2026-11-12T03:23:10.724638+00:00",
+  "elapsed_sec": 22.7,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-040\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Applied AI Engineer\",\n  \"current_company\": \"Bain & Company\",\n  \"role_family\": \"Data & AI\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": 7,\n  \"skills\": [\n    \"Python\",\n    \"SQL\",\n    \"R\",\n    \"FastAPI\",\n    \"Flask\",\n    \"RESTful APIs\",\n    \"LangChain\",\n    \"LlamaIndex\",\n    \"Hugging Face Transformers\",\n    \"RAG\",\n    \"Prompt Engineering\",\n    \"Model Fine-Tuning\",\n    \"LoRA\",\n    \"Agentic Workflows\",\n    \"TensorFlow\",\n    \"Keras\",\n    \"Scikit-Learn\",\n    \"NLP\",\n    \"Predictive Analytics\",\n    \"Model Explainability\",\n    \"SHAP\",\n    \"LIME\",\n    \"Time Series Analysis\",\n    \"OpenCV\",\n    \"Object Detection\",\n    \"Image Classification\",\n    \"Image Segmentation\",\n    \"Pandas\",\n    \"NumPy\",\n    \"Apache Spark\"\n  ],\n  \"tools_technologies\": [\n    \"AWS\",\n    \"Azure\",\n    \"GCP\",\n    \"Docker\",\n    \"PyTorch\",\n    \"LangGraph\"\n  ],\n  \"domains\": [\n    \"artificial intelligence\",\n    \"generative ai\",\n    \"machine learning\",\n    \"data engineering\",\n    \"cloud platforms\",\n    \"computer vision\",\n    \"multimodal data\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Master's Degree\",\n      \"field\": \"Data Science\",\n      \"institution\": \"University of Glasgow\",\n      \"year\": 2019\n    },\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"unknown\",\n      \"institution\": \"Visvesvaraiah Technological University\",\n      \"year\": 2017\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"United States\"\n  ],\n  \"soft_skills\": [\n    \"team collaboration\",\n    \"problem solving\",\n    \"automation\",\n    \"quality assurance\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Applied AI Engineer\",\n      \"company\": \"Bain & Company\",\n      \"start\": \"2024-10\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Machine Learning Engineer\",\n      \"company\": \"Taskmonk Technology Pvt. Ltd.\",\n      \"start\": \"2020-03\",\n      \"end\": \"2022-05\"\n    },\n    {\n      \"title\": \"Data Engineer\",\n      \"company\": \"Accenture\",\n      \"start\": \"2017-05\",\n      \"end\": \"2018-08\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-040",
+    "doc_type": "cv",
+    "current_title": "Applied AI Engineer",
+    "current_company": "Bain & Company",
+    "role_family": "Data & AI",
+    "seniority": "mid",
+    "total_years_experience": 7,
+    "skills": [
+      "Python",
+      "SQL",
+      "FastAPI",
+      "Flask",
+      "RESTful APIs",
+      "LangChain",
+      "LlamaIndex",
+      "Hugging Face Transformers",
+      "RAG",
+      "Prompt Engineering",
+      "Model Fine-Tuning",
+      "LoRA",
+      "Agentic Workflows",
+      "TensorFlow",
+      "Keras",
+      "Scikit-Learn",
+      "NLP",
+      "Predictive Analytics",
+      "Model Explainability",
+      "SHAP",
+      "LIME",
+      "Time Series Analysis",
+      "OpenCV",
+      "Object Detection",
+      "Image Classification",
+      "Image Segmentation",
+      "Pandas",
+      "NumPy",
+      "Apache Spark"
+    ],
+    "tools_technologies": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "Docker",
+      "PyTorch",
+      "LangGraph"
+    ],
+    "domains": [
+      "artificial intelligence",
+      "generative ai",
+      "machine learning",
+      "data engineering",
+      "cloud platforms",
+      "computer vision",
+      "multimodal data"
+    ],
+    "education": [
+      {
+        "degree": "Master's Degree",
+        "field": "Data Science",
+        "institution": "University of Glasgow",
+        "year": 2019
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "field": "unknown",
+        "institution": "Visvesvaraiah Technological University",
+        "year": 2017
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "United States"
+    ],
+    "soft_skills": [
+      "team collaboration",
+      "problem solving",
+      "automation",
+      "quality assurance"
+    ],
+    "work_history": [
+      {
+        "title": "Applied AI Engineer",
+        "company": "Bain & Company",
+        "start": "2024-10",
+        "end": "Present"
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "company": "Taskmonk Technology Pvt. Ltd.",
+        "start": "2020-03",
+        "end": "2022-05"
+      },
+      {
+        "title": "Data Engineer",
+        "company": "Accenture",
+        "start": "2017-05",
+        "end": "2018-08"
+      }
+    ]
+  },
+  "validation_errors": [
+    "keyword_word_count:R"
+  ],
+  "dropped_keywords": []
+}

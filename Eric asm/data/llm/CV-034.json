@@ -1,0 +1,82 @@
+{
+  "doc_id": "CV-034",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "6e2425a85f573d7a3cc0233bad9deb5e9a9d76906d26a2832d108f7961d8a1f7",
+  "timestamp": "2026-11-12T03:22:02.052865+00:00",
+  "elapsed_sec": 16.7,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-034\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Multi Stack / Applied AI Developer\",\n  \"current_company\": \"SusaLabs\",\n  \"role_family\": \"Data & AI\",\n  \"seniority\": \"unknown\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Python\",\n    \"TypeScript\",\n    \"JavaScript\",\n    \"SQL\",\n    \"LLMs\",\n    \"Agents\",\n    \"RAG\",\n    \"ChromaDB\",\n    \"LangChain\",\n    \"Transformers\",\n    \"PyTorch\",\n    \"FastAPI\",\n    \"React.js\",\n    \"Next.js\",\n    \"Node.js\",\n    \"Express.js\",\n    \"React Native\",\n    \"Tailwind CSS\",\n    \"MongoDB\",\n    \"PostgreSQL\",\n    \"MariaDB\",\n    \"Redis\",\n    \"Docker\",\n    \"Git\",\n    \"REST APIs\",\n    \"WebSockets\"\n  ],\n  \"tools_technologies\": [\n    \"MERN\",\n    \"Next.js\",\n    \"FastAPI\",\n    \"Redis\",\n    \"ChromaDB\",\n    \"PyTorch\",\n    \"Transformer\",\n    \"BPE\",\n    \"BM25\"\n  ],\n  \"domains\": [\n    \"AI\",\n    \"web development\"\n  ],\n  \"education\": null,\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"India\"\n  ],\n  \"soft_skills\": [],\n  \"work_history\": [\n    {\n      \"title\": \"Multi Stack / Applied AI Developer\",\n      \"company\": \"SusaLabs\",\n      \"start\": \"2025-08\",\n      \"end\": \"Present\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-034",
+    "doc_type": "cv",
+    "current_title": "Multi Stack / Applied AI Developer",
+    "current_company": "SusaLabs",
+    "role_family": "Data & AI",
+    "seniority": "unknown",
+    "total_years_experience": null,
+    "skills": [
+      "Python",
+      "TypeScript",
+      "JavaScript",
+      "SQL",
+      "LLMs",
+      "Agents",
+      "RAG",
+      "ChromaDB",
+      "LangChain",
+      "Transformers",
+      "PyTorch",
+      "FastAPI",
+      "React.js",
+      "Next.js",
+      "Node.js",
+      "Express.js",
+      "React Native",
+      "Tailwind CSS",
+      "MongoDB",
+      "PostgreSQL",
+      "MariaDB",
+      "Redis",
+      "Docker",
+      "Git",
+      "REST APIs",
+      "WebSockets"
+    ],
+    "tools_technologies": [
+      "MERN",
+      "Next.js",
+      "FastAPI",
+      "Redis",
+      "ChromaDB",
+      "PyTorch",
+      "Transformer",
+      "BPE",
+      "BM25"
+    ],
+    "domains": [
+      "AI",
+      "web development"
+    ],
+    "education": [],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "India"
+    ],
+    "soft_skills": [],
+    "work_history": [
+      {
+        "title": "Multi Stack / Applied AI Developer",
+        "company": "SusaLabs",
+        "start": "2025-08",
+        "end": "Present"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

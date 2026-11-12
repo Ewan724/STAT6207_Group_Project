@@ -1,0 +1,97 @@
+{
+  "doc_id": "CV-025",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "f280d489e54e95ea35783e176e90bdf2cbbfbbd2669448dad46d02363fd6f22e",
+  "timestamp": "2026-11-12T03:20:26.488461+00:00",
+  "elapsed_sec": 261.21,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-025\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Site Reliability Engineer\",\n  \"current_company\": \"Garanti BBVA (via VBT Software)\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Java\",\n    \".NET\",\n    \"Microservices\",\n    \"Kubernetes\"\n  ],\n  \"tools_technologies\": [\n    \"Spring Boot\",\n    \"API Gateway\",\n    \"OAuth2\",\n    \"JWT\",\n    \"Postman\",\n    \"OpenShift\",\n    \"Docker\",\n    \"Kafka\",\n    \"MQ\",\n    \"Azure DevOps Server\",\n    \"xUnit\"\n  ],\n  \"domains\": [\n    \"banking\",\n    \"manufacturing\",\n    \"Industry 4.0\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Master's Degree\",\n      \"field\": \"Computer Engineering\",\n      \"institution\": \"Yasar University\",\n      \"year\": 2023\n    },\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Computer Engineering\",\n      \"institution\": \"Yasar University\",\n      \"year\": 2020\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"United Arab Emirates\"\n  ],\n  \"soft_skills\": [\n    \"team collaboration\",\n    \"incident management\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Site Reliability Engineer\",\n      \"company\": \"Garanti BBVA (via VBT Software)\",\n      \"start\": \"2026-03\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Senior Backend Developer\",\n      \"company\": \"Akbank (via Veripark)\",\n      \"start\": \"2024-07\",\n      \"end\": \"2026-03\"\n    },\n    {\n      \"title\": \"Senior Software Engineer\",\n      \"company\": \"DORUK AUTOMATION\",\n      \"start\": \"2021-01\",\n      \"end\": \"2024-07\"\n    },\n    {\n      \"title\": \"Analyst Software Developer\",\n      \"company\": \"Monovi\",\n      \"start\": \"2020-07\",\n      \"end\": \"2021-01\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-025",
+    "doc_type": "cv",
+    "current_title": "Site Reliability Engineer",
+    "current_company": "Garanti BBVA (via VBT Software)",
+    "role_family": "Engineering",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "Java",
+      "NET",
+      "Microservices",
+      "Kubernetes"
+    ],
+    "tools_technologies": [
+      "Spring Boot",
+      "API Gateway",
+      "OAuth2",
+      "JWT",
+      "Postman",
+      "OpenShift",
+      "Docker",
+      "Kafka",
+      "MQ",
+      "Azure DevOps Server",
+      "xUnit"
+    ],
+    "domains": [
+      "banking",
+      "manufacturing",
+      "Industry 4.0"
+    ],
+    "education": [
+      {
+        "degree": "Master's Degree",
+        "field": "Computer Engineering",
+        "institution": "Yasar University",
+        "year": 2023
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Computer Engineering",
+        "institution": "Yasar University",
+        "year": 2020
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "United Arab Emirates"
+    ],
+    "soft_skills": [
+      "team collaboration",
+      "incident management"
+    ],
+    "work_history": [
+      {
+        "title": "Site Reliability Engineer",
+        "company": "Garanti BBVA (via VBT Software)",
+        "start": "2026-03",
+        "end": "Present"
+      },
+      {
+        "title": "Senior Backend Developer",
+        "company": "Akbank (via Veripark)",
+        "start": "2024-07",
+        "end": "2026-03"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "company": "DORUK AUTOMATION",
+        "start": "2021-01",
+        "end": "2024-07"
+      },
+      {
+        "title": "Analyst Software Developer",
+        "company": "Monovi",
+        "start": "2020-07",
+        "end": "2021-01"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

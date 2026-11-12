@@ -1,0 +1,112 @@
+{
+  "doc_id": "CAND-107",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "872300d4a39ef54179ac43448feabb1367baa08e68bebeb748e2e74b3d053050",
+  "timestamp": "2026-11-12T03:43:11.088794+00:00",
+  "elapsed_sec": 16.65,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CAND-107\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Marketing Manager\",\n  \"current_company\": \"HKT Enterprise Solutions\",\n  \"role_family\": \"Marketing\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": 9,\n  \"skills\": [\"Integrated Marketing\", \"360° Campaigns\", \"Stakeholder Management\", \"Budgeting & P&L\", \"SEO/SEM\", \"Social Media Strategy\", \"Content Marketing\", \"GTM Strategy\", \"Growth Marketing\", \"Product Marketing\", \"Field Marketing\", \"Digital Advertising\", \"CRM Strategy\", \"Data Analysis\", \"CRM\", \"WordPress\", \"Google Analytics 4\", \"Data Management\", \"Microsoft Office Suite\", \"Google Workspace\"],\n  \"tools_technologies\": [\"Tableau\", \"Google Analytics\", \"Google Ads\", \"Facebook ads\"],\n  \"domains\": [\"marketing\", \"B2B\", \"HR-tech\"],\n  \"education\": [\n    {\n      \"degree\": \"Master's Degree\",\n      \"field\": null,\n      \"institution\": \"Hong Kong University of Science and Technology\",\n      \"year\": null\n    },\n    {\n      \"degree\": \"Degree\",\n      \"field\": null,\n      \"institution\": \"The University of Sheffield\",\n      \"year\": null\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\"Hong Kong\"],\n  \"soft_skills\": [\"team leadership\", \"mentoring\"],\n  \"work_history\": [\n    {\n      \"title\": \"Marketing Manager\",\n      \"company\": \"HKT Enterprise Solutions\",\n      \"start\": \"2023-04\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Marketing & Engagement Manager\",\n      \"company\": \"Deliveroo\",\n      \"start\": \"2022-04\",\n      \"end\": \"2023-02\"\n    },\n    {\n      \"title\": \"Senior Marketing Manager\",\n      \"company\": \"MegaHub\",\n      \"start\": \"2021-04\",\n      \"end\": \"2022-03\"\n    },\n    {\n      \"title\": \"Head of Marketing & Co-Founder\",\n      \"company\": \"HR-tech startup\",\n      \"start\": \"2015-09\",\n      \"end\": \"2019-08\"\n    },\n    {\n      \"title\": \"Audit Associate\",\n      \"company\": \"PricewaterhouseCoopers (PwC)\",\n      \"start\": \"2014-07\",\n      \"end\": \"2015-09\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CAND-107",
+    "doc_type": "cv",
+    "current_title": "Marketing Manager",
+    "current_company": "HKT Enterprise Solutions",
+    "role_family": "Marketing",
+    "seniority": "mid",
+    "total_years_experience": 9,
+    "skills": [
+      "Integrated Marketing",
+      "360° Campaigns",
+      "Stakeholder Management",
+      "Budgeting & P&L",
+      "SEO/SEM",
+      "Social Media Strategy",
+      "Content Marketing",
+      "GTM Strategy",
+      "Growth Marketing",
+      "Product Marketing",
+      "Field Marketing",
+      "Digital Advertising",
+      "CRM Strategy",
+      "Data Analysis",
+      "CRM",
+      "WordPress",
+      "Google Analytics 4",
+      "Data Management",
+      "Microsoft Office Suite",
+      "Google Workspace"
+    ],
+    "tools_technologies": [
+      "Tableau",
+      "Google Analytics",
+      "Google Ads",
+      "Facebook ads"
+    ],
+    "domains": [
+      "marketing",
+      "B2B",
+      "HR-tech"
+    ],
+    "education": [
+      {
+        "degree": "Master's Degree",
+        "field": null,
+        "institution": "Hong Kong University of Science and Technology",
+        "year": null
+      },
+      {
+        "degree": "Degree",
+        "field": null,
+        "institution": "The University of Sheffield",
+        "year": null
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Hong Kong"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring"
+    ],
+    "work_history": [
+      {
+        "title": "Marketing Manager",
+        "company": "HKT Enterprise Solutions",
+        "start": "2023-04",
+        "end": "Present"
+      },
+      {
+        "title": "Marketing & Engagement Manager",
+        "company": "Deliveroo",
+        "start": "2022-04",
+        "end": "2023-02"
+      },
+      {
+        "title": "Senior Marketing Manager",
+        "company": "MegaHub",
+        "start": "2021-04",
+        "end": "2022-03"
+      },
+      {
+        "title": "Head of Marketing & Co-Founder",
+        "company": "HR-tech startup",
+        "start": "2015-09",
+        "end": "2019-08"
+      },
+      {
+        "title": "Audit Associate",
+        "company": "PricewaterhouseCoopers (PwC)",
+        "start": "2014-07",
+        "end": "2015-09"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

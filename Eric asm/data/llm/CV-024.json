@@ -1,0 +1,90 @@
+{
+  "doc_id": "CV-024",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "86dbe26ef2a0c530741326bb3a3c377a9179565bdf12861692667a1e91c2af89",
+  "timestamp": "2026-11-12T03:20:14.522275+00:00",
+  "elapsed_sec": 259.83,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\"doc_id\":\"CV-024\",\"doc_type\":\"cv\",\"current_title\":\"Senior QA Automation Engineer\",\"current_company\":\"LiSEC Automation LLC\",\"role_family\":\"Engineering\",\"seniority\":\"senior\",\"total_years_experience\":10,\"skills\":[\"Playwright\",\"Cypress\",\"WebdriverIO\",\"Selenium\",\"TypeScript\",\"JavaScript\",\"Python\",\"SQL\",\"API Testing\",\"CI/CD\",\"DevOps\",\"Agile\",\"Scrum\",\"AI in Testing\"],\"tools_technologies\":[\"ReadyAPI\",\"RMIT University\",\"Oriental Institute of Science & Technology\"],\"domains\":[\"automation\",\"testing\",\"e-commerce\",\"recruitment systems\"],\"education\":[{\"degree\":\"Master's Degree\",\"field\":\"Engineering Management\",\"institution\":\"RMIT University\",\"year\":2018}],\"certifications\":[],\"languages\":[],\"locations\":[\"United Arab Emirates\"],\"soft_skills\":[\"team leadership\",\"bug triage\",\"sprint planning\"],\"work_history\":[{\"title\":\"Senior QA Automation Engineer\",\"company\":\"LiSEC Automation LLC\",\"start\":\"2022-03\",\"end\":\"Present\"},{\"title\":\"Software Test Engineer (Automation Focus)\",\"company\":\"WebReinvent Technologies Pvt. Ltd.\",\"start\":\"2021-07\",\"end\":\"2022-03\"},{\"title\":\"Software Test Engineer\",\"company\":\"Credence Systems Pvt. Ltd.\",\"start\":\"2013-08\",\"end\":\"2015-09\"}]}",
+  "parsed": {
+    "doc_id": "CV-024",
+    "doc_type": "cv",
+    "current_title": "Senior QA Automation Engineer",
+    "current_company": "LiSEC Automation LLC",
+    "role_family": "Engineering",
+    "seniority": "senior",
+    "total_years_experience": 10,
+    "skills": [
+      "Playwright",
+      "Cypress",
+      "WebdriverIO",
+      "Selenium",
+      "TypeScript",
+      "JavaScript",
+      "Python",
+      "SQL",
+      "API Testing",
+      "CI/CD",
+      "DevOps",
+      "Agile",
+      "Scrum",
+      "AI in Testing"
+    ],
+    "tools_technologies": [
+      "ReadyAPI",
+      "RMIT University"
+    ],
+    "domains": [
+      "automation",
+      "testing",
+      "e-commerce",
+      "recruitment systems"
+    ],
+    "education": [
+      {
+        "degree": "Master's Degree",
+        "field": "Engineering Management",
+        "institution": "RMIT University",
+        "year": 2018
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "United Arab Emirates"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "bug triage",
+      "sprint planning"
+    ],
+    "work_history": [
+      {
+        "title": "Senior QA Automation Engineer",
+        "company": "LiSEC Automation LLC",
+        "start": "2022-03",
+        "end": "Present"
+      },
+      {
+        "title": "Software Test Engineer (Automation Focus)",
+        "company": "WebReinvent Technologies Pvt. Ltd.",
+        "start": "2021-07",
+        "end": "2022-03"
+      },
+      {
+        "title": "Software Test Engineer",
+        "company": "Credence Systems Pvt. Ltd.",
+        "start": "2013-08",
+        "end": "2015-09"
+      }
+    ]
+  },
+  "validation_errors": [
+    "keyword_word_count:Oriental Institute of Science & Technology"
+  ],
+  "dropped_keywords": []
+}

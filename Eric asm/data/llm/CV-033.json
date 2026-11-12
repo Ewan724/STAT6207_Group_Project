@@ -1,0 +1,104 @@
+{
+  "doc_id": "CV-033",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "34502ed80d98e7ead47e19ab63c7e5ea8cab8f7995083e6a8c7b6799d4a31608",
+  "timestamp": "2026-11-12T03:21:54.793794+00:00",
+  "elapsed_sec": 20.58,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-033\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Senior Consultant (Data & AI)\",\n  \"current_company\": \"NCSI (HK) Limited\",\n  \"role_family\": \"Data & AI\",\n  \"seniority\": \"senior\",\n  \"total_years_experience\": null,\n  \"skills\": [\"GenAI\", \"ML\", \"Python\", \"SQL\", \"LLM applications\", \"RAG\", \"prompt design\", \"model evaluation\", \"Machine Learning\", \"Azure OpenAI\", \"Azure AI Document Intelligence\", \"Flask\", \"PostgreSQL\", \"pgvector\", \"Docker\", \"C++\", \"Go\", \"Redis\"],\n  \"tools_technologies\": [\"Azure AI Foundry\", \"AWS Bedrock\", \"Pinecone\", \"Azure DevOps\", \"Git\", \"Linux\", \"Scikit-Learn\", \"Pandas\", \"NumPy\"],\n  \"domains\": [\"news intelligence\", \"payment processing\", \"face recognition\"],\n  \"education\": [\n    {\n      \"degree\": \"Master's Degree\",\n      \"field\": \"Data-Driven Modeling\",\n      \"institution\": \"The Hong Kong University of Science and Technology\",\n      \"year\": 2024\n    },\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"unknown\",\n      \"institution\": \"Xidian University\",\n      \"year\": 2018\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\"Hong Kong\", \"China\"],\n  \"soft_skills\": [\"team leadership\", \"mentoring\"],\n  \"work_history\": [\n    {\n      \"title\": \"Senior Consultant (Data & AI)\",\n      \"company\": \"NCSI (HK) Limited\",\n      \"start\": \"2024-08\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"C++ Developer\",\n      \"company\": \"Shenzhen Yeahka Technology Inc.\",\n      \"start\": \"2021-07\",\n      \"end\": \"2023-07\"\n    },\n    {\n      \"title\": \"Software Development Engineer\",\n      \"company\": \"Shenzhen Zhongyue Technology Co., Ltd.\",\n      \"start\": \"2018-07\",\n      \"end\": \"2020-10\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-033",
+    "doc_type": "cv",
+    "current_title": "Senior Consultant (Data & AI)",
+    "current_company": "NCSI (HK) Limited",
+    "role_family": "Data & AI",
+    "seniority": "senior",
+    "total_years_experience": null,
+    "skills": [
+      "GenAI",
+      "ML",
+      "Python",
+      "SQL",
+      "LLM applications",
+      "RAG",
+      "prompt design",
+      "model evaluation",
+      "Machine Learning",
+      "Azure OpenAI",
+      "Azure AI Document Intelligence",
+      "Flask",
+      "PostgreSQL",
+      "pgvector",
+      "Docker",
+      "C++",
+      "Go",
+      "Redis"
+    ],
+    "tools_technologies": [
+      "Azure AI Foundry",
+      "AWS Bedrock",
+      "Pinecone",
+      "Azure DevOps",
+      "Git",
+      "Linux",
+      "Scikit-Learn",
+      "Pandas",
+      "NumPy"
+    ],
+    "domains": [
+      "news intelligence",
+      "payment processing",
+      "face recognition"
+    ],
+    "education": [
+      {
+        "degree": "Master's Degree",
+        "field": "Data-Driven Modeling",
+        "institution": "The Hong Kong University of Science and Technology",
+        "year": 2024
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "field": "unknown",
+        "institution": "Xidian University",
+        "year": 2018
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Hong Kong",
+      "China"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring"
+    ],
+    "work_history": [
+      {
+        "title": "Senior Consultant (Data & AI)",
+        "company": "NCSI (HK) Limited",
+        "start": "2024-08",
+        "end": "Present"
+      },
+      {
+        "title": "C++ Developer",
+        "company": "Shenzhen Yeahka Technology Inc.",
+        "start": "2021-07",
+        "end": "2023-07"
+      },
+      {
+        "title": "Software Development Engineer",
+        "company": "Shenzhen Zhongyue Technology Co., Ltd.",
+        "start": "2018-07",
+        "end": "2020-10"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

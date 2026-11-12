@@ -1,0 +1,105 @@
+{
+  "doc_id": "CV-042",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "bb147395031fdcf4c03d71a164bb40dfb8c35c18d9b5cf1eeee6383172e95d85",
+  "timestamp": "2026-11-12T03:23:31.932962+00:00",
+  "elapsed_sec": 21.21,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-042\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Senior Data Scientist\",\n  \"current_company\": \"Uber\",\n  \"role_family\": \"Data & AI\",\n  \"seniority\": \"senior\",\n  \"total_years_experience\": 13,\n  \"skills\": [\"Machine Learning\", \"PyTorch\", \"JAX\", \"Scikit-Learn\", \"Xgboost\", \"LightGBM\", \"Reinforcement Learning\", \"Policy Optimization\", \"Simulation Environments\", \"Supply Demand Simulation\", \"Dynamic Pricing\", \"Testing Infrastructure\", \"End-to-End Testing\", \"LLM Evaluation\", \"A/B Testing\", \"Drift Detection\", \"Python\", \"PySpark\", \"SQL\", \"Hive\", \"Presto\", \"Automation\", \"Airflow\", \"CI/CD\", \"Model Monitoring\", \"Pipeline Orchestration\", \"GPU Training\", \"Multi-GPU Fine-Tuning\", \"vLLM\", \"AWQ Quantization\"],\n  \"tools_technologies\": [\"PySpark\", \"SQL\", \"Hive\", \"Presto\", \"Airflow\", \"Python\"],\n  \"domains\": [\"e-commerce\", \"fintech\"],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Computer Science\",\n      \"institution\": \"University of Southern California\",\n      \"year\": 2011\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\"United States\"],\n  \"soft_skills\": [\"team leadership\", \"mentoring\"],\n  \"work_history\": [\n    {\n      \"title\": \"Senior Data Scientist\",\n      \"company\": \"Uber\",\n      \"start\": \"2021-05\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Senior Data Scientist\",\n      \"company\": \"The Home Depot\",\n      \"start\": \"2018-07\",\n      \"end\": \"2021-05\"\n    },\n    {\n      \"title\": \"Data Scientist\",\n      \"company\": \"Nike\",\n      \"start\": \"2013-04\",\n      \"end\": \"2018-07\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-042",
+    "doc_type": "cv",
+    "current_title": "Senior Data Scientist",
+    "current_company": "Uber",
+    "role_family": "Data & AI",
+    "seniority": "senior",
+    "total_years_experience": 13,
+    "skills": [
+      "Machine Learning",
+      "PyTorch",
+      "JAX",
+      "Scikit-Learn",
+      "Xgboost",
+      "LightGBM",
+      "Reinforcement Learning",
+      "Policy Optimization",
+      "Simulation Environments",
+      "Supply Demand Simulation",
+      "Dynamic Pricing",
+      "Testing Infrastructure",
+      "End-to-End Testing",
+      "LLM Evaluation",
+      "A/B Testing",
+      "Drift Detection",
+      "Python",
+      "PySpark",
+      "SQL",
+      "Hive",
+      "Presto",
+      "Automation",
+      "Airflow",
+      "CI/CD",
+      "Model Monitoring",
+      "Pipeline Orchestration",
+      "GPU Training",
+      "Multi-GPU Fine-Tuning",
+      "vLLM",
+      "AWQ Quantization"
+    ],
+    "tools_technologies": [
+      "PySpark",
+      "SQL",
+      "Hive",
+      "Presto",
+      "Airflow",
+      "Python"
+    ],
+    "domains": [
+      "e-commerce",
+      "fintech"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Computer Science",
+        "institution": "University of Southern California",
+        "year": 2011
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "United States"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring"
+    ],
+    "work_history": [
+      {
+        "title": "Senior Data Scientist",
+        "company": "Uber",
+        "start": "2021-05",
+        "end": "Present"
+      },
+      {
+        "title": "Senior Data Scientist",
+        "company": "The Home Depot",
+        "start": "2018-07",
+        "end": "2021-05"
+      },
+      {
+        "title": "Data Scientist",
+        "company": "Nike",
+        "start": "2013-04",
+        "end": "2018-07"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

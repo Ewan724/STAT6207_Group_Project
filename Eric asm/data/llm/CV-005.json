@@ -1,0 +1,123 @@
+{
+  "doc_id": "CV-005",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "9d2ed9bc369f12610702a452eef3215132290f806d8748b12af5662cc7fe39b3",
+  "timestamp": "2026-11-12T03:11:38.683906+00:00",
+  "elapsed_sec": 25.61,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-005\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Fullstack Engineer\",\n  \"current_company\": \"3Commas\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"React\",\n    \"Next.js\",\n    \"TypeScript\",\n    \"JavaScript\",\n    \"Redux\",\n    \"Zustand\",\n    \"Mobx\",\n    \"React Hook Form\",\n    \"Zod\",\n    \"styled-components\",\n    \"Tailwind CSS\",\n    \"MUI\",\n    \"Figma\",\n    \"Storybook\",\n    \"TanStack Query\",\n    \"Axios\",\n    \"REST API\",\n    \"JSON-RPC API\",\n    \"Websocket\",\n    \"GraphQL\",\n    \"Jest\",\n    \"React testing library\",\n    \"Node.js\",\n    \"Express.js\",\n    \"Nestjs\",\n    \"PostgreSQL\",\n    \"MySQL\",\n    \"MongoDB\",\n    \"Prisma\",\n    \"TypeOrm\"\n  ],\n  \"tools_technologies\": [\n    \"Next.js\",\n    \"React\",\n    \"TypeScript\",\n    \"Node.js\",\n    \"Java\",\n    \"Spring\",\n    \"PostgreSQL\",\n    \"MySQL\",\n    \"MongoDB\",\n    \"Prisma\",\n    \"TypeOrm\",\n    \"Kafka\"\n  ],\n  \"domains\": [\n    \"e-commerce\",\n    \"fintech\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Master's Degree\",\n      \"field\": null,\n      \"institution\": \"Flight Academy of the National Aviation University\",\n      \"year\": 2019\n    },\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": null,\n      \"institution\": \"Flight Academy of the National Aviation University\",\n      \"year\": 2015\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Ukraine\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Fullstack Engineer\",\n      \"company\": \"3Commas\",\n      \"start\": \"2025-08\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Middle Fullstack Developer\",\n      \"company\": \"HIVEX\",\n      \"start\": \"2025-03\",\n      \"end\": \"2025-08\"\n    },\n    {\n      \"title\": \"Frontend Developer (Part-time)\",\n      \"company\": \"Freelance\",\n      \"start\": \"2025-01\",\n      \"end\": \"2025-08\"\n    },\n    {\n      \"title\": \"Fullstack Developer\",\n      \"company\": \"CuboDrom\",\n      \"start\": \"2021-08\",\n      \"end\": \"2024-09\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-005",
+    "doc_type": "cv",
+    "current_title": "Fullstack Engineer",
+    "current_company": "3Commas",
+    "role_family": "Engineering",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "JavaScript",
+      "Redux",
+      "Zustand",
+      "Mobx",
+      "React Hook Form",
+      "Zod",
+      "styled-components",
+      "Tailwind CSS",
+      "MUI",
+      "Figma",
+      "Storybook",
+      "TanStack Query",
+      "Axios",
+      "REST API",
+      "JSON-RPC API",
+      "Websocket",
+      "GraphQL",
+      "Jest",
+      "React testing library",
+      "Node.js",
+      "Express.js",
+      "Nestjs",
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Prisma",
+      "TypeOrm"
+    ],
+    "tools_technologies": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Node.js",
+      "Java",
+      "Spring",
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Prisma",
+      "TypeOrm",
+      "Kafka"
+    ],
+    "domains": [
+      "e-commerce",
+      "fintech"
+    ],
+    "education": [
+      {
+        "degree": "Master's Degree",
+        "field": null,
+        "institution": "Flight Academy of the National Aviation University",
+        "year": 2019
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "field": null,
+        "institution": "Flight Academy of the National Aviation University",
+        "year": 2015
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Ukraine"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring"
+    ],
+    "work_history": [
+      {
+        "title": "Fullstack Engineer",
+        "company": "3Commas",
+        "start": "2025-08",
+        "end": "Present"
+      },
+      {
+        "title": "Middle Fullstack Developer",
+        "company": "HIVEX",
+        "start": "2025-03",
+        "end": "2025-08"
+      },
+      {
+        "title": "Frontend Developer (Part-time)",
+        "company": "Freelance",
+        "start": "2025-01",
+        "end": "2025-08"
+      },
+      {
+        "title": "Fullstack Developer",
+        "company": "CuboDrom",
+        "start": "2021-08",
+        "end": "2024-09"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

@@ -1,0 +1,101 @@
+{
+  "doc_id": "CV-003",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "cf02bf9c871fae09002cc86441abe1bd6f000eec70784e3f074cf75c666022b6",
+  "timestamp": "2026-11-12T03:11:04.498690+00:00",
+  "elapsed_sec": 22.36,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-003\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Full Stack Developer\",\n  \"current_company\": \"Aafiyat Digital Sdn Bhd\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Laravel\",\n    \"PHP\",\n    \"React\",\n    \"Vue.js\",\n    \"MySQL\",\n    \"Docker\",\n    \"Git\",\n    \"Linux\",\n    \"Nginx\",\n    \"CloudFlare\",\n    \"CI/CD\",\n    \"Postman\",\n    \"VS Code\",\n    \"Python\",\n    \"Dart\",\n    \"Rust\",\n    \"PostgreSQL\",\n    \"MongoDB\",\n    \"SQLite\",\n    \"Redis\",\n    \"Flutter\",\n    \"Ionic\"\n  ],\n  \"tools_technologies\": [\n    \"CodeIgniter\",\n    \"n8n\",\n    \"PCI-DSS\",\n    \"FPX\",\n    \"TikTok Shop\"\n  ],\n  \"domains\": [\n    \"fintech\",\n    \"e-commerce\",\n    \"government\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Information Technology\",\n      \"institution\": \"Universiti Teknologi Mara (UiTM)\",\n      \"year\": 2022\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Full Stack Developer\",\n      \"company\": \"Aafiyat Digital Sdn Bhd\",\n      \"start\": \"2025-08\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Software Developer\",\n      \"company\": \"SIMPLEPAY GATEWAY SDN BHD\",\n      \"start\": \"2023-10\",\n      \"end\": \"2025-07\"\n    },\n    {\n      \"title\": \"Software Developer\",\n      \"company\": \"2EN APPS Sdn Bhd\",\n      \"start\": \"2023-02\",\n      \"end\": \"2023-10\"\n    },\n    {\n      \"title\": \"PHP Developer\",\n      \"company\": \"Senwave Retail Solutions\",\n      \"start\": \"2022-03\",\n      \"end\": \"2023-01\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-003",
+    "doc_type": "cv",
+    "current_title": "Full Stack Developer",
+    "current_company": "Aafiyat Digital Sdn Bhd",
+    "role_family": "Engineering",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "Laravel",
+      "PHP",
+      "React",
+      "Vue.js",
+      "MySQL",
+      "Docker",
+      "Git",
+      "Linux",
+      "Nginx",
+      "CloudFlare",
+      "CI/CD",
+      "Postman",
+      "VS Code",
+      "Python",
+      "Dart",
+      "Rust",
+      "PostgreSQL",
+      "MongoDB",
+      "SQLite",
+      "Redis",
+      "Flutter",
+      "Ionic"
+    ],
+    "tools_technologies": [
+      "CodeIgniter",
+      "n8n",
+      "PCI-DSS",
+      "FPX",
+      "TikTok Shop"
+    ],
+    "domains": [
+      "fintech",
+      "e-commerce",
+      "government"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Information Technology",
+        "institution": "Universiti Teknologi Mara (UiTM)",
+        "year": 2022
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [],
+    "soft_skills": [
+      "team leadership",
+      "mentoring"
+    ],
+    "work_history": [
+      {
+        "title": "Full Stack Developer",
+        "company": "Aafiyat Digital Sdn Bhd",
+        "start": "2025-08",
+        "end": "Present"
+      },
+      {
+        "title": "Software Developer",
+        "company": "SIMPLEPAY GATEWAY SDN BHD",
+        "start": "2023-10",
+        "end": "2025-07"
+      },
+      {
+        "title": "Software Developer",
+        "company": "2EN APPS Sdn Bhd",
+        "start": "2023-02",
+        "end": "2023-10"
+      },
+      {
+        "title": "PHP Developer",
+        "company": "Senwave Retail Solutions",
+        "start": "2022-03",
+        "end": "2023-01"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

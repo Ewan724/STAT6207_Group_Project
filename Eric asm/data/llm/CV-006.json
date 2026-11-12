@@ -1,0 +1,132 @@
+{
+  "doc_id": "CV-006",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "f04cd158fdfdb346ce487a1ec146d702261fc27204138528eedc1e19abcfc644",
+  "timestamp": "2026-11-12T03:11:56.909052+00:00",
+  "elapsed_sec": 31.92,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-006\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Senior Software Engineer\",\n  \"current_company\": \"ByteX Financial\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"lead\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Node.js\",\n    \"TypeScript\",\n    \"Java\",\n    \"Python\",\n    \"Rust\",\n    \"React.js\",\n    \"REST\",\n    \"GraphQL\",\n    \"PostgreSQL\",\n    \"MongoDB\",\n    \"Redis\",\n    \"Distributed Systems\",\n    \"Cloud infrastructure\",\n    \"Docker\",\n    \"Kubernetes\",\n    \"CI/CD\",\n    \"AI infrastructure\",\n    \"Testing\",\n    \"Agile\"\n  ],\n  \"tools_technologies\": [\n    \"Node.js\",\n    \"TypeScript\",\n    \"Java\",\n    \"Python\",\n    \"Rust\",\n    \"React.js\",\n    \"PostgreSQL\",\n    \"MongoDB\",\n    \"Redis\",\n    \"Docker\",\n    \"Kubernetes\",\n    \"CI/CD\"\n  ],\n  \"domains\": [\n    \"fintech\",\n    \"AI infrastructure\",\n    \"software development\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Computer Science\",\n      \"institution\": \"Ecotes University\",\n      \"year\": 2017\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Benin\"\n  ],\n  \"soft_skills\": [\n    \"technical leadership\",\n    \"mentoring\",\n    \"architecture design\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Senior Software Engineer\",\n      \"company\": \"ByteX Financial\",\n      \"start\": \"2026-04\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Chief Engineer & AI Researcher\",\n      \"company\": \"Oragonlabs\",\n      \"start\": \"2026-01\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Senior Software Engineer & VP of Engineering\",\n      \"company\": \"Bullion\",\n      \"start\": \"2025-08\",\n      \"end\": \"2026-03\"\n    },\n    {\n      \"title\": \"Lead Platform Engineer\",\n      \"company\": \"TeflonHub\",\n      \"start\": \"2023-08\",\n      \"end\": \"2025-07\"\n    },\n    {\n      \"title\": \"Senior Developer/CTO\",\n      \"company\": \"Payfrontier LTD\",\n      \"start\": \"2020-01\",\n      \"end\": \"2023-07\"\n    },\n    {\n      \"title\": \"Software Developer\",\n      \"company\": \"Thrive Agric Ltd\",\n      \"start\": \"2018-02\",\n      \"end\": \"2019-12\"\n    },\n    {\n      \"title\": \"Software Engineer - Program Manager\",\n      \"company\": \"UNESCO\",\n      \"start\": \"2016-05\",\n      \"end\": \"2018-01\"\n    },\n    {\n      \"title\": \"Web Developer\",\n      \"company\": \"Freelance/Web Developer\",\n      \"start\": \"2014-11\",\n      \"end\": \"2016-04\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-006",
+    "doc_type": "cv",
+    "current_title": "Senior Software Engineer",
+    "current_company": "ByteX Financial",
+    "role_family": "Engineering",
+    "seniority": "lead",
+    "total_years_experience": null,
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "Java",
+      "Python",
+      "Rust",
+      "React.js",
+      "REST",
+      "GraphQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "Distributed Systems",
+      "Cloud infrastructure",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "AI infrastructure",
+      "Testing",
+      "Agile"
+    ],
+    "tools_technologies": [
+      "Node.js",
+      "TypeScript",
+      "Java",
+      "Python",
+      "Rust",
+      "React.js",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "domains": [
+      "fintech",
+      "AI infrastructure",
+      "software development"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Computer Science",
+        "institution": "Ecotes University",
+        "year": 2017
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Benin"
+    ],
+    "soft_skills": [
+      "technical leadership",
+      "mentoring",
+      "architecture design"
+    ],
+    "work_history": [
+      {
+        "title": "Senior Software Engineer",
+        "company": "ByteX Financial",
+        "start": "2026-04",
+        "end": "Present"
+      },
+      {
+        "title": "Chief Engineer & AI Researcher",
+        "company": "Oragonlabs",
+        "start": "2026-01",
+        "end": "Present"
+      },
+      {
+        "title": "Senior Software Engineer & VP of Engineering",
+        "company": "Bullion",
+        "start": "2025-08",
+        "end": "2026-03"
+      },
+      {
+        "title": "Lead Platform Engineer",
+        "company": "TeflonHub",
+        "start": "2023-08",
+        "end": "2025-07"
+      },
+      {
+        "title": "Senior Developer/CTO",
+        "company": "Payfrontier LTD",
+        "start": "2020-01",
+        "end": "2023-07"
+      },
+      {
+        "title": "Software Developer",
+        "company": "Thrive Agric Ltd",
+        "start": "2018-02",
+        "end": "2019-12"
+      },
+      {
+        "title": "Software Engineer - Program Manager",
+        "company": "UNESCO",
+        "start": "2016-05",
+        "end": "2018-01"
+      },
+      {
+        "title": "Web Developer",
+        "company": "Freelance/Web Developer",
+        "start": "2014-11",
+        "end": "2016-04"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

@@ -1,0 +1,113 @@
+{
+  "doc_id": "CV-026",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "d18bd2decd421ba19cdcaced670eb4b0a208d067b7c68a6d3b5349d64155c09e",
+  "timestamp": "2026-11-12T03:20:37.030247+00:00",
+  "elapsed_sec": 22.51,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-026\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Senior Full Stack Engineer\",\n  \"current_company\": \"TechMatter\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"senior\",\n  \"total_years_experience\": 10,\n  \"skills\": [\n    \"TypeScript\",\n    \"Go\",\n    \"Python\",\n    \"Java\",\n    \"C#\",\n    \"Ruby\",\n    \"Swift\",\n    \"Node.js\",\n    \"Express.js\",\n    \"Django\",\n    \"Flask\",\n    \"Spring Boot\",\n    \"React.js\",\n    \"Angular\",\n    \"PostgreSQL\",\n    \"MongoDB\",\n    \"MySQL\",\n    \"Redis\",\n    \"Cassandra\",\n    \"SQLite\",\n    \"Oracle\",\n    \"AWS\",\n    \"Google Cloud Platform\",\n    \"Azure\",\n    \"Docker\",\n    \"Kubernetes\",\n    \"terraform\",\n    \"Jest\",\n    \"Mocha\"\n  ],\n  \"tools_technologies\": [\n    \"Django\",\n    \"Angular\",\n    \"Jenkins\",\n    \"Ansible\",\n    \"Helm\"\n  ],\n  \"domains\": [\n    \"e-commerce\",\n    \"fintech\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Computer Science\",\n      \"institution\": \"University of Houston\",\n      \"year\": 2012\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"United States\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Senior Full Stack Engineer\",\n      \"company\": \"TechMatter\",\n      \"start\": \"2022-09\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Full Stack Engineer\",\n      \"company\": \"Access Healthcare\",\n      \"start\": \"2017-02\",\n      \"end\": \"2022-08\"\n    },\n    {\n      \"title\": \"Software Engineer\",\n      \"company\": \"Texas Instruments\",\n      \"start\": \"2012-06\",\n      \"end\": \"2017-06\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-026",
+    "doc_type": "cv",
+    "current_title": "Senior Full Stack Engineer",
+    "current_company": "TechMatter",
+    "role_family": "Engineering",
+    "seniority": "senior",
+    "total_years_experience": 10,
+    "skills": [
+      "TypeScript",
+      "Go",
+      "Python",
+      "Java",
+      "C#",
+      "Ruby",
+      "Swift",
+      "Node.js",
+      "Express.js",
+      "Django",
+      "Flask",
+      "Spring Boot",
+      "React.js",
+      "Angular",
+      "PostgreSQL",
+      "MongoDB",
+      "MySQL",
+      "Redis",
+      "Cassandra",
+      "SQLite",
+      "Oracle",
+      "AWS",
+      "Google Cloud Platform",
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "terraform",
+      "Jest",
+      "Mocha"
+    ],
+    "tools_technologies": [
+      "Django",
+      "Angular"
+    ],
+    "domains": [
+      "e-commerce",
+      "fintech"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Computer Science",
+        "institution": "University of Houston",
+        "year": 2012
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "United States"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring"
+    ],
+    "work_history": [
+      {
+        "title": "Senior Full Stack Engineer",
+        "company": "TechMatter",
+        "start": "2022-09",
+        "end": "Present"
+      },
+      {
+        "title": "Full Stack Engineer",
+        "company": "Access Healthcare",
+        "start": "2017-02",
+        "end": "2022-08"
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Texas Instruments",
+        "start": "2012-06",
+        "end": "2017-06"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "Jenkins",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "Ansible",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "Helm",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

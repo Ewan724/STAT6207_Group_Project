@@ -1,0 +1,110 @@
+{
+  "doc_id": "CV-082",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "968d30313d0b252e5ec1448be3c72309266618d9d7f66b16fa332c7792cd1d62",
+  "timestamp": "2026-11-12T03:36:35.952028+00:00",
+  "elapsed_sec": 28.56,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-082\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Accountant\",\n  \"current_company\": \"TotalEnergies Charging Services Singapore Pte Ltd\",\n  \"role_family\": \"Finance & Legal\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"General Ledger Accounts\",\n    \"Reconciliation\",\n    \"Financial Reporting\",\n    \"Financial Audits\",\n    \"Forecasting and Budgeting\",\n    \"Time Management\"\n  ],\n  \"tools_technologies\": [\n    \"MBC\",\n    \"QuickBooks\",\n    \"Oracle ERP\",\n    \"Accpac Windows\",\n    \"Just login\"\n  ],\n  \"domains\": [\n    \"finance\",\n    \"accounting\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"ACCA Level I\",\n      \"field\": \"Accounting\",\n      \"institution\": \"The Association of Chartered Certified Accountant\",\n      \"year\": 2002\n    },\n    {\n      \"degree\": \"Certificate Accounting Technician\",\n      \"field\": \"Accounting\",\n      \"institution\": \"FTMS\",\n      \"year\": null\n    },\n    {\n      \"degree\": \"Diploma in Accounting\",\n      \"field\": \"Accounting\",\n      \"institution\": \"LCCI\",\n      \"year\": null\n    },\n    {\n      \"degree\": \"O Level\",\n      \"field\": \"General\",\n      \"institution\": \"GCE\",\n      \"year\": null\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Singapore\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Accountant\",\n      \"company\": \"TotalEnergies Charging Services Singapore Pte Ltd\",\n      \"start\": \"2022-07\",\n      \"end\": \"2026-05\"\n    },\n    {\n      \"title\": \"Finance Manager\",\n      \"company\": \"HITCHINS INTERNATIONAL PTE LTD\",\n      \"start\": \"2020-06\",\n      \"end\": \"2022-02\"\n    },\n    {\n      \"title\": \"Accountant\",\n      \"company\": \"SGB ALUMA SINGAPORE PTE LTD\",\n      \"start\": \"2017-06\",\n      \"end\": \"2020-03\"\n    },\n    {\n      \"title\": \"Accountant\",\n      \"company\": \"CHILTERN RESEARCH INTERNATIONAL (S) PTE LTD\",\n      \"start\": \"2015-06\",\n      \"end\": \"2017-06\"\n    },\n    {\n      \"title\": \"Accountant\",\n      \"company\": \"Vanguard Interiors Pte Ltd\",\n      \"start\": \"1998-08\",\n      \"end\": \"2015-06\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-082",
+    "doc_type": "cv",
+    "current_title": "Accountant",
+    "current_company": "TotalEnergies Charging Services Singapore Pte Ltd",
+    "role_family": "Finance & Legal",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "General Ledger Accounts",
+      "Reconciliation",
+      "Financial Reporting",
+      "Financial Audits",
+      "Forecasting and Budgeting",
+      "Time Management"
+    ],
+    "tools_technologies": [
+      "MBC",
+      "QuickBooks",
+      "Oracle ERP",
+      "Accpac Windows",
+      "Just login"
+    ],
+    "domains": [
+      "finance",
+      "accounting"
+    ],
+    "education": [
+      {
+        "degree": "ACCA Level I",
+        "field": "Accounting",
+        "institution": "The Association of Chartered Certified Accountant",
+        "year": 2002
+      },
+      {
+        "degree": "Certificate Accounting Technician",
+        "field": "Accounting",
+        "institution": "FTMS",
+        "year": null
+      },
+      {
+        "degree": "Diploma in Accounting",
+        "field": "Accounting",
+        "institution": "LCCI",
+        "year": null
+      },
+      {
+        "degree": "O Level",
+        "field": "General",
+        "institution": "GCE",
+        "year": null
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Singapore"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring"
+    ],
+    "work_history": [
+      {
+        "title": "Accountant",
+        "company": "TotalEnergies Charging Services Singapore Pte Ltd",
+        "start": "2022-07",
+        "end": "2026-05"
+      },
+      {
+        "title": "Finance Manager",
+        "company": "HITCHINS INTERNATIONAL PTE LTD",
+        "start": "2020-06",
+        "end": "2022-02"
+      },
+      {
+        "title": "Accountant",
+        "company": "SGB ALUMA SINGAPORE PTE LTD",
+        "start": "2017-06",
+        "end": "2020-03"
+      },
+      {
+        "title": "Accountant",
+        "company": "CHILTERN RESEARCH INTERNATIONAL (S) PTE LTD",
+        "start": "2015-06",
+        "end": "2017-06"
+      },
+      {
+        "title": "Accountant",
+        "company": "Vanguard Interiors Pte Ltd",
+        "start": "1998-08",
+        "end": "2015-06"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

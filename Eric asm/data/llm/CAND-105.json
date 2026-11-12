@@ -1,0 +1,112 @@
+{
+  "doc_id": "CAND-105",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "24c8e0dc56b71382c7cc41af342be9ff81d447aa3584dac80693cad2b3b7f0d4",
+  "timestamp": "2026-11-12T03:42:39.651212+00:00",
+  "elapsed_sec": 19.2,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CAND-105\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Senior Product Manager\",\n  \"current_company\": \"Shopee International\",\n  \"role_family\": \"Product\",\n  \"seniority\": \"senior\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Confluence\",\n    \"JIRA\",\n    \"Agile\",\n    \"Analytics\",\n    \"API\",\n    \"Python\",\n    \"Figma\",\n    \"AI productivity tools\",\n    \"SDLC\"\n  ],\n  \"tools_technologies\": [],\n  \"domains\": [\n    \"e-commerce\",\n    \"fintech\",\n    \"logistics\",\n    \"travel\",\n    \"hardware\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Master's Degree\",\n      \"field\": \"Business Management\",\n      \"institution\": \"University of Illinois Urbana-Champaign\",\n      \"year\": null\n    },\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"unknown\",\n      \"institution\": \"Bandung Institute of Technology (ITB)\",\n      \"year\": null\n    },\n    {\n      \"degree\": \"Digital technology programme\",\n      \"field\": \"unknown\",\n      \"institution\": \"Purwadhika Digital Technology School\",\n      \"year\": null\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Indonesia\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\",\n    \"strategic planning\",\n    \"cross-functional collaboration\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Senior Product Manager\",\n      \"company\": \"Shopee International\",\n      \"start\": \"2022-09\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Senior Product Owner\",\n      \"company\": \"Serasi Autoraya (Astra)\",\n      \"start\": \"2021-08\",\n      \"end\": \"2022-09\"\n    },\n    {\n      \"title\": \"Program Manager\",\n      \"company\": \"True Digital Indonesia\",\n      \"start\": \"2021-01\",\n      \"end\": \"2021-08\"\n    },\n    {\n      \"title\": \"Senior Product Manager\",\n      \"company\": \"OYO Rooms Indonesia\",\n      \"start\": \"2019-02\",\n      \"end\": \"2021-01\"\n    },\n    {\n      \"title\": \"Project Manager\",\n      \"company\": \"Unistellar Global Korporea\",\n      \"start\": \"2018-03\",\n      \"end\": \"2019-02\"\n    },\n    {\n      \"title\": \"Project Manager\",\n      \"company\": \"BenQ Asia Pacific Corporation\",\n      \"start\": \"2016-10\",\n      \"end\": \"2017-10\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CAND-105",
+    "doc_type": "cv",
+    "current_title": "Senior Product Manager",
+    "current_company": "Shopee International",
+    "role_family": "Product",
+    "seniority": "senior",
+    "total_years_experience": null,
+    "skills": [
+      "Confluence",
+      "JIRA",
+      "Agile",
+      "Analytics",
+      "API",
+      "Python",
+      "Figma",
+      "AI productivity tools",
+      "SDLC"
+    ],
+    "tools_technologies": [],
+    "domains": [
+      "e-commerce",
+      "fintech",
+      "logistics",
+      "travel",
+      "hardware"
+    ],
+    "education": [
+      {
+        "degree": "Master's Degree",
+        "field": "Business Management",
+        "institution": "University of Illinois Urbana-Champaign",
+        "year": null
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "field": "unknown",
+        "institution": "Bandung Institute of Technology (ITB)",
+        "year": null
+      },
+      {
+        "degree": "Digital technology programme",
+        "field": "unknown",
+        "institution": "Purwadhika Digital Technology School",
+        "year": null
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Indonesia"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring",
+      "strategic planning",
+      "cross-functional collaboration"
+    ],
+    "work_history": [
+      {
+        "title": "Senior Product Manager",
+        "company": "Shopee International",
+        "start": "2022-09",
+        "end": "Present"
+      },
+      {
+        "title": "Senior Product Owner",
+        "company": "Serasi Autoraya (Astra)",
+        "start": "2021-08",
+        "end": "2022-09"
+      },
+      {
+        "title": "Program Manager",
+        "company": "True Digital Indonesia",
+        "start": "2021-01",
+        "end": "2021-08"
+      },
+      {
+        "title": "Senior Product Manager",
+        "company": "OYO Rooms Indonesia",
+        "start": "2019-02",
+        "end": "2021-01"
+      },
+      {
+        "title": "Project Manager",
+        "company": "Unistellar Global Korporea",
+        "start": "2018-03",
+        "end": "2019-02"
+      },
+      {
+        "title": "Project Manager",
+        "company": "BenQ Asia Pacific Corporation",
+        "start": "2016-10",
+        "end": "2017-10"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

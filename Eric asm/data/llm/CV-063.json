@@ -1,0 +1,112 @@
+{
+  "doc_id": "CV-063",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "2bf5d987aae57623f61bca92dac2e83b53d895527681fe38235b01805d11f4af",
+  "timestamp": "2026-11-12T03:29:49.722624+00:00",
+  "elapsed_sec": 45.22,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-063\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Solution Sales Engineer\",\n  \"current_company\": \"Huawei\",\n  \"role_family\": \"Sales & BD\",\n  \"seniority\": \"junior\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Software Design\",\n    \"Java\",\n    \"Presentations\",\n    \"Web Development\",\n    \"3D Modeling\",\n    \"Machine Learning\",\n    \"Supervised Learning\",\n    \"Unsupervised Learning\",\n    \"Cyber-security\",\n    \"Data Visualization\",\n    \"User-Centered Development\",\n    \"Full-stack Development\",\n    \"Problem-Solving\",\n    \"AI\",\n    \"Blockchain\",\n    \"React\",\n    \"Next.js\",\n    \"Solana\",\n    \"Web3.js\",\n    \"Helius API\",\n    \"OpenAI\"\n  ],\n  \"tools_technologies\": [\n    \"FreeCAD\"\n  ],\n  \"domains\": [\n    \"enterprise\",\n    \"retail\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor of Science\",\n      \"field\": null,\n      \"institution\": \"Asia Pacific University of Technology and Innovation\",\n      \"year\": 2025\n    },\n    {\n      \"degree\": \"High School diploma\",\n      \"field\": null,\n      \"institution\": \"Asia Pacific University of Technology and Innovation\",\n      \"year\": 2022\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Malaysia\"\n  ],\n  \"soft_skills\": [\n    \"Customer service\",\n    \"sales\",\n    \"communication\",\n    \"multitasking\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Solution Sales Engineer\",\n      \"company\": \"Huawei\",\n      \"start\": \"2025-10\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Program Facilitator\",\n      \"company\": \"Kiddypedia\",\n      \"start\": \"2025-08\",\n      \"end\": \"2025-08\"\n    },\n    {\n      \"title\": \"Solana Breakpoint Hackathon Participant\",\n      \"company\": \"COLOSSEUM\",\n      \"start\": \"2025-03\",\n      \"end\": \"2025-05\"\n    },\n    {\n      \"title\": \"Software Engineer Intern\",\n      \"company\": \"Deng Kai Sdn Bhd\",\n      \"start\": \"2024-07\",\n      \"end\": \"2024-11\"\n    },\n    {\n      \"title\": \"Sales Associate\",\n      \"company\": \"Branded Hub\",\n      \"start\": \"2024-07\",\n      \"end\": \"2024-07\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-063",
+    "doc_type": "cv",
+    "current_title": "Solution Sales Engineer",
+    "current_company": "Huawei",
+    "role_family": "Sales & BD",
+    "seniority": "junior",
+    "total_years_experience": null,
+    "skills": [
+      "Software Design",
+      "Java",
+      "Presentations",
+      "Web Development",
+      "3D Modeling",
+      "Machine Learning",
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Cyber-security",
+      "Data Visualization",
+      "User-Centered Development",
+      "Full-stack Development",
+      "AI",
+      "Blockchain",
+      "React",
+      "Next.js",
+      "Solana",
+      "Web3.js",
+      "Helius API",
+      "OpenAI"
+    ],
+    "tools_technologies": [
+      "FreeCAD"
+    ],
+    "domains": [
+      "enterprise",
+      "retail"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Science",
+        "field": null,
+        "institution": "Asia Pacific University of Technology and Innovation",
+        "year": 2025
+      },
+      {
+        "degree": "High School diploma",
+        "field": null,
+        "institution": "Asia Pacific University of Technology and Innovation",
+        "year": 2022
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Malaysia"
+    ],
+    "soft_skills": [
+      "Customer service",
+      "sales",
+      "communication",
+      "multitasking"
+    ],
+    "work_history": [
+      {
+        "title": "Solution Sales Engineer",
+        "company": "Huawei",
+        "start": "2025-10",
+        "end": "Present"
+      },
+      {
+        "title": "Program Facilitator",
+        "company": "Kiddypedia",
+        "start": "2025-08",
+        "end": "2025-08"
+      },
+      {
+        "title": "Solana Breakpoint Hackathon Participant",
+        "company": "COLOSSEUM",
+        "start": "2025-03",
+        "end": "2025-05"
+      },
+      {
+        "title": "Software Engineer Intern",
+        "company": "Deng Kai Sdn Bhd",
+        "start": "2024-07",
+        "end": "2024-11"
+      },
+      {
+        "title": "Sales Associate",
+        "company": "Branded Hub",
+        "start": "2024-07",
+        "end": "2024-07"
+      }
+    ]
+  },
+  "validation_errors": [
+    "generic_keyword:Problem-Solving"
+  ],
+  "dropped_keywords": []
+}

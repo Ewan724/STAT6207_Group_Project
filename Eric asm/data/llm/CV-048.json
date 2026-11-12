@@ -1,0 +1,119 @@
+{
+  "doc_id": "CV-048",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "21f2314a8f276b75abae65d14ea9e02f22690917fbddff01203ad3f26c45af50",
+  "timestamp": "2026-11-12T03:24:51.959471+00:00",
+  "elapsed_sec": 34.96,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-048\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Lead UI/UX Designer\",\n  \"current_company\": \"Thumb Technologies\",\n  \"role_family\": \"Design & Creative\",\n  \"seniority\": \"lead\",\n  \"total_years_experience\": 13,\n  \"skills\": [\n    \"User Experience Design\",\n    \"User Interface Design\",\n    \"visual design\",\n    \"Product Design\",\n    \"Interaction Design\",\n    \"Wireframing\",\n    \"Prototyping\",\n    \"Design Systems\",\n    \"User Flows\",\n    \"Information Architecture\",\n    \"Usability Testing\",\n    \"A/B Testing\",\n    \"AI Product Design\"\n  ],\n  \"tools_technologies\": [\n    \"Figma\",\n    \"FigJam\",\n    \"Sketching\",\n    \"webflow\",\n    \"Adobe Creative Suite\",\n    \"Trello\",\n    \"Notion\",\n    \"Github\",\n    \"Mantine UI\",\n    \"Tailwind CSS\",\n    \"hotjar\",\n    \"Dovetail\",\n    \"Figma Make\",\n    \"Custom GPT\"\n  ],\n  \"domains\": [\n    \"e-commerce\",\n    \"fintech\",\n    \"video-editing\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": null,\n      \"institution\": \"University of Mumbai\",\n      \"year\": null\n    },\n    {\n      \"degree\": \"Associate's Degree\",\n      \"field\": null,\n      \"institution\": \"École Intuit Lab\",\n      \"year\": null\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Lead UI/UX Designer\",\n      \"company\": \"Thumb Technologies\",\n      \"start\": \"2022-01\",\n      \"end\": \"2024-11\"\n    },\n    {\n      \"title\": \"Lead UI/UX Designer\",\n      \"company\": \"Mitron TV & Montage Pro\",\n      \"start\": \"2021-01\",\n      \"end\": \"2021-10\"\n    },\n    {\n      \"title\": \"Director - Product Design\",\n      \"company\": \"INVIDEO\",\n      \"start\": \"2018-11\",\n      \"end\": \"2020-12\"\n    },\n    {\n      \"title\": \"Lead UI/UX Designer\",\n      \"company\": \"Stylabs (Bootstrapped)\",\n      \"start\": \"2015-07\",\n      \"end\": \"2018-11\"\n    },\n    {\n      \"title\": \"Senior UI/UX Designer\",\n      \"company\": \"The Glitch (WPP Group)\",\n      \"start\": \"2012-09\",\n      \"end\": \"2015-06\"\n    },\n    {\n      \"title\": \"UI/UX Designer\",\n      \"company\": \"IFANOW\",\n      \"start\": \"2011-06\",\n      \"end\": \"2012-09\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-048",
+    "doc_type": "cv",
+    "current_title": "Lead UI/UX Designer",
+    "current_company": "Thumb Technologies",
+    "role_family": "Design & Creative",
+    "seniority": "lead",
+    "total_years_experience": 13,
+    "skills": [
+      "User Experience Design",
+      "User Interface Design",
+      "visual design",
+      "Product Design",
+      "Interaction Design",
+      "Wireframing",
+      "Prototyping",
+      "Design Systems",
+      "User Flows",
+      "Information Architecture",
+      "Usability Testing",
+      "A/B Testing",
+      "AI Product Design"
+    ],
+    "tools_technologies": [
+      "Figma",
+      "FigJam",
+      "Sketching",
+      "webflow",
+      "Adobe Creative Suite",
+      "Trello",
+      "Notion",
+      "Github",
+      "Mantine UI",
+      "Tailwind CSS",
+      "hotjar",
+      "Dovetail",
+      "Figma Make",
+      "Custom GPT"
+    ],
+    "domains": [
+      "e-commerce",
+      "fintech",
+      "video-editing"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": null,
+        "institution": "University of Mumbai",
+        "year": null
+      },
+      {
+        "degree": "Associate's Degree",
+        "field": null,
+        "institution": "École Intuit Lab",
+        "year": null
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [],
+    "soft_skills": [
+      "team leadership",
+      "mentoring"
+    ],
+    "work_history": [
+      {
+        "title": "Lead UI/UX Designer",
+        "company": "Thumb Technologies",
+        "start": "2022-01",
+        "end": "2024-11"
+      },
+      {
+        "title": "Lead UI/UX Designer",
+        "company": "Mitron TV & Montage Pro",
+        "start": "2021-01",
+        "end": "2021-10"
+      },
+      {
+        "title": "Director - Product Design",
+        "company": "INVIDEO",
+        "start": "2018-11",
+        "end": "2020-12"
+      },
+      {
+        "title": "Lead UI/UX Designer",
+        "company": "Stylabs (Bootstrapped)",
+        "start": "2015-07",
+        "end": "2018-11"
+      },
+      {
+        "title": "Senior UI/UX Designer",
+        "company": "The Glitch (WPP Group)",
+        "start": "2012-09",
+        "end": "2015-06"
+      },
+      {
+        "title": "UI/UX Designer",
+        "company": "IFANOW",
+        "start": "2011-06",
+        "end": "2012-09"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

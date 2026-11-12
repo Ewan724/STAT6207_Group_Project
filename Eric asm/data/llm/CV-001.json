@@ -1,0 +1,89 @@
+{
+  "doc_id": "CV-001",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "fbfc2efe7ded1ec8d7cb9e6fdbdce1af02bec7e49060dc1f85ab7a12242c57ae",
+  "timestamp": "2026-11-12T03:10:42.137318+00:00",
+  "elapsed_sec": 6.2,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\"doc_id\":\"CV-001\",\"doc_type\":\"cv\",\"current_title\":\"Backend Developer\",\"current_company\":\"Sea - Shopee\",\"role_family\":\"Engineering\",\"seniority\":\"mid\",\"total_years_experience\":4,\"skills\":[\"Python\",\"Golang\",\"PHP\",\"MySQL\",\"PostgreSQL\",\"Docker\",\"Kubernetes\",\"Google Cloud Platform\",\"Kafka\",\"RabbitMQ\",\"Elasticsearch\",\"Agile\"],\"tools_technologies\":[\"Django\",\"Angular\",\"Jenkins\",\"Ansible\",\"Helm\",\"Laravel\"],\"domains\":[\"e-commerce\",\"fintech\",\"gaming\",\"recruitment\"],\"education\":[{\"degree\":\"Bachelor's Degree\",\"field\":\"Software Engineering\",\"institution\":\"University of Information Technology, Vietnam National University, HCMC\",\"year\":2017}],\"certifications\":[],\"languages\":[],\"locations\":[\"Vietnam\"],\"soft_skills\":[\"team leadership\",\"mentoring\"],\"work_history\":[{\"title\":\"Backend Developer\",\"company\":\"Sea - Shopee\",\"start\":\"2019-10\",\"end\":\"Present\"},{\"title\":\"Backend Developer\",\"company\":\"Sea - Airpay\",\"start\":\"2015-09\",\"end\":\"2019-10\"},{\"title\":\"Intern Backend Developer\",\"company\":\"Vietnam Esport\",\"start\":\"2015-03\",\"end\":\"2015-08\"}]}",
+  "parsed": {
+    "doc_id": "CV-001",
+    "doc_type": "cv",
+    "current_title": "Backend Developer",
+    "current_company": "Sea - Shopee",
+    "role_family": "Engineering",
+    "seniority": "mid",
+    "total_years_experience": 4,
+    "skills": [
+      "Python",
+      "Golang",
+      "PHP",
+      "MySQL",
+      "PostgreSQL",
+      "Docker",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "Kafka",
+      "RabbitMQ",
+      "Elasticsearch",
+      "Agile"
+    ],
+    "tools_technologies": [
+      "Django",
+      "Angular",
+      "Jenkins",
+      "Ansible",
+      "Helm",
+      "Laravel"
+    ],
+    "domains": [
+      "e-commerce",
+      "fintech",
+      "gaming",
+      "recruitment"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Software Engineering",
+        "institution": "University of Information Technology, Vietnam National University, HCMC",
+        "year": 2017
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Vietnam"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring"
+    ],
+    "work_history": [
+      {
+        "title": "Backend Developer",
+        "company": "Sea - Shopee",
+        "start": "2019-10",
+        "end": "Present"
+      },
+      {
+        "title": "Backend Developer",
+        "company": "Sea - Airpay",
+        "start": "2015-09",
+        "end": "2019-10"
+      },
+      {
+        "title": "Intern Backend Developer",
+        "company": "Vietnam Esport",
+        "start": "2015-03",
+        "end": "2015-08"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

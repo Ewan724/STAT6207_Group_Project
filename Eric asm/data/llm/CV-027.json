@@ -1,0 +1,128 @@
+{
+  "doc_id": "CV-027",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "4e2e3caf0744abb0c55938add5982f37aba98629a649a7d7e407678969011ed7",
+  "timestamp": "2026-11-12T03:20:49.499525+00:00",
+  "elapsed_sec": 23.01,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-027\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Software Engineer\",\n  \"current_company\": \"SureCost\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"TypeScript\",\n    \"JavaScript\",\n    \"Java\",\n    \"SQL\",\n    \"HTML5\",\n    \"CSS3\",\n    \"SASS\",\n    \"React\",\n    \"Tailwind CSS\",\n    \"Node.js\",\n    \"Express.js\",\n    \"PostgreSQL\",\n    \"MSSQL\",\n    \"AWS EC2\",\n    \"Ecs\",\n    \"Lambda\",\n    \"CloudWatch\",\n    \"terraform\",\n    \"Docker\",\n    \"Github Actions\",\n    \"gitlab\",\n    \"CI/CD\",\n    \"Jest\",\n    \"ESLint\",\n    \"Prettier\",\n    \"Biome\",\n    \"Claude Code\",\n    \"Cursor\",\n    \"Ollama\",\n    \"Mcp\"\n  ],\n  \"tools_technologies\": [\n    \"TypeScript\",\n    \"JavaScript ES6+\",\n    \"Java\",\n    \"SQL\",\n    \"HTML5\",\n    \"CSS3\",\n    \"SASS\",\n    \"React\",\n    \"Tailwind CSS\",\n    \"Node.js\",\n    \"Express.js\",\n    \"REST APIs\",\n    \"PostgreSQL\",\n    \"MSSQL\",\n    \"AWS EC2\",\n    \"Ecs\",\n    \"Lambda\",\n    \"CloudWatch\",\n    \"terraform\",\n    \"Docker\",\n    \"Github Actions\",\n    \"gitlab\",\n    \"CI/CD\",\n    \"Jest\",\n    \"ESLint\",\n    \"Prettier\",\n    \"Biome\",\n    \"Claude Code\",\n    \"Cursor\",\n    \"Ollama\",\n    \"Mcp\"\n  ],\n  \"domains\": [\n    \"pharmacy procurement\",\n    \"SaaS\",\n    \"web-based platform\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Computer Information Systems Technology\",\n      \"institution\": \"Eastern Florida State College\",\n      \"year\": null\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"United States\"\n  ],\n  \"soft_skills\": [\n    \"communication\",\n    \"attention to detail\",\n    \"managing priorities\",\n    \"collaborative work\",\n    \"client-facing delivery\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Software Engineer\",\n      \"company\": \"SureCost\",\n      \"start\": \"2022-09\",\n      \"end\": \"2026-03\"\n    },\n    {\n      \"title\": \"Registered Pharmacy Technician Customer Service\",\n      \"company\": \"Publix Supermarkets\",\n      \"start\": \"2011-12\",\n      \"end\": \"2022-09\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-027",
+    "doc_type": "cv",
+    "current_title": "Software Engineer",
+    "current_company": "SureCost",
+    "role_family": "Engineering",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "Java",
+      "SQL",
+      "HTML5",
+      "CSS3",
+      "SASS",
+      "React",
+      "Tailwind CSS",
+      "Node.js",
+      "Express.js",
+      "PostgreSQL",
+      "MSSQL",
+      "AWS EC2",
+      "Ecs",
+      "Lambda",
+      "CloudWatch",
+      "terraform",
+      "Docker",
+      "Github Actions",
+      "gitlab",
+      "CI/CD",
+      "Jest",
+      "ESLint",
+      "Prettier",
+      "Biome",
+      "Claude Code",
+      "Cursor",
+      "Ollama",
+      "Mcp"
+    ],
+    "tools_technologies": [
+      "TypeScript",
+      "JavaScript ES6+",
+      "Java",
+      "SQL",
+      "HTML5",
+      "CSS3",
+      "SASS",
+      "React",
+      "Tailwind CSS",
+      "Node.js",
+      "Express.js",
+      "REST APIs",
+      "PostgreSQL",
+      "MSSQL",
+      "AWS EC2",
+      "Ecs",
+      "Lambda",
+      "CloudWatch",
+      "terraform",
+      "Docker",
+      "Github Actions",
+      "gitlab",
+      "CI/CD",
+      "Jest",
+      "ESLint",
+      "Prettier",
+      "Biome",
+      "Claude Code",
+      "Cursor",
+      "Ollama",
+      "Mcp"
+    ],
+    "domains": [
+      "pharmacy procurement",
+      "SaaS",
+      "web-based platform"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Computer Information Systems Technology",
+        "institution": "Eastern Florida State College",
+        "year": null
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "United States"
+    ],
+    "soft_skills": [
+      "communication",
+      "attention to detail",
+      "managing priorities",
+      "collaborative work",
+      "client-facing delivery"
+    ],
+    "work_history": [
+      {
+        "title": "Software Engineer",
+        "company": "SureCost",
+        "start": "2022-09",
+        "end": "2026-03"
+      },
+      {
+        "title": "Registered Pharmacy Technician Customer Service",
+        "company": "Publix Supermarkets",
+        "start": "2011-12",
+        "end": "2022-09"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

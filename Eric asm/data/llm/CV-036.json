@@ -1,0 +1,100 @@
+{
+  "doc_id": "CV-036",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "55a14685a3521cefb498c97f195519ddd54e69d589ac4bc2abd5b5d6991d070e",
+  "timestamp": "2026-11-12T03:22:27.540438+00:00",
+  "elapsed_sec": 25.49,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-036\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Senior Data Engineer\",\n  \"current_company\": \"Tech Mahindra\",\n  \"role_family\": \"Data & AI\",\n  \"seniority\": \"senior\",\n  \"total_years_experience\": 4,\n  \"skills\": [\n    \"PostgreSQL\",\n    \"Oracle DB\",\n    \"Databricks\",\n    \"Microsoft Azure Data Factory\",\n    \"Google Cloud Platform\",\n    \"Datastage\",\n    \"Informatica\",\n    \"SAP BusinessObjects\",\n    \"PL/SQL\",\n    \"Python\",\n    \"Bash Scripting\",\n    \"PHP\",\n    \"jQuery\",\n    \"data migration\",\n    \"database management\",\n    \"Troubleshooting\"\n  ],\n  \"tools_technologies\": [\n    \"Attunity Replicate\",\n    \"Data Analysis\",\n    \"Oracle\",\n    \"BigQuery\",\n    \"Airflow\",\n    \"Python\",\n    \"Bash\",\n    \"Laravel\",\n    \"SAP Business Object Report\"\n  ],\n  \"domains\": [\n    \"data engineering\",\n    \"fintech\",\n    \"telecommunications\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Computer Science\",\n      \"institution\": \"Telkom University\",\n      \"year\": 2018\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Indonesia\"\n  ],\n  \"soft_skills\": [\n    \"data-driven solutions\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Senior Data Engineer\",\n      \"company\": \"Tech Mahindra\",\n      \"start\": \"2022-08\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Senior Database Developer\",\n      \"company\": \"AIA Singapore\",\n      \"start\": \"2021-06\",\n      \"end\": \"2022-08\"\n    },\n    {\n      \"title\": \"Database Developer\",\n      \"company\": \"AIA Singapore\",\n      \"start\": \"2020-02\",\n      \"end\": \"2021-06\"\n    },\n    {\n      \"title\": \"Associate Software Engineer\",\n      \"company\": \"Tech Mahindra\",\n      \"start\": \"2018-09\",\n      \"end\": \"2020-02\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-036",
+    "doc_type": "cv",
+    "current_title": "Senior Data Engineer",
+    "current_company": "Tech Mahindra",
+    "role_family": "Data & AI",
+    "seniority": "senior",
+    "total_years_experience": 4,
+    "skills": [
+      "PostgreSQL",
+      "Oracle DB",
+      "Databricks",
+      "Microsoft Azure Data Factory",
+      "Google Cloud Platform",
+      "Datastage",
+      "Informatica",
+      "SAP BusinessObjects",
+      "PL/SQL",
+      "Python",
+      "Bash Scripting",
+      "PHP",
+      "jQuery",
+      "data migration",
+      "database management",
+      "Troubleshooting"
+    ],
+    "tools_technologies": [
+      "Attunity Replicate",
+      "Data Analysis",
+      "Oracle",
+      "BigQuery",
+      "Airflow",
+      "Python",
+      "Bash",
+      "Laravel",
+      "SAP Business Object Report"
+    ],
+    "domains": [
+      "data engineering",
+      "fintech",
+      "telecommunications"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Computer Science",
+        "institution": "Telkom University",
+        "year": 2018
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Indonesia"
+    ],
+    "soft_skills": [
+      "data-driven solutions"
+    ],
+    "work_history": [
+      {
+        "title": "Senior Data Engineer",
+        "company": "Tech Mahindra",
+        "start": "2022-08",
+        "end": "Present"
+      },
+      {
+        "title": "Senior Database Developer",
+        "company": "AIA Singapore",
+        "start": "2021-06",
+        "end": "2022-08"
+      },
+      {
+        "title": "Database Developer",
+        "company": "AIA Singapore",
+        "start": "2020-02",
+        "end": "2021-06"
+      },
+      {
+        "title": "Associate Software Engineer",
+        "company": "Tech Mahindra",
+        "start": "2018-09",
+        "end": "2020-02"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

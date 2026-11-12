@@ -1,0 +1,108 @@
+{
+  "doc_id": "CAND-103",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "e18ef0f2dfc99006cd6af332d471119fd2882eb40507fe54a79a2090b14c6295",
+  "timestamp": "2026-11-12T03:42:01.327153+00:00",
+  "elapsed_sec": 19.33,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CAND-103\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Head of Growth & Digital Transformation\",\n  \"current_company\": \"Step Ahead\",\n  \"role_family\": \"Marketing\",\n  \"seniority\": \"lead\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Growth Strategy\",\n    \"Demand Generation\",\n    \"GTM Strategy\",\n    \"Marketing Operations\",\n    \"AI & Digital Transformation\"\n  ],\n  \"tools_technologies\": [\n    \"GoHighLevel\",\n    \"HubSpot\",\n    \"Meta\",\n    \"Google Ads\",\n    \"Facebook\",\n    \"Instagram\",\n    \"CRM\"\n  ],\n  \"domains\": [\n    \"recruitment\",\n    \"workforce solutions\",\n    \"digital learning\",\n    \"SaaS\",\n    \"technology\",\n    \"professional services\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Engineering\",\n      \"institution\": \"UBDT College of Engineering\",\n      \"year\": 2016\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"India\",\n    \"USA\",\n    \"Canada\",\n    \"Europe\",\n    \"Asia Pacific\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"strategic planning\",\n    \"business development\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Head of Growth & Digital Transformation\",\n      \"company\": \"Step Ahead\",\n      \"start\": \"2025-03\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Digital Marketing Manager\",\n      \"company\": \"Trexinet\",\n      \"start\": \"2023-04\",\n      \"end\": \"2025-02\"\n    },\n    {\n      \"title\": \"Marketing Manager\",\n      \"company\": \"Leadership Tribe\",\n      \"start\": \"2019-12\",\n      \"end\": \"2022-01\"\n    },\n    {\n      \"title\": \"Business Development Executive\",\n      \"company\": \"DigiBaap (WOC Solutions)\",\n      \"start\": \"2019-05\",\n      \"end\": \"2019-12\"\n    },\n    {\n      \"title\": \"Digital Marketing Executive\",\n      \"company\": \"Aubree Haute Chocolateries\",\n      \"start\": \"2017-06\",\n      \"end\": \"2019-01\"\n    },\n    {\n      \"title\": \"Promotional & Brand Chief\",\n      \"company\": \"Brand Eventzz\",\n      \"start\": \"2016-01\",\n      \"end\": \"2017-03\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CAND-103",
+    "doc_type": "cv",
+    "current_title": "Head of Growth & Digital Transformation",
+    "current_company": "Step Ahead",
+    "role_family": "Marketing",
+    "seniority": "lead",
+    "total_years_experience": null,
+    "skills": [
+      "Growth Strategy",
+      "Demand Generation",
+      "GTM Strategy",
+      "Marketing Operations",
+      "AI & Digital Transformation"
+    ],
+    "tools_technologies": [
+      "GoHighLevel",
+      "HubSpot",
+      "Meta",
+      "Google Ads",
+      "Facebook",
+      "Instagram",
+      "CRM"
+    ],
+    "domains": [
+      "recruitment",
+      "workforce solutions",
+      "digital learning",
+      "SaaS",
+      "technology",
+      "professional services"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Engineering",
+        "institution": "UBDT College of Engineering",
+        "year": 2016
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "India",
+      "USA",
+      "Canada",
+      "Europe",
+      "Asia Pacific"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "strategic planning",
+      "business development"
+    ],
+    "work_history": [
+      {
+        "title": "Head of Growth & Digital Transformation",
+        "company": "Step Ahead",
+        "start": "2025-03",
+        "end": "Present"
+      },
+      {
+        "title": "Digital Marketing Manager",
+        "company": "Trexinet",
+        "start": "2023-04",
+        "end": "2025-02"
+      },
+      {
+        "title": "Marketing Manager",
+        "company": "Leadership Tribe",
+        "start": "2019-12",
+        "end": "2022-01"
+      },
+      {
+        "title": "Business Development Executive",
+        "company": "DigiBaap (WOC Solutions)",
+        "start": "2019-05",
+        "end": "2019-12"
+      },
+      {
+        "title": "Digital Marketing Executive",
+        "company": "Aubree Haute Chocolateries",
+        "start": "2017-06",
+        "end": "2019-01"
+      },
+      {
+        "title": "Promotional & Brand Chief",
+        "company": "Brand Eventzz",
+        "start": "2016-01",
+        "end": "2017-03"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

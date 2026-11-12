@@ -1,0 +1,99 @@
+{
+  "doc_id": "CV-038",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "47aec2109f2b1d656d7fc3b8315c793d54e284e76f688f0dfb9f5f5c29c309aa",
+  "timestamp": "2026-11-12T03:22:48.026164+00:00",
+  "elapsed_sec": 20.48,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-038\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"AI Forward Deployed Engineer\",\n  \"current_company\": \"IBM\",\n  \"role_family\": \"Data & AI\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Agentic Systems\",\n    \"LangChain\",\n    \"RAG Architecture\",\n    \"AI Agent Design\",\n    \"Workflow Automation\",\n    \"LLM Evaluation\",\n    \"Security & Identity\",\n    \"OAuth 2.0\",\n    \"OIDC\",\n    \"Zero Trust Architecture\",\n    \"Python\",\n    \"Golang\",\n    \"Java\",\n    \"Bash\",\n    \"Git\",\n    \"CI/CD pipelines\"\n  ],\n  \"tools_technologies\": [\n    \"IBM Watsonx\",\n    \"Kubernetes\",\n    \"Openshift\",\n    \"AWS\",\n    \"terraform\",\n    \"Clickhouse\",\n    \"ByteKV\",\n    \"Elasticsearch\",\n    \"MySQL\",\n    \"AWS DMS\"\n  ],\n  \"domains\": [\n    \"enterprise banking\",\n    \"financial services\",\n    \"APAC\",\n    \"data platform\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Computer Science\",\n      \"field\": \"Computer Science\",\n      \"institution\": \"University of Michigan, Ann Arbor\",\n      \"year\": 2021\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Singapore\"\n  ],\n  \"soft_skills\": [\n    \"technical discovery\",\n    \"operational workflows\",\n    \"incident response\",\n    \"mentoring\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"AI Forward Deployed Engineer\",\n      \"company\": \"IBM\",\n      \"start\": \"2024-11\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Platform Engineer\",\n      \"company\": \"Bytedance\",\n      \"start\": \"2023-05\",\n      \"end\": \"2024-10\"\n    },\n    {\n      \"title\": \"Site Reliability Engineer\",\n      \"company\": \"Grab\",\n      \"start\": \"2021-07\",\n      \"end\": \"2023-04\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-038",
+    "doc_type": "cv",
+    "current_title": "AI Forward Deployed Engineer",
+    "current_company": "IBM",
+    "role_family": "Data & AI",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "Agentic Systems",
+      "LangChain",
+      "RAG Architecture",
+      "AI Agent Design",
+      "Workflow Automation",
+      "LLM Evaluation",
+      "Security & Identity",
+      "OAuth 2.0",
+      "OIDC",
+      "Zero Trust Architecture",
+      "Python",
+      "Golang",
+      "Java",
+      "Bash",
+      "Git",
+      "CI/CD pipelines"
+    ],
+    "tools_technologies": [
+      "IBM Watsonx",
+      "Kubernetes",
+      "Openshift",
+      "AWS",
+      "terraform",
+      "Clickhouse",
+      "ByteKV",
+      "Elasticsearch",
+      "MySQL",
+      "AWS DMS"
+    ],
+    "domains": [
+      "enterprise banking",
+      "financial services",
+      "APAC",
+      "data platform"
+    ],
+    "education": [
+      {
+        "degree": "Computer Science",
+        "field": "Computer Science",
+        "institution": "University of Michigan, Ann Arbor",
+        "year": 2021
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Singapore"
+    ],
+    "soft_skills": [
+      "technical discovery",
+      "operational workflows",
+      "incident response",
+      "mentoring"
+    ],
+    "work_history": [
+      {
+        "title": "AI Forward Deployed Engineer",
+        "company": "IBM",
+        "start": "2024-11",
+        "end": "Present"
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "Bytedance",
+        "start": "2023-05",
+        "end": "2024-10"
+      },
+      {
+        "title": "Site Reliability Engineer",
+        "company": "Grab",
+        "start": "2021-07",
+        "end": "2023-04"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

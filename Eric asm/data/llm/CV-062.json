@@ -1,0 +1,101 @@
+{
+  "doc_id": "CV-062",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "ac2f54aba38787e3796a63498251c46119879398450ddc7810ddcb0656796ff4",
+  "timestamp": "2026-11-12T03:29:36.631081+00:00",
+  "elapsed_sec": 43.5,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-062\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Retail Sales Manager\",\n  \"current_company\": \"TBM\",\n  \"role_family\": \"Sales & BD\",\n  \"seniority\": \"lead\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Retail Sales Leadership\",\n    \"Vendor Funding Negotiation\",\n    \"P&L Management\",\n    \"Budget Management\",\n    \"Inventory Optimization\",\n    \"Multi-Unit Team Leadership\",\n    \"Key Account Management\",\n    \"Store Layout\",\n    \"Planograms\",\n    \"Sales Training\",\n    \"Onboarding\",\n    \"Market Analysis\",\n    \"Visual Merchandising\",\n    \"International Purchasing\",\n    \"Performance Coaching\"\n  ],\n  \"tools_technologies\": [\n    \"SAP POS\"\n  ],\n  \"domains\": [\n    \"consumer electronics\",\n    \"retail sales\"\n  ],\n  \"education\": null,\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Malaysia\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\",\n    \"strategic planning\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Retail Sales Manager\",\n      \"company\": \"TBM\",\n      \"start\": \"2025-03\",\n      \"end\": \"2026-08\"\n    },\n    {\n      \"title\": \"Store Manager\",\n      \"company\": \"ELITETRAX MARKETING (HARVEY NORMAN)\",\n      \"start\": \"2018-01\",\n      \"end\": \"2024-12\"\n    },\n    {\n      \"title\": \"Regional Sales Manager & Product Manager\",\n      \"company\": \"BBS Distributions Sdn Bhd\",\n      \"start\": \"2016-01\",\n      \"end\": \"2017-12\"\n    },\n    {\n      \"title\": \"Senior Product Marketing Executive\",\n      \"company\": \"Thunder Match Technology\",\n      \"start\": \"2013-01\",\n      \"end\": \"2015-12\"\n    },\n    {\n      \"title\": \"Product Trainer & Field Operations Lead\",\n      \"company\": \"Mobile Dot Com Network\",\n      \"start\": \"2011-01\",\n      \"end\": \"2012-12\"\n    },\n    {\n      \"title\": \"Director & Founder\",\n      \"company\": \"Electro Station Enterprise\",\n      \"start\": \"2002-01\",\n      \"end\": \"2010-12\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-062",
+    "doc_type": "cv",
+    "current_title": "Retail Sales Manager",
+    "current_company": "TBM",
+    "role_family": "Sales & BD",
+    "seniority": "lead",
+    "total_years_experience": null,
+    "skills": [
+      "Retail Sales Leadership",
+      "Vendor Funding Negotiation",
+      "Budget Management",
+      "Inventory Optimization",
+      "Multi-Unit Team Leadership",
+      "Key Account Management",
+      "Store Layout",
+      "Planograms",
+      "Sales Training",
+      "Onboarding",
+      "Market Analysis",
+      "Visual Merchandising",
+      "International Purchasing",
+      "Performance Coaching"
+    ],
+    "tools_technologies": [
+      "SAP POS"
+    ],
+    "domains": [
+      "consumer electronics",
+      "retail sales"
+    ],
+    "education": [],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Malaysia"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring",
+      "strategic planning"
+    ],
+    "work_history": [
+      {
+        "title": "Retail Sales Manager",
+        "company": "TBM",
+        "start": "2025-03",
+        "end": "2026-08"
+      },
+      {
+        "title": "Store Manager",
+        "company": "ELITETRAX MARKETING (HARVEY NORMAN)",
+        "start": "2018-01",
+        "end": "2024-12"
+      },
+      {
+        "title": "Regional Sales Manager & Product Manager",
+        "company": "BBS Distributions Sdn Bhd",
+        "start": "2016-01",
+        "end": "2017-12"
+      },
+      {
+        "title": "Senior Product Marketing Executive",
+        "company": "Thunder Match Technology",
+        "start": "2013-01",
+        "end": "2015-12"
+      },
+      {
+        "title": "Product Trainer & Field Operations Lead",
+        "company": "Mobile Dot Com Network",
+        "start": "2011-01",
+        "end": "2012-12"
+      },
+      {
+        "title": "Director & Founder",
+        "company": "Electro Station Enterprise",
+        "start": "2002-01",
+        "end": "2010-12"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "P&L Management",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

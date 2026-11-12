@@ -1,0 +1,102 @@
+{
+  "doc_id": "CV-011",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "1b0411b394b8cbcd574497dba8eda430ef987eb39fb0a5a76daacd87eeda588f",
+  "timestamp": "2026-11-12T03:12:58.673629+00:00",
+  "elapsed_sec": 26.37,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-011\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Software Engineer\",\n  \"current_company\": \"LayerZero Labs Ltd\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"senior\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Go\",\n    \"TypeScript\",\n    \"JavaScript\",\n    \"SQL\",\n    \"PostgreSQL\",\n    \"MySQL\",\n    \"Microservices\",\n    \"System Design\",\n    \"FIX protocol\",\n    \"RAG\",\n    \"Function Calling\",\n    \"ReAct\",\n    \"Amazon Web Services\",\n    \"Blockchain\",\n    \"Full-stack Development\",\n    \"AI\",\n    \"Machine Learning\"\n  ],\n  \"tools_technologies\": [\n    \"Docker\",\n    \"MongoDB\",\n    \"Kotlin\"\n  ],\n  \"domains\": [\n    \"blockchain\",\n    \"fintech\",\n    \"e-commerce\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Computer Science\",\n      \"institution\": \"Hong Kong University of Science and Technology\",\n      \"year\": 2018\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Hong Kong\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Software Engineer\",\n      \"company\": \"LayerZero Labs Ltd\",\n      \"start\": \"2026-02\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Senior Software Engineer\",\n      \"company\": \"Fusang Hong Kong Limited\",\n      \"start\": \"2023-05\",\n      \"end\": \"2026-01\"\n    },\n    {\n      \"title\": \"Senior Backend Development Engineer\",\n      \"company\": \"Bybit\",\n      \"start\": \"2022-04\",\n      \"end\": \"2022-12\"\n    },\n    {\n      \"title\": \"Senior Backend Development Engineer\",\n      \"company\": \"Crypto.com\",\n      \"start\": \"2020-08\",\n      \"end\": \"2021-12\"\n    },\n    {\n      \"title\": \"Analyst Programmer\",\n      \"company\": \"Tradelink Electronic Commerce Limited\",\n      \"start\": \"2018-07\",\n      \"end\": \"2020-03\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-011",
+    "doc_type": "cv",
+    "current_title": "Software Engineer",
+    "current_company": "LayerZero Labs Ltd",
+    "role_family": "Engineering",
+    "seniority": "senior",
+    "total_years_experience": null,
+    "skills": [
+      "Go",
+      "TypeScript",
+      "JavaScript",
+      "SQL",
+      "PostgreSQL",
+      "MySQL",
+      "Microservices",
+      "System Design",
+      "FIX protocol",
+      "RAG",
+      "Function Calling",
+      "ReAct",
+      "Amazon Web Services",
+      "Blockchain",
+      "Full-stack Development",
+      "AI",
+      "Machine Learning"
+    ],
+    "tools_technologies": [
+      "Docker",
+      "MongoDB",
+      "Kotlin"
+    ],
+    "domains": [
+      "blockchain",
+      "fintech",
+      "e-commerce"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Computer Science",
+        "institution": "Hong Kong University of Science and Technology",
+        "year": 2018
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Hong Kong"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring"
+    ],
+    "work_history": [
+      {
+        "title": "Software Engineer",
+        "company": "LayerZero Labs Ltd",
+        "start": "2026-02",
+        "end": "Present"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "company": "Fusang Hong Kong Limited",
+        "start": "2023-05",
+        "end": "2026-01"
+      },
+      {
+        "title": "Senior Backend Development Engineer",
+        "company": "Bybit",
+        "start": "2022-04",
+        "end": "2022-12"
+      },
+      {
+        "title": "Senior Backend Development Engineer",
+        "company": "Crypto.com",
+        "start": "2020-08",
+        "end": "2021-12"
+      },
+      {
+        "title": "Analyst Programmer",
+        "company": "Tradelink Electronic Commerce Limited",
+        "start": "2018-07",
+        "end": "2020-03"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

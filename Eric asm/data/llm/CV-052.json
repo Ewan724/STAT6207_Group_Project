@@ -1,0 +1,102 @@
+{
+  "doc_id": "CV-052",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "e9ec4552fc0b47bf3685dcb30ef6e0cd762fb1fc26aed49b047b7ae4c789bb79",
+  "timestamp": "2026-11-12T03:25:47.376327+00:00",
+  "elapsed_sec": 36.09,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-052\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Product Partner / UI/UX Design\",\n  \"current_company\": null,\n  \"role_family\": \"Design & Creative\",\n  \"seniority\": \"unknown\",\n  \"total_years_experience\": null,\n  \"skills\": [\"Product Design\", \"UI/UX\", \"Interaction Design\", \"HCI\", \"AI Product\", \"Hardware Software Integration\", \"Global Growth\", \"User Acquisition\", \"GTM\", \"Community Management\"],\n  \"tools_technologies\": [\"Figma\", \"Claude AI\", \"Unity\", \"Google Ads\", \"Meta Ads\", \"Python\", \"HTML/CSS\", \"JavaScript\"],\n  \"domains\": [\"AI\", \"HCI Design\", \"Smart Hardware\", \"Edtech\"],\n  \"education\": [\n    {\n      \"degree\": \"Master's Degree\",\n      \"field\": \"Digital Art & Human-Computer Interaction Design\",\n      \"institution\": \"Peking University\",\n      \"year\": 2024\n    },\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": null,\n      \"institution\": \"Beihang University\",\n      \"year\": 2019\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\"China\"],\n  \"soft_skills\": [\"Leadership\", \"Mentoring\"],\n  \"work_history\": [\n    {\n      \"title\": \"Product Manager\",\n      \"company\": \"Zhihuo Huzhi (Shanghai) Co., Ltd.\",\n      \"start\": \"2025-11\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Product Manager & Marketing\",\n      \"company\": \"Shanghai Yijian Information Technology Co., Ltd.\",\n      \"start\": \"2025-09\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Incubator Investment Advisor & Project Lead\",\n      \"company\": \"Shanghai Lingang ECNU Advanced Technology Institute\",\n      \"start\": \"2024-01\",\n      \"end\": \"2026-02\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-052",
+    "doc_type": "cv",
+    "current_title": "Product Partner / UI/UX Design",
+    "current_company": "China",
+    "role_family": "Design & Creative",
+    "seniority": "unknown",
+    "total_years_experience": null,
+    "skills": [
+      "Product Design",
+      "UI/UX",
+      "Interaction Design",
+      "HCI",
+      "AI Product",
+      "Global Growth",
+      "User Acquisition",
+      "GTM"
+    ],
+    "tools_technologies": [
+      "Figma",
+      "Claude AI",
+      "Unity",
+      "Google Ads",
+      "Meta Ads",
+      "Python",
+      "HTML/CSS",
+      "JavaScript"
+    ],
+    "domains": [
+      "AI",
+      "HCI Design",
+      "Smart Hardware",
+      "Edtech"
+    ],
+    "education": [
+      {
+        "degree": "Master's Degree",
+        "field": "Digital Art & Human-Computer Interaction Design",
+        "institution": "Peking University",
+        "year": 2024
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "field": null,
+        "institution": "Beihang University",
+        "year": 2019
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "China"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Mentoring"
+    ],
+    "work_history": [
+      {
+        "title": "Product Manager",
+        "company": "Zhihuo Huzhi (Shanghai) Co., Ltd.",
+        "start": "2025-11",
+        "end": "Present"
+      },
+      {
+        "title": "Product Manager & Marketing",
+        "company": "Shanghai Yijian Information Technology Co., Ltd.",
+        "start": "2025-09",
+        "end": "Present"
+      },
+      {
+        "title": "Incubator Investment Advisor & Project Lead",
+        "company": "Shanghai Lingang ECNU Advanced Technology Institute",
+        "start": "2024-01",
+        "end": "2026-02"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "Hardware Software Integration",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "Community Management",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

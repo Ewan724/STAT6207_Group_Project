@@ -1,0 +1,113 @@
+{
+  "doc_id": "CV-010",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "bb926e54e9130f7339ec442c7380adf73ec1e4d6b8021fe22f01f7e24a9eb944",
+  "timestamp": "2026-11-12T03:12:46.240751+00:00",
+  "elapsed_sec": 21.13,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-010\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Technology and Product Specialist\",\n  \"current_company\": \"Projuris/Starian\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"lead\",\n  \"total_years_experience\": null,\n  \"skills\": [\"AWS\", \"System Architecture\", \"Product Management\"],\n  \"tools_technologies\": [\"Java\", \"Spring\", \"OpenAI\"],\n  \"domains\": [\"tolling systems\", \"fintech\"],\n  \"education\": [{\"degree\": \"Bachelor's Degree\", \"field\": \"Software Engineering\", \"institution\": \"Veris Faculdade\", \"year\": 2012}],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\"Brazil\"],\n  \"soft_skills\": [\"team leadership\", \"mentoring\", \"strategic planning\"],\n  \"work_history\": [\n    {\n      \"title\": \"Technology and Product Specialist\",\n      \"company\": \"Projuris/Starian\",\n      \"start\": \"2023-01\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Controller\",\n      \"company\": \"Justto\",\n      \"start\": \"2022-04\",\n      \"end\": \"2023-01\"\n    },\n    {\n      \"title\": \"Co-Founder & CTO\",\n      \"company\": \"Justto\",\n      \"start\": \"2021-10\",\n      \"end\": \"2023-01\"\n    },\n    {\n      \"title\": \"Senior Systems Architect\",\n      \"company\": \"Muralis Tecnologia\",\n      \"start\": \"2021-10\",\n      \"end\": \"2023-12\"\n    },\n    {\n      \"title\": \"CTO\",\n      \"company\": \"Justto\",\n      \"start\": \"2019-12\",\n      \"end\": \"2021-10\"\n    },\n    {\n      \"title\": \"Co-Founder & System Architect\",\n      \"company\": \"Justto\",\n      \"start\": \"2019-05\",\n      \"end\": \"2019-12\"\n    },\n    {\n      \"title\": \"System Architect\",\n      \"company\": \"COMPSIS\",\n      \"start\": \"2014-10\",\n      \"end\": \"2019-05\"\n    },\n    {\n      \"title\": \"Software Development Analyst\",\n      \"company\": \"COMPSIS\",\n      \"start\": \"2011-08\",\n      \"end\": \"2014-10\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-010",
+    "doc_type": "cv",
+    "current_title": "Technology and Product Specialist",
+    "current_company": "Projuris/Starian",
+    "role_family": "Engineering",
+    "seniority": "lead",
+    "total_years_experience": null,
+    "skills": [
+      "AWS"
+    ],
+    "tools_technologies": [
+      "Java",
+      "Spring",
+      "OpenAI"
+    ],
+    "domains": [
+      "tolling systems",
+      "fintech"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Software Engineering",
+        "institution": "Veris Faculdade",
+        "year": 2012
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Brazil"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring",
+      "strategic planning"
+    ],
+    "work_history": [
+      {
+        "title": "Technology and Product Specialist",
+        "company": "Projuris/Starian",
+        "start": "2023-01",
+        "end": "Present"
+      },
+      {
+        "title": "Controller",
+        "company": "Justto",
+        "start": "2022-04",
+        "end": "2023-01"
+      },
+      {
+        "title": "Co-Founder & CTO",
+        "company": "Justto",
+        "start": "2021-10",
+        "end": "2023-01"
+      },
+      {
+        "title": "Senior Systems Architect",
+        "company": "Muralis Tecnologia",
+        "start": "2021-10",
+        "end": "2023-12"
+      },
+      {
+        "title": "CTO",
+        "company": "Justto",
+        "start": "2019-12",
+        "end": "2021-10"
+      },
+      {
+        "title": "Co-Founder & System Architect",
+        "company": "Justto",
+        "start": "2019-05",
+        "end": "2019-12"
+      },
+      {
+        "title": "System Architect",
+        "company": "COMPSIS",
+        "start": "2014-10",
+        "end": "2019-05"
+      },
+      {
+        "title": "Software Development Analyst",
+        "company": "COMPSIS",
+        "start": "2011-08",
+        "end": "2014-10"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "System Architecture",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "Product Management",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

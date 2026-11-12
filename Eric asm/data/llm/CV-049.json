@@ -1,0 +1,91 @@
+{
+  "doc_id": "CV-049",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "66a13521af5eec2f763a6e29f847fdc533b9ba7bb3093ade10616b9439b96912",
+  "timestamp": "2026-11-12T03:25:01.706788+00:00",
+  "elapsed_sec": 36.93,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-049\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Senior Graphic Designer\",\n  \"current_company\": \"We4u Communication Solution\",\n  \"role_family\": \"Design & Creative\",\n  \"seniority\": \"senior\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Creative Design\",\n    \"Adobe Photoshop\",\n    \"Adobe Illustrator\",\n    \"Packaging Design\",\n    \"Banner & Ad Creative Design\",\n    \"Presentation Design\",\n    \"Digital Marketing\",\n    \"Social Media Graphics\",\n    \"Amazon A+ & E-Commerce Design\",\n    \"Instagram Reels and Posts\",\n    \"Interactive Social Media Content\",\n    \"Brand Identity Assets\",\n    \"Project Management\",\n    \"Creative Strategy Development\",\n    \"Project Timeline Management\",\n    \"High-Quality Graphics Delivery\",\n    \"Client Satisfaction\",\n    \"Consistent Visual Branding\"\n  ],\n  \"tools_technologies\": [\n    \"Adobe Photoshop\",\n    \"Adobe Illustrator\",\n    \"CapCut\",\n    \"Canva\"\n  ],\n  \"domains\": [\n    \"e-commerce\",\n    \"social media\",\n    \"fashion\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Fashion Design\",\n      \"institution\": \"Graphic Era Hill University Dehradun\",\n      \"year\": 2021\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Senior Graphic Designer\",\n      \"company\": \"We4u Communication Solution\",\n      \"start\": \"2025-02\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Senior Graphic Designer\",\n      \"company\": \"Digi Aansh / Timberly Furniture\",\n      \"start\": \"2022-06\",\n      \"end\": \"2024-12\"\n    },\n    {\n      \"title\": \"Intern Graphic Designer\",\n      \"company\": \"Elem\",\n      \"start\": \"2022-02\",\n      \"end\": \"2022-05\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-049",
+    "doc_type": "cv",
+    "current_title": "Senior Graphic Designer",
+    "current_company": "We4u Communication Solution",
+    "role_family": "Design & Creative",
+    "seniority": "senior",
+    "total_years_experience": null,
+    "skills": [
+      "Creative Design",
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Packaging Design",
+      "Presentation Design",
+      "Digital Marketing",
+      "Social Media Graphics",
+      "Instagram Reels and Posts",
+      "Interactive Social Media Content",
+      "Brand Identity Assets",
+      "Project Management",
+      "Creative Strategy Development",
+      "Project Timeline Management",
+      "High-Quality Graphics Delivery",
+      "Client Satisfaction",
+      "Consistent Visual Branding"
+    ],
+    "tools_technologies": [
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "CapCut",
+      "Canva"
+    ],
+    "domains": [
+      "e-commerce",
+      "social media",
+      "fashion"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Fashion Design",
+        "institution": "Graphic Era Hill University Dehradun",
+        "year": 2021
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [],
+    "soft_skills": [
+      "team leadership",
+      "mentoring"
+    ],
+    "work_history": [
+      {
+        "title": "Senior Graphic Designer",
+        "company": "We4u Communication Solution",
+        "start": "2025-02",
+        "end": "Present"
+      },
+      {
+        "title": "Senior Graphic Designer",
+        "company": "Digi Aansh / Timberly Furniture",
+        "start": "2022-06",
+        "end": "2024-12"
+      },
+      {
+        "title": "Intern Graphic Designer",
+        "company": "Elem",
+        "start": "2022-02",
+        "end": "2022-05"
+      }
+    ]
+  },
+  "validation_errors": [
+    "keyword_word_count:Banner & Ad Creative Design",
+    "keyword_word_count:Amazon A+ & E-Commerce Design"
+  ],
+  "dropped_keywords": []
+}

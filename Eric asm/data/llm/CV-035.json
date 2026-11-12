@@ -1,0 +1,143 @@
+{
+  "doc_id": "CV-035",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "9e18d665c49e0fa3ecceca79ddd0bd2023617bcf99e5fbd320d8549264383c04",
+  "timestamp": "2026-11-12T03:22:16.933635+00:00",
+  "elapsed_sec": 22.14,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-035\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Business Data Engineer\",\n  \"current_company\": \"Danone\",\n  \"role_family\": \"Data & AI\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Data Engineering\",\n    \"RDBMS\",\n    \"Geographic Information System\",\n    \"Cloud Services\",\n    \"API Development\",\n    \"Data Management\",\n    \"Big Data\",\n    \"Data Science\",\n    \"Web Scraping\",\n    \"Data Mart\",\n    \"Data Warehousing\",\n    \"Data Lake\",\n    \"Data Analysis\",\n    \"Natural Language Processing\",\n    \"NoSQL\",\n    \"Python\",\n    \"Ms. SQL Server\",\n    \"Talend\",\n    \"Hive\",\n    \"MySQL\",\n    \"Scikit-Learn\",\n    \"MongoDB\",\n    \"Cloudera\",\n    \"PostgreSQL\",\n    \"TensorFlow\",\n    \"HBASE\",\n    \"Hadoop\",\n    \"PostGIS\",\n    \"PyTorch\"\n  ],\n  \"tools_technologies\": [\n    \"Azure Data Lake Service\",\n    \"Snowflake\",\n    \"Microsoft Azure\",\n    \"Spark\",\n    \"pyspark\",\n    \"Apache Kafka\",\n    \"Cloudera HDP\",\n    \"AWS\",\n    \"Google Pub/Sub\",\n    \"AWS EMR\",\n    \"AWS Glue\",\n    \"AWS Athena\",\n    \"Airflow\",\n    \"MapR\",\n    \"ArcGIS\",\n    \"QGIS\"\n  ],\n  \"domains\": [\n    \"banking\",\n    \"FMCG\",\n    \"transportation\",\n    \"healthcare\",\n    \"utilities\",\n    \"government\",\n    \"e-commerce\",\n    \"fintech\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Master's Degree\",\n      \"field\": \"Management\",\n      \"institution\": \"Universitas Gadjah Mada\",\n      \"year\": 2019\n    },\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Unknown\",\n      \"institution\": \"Universitas Indonesia\",\n      \"year\": 2012\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Indonesia\"\n  ],\n  \"soft_skills\": [\n    \"Client requirement gathering\",\n    \"Team leadership\",\n    \"Mentoring\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Business Data Engineer\",\n      \"company\": \"Danone\",\n      \"start\": \"2020-10\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Big Data Engineer\",\n      \"company\": \"IBM\",\n      \"start\": \"2019-10\",\n      \"end\": \"2020-10\"\n    },\n    {\n      \"title\": \"Senior Data Engineer\",\n      \"company\": \"PAYFAZZ\",\n      \"start\": \"2019-03\",\n      \"end\": \"2019-10\"\n    },\n    {\n      \"title\": \"Senior Data Engineer\",\n      \"company\": \"XQ Informatics\",\n      \"start\": \"2016-11\",\n      \"end\": \"2019-02\"\n    },\n    {\n      \"title\": \"GIS Specialist and Data Engineering Lead\",\n      \"company\": \"Mediatrac Sistem Komunikasi (Dattabot)\",\n      \"start\": \"2012-06\",\n      \"end\": \"2016-11\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-035",
+    "doc_type": "cv",
+    "current_title": "Business Data Engineer",
+    "current_company": "Danone",
+    "role_family": "Data & AI",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "Data Engineering",
+      "RDBMS",
+      "Geographic Information System",
+      "Cloud Services",
+      "API Development",
+      "Data Management",
+      "Big Data",
+      "Data Science",
+      "Web Scraping",
+      "Data Mart",
+      "Data Warehousing",
+      "Data Lake",
+      "Data Analysis",
+      "Natural Language Processing",
+      "NoSQL",
+      "Python",
+      "Ms. SQL Server",
+      "Talend",
+      "Hive",
+      "MySQL",
+      "Scikit-Learn",
+      "MongoDB",
+      "Cloudera",
+      "PostgreSQL",
+      "TensorFlow",
+      "HBASE",
+      "Hadoop",
+      "PostGIS",
+      "PyTorch"
+    ],
+    "tools_technologies": [
+      "Azure Data Lake Service",
+      "Snowflake",
+      "Microsoft Azure",
+      "Spark",
+      "pyspark",
+      "Apache Kafka",
+      "Cloudera HDP",
+      "AWS",
+      "Google Pub/Sub",
+      "AWS Glue",
+      "AWS Athena",
+      "Airflow",
+      "MapR",
+      "ArcGIS",
+      "QGIS"
+    ],
+    "domains": [
+      "banking",
+      "FMCG",
+      "transportation",
+      "healthcare",
+      "utilities",
+      "government",
+      "e-commerce",
+      "fintech"
+    ],
+    "education": [
+      {
+        "degree": "Master's Degree",
+        "field": "Management",
+        "institution": "Universitas Gadjah Mada",
+        "year": 2019
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Unknown",
+        "institution": "Universitas Indonesia",
+        "year": 2012
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Indonesia"
+    ],
+    "soft_skills": [
+      "Client requirement gathering",
+      "Team leadership",
+      "Mentoring"
+    ],
+    "work_history": [
+      {
+        "title": "Business Data Engineer",
+        "company": "Danone",
+        "start": "2020-10",
+        "end": "Present"
+      },
+      {
+        "title": "Big Data Engineer",
+        "company": "IBM",
+        "start": "2019-10",
+        "end": "2020-10"
+      },
+      {
+        "title": "Senior Data Engineer",
+        "company": "PAYFAZZ",
+        "start": "2019-03",
+        "end": "2019-10"
+      },
+      {
+        "title": "Senior Data Engineer",
+        "company": "XQ Informatics",
+        "start": "2016-11",
+        "end": "2019-02"
+      },
+      {
+        "title": "GIS Specialist and Data Engineering Lead",
+        "company": "Mediatrac Sistem Komunikasi (Dattabot)",
+        "start": "2012-06",
+        "end": "2016-11"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "AWS EMR",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

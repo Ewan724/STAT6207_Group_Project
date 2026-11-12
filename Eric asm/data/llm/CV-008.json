@@ -1,0 +1,126 @@
+{
+  "doc_id": "CV-008",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "f48f4c939a0c9034f7c88dcc3fdc660ceab00138bf056973be6451322c13bb4f",
+  "timestamp": "2026-11-12T03:12:25.104151+00:00",
+  "elapsed_sec": 28.19,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-008\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Software Engineer Lead\",\n  \"current_company\": \"Henan Asset Management\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"lead\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"TypeScript\",\n    \"JavaScript\",\n    \"Go\",\n    \"SQL\",\n    \"Python\",\n    \"NestJS\",\n    \"Node.js\",\n    \"REST APIs\",\n    \"PostgreSQL\",\n    \"MySQL\",\n    \"Redis\",\n    \"Sequelize\",\n    \"React\",\n    \"Next.JS\",\n    \"Refine\",\n    \"Tailwind CSS\",\n    \"Ant Design\",\n    \"Docker\",\n    \"AWS\",\n    \"CI/CD\",\n    \"Nginx\",\n    \"Github Actions\",\n    \"Jenkins\",\n    \"Kafka\",\n    \"RabbitMQ\"\n  ],\n  \"tools_technologies\": [\n    \"TypeScript\",\n    \"JavaScript\",\n    \"Go\",\n    \"SQL\",\n    \"Python\",\n    \"NestJS\",\n    \"Node.js\",\n    \"REST APIs\",\n    \"PostgreSQL\",\n    \"MySQL\",\n    \"Redis\",\n    \"Sequelize\",\n    \"React\",\n    \"Next.JS\",\n    \"Refine\",\n    \"Tailwind CSS\",\n    \"Ant Design\",\n    \"Docker\",\n    \"AWS\",\n    \"CI/CD\",\n    \"Nginx\",\n    \"Github Actions\",\n    \"Jenkins\",\n    \"Kafka\",\n    \"RabbitMQ\"\n  ],\n  \"domains\": [\n    \"fintech\",\n    \"asset management\",\n    \"investment management\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Computer Engineering\",\n      \"institution\": \"Universitas Indonesia\",\n      \"year\": 2023\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\",\n    \"product discovery\",\n    \"technical planning\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Software Engineer Lead\",\n      \"company\": \"Henan Asset Management\",\n      \"start\": \"2024-11\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Software Engineer\",\n      \"company\": \"Henan Asset Management\",\n      \"start\": \"2023-05\",\n      \"end\": \"2024-11\"\n    },\n    {\n      \"title\": \"Software Engineer Intern\",\n      \"company\": \"Tokopedia\",\n      \"start\": \"2022-08\",\n      \"end\": \"2023-01\"\n    },\n    {\n      \"title\": \"Full Stack Developer\",\n      \"company\": \"Newtab.id\",\n      \"start\": \"2020-12\",\n      \"end\": \"2022-01\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-008",
+    "doc_type": "cv",
+    "current_title": "Software Engineer Lead",
+    "current_company": "Henan Asset Management",
+    "role_family": "Engineering",
+    "seniority": "lead",
+    "total_years_experience": null,
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "Go",
+      "SQL",
+      "Python",
+      "NestJS",
+      "Node.js",
+      "REST APIs",
+      "PostgreSQL",
+      "MySQL",
+      "Redis",
+      "Sequelize",
+      "React",
+      "Next.JS",
+      "Refine",
+      "Tailwind CSS",
+      "Ant Design",
+      "Docker",
+      "AWS",
+      "CI/CD",
+      "Nginx",
+      "Github Actions",
+      "Jenkins",
+      "Kafka",
+      "RabbitMQ"
+    ],
+    "tools_technologies": [
+      "TypeScript",
+      "JavaScript",
+      "Go",
+      "SQL",
+      "Python",
+      "NestJS",
+      "Node.js",
+      "REST APIs",
+      "PostgreSQL",
+      "MySQL",
+      "Redis",
+      "Sequelize",
+      "React",
+      "Next.JS",
+      "Refine",
+      "Tailwind CSS",
+      "Ant Design",
+      "Docker",
+      "AWS",
+      "CI/CD",
+      "Nginx",
+      "Github Actions",
+      "Jenkins",
+      "Kafka",
+      "RabbitMQ"
+    ],
+    "domains": [
+      "fintech",
+      "asset management",
+      "investment management"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Computer Engineering",
+        "institution": "Universitas Indonesia",
+        "year": 2023
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [],
+    "soft_skills": [
+      "team leadership",
+      "mentoring",
+      "product discovery",
+      "technical planning"
+    ],
+    "work_history": [
+      {
+        "title": "Software Engineer Lead",
+        "company": "Henan Asset Management",
+        "start": "2024-11",
+        "end": "Present"
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Henan Asset Management",
+        "start": "2023-05",
+        "end": "2024-11"
+      },
+      {
+        "title": "Software Engineer Intern",
+        "company": "Tokopedia",
+        "start": "2022-08",
+        "end": "2023-01"
+      },
+      {
+        "title": "Full Stack Developer",
+        "company": "Newtab.id",
+        "start": "2020-12",
+        "end": "2022-01"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

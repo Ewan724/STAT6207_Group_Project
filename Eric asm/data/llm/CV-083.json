@@ -1,0 +1,127 @@
+{
+  "doc_id": "CV-083",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "7c495ec189fe6428ac6b90072ef9e6a668457e3950dc33d1fc4ab926d0047735",
+  "timestamp": "2026-11-12T03:36:52.738728+00:00",
+  "elapsed_sec": 30.2,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-083\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Tax Compliance Manager\",\n  \"current_company\": \"Luther Corporate Services Pte Ltd\",\n  \"role_family\": \"Finance & Legal\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Singapore Taxes Compliance\",\n    \"IRAS Tax Returns\",\n    \"Tax Audit Query Management\",\n    \"Singapore GST Compliance\",\n    \"ACAP Review\",\n    \"International Tax Coordination\",\n    \"Corporate Governance\",\n    \"Regulatory Compliance\",\n    \"Financial Reporting\",\n    \"Tax Computations\",\n    \"Team Leadership\",\n    \"Performance Management\",\n    \"Budgeting\",\n    \"Forecasting\",\n    \"Cashflow Planning\",\n    \"Cross-border Tax Exposure\",\n    \"Corporate Secretarial\",\n    \"ACRA Compliance\",\n    \"Client Advisory\",\n    \"Tax Planning\",\n    \"AML CFT CPF\"\n  ],\n  \"tools_technologies\": [],\n  \"domains\": [\n    \"taxation\",\n    \"finance\",\n    \"corporate compliance\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Information & Communications Management & Sociology\",\n      \"institution\": \"National University of Singapore\",\n      \"year\": 2002\n    },\n    {\n      \"degree\": \"Dr Maurice Cure SSS\",\n      \"field\": null,\n      \"institution\": null,\n      \"year\": 1998\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Singapore\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\",\n    \"client advisory\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Tax Compliance Manager\",\n      \"company\": \"Luther Corporate Services Pte Ltd\",\n      \"start\": \"2023-12\",\n      \"end\": \"2026-04\"\n    },\n    {\n      \"title\": \"Finance & Tax Compliance Manager\",\n      \"company\": \"Dredging International Asia Pacific Pte Ltd\",\n      \"start\": \"2023-05\",\n      \"end\": \"2023-10\"\n    },\n    {\n      \"title\": \"Accounting & Tax Manager\",\n      \"company\": \"SLEEK TECH PTE LTD\",\n      \"start\": \"2022-11\",\n      \"end\": \"2023-05\"\n    },\n    {\n      \"title\": \"Consultant\",\n      \"company\": \"Pramex International Pte Ltd\",\n      \"start\": \"2019-02\",\n      \"end\": \"2022-09\"\n    },\n    {\n      \"title\": \"Office Administrator / Assistant to Director / Budget Manager\",\n      \"company\": \"National Centre for Scientific Research (CNRS) – Singapore Representative Office\",\n      \"start\": \"2014-11\",\n      \"end\": \"2018-12\"\n    },\n    {\n      \"title\": \"Tax, Accounts & Secretarial Assistant\",\n      \"company\": \"Centrecourt.Com\",\n      \"start\": \"2010-06\",\n      \"end\": \"2014-10\"\n    },\n    {\n      \"title\": \"Assistant Accountant\",\n      \"company\": \"Global Securities pte ltd\",\n      \"start\": \"2010-04\",\n      \"end\": \"2010-05\"\n    },\n    {\n      \"title\": \"Administrative Assistant\",\n      \"company\": \"Yog Trading Pte Ltd\",\n      \"start\": \"2010-03\",\n      \"end\": \"Present\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-083",
+    "doc_type": "cv",
+    "current_title": "Tax Compliance Manager",
+    "current_company": "Luther Corporate Services Pte Ltd",
+    "role_family": "Finance & Legal",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "Singapore Taxes Compliance",
+      "IRAS Tax Returns",
+      "Tax Audit Query Management",
+      "Singapore GST Compliance",
+      "ACAP Review",
+      "International Tax Coordination",
+      "Corporate Governance",
+      "Regulatory Compliance",
+      "Financial Reporting",
+      "Tax Computations",
+      "Team Leadership",
+      "Performance Management",
+      "Budgeting",
+      "Forecasting",
+      "Cashflow Planning",
+      "Cross-border Tax Exposure",
+      "Corporate Secretarial",
+      "ACRA Compliance",
+      "Client Advisory",
+      "Tax Planning",
+      "AML CFT CPF"
+    ],
+    "tools_technologies": [],
+    "domains": [
+      "taxation",
+      "finance",
+      "corporate compliance"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Information & Communications Management & Sociology",
+        "institution": "National University of Singapore",
+        "year": 2002
+      },
+      {
+        "degree": "Dr Maurice Cure SSS",
+        "field": null,
+        "institution": null,
+        "year": 1998
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Singapore"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring",
+      "client advisory"
+    ],
+    "work_history": [
+      {
+        "title": "Tax Compliance Manager",
+        "company": "Luther Corporate Services Pte Ltd",
+        "start": "2023-12",
+        "end": "2026-04"
+      },
+      {
+        "title": "Finance & Tax Compliance Manager",
+        "company": "Dredging International Asia Pacific Pte Ltd",
+        "start": "2023-05",
+        "end": "2023-10"
+      },
+      {
+        "title": "Accounting & Tax Manager",
+        "company": "SLEEK TECH PTE LTD",
+        "start": "2022-11",
+        "end": "2023-05"
+      },
+      {
+        "title": "Consultant",
+        "company": "Pramex International Pte Ltd",
+        "start": "2019-02",
+        "end": "2022-09"
+      },
+      {
+        "title": "Office Administrator / Assistant to Director / Budget Manager",
+        "company": "National Centre for Scientific Research (CNRS) – Singapore Representative Office",
+        "start": "2014-11",
+        "end": "2018-12"
+      },
+      {
+        "title": "Tax, Accounts & Secretarial Assistant",
+        "company": "Centrecourt.Com",
+        "start": "2010-06",
+        "end": "2014-10"
+      },
+      {
+        "title": "Assistant Accountant",
+        "company": "Global Securities pte ltd",
+        "start": "2010-04",
+        "end": "2010-05"
+      },
+      {
+        "title": "Administrative Assistant",
+        "company": "Yog Trading Pte Ltd",
+        "start": "2010-03",
+        "end": "Present"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

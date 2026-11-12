@@ -1,0 +1,103 @@
+{
+  "doc_id": "CV-032",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "4a25418d313718457a3b314bdc7d86b1ff85a7f3e5b76216eff31e83011a52eb",
+  "timestamp": "2026-11-12T03:21:45.348242+00:00",
+  "elapsed_sec": 25.58,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-032\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Senior AI Engineer\",\n  \"current_company\": \"Votee AI\",\n  \"role_family\": \"Data & AI\",\n  \"seniority\": \"senior\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Python\",\n    \"C++\",\n    \"SQL\",\n    \"JavaScript\",\n    \"FastAPI\",\n    \"PyTorch\",\n    \"TensorFlow\",\n    \"Transformers\",\n    \"LLM post-training\",\n    \"vector retrieval\",\n    \"agent frameworks\",\n    \"speech and multimodal modeling\",\n    \"OpenCV\",\n    \"vLLM\",\n    \"TensorRT\",\n    \"ONNX\",\n    \"CUDA\",\n    \"Triton\",\n    \"Docker\",\n    \"Kubernetes\",\n    \"AWS\"\n  ],\n  \"tools_technologies\": [],\n  \"domains\": [\n    \"AI\",\n    \"NLP\",\n    \"speech analysis\",\n    \"multimodal modeling\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Statistics and Computing\",\n      \"institution\": \"The Hong Kong Polytechnic University\",\n      \"year\": 2017\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Hong Kong\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Senior AI Engineer\",\n      \"company\": \"Votee AI\",\n      \"start\": \"2025-09\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"AI Engineering Lead\",\n      \"company\": \"OmniChat\",\n      \"start\": \"2024-10\",\n      \"end\": \"2025-08\"\n    },\n    {\n      \"title\": \"AI Engineer\",\n      \"company\": \"LifeHikes\",\n      \"start\": \"2020-02\",\n      \"end\": \"2024-01\"\n    },\n    {\n      \"title\": \"Analyst Programmer, Machine Learning\",\n      \"company\": \"ICONTEK Technology\",\n      \"start\": \"2018-06\",\n      \"end\": \"2019-11\"\n    },\n    {\n      \"title\": \"Data Analyst\",\n      \"company\": \"Citrix\",\n      \"start\": \"2018-01\",\n      \"end\": \"2018-06\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-032",
+    "doc_type": "cv",
+    "current_title": "Senior AI Engineer",
+    "current_company": "Votee AI",
+    "role_family": "Data & AI",
+    "seniority": "senior",
+    "total_years_experience": null,
+    "skills": [
+      "Python",
+      "C++",
+      "SQL",
+      "JavaScript",
+      "FastAPI",
+      "PyTorch",
+      "TensorFlow",
+      "Transformers",
+      "LLM post-training",
+      "vector retrieval",
+      "agent frameworks",
+      "speech and multimodal modeling",
+      "OpenCV",
+      "vLLM",
+      "TensorRT",
+      "ONNX",
+      "CUDA",
+      "Triton",
+      "Docker",
+      "Kubernetes",
+      "AWS"
+    ],
+    "tools_technologies": [],
+    "domains": [
+      "AI",
+      "NLP",
+      "speech analysis",
+      "multimodal modeling"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Statistics and Computing",
+        "institution": "The Hong Kong Polytechnic University",
+        "year": 2017
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Hong Kong"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring"
+    ],
+    "work_history": [
+      {
+        "title": "Senior AI Engineer",
+        "company": "Votee AI",
+        "start": "2025-09",
+        "end": "Present"
+      },
+      {
+        "title": "AI Engineering Lead",
+        "company": "OmniChat",
+        "start": "2024-10",
+        "end": "2025-08"
+      },
+      {
+        "title": "AI Engineer",
+        "company": "LifeHikes",
+        "start": "2020-02",
+        "end": "2024-01"
+      },
+      {
+        "title": "Analyst Programmer, Machine Learning",
+        "company": "ICONTEK Technology",
+        "start": "2018-06",
+        "end": "2019-11"
+      },
+      {
+        "title": "Data Analyst",
+        "company": "Citrix",
+        "start": "2018-01",
+        "end": "2018-06"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

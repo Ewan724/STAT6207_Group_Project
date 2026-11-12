@@ -1,0 +1,107 @@
+{
+  "doc_id": "CV-037",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "a8e1a8a83f5e19322a373fe64b4473a2a4db468d3cd8d033e301036403e41a71",
+  "timestamp": "2026-11-12T03:22:38.054662+00:00",
+  "elapsed_sec": 21.12,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-037\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Senior Business Intelligence Analyst\",\n  \"current_company\": \"Premier NX\",\n  \"role_family\": \"Data & AI\",\n  \"seniority\": \"senior\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Python\",\n    \"SQL\",\n    \"R\",\n    \"DAX\",\n    \"Scikit-Learn\",\n    \"LightGBM\",\n    \"XGBoost\",\n    \"Pandas\",\n    \"NumPy\",\n    \"TF-IDF\",\n    \"BERT\",\n    \"Power BI\",\n    \"Power Query\",\n    \"Excel\",\n    \"FastAPI\",\n    \"PostgreSQL\",\n    \"SQLAlchemy\",\n    \"REST APIs\",\n    \"Docker\",\n    \"Git\",\n    \"pytest\",\n    \"NLP\",\n    \"Machine Learning\"\n  ],\n  \"tools_technologies\": [\n    \"Power BI\",\n    \"Power Query\",\n    \"Excel\",\n    \"FastAPI\",\n    \"PostgreSQL\",\n    \"SQLAlchemy\",\n    \"Docker\",\n    \"Git\",\n    \"pytest\",\n    \"LeanKit\"\n  ],\n  \"domains\": [\n    \"retail\",\n    \"pharmaceuticals\",\n    \"business intelligence\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Master's Degree\",\n      \"field\": null,\n      \"institution\": \"Monash University Malaysia\",\n      \"year\": null\n    },\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": null,\n      \"institution\": \"Lahore University of Management Sciences\",\n      \"year\": null\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Malaysia\"\n  ],\n  \"soft_skills\": [],\n  \"work_history\": [\n    {\n      \"title\": \"Senior Business Intelligence Analyst\",\n      \"company\": \"Premier NX\",\n      \"start\": \"2022-03\",\n      \"end\": \"2026-06\"\n    },\n    {\n      \"title\": \"Marketing Intern\",\n      \"company\": \"Next Pharmaceutical Products (Pvt) Ltd\",\n      \"start\": \"2021-11\",\n      \"end\": \"2022-02\"\n    },\n    {\n      \"title\": \"Reporting Analyst\",\n      \"company\": \"IBEX\",\n      \"start\": \"2021-07\",\n      \"end\": \"2021-10\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-037",
+    "doc_type": "cv",
+    "current_title": "Senior Business Intelligence Analyst",
+    "current_company": "Premier NX",
+    "role_family": "Data & AI",
+    "seniority": "senior",
+    "total_years_experience": null,
+    "skills": [
+      "Python",
+      "SQL",
+      "DAX",
+      "Scikit-Learn",
+      "LightGBM",
+      "XGBoost",
+      "Pandas",
+      "NumPy",
+      "TF-IDF",
+      "BERT",
+      "Power BI",
+      "Power Query",
+      "Excel",
+      "FastAPI",
+      "PostgreSQL",
+      "SQLAlchemy",
+      "REST APIs",
+      "Docker",
+      "Git",
+      "pytest",
+      "NLP",
+      "Machine Learning"
+    ],
+    "tools_technologies": [
+      "Power BI",
+      "Power Query",
+      "Excel",
+      "FastAPI",
+      "PostgreSQL",
+      "SQLAlchemy",
+      "Docker",
+      "Git",
+      "pytest",
+      "LeanKit"
+    ],
+    "domains": [
+      "retail",
+      "pharmaceuticals",
+      "business intelligence"
+    ],
+    "education": [
+      {
+        "degree": "Master's Degree",
+        "field": null,
+        "institution": "Monash University Malaysia",
+        "year": null
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "field": null,
+        "institution": "Lahore University of Management Sciences",
+        "year": null
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Malaysia"
+    ],
+    "soft_skills": [],
+    "work_history": [
+      {
+        "title": "Senior Business Intelligence Analyst",
+        "company": "Premier NX",
+        "start": "2022-03",
+        "end": "2026-06"
+      },
+      {
+        "title": "Marketing Intern",
+        "company": "Next Pharmaceutical Products (Pvt) Ltd",
+        "start": "2021-11",
+        "end": "2022-02"
+      },
+      {
+        "title": "Reporting Analyst",
+        "company": "IBEX",
+        "start": "2021-07",
+        "end": "2021-10"
+      }
+    ]
+  },
+  "validation_errors": [
+    "keyword_word_count:R"
+  ],
+  "dropped_keywords": []
+}

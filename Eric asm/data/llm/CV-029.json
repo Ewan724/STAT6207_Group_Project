@@ -1,0 +1,88 @@
+{
+  "doc_id": "CV-029",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "c4cc76f1a3701e6aa14a54571804c97cab0b5f48bb2ab70ead02c16f0abcf414",
+  "timestamp": "2026-11-12T03:21:07.310868+00:00",
+  "elapsed_sec": 17.81,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-029\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Senior Software Engineer\",\n  \"current_company\": \"Nexle Corporation\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"senior\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"React Native\",\n    \"React.js\",\n    \"Next.JS\",\n    \"Nestjs\",\n    \"Flutter\",\n    \"Node.js\",\n    \"Express.js\",\n    \"RESTful API\",\n    \"GraphQL\",\n    \"Microservices\",\n    \"Authentication/Authorization\",\n    \"Websocket\",\n    \"PostgreSQL\",\n    \"MySQL\",\n    \"MongoDB\",\n    \"Firebase\",\n    \"Cloud Firestore\",\n    \"JavaScript\",\n    \"TypeScript\",\n    \"Dart\",\n    \"C#\",\n    \"Java\",\n    \"C++\",\n    \".NET\",\n    \"Redux Toolkit\",\n    \"Redux Thunk\",\n    \"Redux Saga\",\n    \"Zustand\",\n    \"React Context\",\n    \"React Query\"\n  ],\n  \"tools_technologies\": [],\n  \"domains\": [\n    \"game development\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Associate's Degree\",\n      \"field\": null,\n      \"institution\": \"Phu Lam College\",\n      \"year\": 2013\n    },\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": null,\n      \"institution\": \"VTC Academy\",\n      \"year\": 2018\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Vietnam\"\n  ],\n  \"soft_skills\": [],\n  \"work_history\": [\n    {\n      \"title\": \"Senior Software Engineer\",\n      \"company\": \"Nexle Corporation\",\n      \"start\": \"2017-02\",\n      \"end\": \"Present\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-029",
+    "doc_type": "cv",
+    "current_title": "Senior Software Engineer",
+    "current_company": "Nexle Corporation",
+    "role_family": "Engineering",
+    "seniority": "senior",
+    "total_years_experience": null,
+    "skills": [
+      "React Native",
+      "React.js",
+      "Next.JS",
+      "Nestjs",
+      "Flutter",
+      "Node.js",
+      "Express.js",
+      "RESTful API",
+      "GraphQL",
+      "Microservices",
+      "Authentication/Authorization",
+      "Websocket",
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Firebase",
+      "Cloud Firestore",
+      "JavaScript",
+      "TypeScript",
+      "Dart",
+      "C#",
+      "Java",
+      "C++",
+      "NET",
+      "Redux Toolkit",
+      "Redux Thunk",
+      "Redux Saga",
+      "Zustand",
+      "React Context",
+      "React Query"
+    ],
+    "tools_technologies": [],
+    "domains": [
+      "game development"
+    ],
+    "education": [
+      {
+        "degree": "Associate's Degree",
+        "field": null,
+        "institution": "Phu Lam College",
+        "year": 2013
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "field": null,
+        "institution": "VTC Academy",
+        "year": 2018
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Vietnam"
+    ],
+    "soft_skills": [],
+    "work_history": [
+      {
+        "title": "Senior Software Engineer",
+        "company": "Nexle Corporation",
+        "start": "2017-02",
+        "end": "Present"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

@@ -1,0 +1,131 @@
+{
+  "doc_id": "CV-031",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "9d459409663da88c39c431ba506b8069c6e74423d93c9be777c401c9de2c5ba2",
+  "timestamp": "2026-11-12T03:21:34.207451+00:00",
+  "elapsed_sec": 26.89,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-031\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Data Advisor - Analytics Engineer (Consultant)\",\n  \"current_company\": \"Forward Forever\",\n  \"role_family\": \"Data & AI\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Microsoft Fabric\",\n    \"Spark\",\n    \"dbt\",\n    \"KQL\",\n    \"Power BI\",\n    \"Azure\",\n    \"GCP\",\n    \"AWS\",\n    \"Python\",\n    \"SQL\",\n    \"Data Engineering\",\n    \"Data Analytics\",\n    \"Data Science\",\n    \"Machine Learning\",\n    \"Data Visualization\",\n    \"Cloud Computing\",\n    \"DevOps\",\n    \"Security\"\n  ],\n  \"tools_technologies\": [\n    \"Microsoft Fabric\",\n    \"Spark\",\n    \"dbt\",\n    \"KQL\",\n    \"Power BI\",\n    \"Azure\",\n    \"GCP\",\n    \"AWS\",\n    \"SQL Server\",\n    \"Snowflake\",\n    \"Amazon MWAA\",\n    \"Cloud Composer\",\n    \"Dataflow\",\n    \"Debezium\",\n    \"Tableau\",\n    \"QlikSense\"\n  ],\n  \"domains\": [\n    \"manufacturing\",\n    \"sustainability\",\n    \"supply chain\",\n    \"industrial analytics\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Master's Degree\",\n      \"field\": \"Data Analytics & Project Management\",\n      \"institution\": \"Oulu University of Applied Sciences\",\n      \"year\": null\n    },\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"unknown\",\n      \"institution\": \"Lapland University of Applied Sciences\",\n      \"year\": null\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Finland\"\n  ],\n  \"soft_skills\": [\n    \"root cause analysis\",\n    \"competitive analysis\",\n    \"data quality checks\",\n    \"mentoring\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Data Advisor - Analytics Engineer (Consultant)\",\n      \"company\": \"Forward Forever\",\n      \"start\": \"2025-04\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"BI Developer / Analytics Engineer\",\n      \"company\": \"Hiab\",\n      \"start\": \"2024-05\",\n      \"end\": \"2025-04\"\n    },\n    {\n      \"title\": \"Sustainability Data Analyst\",\n      \"company\": \"Cargotec\",\n      \"start\": \"2022-11\",\n      \"end\": \"2024-04\"\n    },\n    {\n      \"title\": \"Supply Chain Data Analyst\",\n      \"company\": \"Kalmar, Cargotec\",\n      \"start\": \"2022-05\",\n      \"end\": \"2022-10\"\n    },\n    {\n      \"title\": \"Market Analyst\",\n      \"company\": \"Interconnection Consulting\",\n      \"start\": \"2021-09\",\n      \"end\": \"2022-02\"\n    },\n    {\n      \"title\": \"Data Analyst\",\n      \"company\": \"Statzon Oy\",\n      \"start\": \"2021-06\",\n      \"end\": \"2022-02\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-031",
+    "doc_type": "cv",
+    "current_title": "Data Advisor - Analytics Engineer (Consultant)",
+    "current_company": "Forward Forever",
+    "role_family": "Data & AI",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "Microsoft Fabric",
+      "Spark",
+      "dbt",
+      "KQL",
+      "Power BI",
+      "Azure",
+      "GCP",
+      "AWS",
+      "Python",
+      "SQL",
+      "Data Engineering",
+      "Data Analytics",
+      "Data Science",
+      "Machine Learning",
+      "Data Visualization",
+      "Cloud Computing",
+      "DevOps",
+      "Security"
+    ],
+    "tools_technologies": [
+      "Microsoft Fabric",
+      "Spark",
+      "dbt",
+      "KQL",
+      "Power BI",
+      "Azure",
+      "GCP",
+      "AWS",
+      "SQL Server",
+      "Snowflake",
+      "Amazon MWAA",
+      "Cloud Composer",
+      "Dataflow",
+      "Debezium",
+      "Tableau",
+      "QlikSense"
+    ],
+    "domains": [
+      "manufacturing",
+      "sustainability",
+      "supply chain",
+      "industrial analytics"
+    ],
+    "education": [
+      {
+        "degree": "Master's Degree",
+        "field": "Data Analytics & Project Management",
+        "institution": "Oulu University of Applied Sciences",
+        "year": null
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "field": "unknown",
+        "institution": "Lapland University of Applied Sciences",
+        "year": null
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Finland"
+    ],
+    "soft_skills": [
+      "root cause analysis",
+      "competitive analysis",
+      "data quality checks",
+      "mentoring"
+    ],
+    "work_history": [
+      {
+        "title": "Data Advisor - Analytics Engineer (Consultant)",
+        "company": "Forward Forever",
+        "start": "2025-04",
+        "end": "Present"
+      },
+      {
+        "title": "BI Developer / Analytics Engineer",
+        "company": "Hiab",
+        "start": "2024-05",
+        "end": "2025-04"
+      },
+      {
+        "title": "Sustainability Data Analyst",
+        "company": "Cargotec",
+        "start": "2022-11",
+        "end": "2024-04"
+      },
+      {
+        "title": "Supply Chain Data Analyst",
+        "company": "Kalmar, Cargotec",
+        "start": "2022-05",
+        "end": "2022-10"
+      },
+      {
+        "title": "Market Analyst",
+        "company": "Interconnection Consulting",
+        "start": "2021-09",
+        "end": "2022-02"
+      },
+      {
+        "title": "Data Analyst",
+        "company": "Statzon Oy",
+        "start": "2021-06",
+        "end": "2022-02"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

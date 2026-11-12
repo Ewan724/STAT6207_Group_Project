@@ -1,0 +1,108 @@
+{
+  "doc_id": "CV-028",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "6e5b4fb38478cd18bd7550d8eef84bb7ba33e4a4a5f8c5e0987c46955c1a6ca3",
+  "timestamp": "2026-11-12T03:20:59.339451+00:00",
+  "elapsed_sec": 22.31,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-028\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Software Engineer\",\n  \"current_company\": \"Amazon\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Python\",\n    \"Java\",\n    \"Kotlin\",\n    \"TypeScript\",\n    \"JavaScript\",\n    \"C++\",\n    \"Spring Boot\",\n    \"Flask\",\n    \"REST APIs\",\n    \"Microservices architecture\",\n    \"Event-Driven Systems\",\n    \"Service Design\",\n    \"Backend Automation\",\n    \"React\",\n    \"UI Development\",\n    \"Web Applications\",\n    \"PyTorch\",\n    \"TensorFlow\",\n    \"Convolutional Neural Networks\",\n    \"Natural Language Processing\",\n    \"Transformer Models\",\n    \"Model Explainability\",\n    \"SHAP Values\",\n    \"Feature Analysis\",\n    \"Anomaly Detection\",\n    \"Traffic Prediction\",\n    \"MySQL\",\n    \"MongoDB\",\n    \"DynamoDB\",\n    \"NoSQL Database Design\"\n  ],\n  \"tools_technologies\": [\n    \"PyTorch\",\n    \"TensorFlow\",\n    \"SHAP Values\",\n    \"AWS Lambda\",\n    \"SNS\",\n    \"SQS\"\n  ],\n  \"domains\": [\n    \"e-commerce\",\n    \"fintech\",\n    \"machine learning\",\n    \"inventory management\",\n    \"regulatory compliance\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Computer Science\",\n      \"institution\": \"University of Connecticut\",\n      \"year\": 2024\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"United States\"\n  ],\n  \"soft_skills\": [\n    \"team collaboration\",\n    \"stakeholder management\",\n    \"model optimization\",\n    \"root cause analysis\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Software Engineer\",\n      \"company\": \"Amazon\",\n      \"start\": \"2024-06\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Software Engineering Intern\",\n      \"company\": \"Amazon\",\n      \"start\": \"2023-05\",\n      \"end\": \"2023-08\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-028",
+    "doc_type": "cv",
+    "current_title": "Software Engineer",
+    "current_company": "Amazon",
+    "role_family": "Engineering",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "Python",
+      "Java",
+      "Kotlin",
+      "TypeScript",
+      "JavaScript",
+      "C++",
+      "Spring Boot",
+      "Flask",
+      "REST APIs",
+      "Microservices architecture",
+      "Event-Driven Systems",
+      "Service Design",
+      "Backend Automation",
+      "React",
+      "UI Development",
+      "Web Applications",
+      "PyTorch",
+      "TensorFlow",
+      "Convolutional Neural Networks",
+      "Natural Language Processing",
+      "Transformer Models",
+      "Model Explainability",
+      "SHAP Values",
+      "Feature Analysis",
+      "Anomaly Detection",
+      "Traffic Prediction",
+      "MySQL",
+      "MongoDB",
+      "DynamoDB",
+      "NoSQL Database Design"
+    ],
+    "tools_technologies": [
+      "PyTorch",
+      "TensorFlow",
+      "SHAP Values",
+      "SNS",
+      "SQS"
+    ],
+    "domains": [
+      "e-commerce",
+      "fintech",
+      "machine learning",
+      "inventory management",
+      "regulatory compliance"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Computer Science",
+        "institution": "University of Connecticut",
+        "year": 2024
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "United States"
+    ],
+    "soft_skills": [
+      "team collaboration",
+      "stakeholder management",
+      "model optimization",
+      "root cause analysis"
+    ],
+    "work_history": [
+      {
+        "title": "Software Engineer",
+        "company": "Amazon",
+        "start": "2024-06",
+        "end": "Present"
+      },
+      {
+        "title": "Software Engineering Intern",
+        "company": "Amazon",
+        "start": "2023-05",
+        "end": "2023-08"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "AWS Lambda",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "doc_id": "CV-056",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "35adc1cbadbabe585546fdf126a9f9e063682cc10ec8fe6501060075261f62a4",
+  "timestamp": "2026-11-12T03:27:23.657851+00:00",
+  "elapsed_sec": 60.74,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-056\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Account Manager\",\n  \"current_company\": \"Goldmine Advertising\",\n  \"role_family\": \"Sales & BD\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"MS Excel\",\n    \"PowerPoint\",\n    \"Canva\",\n    \"Adobe Photoshop\",\n    \"Meta Ads\",\n    \"Google Analytics\",\n    \"Client Relationship Management\",\n    \"Integrated Marketing Strategy Development\",\n    \"Campaign Coordination & Execution\",\n    \"Budget Monitoring\",\n    \"Stakeholder Presentation\"\n  ],\n  \"tools_technologies\": [\n    \"MS Excel\",\n    \"PowerPoint\",\n    \"Canva\",\n    \"Adobe Photoshop\",\n    \"Meta Ads\",\n    \"Google Analytics\"\n  ],\n  \"domains\": [\n    \"digital marketing\",\n    \"FMCG\",\n    \"consumer healthcare\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Media & Advertising\",\n      \"institution\": \"Welingkar Institute of Management\",\n      \"year\": 2024\n    },\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"unknown\",\n      \"institution\": \"NAEMD Academy\",\n      \"year\": 2021\n    },\n    {\n      \"degree\": \"unknown\",\n      \"field\": \"unknown\",\n      \"institution\": \"Sathaye college\",\n      \"year\": 2012\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"India\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"collaboration\",\n    \"client communication\",\n    \"strategic recommendations\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Account Manager\",\n      \"company\": \"Goldmine Advertising\",\n      \"start\": \"2025-10\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Assistant Account Manager\",\n      \"company\": \"Quotient Communication\",\n      \"start\": \"2023-12\",\n      \"end\": \"2025-10\"\n    },\n    {\n      \"title\": \"Senior Account Executive\",\n      \"company\": \"Oddinary Marketing\",\n      \"start\": \"2023-01\",\n      \"end\": \"2023-12\"\n    },\n    {\n      \"title\": \"Account Executive\",\n      \"company\": \"LS Digital\",\n      \"start\": \"2021-07\",\n      \"end\": \"2022-12\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-056",
+    "doc_type": "cv",
+    "current_title": "Account Manager",
+    "current_company": "Goldmine Advertising",
+    "role_family": "Sales & BD",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "MS Excel",
+      "PowerPoint",
+      "Canva",
+      "Adobe Photoshop",
+      "Meta Ads",
+      "Google Analytics",
+      "Client Relationship Management",
+      "Integrated Marketing Strategy Development",
+      "Campaign Coordination & Execution",
+      "Budget Monitoring",
+      "Stakeholder Presentation"
+    ],
+    "tools_technologies": [
+      "MS Excel",
+      "PowerPoint",
+      "Canva",
+      "Adobe Photoshop",
+      "Meta Ads",
+      "Google Analytics"
+    ],
+    "domains": [
+      "digital marketing",
+      "FMCG",
+      "consumer healthcare"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Media & Advertising",
+        "institution": "Welingkar Institute of Management",
+        "year": 2024
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "field": "unknown",
+        "institution": "NAEMD Academy",
+        "year": 2021
+      },
+      {
+        "degree": "unknown",
+        "field": "unknown",
+        "institution": "Sathaye college",
+        "year": 2012
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "India"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "collaboration",
+      "client communication",
+      "strategic recommendations"
+    ],
+    "work_history": [
+      {
+        "title": "Account Manager",
+        "company": "Goldmine Advertising",
+        "start": "2025-10",
+        "end": "Present"
+      },
+      {
+        "title": "Assistant Account Manager",
+        "company": "Quotient Communication",
+        "start": "2023-12",
+        "end": "2025-10"
+      },
+      {
+        "title": "Senior Account Executive",
+        "company": "Oddinary Marketing",
+        "start": "2023-01",
+        "end": "2023-12"
+      },
+      {
+        "title": "Account Executive",
+        "company": "LS Digital",
+        "start": "2021-07",
+        "end": "2022-12"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

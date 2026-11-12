@@ -1,0 +1,118 @@
+{
+  "doc_id": "CV-076",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "41be561dfa0a4a0aae24a1323afdca2aa54aa6303cba33854d2b67961d4026e7",
+  "timestamp": "2026-11-12T03:34:41.365346+00:00",
+  "elapsed_sec": 27.93,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-076\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Senior Analyst\",\n  \"current_company\": \"Goldman Sachs\",\n  \"role_family\": \"Finance & Legal\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Investment Banking Analysis\",\n    \"Financial Statement Analysis\",\n    \"Ratio Analysis\",\n    \"Advanced Excel\",\n    \"Company Valuation\",\n    \"Research & Industry Analysis\",\n    \"Project Management\",\n    \"Data analysis optimization\",\n    \"Financial modeling techniques\",\n    \"Valuation documentation preparation\"\n  ],\n  \"tools_technologies\": [\n    \"Excel\",\n    \"DCF\",\n    \"Comparable Company Analysis\",\n    \"Precedent Transactions\",\n    \"SEC filings\",\n    \"10-K\",\n    \"10-Q\",\n    \"8-K\",\n    \"6-K\"\n  ],\n  \"domains\": [\n    \"investment banking\",\n    \"financial analysis\",\n    \"corporate finance\",\n    \"M&A\",\n    \"capital markets\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Master of Business Administration\",\n      \"field\": \"Management Studies\",\n      \"institution\": \"University School of Management Studies, GGSIPU\",\n      \"year\": 2022\n    },\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Unknown\",\n      \"institution\": \"Kamala Nehru College, University of Delhi\",\n      \"year\": 2019\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [],\n  \"soft_skills\": [\n    \"team collaboration\",\n    \"strategic planning\",\n    \"presentation design\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Senior Analyst\",\n      \"company\": \"Goldman Sachs\",\n      \"start\": \"2024-09\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Analyst - Debt Valuation Strategies\",\n      \"company\": \"Wipro Ltd.\",\n      \"start\": \"2023-09\",\n      \"end\": \"2024-08\"\n    },\n    {\n      \"title\": \"Analyst\",\n      \"company\": \"Evalueserve\",\n      \"start\": \"2022-02\",\n      \"end\": \"2023-08\"\n    },\n    {\n      \"title\": \"Intern\",\n      \"company\": \"Cairn Oil & Gas, Vedanta LTD.\",\n      \"start\": \"2021-06\",\n      \"end\": \"2021-07\"\n    },\n    {\n      \"title\": \"Intern\",\n      \"company\": \"Nestle India LTD.\",\n      \"start\": \"2020-08\",\n      \"end\": \"2020-09\"\n    },\n    {\n      \"title\": \"Intern\",\n      \"company\": \"Stock Holding Corporation of India Ltd\",\n      \"start\": \"2018-06\",\n      \"end\": \"2018-07\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-076",
+    "doc_type": "cv",
+    "current_title": "Senior Analyst",
+    "current_company": "Goldman Sachs",
+    "role_family": "Finance & Legal",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "Investment Banking Analysis",
+      "Financial Statement Analysis",
+      "Ratio Analysis",
+      "Advanced Excel",
+      "Company Valuation",
+      "Research & Industry Analysis",
+      "Project Management",
+      "Data analysis optimization",
+      "Financial modeling techniques",
+      "Valuation documentation preparation"
+    ],
+    "tools_technologies": [
+      "Excel",
+      "DCF",
+      "Precedent Transactions",
+      "SEC filings",
+      "10-K",
+      "10-Q",
+      "8-K",
+      "6-K"
+    ],
+    "domains": [
+      "investment banking",
+      "financial analysis",
+      "corporate finance",
+      "M&A",
+      "capital markets"
+    ],
+    "education": [
+      {
+        "degree": "Master of Business Administration",
+        "field": "Management Studies",
+        "institution": "University School of Management Studies, GGSIPU",
+        "year": 2022
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Unknown",
+        "institution": "Kamala Nehru College, University of Delhi",
+        "year": 2019
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [],
+    "soft_skills": [
+      "team collaboration",
+      "strategic planning",
+      "presentation design"
+    ],
+    "work_history": [
+      {
+        "title": "Senior Analyst",
+        "company": "Goldman Sachs",
+        "start": "2024-09",
+        "end": "Present"
+      },
+      {
+        "title": "Analyst - Debt Valuation Strategies",
+        "company": "Wipro Ltd.",
+        "start": "2023-09",
+        "end": "2024-08"
+      },
+      {
+        "title": "Analyst",
+        "company": "Evalueserve",
+        "start": "2022-02",
+        "end": "2023-08"
+      },
+      {
+        "title": "Intern",
+        "company": "Cairn Oil & Gas, Vedanta LTD.",
+        "start": "2021-06",
+        "end": "2021-07"
+      },
+      {
+        "title": "Intern",
+        "company": "Nestle India LTD.",
+        "start": "2020-08",
+        "end": "2020-09"
+      },
+      {
+        "title": "Intern",
+        "company": "Stock Holding Corporation of India Ltd",
+        "start": "2018-06",
+        "end": "2018-07"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "Comparable Company Analysis",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "doc_id": "CV-046",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "8b2e925f426b95a5f016793b6ed00697ee5b306b72d03bfd930f44550cce13fb",
+  "timestamp": "2026-11-12T03:24:17.001508+00:00",
+  "elapsed_sec": 25.43,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-046\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Data/ML Engineer\",\n  \"current_company\": \"Forvia Hella\",\n  \"role_family\": \"Data & AI\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Python\",\n    \"SQL\",\n    \"C++\",\n    \"FastAPI\",\n    \"REST APIs\",\n    \"Git\",\n    \"Linux\",\n    \"Docker\",\n    \"RAG\",\n    \"LLM application pipelines\",\n    \"hybrid retrieval\",\n    \"ElasticSearch\",\n    \"Qdrant\",\n    \"vLLM\",\n    \"LoRA/PEFT\",\n    \"Microsoft Azure\",\n    \"Azure DevOps\",\n    \"gitlab CI/CD\",\n    \"Github Actions\",\n    \"Kubernetes\",\n    \"GKE\",\n    \"terraform\",\n    \"Prometheus\",\n    \"Grafana\",\n    \"PostgreSQL\",\n    \"Azure SQL Server\",\n    \"Ray\",\n    \"Celery\",\n    \"RabbitMQ\",\n    \"Airflow\"\n  ],\n  \"tools_technologies\": [\n    \"Docker\",\n    \"Kubernetes\",\n    \"GKE\",\n    \"terraform\",\n    \"Prometheus\",\n    \"Grafana\",\n    \"PostgreSQL\",\n    \"Azure SQL Server\",\n    \"Ray\",\n    \"Celery\",\n    \"RabbitMQ\",\n    \"Airflow\",\n    \"Selenium\",\n    \"BeautifulSoup\",\n    \"PyTorch\",\n    \"CNNs\",\n    \"ResNet\",\n    \"ONNX\",\n    \"FastAPI\",\n    \"MLflow\"\n  ],\n  \"domains\": [\n    \"healthcare\",\n    \"automotive\",\n    \"education\",\n    \"NLP\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Biomedical Engineering\",\n      \"field\": \"Biomedical Engineering\",\n      \"institution\": \"International University, Vietnam National University - Ho Chi Minh City\",\n      \"year\": 2025\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Vietnam\"\n  ],\n  \"soft_skills\": [],\n  \"work_history\": [\n    {\n      \"title\": \"Data/ML Engineer\",\n      \"company\": \"Forvia Hella\",\n      \"start\": \"2026-03\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"AI Agent Engineer\",\n      \"company\": \"Cazoodle Inc.\",\n      \"start\": \"2025-09\",\n      \"end\": \"2026-01\"\n    },\n    {\n      \"title\": \"Machine Learning Engineer\",\n      \"company\": \"Joblogic Service Management\",\n      \"start\": \"2025-04\",\n      \"end\": \"2025-10\"\n    },\n    {\n      \"title\": \"AI Engineer\",\n      \"company\": \"IVS Joint Stock Company\",\n      \"start\": \"2023-06\",\n      \"end\": \"2024-07\"\n    },\n    {\n      \"title\": \"AI Research Assistant\",\n      \"company\": \"Brain AI Lab, International University, VNU-HCM\",\n      \"start\": \"2021-10\",\n      \"end\": \"2025-03\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-046",
+    "doc_type": "cv",
+    "current_title": "Data/ML Engineer",
+    "current_company": "Forvia Hella",
+    "role_family": "Data & AI",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "Python",
+      "SQL",
+      "C++",
+      "FastAPI",
+      "REST APIs",
+      "Git",
+      "Linux",
+      "Docker",
+      "RAG",
+      "LLM application pipelines",
+      "hybrid retrieval",
+      "ElasticSearch",
+      "Qdrant",
+      "vLLM",
+      "LoRA/PEFT",
+      "Microsoft Azure",
+      "Azure DevOps",
+      "gitlab CI/CD",
+      "Github Actions",
+      "Kubernetes",
+      "GKE",
+      "terraform",
+      "Prometheus",
+      "Grafana",
+      "PostgreSQL",
+      "Azure SQL Server",
+      "Ray",
+      "Celery",
+      "RabbitMQ",
+      "Airflow"
+    ],
+    "tools_technologies": [
+      "Docker",
+      "Kubernetes",
+      "GKE",
+      "terraform",
+      "Prometheus",
+      "Grafana",
+      "PostgreSQL",
+      "Azure SQL Server",
+      "Ray",
+      "Celery",
+      "RabbitMQ",
+      "Airflow",
+      "Selenium",
+      "BeautifulSoup",
+      "PyTorch",
+      "CNNs",
+      "ResNet",
+      "ONNX",
+      "FastAPI",
+      "MLflow"
+    ],
+    "domains": [
+      "healthcare",
+      "automotive",
+      "education",
+      "NLP"
+    ],
+    "education": [
+      {
+        "degree": "Biomedical Engineering",
+        "field": "Biomedical Engineering",
+        "institution": "International University, Vietnam National University - Ho Chi Minh City",
+        "year": 2025
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Vietnam"
+    ],
+    "soft_skills": [],
+    "work_history": [
+      {
+        "title": "Data/ML Engineer",
+        "company": "Forvia Hella",
+        "start": "2026-03",
+        "end": "Present"
+      },
+      {
+        "title": "AI Agent Engineer",
+        "company": "Cazoodle Inc.",
+        "start": "2025-09",
+        "end": "2026-01"
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "company": "Joblogic Service Management",
+        "start": "2025-04",
+        "end": "2025-10"
+      },
+      {
+        "title": "AI Engineer",
+        "company": "IVS Joint Stock Company",
+        "start": "2023-06",
+        "end": "2024-07"
+      },
+      {
+        "title": "AI Research Assistant",
+        "company": "Brain AI Lab, International University, VNU-HCM",
+        "start": "2021-10",
+        "end": "2025-03"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

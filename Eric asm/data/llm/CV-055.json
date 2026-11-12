@@ -1,0 +1,152 @@
+{
+  "doc_id": "CV-055",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "f00d167c93ffe4d26e9abeeda50714db8baf495531fc00fdb7659fef65bfade4",
+  "timestamp": "2026-11-12T03:26:41.934112+00:00",
+  "elapsed_sec": 43.86,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-055\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Director of Business\",\n  \"current_company\": \"Whale AI\",\n  \"role_family\": \"Sales & BD\",\n  \"seniority\": \"director\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Sales\",\n    \"Business Development\",\n    \"Customer-Centric Approach\",\n    \"Storytelling\",\n    \"AI\",\n    \"FinTech\",\n    \"Regtech\",\n    \"Cloud\",\n    \"Conferencing\",\n    \"Cyber-security\",\n    \"Marketing\",\n    \"Product Promotion\",\n    \"Team Leadership\",\n    \"Training\",\n    \"Guidance\",\n    \"Channel Development\",\n    \"Partnership Development\",\n    \"Consultative Sales\",\n    \"Solutions Sales\",\n    \"Security Framework Consultancy\",\n    \"Iso27001\",\n    \"Nist\",\n    \"GDPR\",\n    \"Penetration Testing\",\n    \"Vulnerabilities Scanning\",\n    \"Webex\",\n    \"Skype of Business\",\n    \"Webinar\",\n    \"Account Servicing\",\n    \"Account Management\"\n  ],\n  \"tools_technologies\": [\n    \"AWS\",\n    \"Azure\",\n    \"GCP\",\n    \"Cisco\",\n    \"PaloAlto\",\n    \"ISO27001\",\n    \"NIST\",\n    \"GDPR\",\n    \"Penetration Testing\",\n    \"Webex\",\n    \"Skype of Business\",\n    \"Webinar\",\n    \"Tenable IO\",\n    \"Digital Shadow\",\n    \"RiskIQ\"\n  ],\n  \"domains\": [\n    \"FinTech\",\n    \"Regtech\",\n    \"Cyber Security\",\n    \"Cloud Services\",\n    \"Banking\",\n    \"Fintech Solutions\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Marketing\",\n      \"institution\": \"City University of Hong Kong\",\n      \"year\": 2008\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Hong Kong\"\n  ],\n  \"soft_skills\": [\n    \"Team Leadership\",\n    \"Training\",\n    \"Guidance\",\n    \"Consultative Sales\",\n    \"Solutions Sales\",\n    \"Account Management\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Director of Business\",\n      \"company\": \"Whale AI\",\n      \"start\": \"2024-11\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Head of Sales Asia\",\n      \"company\": \"Chekk Limited\",\n      \"start\": \"2023-02\",\n      \"end\": \"2024-01\"\n    },\n    {\n      \"title\": \"Client Manger\",\n      \"company\": \"NTT Com Asia Limited\",\n      \"start\": \"2022-03\",\n      \"end\": \"2023-01\"\n    },\n    {\n      \"title\": \"Sales Manager\",\n      \"company\": \"abc Multiactive\",\n      \"start\": \"2020-01\",\n      \"end\": \"2022-03\"\n    },\n    {\n      \"title\": \"Sales Manager\",\n      \"company\": \"Adura Cyber Security Group\",\n      \"start\": \"2019-01\",\n      \"end\": \"2019-12\"\n    },\n    {\n      \"title\": \"Business Development Manager\",\n      \"company\": \"West UC\",\n      \"start\": \"2017-09\",\n      \"end\": \"2018-11\"\n    },\n    {\n      \"title\": \"Regional Sales Manager\",\n      \"company\": \"A10 NETWORKS INC\",\n      \"start\": \"2014-12\",\n      \"end\": \"2016-06\"\n    },\n    {\n      \"title\": \"Sales Manager\",\n      \"company\": \"Dell SonicWALL\",\n      \"start\": \"2011-09\",\n      \"end\": \"2014-11\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-055",
+    "doc_type": "cv",
+    "current_title": "Director of Business",
+    "current_company": "Whale AI",
+    "role_family": "Sales & BD",
+    "seniority": "director",
+    "total_years_experience": null,
+    "skills": [
+      "Sales",
+      "Business Development",
+      "Customer-Centric Approach",
+      "Storytelling",
+      "AI",
+      "FinTech",
+      "Regtech",
+      "Cloud",
+      "Conferencing",
+      "Cyber-security",
+      "Marketing",
+      "Product Promotion",
+      "Team Leadership",
+      "Training",
+      "Guidance",
+      "Channel Development",
+      "Partnership Development",
+      "Consultative Sales",
+      "Solutions Sales",
+      "Security Framework Consultancy",
+      "Iso27001",
+      "Nist",
+      "GDPR",
+      "Penetration Testing",
+      "Vulnerabilities Scanning",
+      "Webex",
+      "Skype of Business",
+      "Webinar",
+      "Account Servicing",
+      "Account Management"
+    ],
+    "tools_technologies": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "Cisco",
+      "PaloAlto",
+      "ISO27001",
+      "NIST",
+      "GDPR",
+      "Penetration Testing",
+      "Webex",
+      "Skype of Business",
+      "Webinar",
+      "Tenable IO",
+      "Digital Shadow",
+      "RiskIQ"
+    ],
+    "domains": [
+      "FinTech",
+      "Regtech",
+      "Cyber Security",
+      "Cloud Services",
+      "Banking",
+      "Fintech Solutions"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Marketing",
+        "institution": "City University of Hong Kong",
+        "year": 2008
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Hong Kong"
+    ],
+    "soft_skills": [
+      "Team Leadership",
+      "Training",
+      "Guidance",
+      "Consultative Sales",
+      "Solutions Sales",
+      "Account Management"
+    ],
+    "work_history": [
+      {
+        "title": "Director of Business",
+        "company": "Whale AI",
+        "start": "2024-11",
+        "end": "Present"
+      },
+      {
+        "title": "Head of Sales Asia",
+        "company": "Chekk Limited",
+        "start": "2023-02",
+        "end": "2024-01"
+      },
+      {
+        "title": "Client Manger",
+        "company": "NTT Com Asia Limited",
+        "start": "2022-03",
+        "end": "2023-01"
+      },
+      {
+        "title": "Sales Manager",
+        "company": "abc Multiactive",
+        "start": "2020-01",
+        "end": "2022-03"
+      },
+      {
+        "title": "Sales Manager",
+        "company": "Adura Cyber Security Group",
+        "start": "2019-01",
+        "end": "2019-12"
+      },
+      {
+        "title": "Business Development Manager",
+        "company": "West UC",
+        "start": "2017-09",
+        "end": "2018-11"
+      },
+      {
+        "title": "Regional Sales Manager",
+        "company": "A10 NETWORKS INC",
+        "start": "2014-12",
+        "end": "2016-06"
+      },
+      {
+        "title": "Sales Manager",
+        "company": "Dell SonicWALL",
+        "start": "2011-09",
+        "end": "2014-11"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

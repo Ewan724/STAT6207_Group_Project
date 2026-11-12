@@ -1,0 +1,99 @@
+{
+  "doc_id": "CAND-104",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "7635f72442e91fcd983e653cbfe21a6b6e78ce06b53d0483049c70daabee3c81",
+  "timestamp": "2026-11-12T03:42:20.449761+00:00",
+  "elapsed_sec": 19.12,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CAND-104\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Data Engineer\",\n  \"current_company\": \"BP\",\n  \"role_family\": \"Data & AI\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Python\",\n    \"SQL\",\n    \"Apache Kafka\",\n    \"Spark Structured Streaming\",\n    \"Azure Databricks\",\n    \"Delta Lake\",\n    \"Airflow\",\n    \"PostgreSQL\",\n    \"MySQL\",\n    \"Docker\",\n    \"Java\",\n    \"Scala\",\n    \"JavaScript\",\n    \"C++\",\n    \"Shell Scripting\",\n    \"Spring Boot\",\n    \"Spring Framework\",\n    \"Hibernate\",\n    \"Hadoop\",\n    \"ETL/ELT Processes\"\n  ],\n  \"tools_technologies\": [\n    \"Azure Logic Apps\",\n    \"GitHub Actions\",\n    \"Azure DevOps\",\n    \"Power BI\",\n    \"Azure Data Factory\",\n    \"SQL Server\",\n    \"Svelte\",\n    \"Django REST API\",\n    \"Postman\"\n  ],\n  \"domains\": [\n    \"oil and gas\",\n    \"plant integrity\",\n    \"refinery\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Mechanical Engineering\",\n      \"institution\": \"University of Nottingham Malaysia Campus\",\n      \"year\": 2016\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Malaysia\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Data Engineer\",\n      \"company\": \"BP\",\n      \"start\": \"2022-03\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Data Engineer (contract)\",\n      \"company\": \"BASSnet\",\n      \"start\": \"2020-01\",\n      \"end\": \"2021-12\"\n    },\n    {\n      \"title\": \"Full Stack Software Engineer\",\n      \"company\": \"Sunway Construction Sdn Bhd\",\n      \"start\": \"2019-01\",\n      \"end\": \"2019-11\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CAND-104",
+    "doc_type": "cv",
+    "current_title": "Data Engineer",
+    "current_company": "BP",
+    "role_family": "Data & AI",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "Python",
+      "SQL",
+      "Apache Kafka",
+      "Spark Structured Streaming",
+      "Azure Databricks",
+      "Delta Lake",
+      "Airflow",
+      "PostgreSQL",
+      "MySQL",
+      "Docker",
+      "Java",
+      "Scala",
+      "JavaScript",
+      "C++",
+      "Shell Scripting",
+      "Spring Boot",
+      "Spring Framework",
+      "Hibernate",
+      "Hadoop",
+      "ETL/ELT Processes"
+    ],
+    "tools_technologies": [
+      "Azure Logic Apps",
+      "GitHub Actions",
+      "Azure DevOps",
+      "Power BI",
+      "Azure Data Factory",
+      "SQL Server",
+      "Svelte",
+      "Django REST API",
+      "Postman"
+    ],
+    "domains": [
+      "oil and gas",
+      "plant integrity",
+      "refinery"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Mechanical Engineering",
+        "institution": "University of Nottingham Malaysia Campus",
+        "year": 2016
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Malaysia"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring"
+    ],
+    "work_history": [
+      {
+        "title": "Data Engineer",
+        "company": "BP",
+        "start": "2022-03",
+        "end": "Present"
+      },
+      {
+        "title": "Data Engineer (contract)",
+        "company": "BASSnet",
+        "start": "2020-01",
+        "end": "2021-12"
+      },
+      {
+        "title": "Full Stack Software Engineer",
+        "company": "Sunway Construction Sdn Bhd",
+        "start": "2019-01",
+        "end": "2019-11"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

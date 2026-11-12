@@ -1,0 +1,92 @@
+{
+  "doc_id": "CV-043",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "119450e1c0a21ba95835fcf77e6c7dbdc8e362bb3eddefb7431dc2d672d8b6d1",
+  "timestamp": "2026-11-12T03:23:40.744571+00:00",
+  "elapsed_sec": 17.93,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-043\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Senior Data Scientist\",\n  \"current_company\": \"Airbnb\",\n  \"role_family\": \"Data & AI\",\n  \"seniority\": \"senior\",\n  \"total_years_experience\": 9,\n  \"skills\": [\n    \"Experimentation\",\n    \"A/B Testing\",\n    \"Causal Inference\",\n    \"Statistical Modeling\",\n    \"Predictive Analytics\",\n    \"Classification\",\n    \"Regression\",\n    \"Xgboost\",\n    \"Feature Engineering\",\n    \"Model Evaluation\",\n    \"SHAP\",\n    \"LLM\",\n    \"RAG\",\n    \"Prompt Engineering\",\n    \"Embeddings\",\n    \"Vector Search\",\n    \"AI Quality Metrics\",\n    \"SQL\",\n    \"Python\",\n    \"Airflow\",\n    \"ETL/ELT\",\n    \"Data Quality\",\n    \"Data Modeling\",\n    \"Feature Pipelines\",\n    \"AWS\",\n    \"Azure\",\n    \"Databricks\",\n    \"Snowflake\",\n    \"BigQuery\",\n    \"Spark\"\n  ],\n  \"tools_technologies\": [\n    \"scikit-learn\",\n    \"gradient boosting\"\n  ],\n  \"domains\": [\n    \"ride-sharing\",\n    \"travel\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Master's Degree\",\n      \"field\": null,\n      \"institution\": \"Northwestern University\",\n      \"year\": 2014\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"United States\"\n  ],\n  \"soft_skills\": [],\n  \"work_history\": [\n    {\n      \"title\": \"Senior Data Scientist\",\n      \"company\": \"Airbnb\",\n      \"start\": \"2018-08\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Data Scientist\",\n      \"company\": \"Uber\",\n      \"start\": \"2015-03\",\n      \"end\": \"2018-08\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-043",
+    "doc_type": "cv",
+    "current_title": "Senior Data Scientist",
+    "current_company": "Airbnb",
+    "role_family": "Data & AI",
+    "seniority": "senior",
+    "total_years_experience": 9,
+    "skills": [
+      "Experimentation",
+      "A/B Testing",
+      "Causal Inference",
+      "Statistical Modeling",
+      "Predictive Analytics",
+      "Classification",
+      "Regression",
+      "Xgboost",
+      "Feature Engineering",
+      "Model Evaluation",
+      "SHAP",
+      "LLM",
+      "RAG",
+      "Prompt Engineering",
+      "Embeddings",
+      "Vector Search",
+      "AI Quality Metrics",
+      "SQL",
+      "Python",
+      "Airflow",
+      "ETL/ELT",
+      "Data Quality",
+      "Data Modeling",
+      "Feature Pipelines",
+      "AWS",
+      "Azure",
+      "Databricks",
+      "Snowflake",
+      "BigQuery",
+      "Spark"
+    ],
+    "tools_technologies": [
+      "scikit-learn",
+      "gradient boosting"
+    ],
+    "domains": [
+      "ride-sharing",
+      "travel"
+    ],
+    "education": [
+      {
+        "degree": "Master's Degree",
+        "field": null,
+        "institution": "Northwestern University",
+        "year": 2014
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "United States"
+    ],
+    "soft_skills": [],
+    "work_history": [
+      {
+        "title": "Senior Data Scientist",
+        "company": "Airbnb",
+        "start": "2018-08",
+        "end": "Present"
+      },
+      {
+        "title": "Data Scientist",
+        "company": "Uber",
+        "start": "2015-03",
+        "end": "2018-08"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

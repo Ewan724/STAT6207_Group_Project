@@ -1,0 +1,91 @@
+{
+  "doc_id": "CAND-109",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "f34747fe8b60bbf040c2556c7f3731cf4b4986e77f51e83b3666c8c8275fc896",
+  "timestamp": "2026-11-12T03:43:45.334479+00:00",
+  "elapsed_sec": 17.65,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CAND-109\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Tech Lead\",\n  \"current_company\": \"JaGaApp / Red Ideas Holdings Berhad\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"lead\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Flutter\",\n    \"React.js\",\n    \"Kotlin\",\n    \"Swift\",\n    \"TensorFlow\",\n    \"Mobile Development\",\n    \"Web Development\",\n    \"Machine Learning\",\n    \"Cloud & Database\"\n  ],\n  \"tools_technologies\": [\n    \"Android Studio\",\n    \"Xcode\",\n    \"Firebase\",\n    \"BigQuery\",\n    \"Next.js\",\n    \"LabVIEW\"\n  ],\n  \"domains\": [\n    \"mobile development\",\n    \"software engineering\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Electrical and Electronic Engineering\",\n      \"institution\": \"Universiti Tunku Abdul Rahman\",\n      \"year\": 2013\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Malaysia\"\n  ],\n  \"soft_skills\": [\n    \"technical leadership\",\n    \"recruitment\",\n    \"mentoring\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Tech Lead\",\n      \"company\": \"JaGaApp / Red Ideas Holdings Berhad\",\n      \"start\": \"2018-06\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Senior Technical Program Manager\",\n      \"company\": \"Commercial Info-Centre Sdn Bhd\",\n      \"start\": \"2017-02\",\n      \"end\": \"2018-06\"\n    },\n    {\n      \"title\": \"Software Engineer\",\n      \"company\": \"Sharp Electronics Malaysia\",\n      \"start\": \"2015-02\",\n      \"end\": \"2016-09\"\n    },\n    {\n      \"title\": \"Test Development Engineer\",\n      \"company\": \"Panasonic\",\n      \"start\": \"2013-01\",\n      \"end\": \"2015-01\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CAND-109",
+    "doc_type": "cv",
+    "current_title": "Tech Lead",
+    "current_company": "JaGaApp / Red Ideas Holdings Berhad",
+    "role_family": "Engineering",
+    "seniority": "lead",
+    "total_years_experience": null,
+    "skills": [
+      "Flutter",
+      "React.js",
+      "Kotlin",
+      "Swift",
+      "TensorFlow",
+      "Mobile Development",
+      "Web Development",
+      "Machine Learning",
+      "Cloud & Database"
+    ],
+    "tools_technologies": [
+      "Android Studio",
+      "Xcode",
+      "Firebase",
+      "BigQuery",
+      "Next.js",
+      "LabVIEW"
+    ],
+    "domains": [
+      "mobile development",
+      "software engineering"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Electrical and Electronic Engineering",
+        "institution": "Universiti Tunku Abdul Rahman",
+        "year": 2013
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Malaysia"
+    ],
+    "soft_skills": [
+      "technical leadership",
+      "recruitment",
+      "mentoring"
+    ],
+    "work_history": [
+      {
+        "title": "Tech Lead",
+        "company": "JaGaApp / Red Ideas Holdings Berhad",
+        "start": "2018-06",
+        "end": "Present"
+      },
+      {
+        "title": "Senior Technical Program Manager",
+        "company": "Commercial Info-Centre Sdn Bhd",
+        "start": "2017-02",
+        "end": "2018-06"
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Sharp Electronics Malaysia",
+        "start": "2015-02",
+        "end": "2016-09"
+      },
+      {
+        "title": "Test Development Engineer",
+        "company": "Panasonic",
+        "start": "2013-01",
+        "end": "2015-01"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

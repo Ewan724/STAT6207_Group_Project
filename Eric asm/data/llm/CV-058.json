@@ -1,0 +1,119 @@
+{
+  "doc_id": "CV-058",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "0a52402f497f20fbd778c3a4d24d42cc253947282865668b5f1c64116f045101",
+  "timestamp": "2026-11-12T03:28:12.683071+00:00",
+  "elapsed_sec": 49.02,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-058\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Senior Commercial & Business Development Manager – Food Division\",\n  \"current_company\": \"PT Esco Chemicals Mitrautama\",\n  \"role_family\": \"Sales & BD\",\n  \"seniority\": \"senior\",\n  \"total_years_experience\": 15,\n  \"skills\": [\n    \"Strategic Sales Management\",\n    \"Business Development\",\n    \"Revenue Growth Strategy\",\n    \"Key Account Management\",\n    \"Contract Negotiation\",\n    \"Profitability Improvement\",\n    \"Customer Retention\",\n    \"Market Expansion\",\n    \"New Business Development\",\n    \"Customer Satisfaction Management\",\n    \"Commercial Partnership Development\",\n    \"Team Leadership\",\n    \"Sales Coaching\",\n    \"Performance Management\",\n    \"Cross-Functional Collaboration\",\n    \"Change Management\"\n  ],\n  \"tools_technologies\": [],\n  \"domains\": [\n    \"Food Ingredients\",\n    \"Beverage Industry\",\n    \"Functional Ingredients\",\n    \"Food Processing Industry\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Food Technology\",\n      \"institution\": \"Bogor Agricultural University (IPB University)\",\n      \"year\": 2005\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Indonesia\"\n  ],\n  \"soft_skills\": [\n    \"Team Leadership\",\n    \"Sales Coaching\",\n    \"Performance Management\",\n    \"Cross-Functional Collaboration\",\n    \"Change Management\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Senior Commercial & Business Development Manager – Food Division\",\n      \"company\": \"PT Esco Chemicals Mitrautama\",\n      \"start\": \"2021-04\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Senior Account Manager – Food Division\",\n      \"company\": \"PT Grand Multi Chemicals\",\n      \"start\": \"2018-07\",\n      \"end\": \"2021-03\"\n    },\n    {\n      \"title\": \"Sales Manager – Food Care\",\n      \"company\": \"PT Lam Seng Hang Indonesia\",\n      \"start\": \"2017-08\",\n      \"end\": \"2018-07\"\n    },\n    {\n      \"title\": \"Assistant Sales Manager – Life & Health Care\",\n      \"company\": \"PT Nagase Impor-Ekspor Indonesia\",\n      \"start\": \"2016-06\",\n      \"end\": \"2017-08\"\n    },\n    {\n      \"title\": \"Territory Sales Manager – Food Care\",\n      \"company\": \"PT Diversey Indonesia (Sealed Air)\",\n      \"start\": \"2014-04\",\n      \"end\": \"2016-05\"\n    },\n    {\n      \"title\": \"Sales & Application Engineer\",\n      \"company\": \"PT QES Indonesia\",\n      \"start\": \"2010-06\",\n      \"end\": \"2014-04\"\n    },\n    {\n      \"title\": \"Technical Manager / Chemist\",\n      \"company\": \"PT Trieka Labs\",\n      \"start\": \"2006-01\",\n      \"end\": \"2010-01\"\n    },\n    {\n      \"title\": \"R&D Staff\",\n      \"company\": \"PT Radiance Food\",\n      \"start\": \"2005-01\",\n      \"end\": \"2006-01\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-058",
+    "doc_type": "cv",
+    "current_title": "Senior Commercial & Business Development Manager – Food Division",
+    "current_company": "PT Esco Chemicals Mitrautama",
+    "role_family": "Sales & BD",
+    "seniority": "senior",
+    "total_years_experience": 15,
+    "skills": [
+      "Strategic Sales Management",
+      "Business Development",
+      "Revenue Growth Strategy",
+      "Key Account Management",
+      "Contract Negotiation",
+      "Profitability Improvement",
+      "Customer Retention",
+      "Market Expansion",
+      "New Business Development",
+      "Customer Satisfaction Management",
+      "Commercial Partnership Development",
+      "Team Leadership",
+      "Sales Coaching",
+      "Performance Management",
+      "Cross-Functional Collaboration",
+      "Change Management"
+    ],
+    "tools_technologies": [],
+    "domains": [
+      "Food Ingredients",
+      "Beverage Industry",
+      "Functional Ingredients",
+      "Food Processing Industry"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Food Technology",
+        "institution": "Bogor Agricultural University (IPB University)",
+        "year": 2005
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Indonesia"
+    ],
+    "soft_skills": [
+      "Team Leadership",
+      "Sales Coaching",
+      "Performance Management",
+      "Cross-Functional Collaboration",
+      "Change Management"
+    ],
+    "work_history": [
+      {
+        "title": "Senior Commercial & Business Development Manager – Food Division",
+        "company": "PT Esco Chemicals Mitrautama",
+        "start": "2021-04",
+        "end": "Present"
+      },
+      {
+        "title": "Senior Account Manager – Food Division",
+        "company": "PT Grand Multi Chemicals",
+        "start": "2018-07",
+        "end": "2021-03"
+      },
+      {
+        "title": "Sales Manager – Food Care",
+        "company": "PT Lam Seng Hang Indonesia",
+        "start": "2017-08",
+        "end": "2018-07"
+      },
+      {
+        "title": "Assistant Sales Manager – Life & Health Care",
+        "company": "PT Nagase Impor-Ekspor Indonesia",
+        "start": "2016-06",
+        "end": "2017-08"
+      },
+      {
+        "title": "Territory Sales Manager – Food Care",
+        "company": "PT Diversey Indonesia (Sealed Air)",
+        "start": "2014-04",
+        "end": "2016-05"
+      },
+      {
+        "title": "Sales & Application Engineer",
+        "company": "PT QES Indonesia",
+        "start": "2010-06",
+        "end": "2014-04"
+      },
+      {
+        "title": "Technical Manager / Chemist",
+        "company": "PT Trieka Labs",
+        "start": "2006-01",
+        "end": "2010-01"
+      },
+      {
+        "title": "R&D Staff",
+        "company": "PT Radiance Food",
+        "start": "2005-01",
+        "end": "2006-01"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

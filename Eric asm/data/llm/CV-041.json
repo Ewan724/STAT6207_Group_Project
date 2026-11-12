@@ -1,0 +1,112 @@
+{
+  "doc_id": "CV-041",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "96472f9220a10f16cc472e24b548ba0c88b1a3306547a9b8bd0753b9c05295ae",
+  "timestamp": "2026-11-12T03:23:22.817696+00:00",
+  "elapsed_sec": 24.22,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-041\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Senior AI/ML Engineer\",\n  \"current_company\": \"Genpact\",\n  \"role_family\": \"Data & AI\",\n  \"seniority\": \"senior\",\n  \"total_years_experience\": 7,\n  \"skills\": [\n    \"Python\",\n    \"SQL\",\n    \"JavaScript\",\n    \"TypeScript\",\n    \"FastAPI\",\n    \"REST APIs\",\n    \"boto3\",\n    \"Microservices\",\n    \"Event-driven architecture\",\n    \"PyTorch\",\n    \"TensorFlow\",\n    \"Scikit-Learn\",\n    \"Xgboost\",\n    \"Hugging Face Transformers\",\n    \"PEFT/LoRA\",\n    \"Model Distillation\",\n    \"CNN\",\n    \"Transformer Models\",\n    \"Computer Vision\",\n    \"NLP\",\n    \"Feature Engineering\",\n    \"Data Modeling\",\n    \"Model Evaluation\",\n    \"LangChain\",\n    \"LlamaIndex\",\n    \"Semantic Kernel\",\n    \"OpenAI API\",\n    \"Amazon Bedrock\",\n    \"Gemini\",\n    \"GPT-4\"\n  ],\n  \"tools_technologies\": [\n    \"pgvector\",\n    \"Ray Serve\",\n    \"Faster R-CNN\",\n    \"Mask R-CNN\",\n    \"BioBERT\",\n    \"LSTM\"\n  ],\n  \"domains\": [\n    \"healthcare\",\n    \"enterprise software\",\n    \"clinical workflows\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Computer Science\",\n      \"institution\": \"Florida International University\",\n      \"year\": 2018\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"United States\"\n  ],\n  \"soft_skills\": [\n    \"mentoring\",\n    \"team leadership\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Senior AI/ML Engineer\",\n      \"company\": \"GENPACT\",\n      \"start\": \"2023-03\",\n      \"end\": \"2026-09\"\n    },\n    {\n      \"title\": \"Senior AI/ML Engineer\",\n      \"company\": \"Lyra Health\",\n      \"start\": \"2020-09\",\n      \"end\": \"2023-02\"\n    },\n    {\n      \"title\": \"Software Engineer / ML Engineer\",\n      \"company\": \"Lyra Health\",\n      \"start\": \"2018-10\",\n      \"end\": \"2020-07\"\n    },\n    {\n      \"title\": \"Research Engineer\",\n      \"company\": \"Empower Health\",\n      \"start\": \"2017-05\",\n      \"end\": \"2018-08\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-041",
+    "doc_type": "cv",
+    "current_title": "Senior AI/ML Engineer",
+    "current_company": "Genpact",
+    "role_family": "Data & AI",
+    "seniority": "senior",
+    "total_years_experience": 7,
+    "skills": [
+      "Python",
+      "SQL",
+      "JavaScript",
+      "TypeScript",
+      "FastAPI",
+      "REST APIs",
+      "boto3",
+      "Microservices",
+      "Event-driven architecture",
+      "PyTorch",
+      "TensorFlow",
+      "Scikit-Learn",
+      "Xgboost",
+      "Hugging Face Transformers",
+      "PEFT/LoRA",
+      "Model Distillation",
+      "CNN",
+      "Transformer Models",
+      "Computer Vision",
+      "NLP",
+      "Feature Engineering",
+      "Data Modeling",
+      "Model Evaluation",
+      "LangChain",
+      "LlamaIndex",
+      "Semantic Kernel",
+      "OpenAI API",
+      "Amazon Bedrock",
+      "Gemini",
+      "GPT-4"
+    ],
+    "tools_technologies": [
+      "pgvector",
+      "Ray Serve",
+      "Faster R-CNN",
+      "Mask R-CNN",
+      "BioBERT",
+      "LSTM"
+    ],
+    "domains": [
+      "healthcare",
+      "enterprise software",
+      "clinical workflows"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Computer Science",
+        "institution": "Florida International University",
+        "year": 2018
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "United States"
+    ],
+    "soft_skills": [
+      "mentoring",
+      "team leadership"
+    ],
+    "work_history": [
+      {
+        "title": "Senior AI/ML Engineer",
+        "company": "GENPACT",
+        "start": "2023-03",
+        "end": "2026-09"
+      },
+      {
+        "title": "Senior AI/ML Engineer",
+        "company": "Lyra Health",
+        "start": "2020-09",
+        "end": "2023-02"
+      },
+      {
+        "title": "Software Engineer / ML Engineer",
+        "company": "Lyra Health",
+        "start": "2018-10",
+        "end": "2020-07"
+      },
+      {
+        "title": "Research Engineer",
+        "company": "Empower Health",
+        "start": "2017-05",
+        "end": "2018-08"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

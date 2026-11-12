@@ -1,0 +1,155 @@
+{
+  "doc_id": "CV-085",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "2ccaea2a6b458329b36499dc9846719f17ea6b78612bb725cf68c59105c2f7ad",
+  "timestamp": "2026-11-12T03:37:23.006261+00:00",
+  "elapsed_sec": 30.26,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-085\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Director of Purchasing\",\n  \"current_company\": \"Polywood\",\n  \"role_family\": \"Operations & HR\",\n  \"seniority\": \"director\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Global Sourcing Strategy\",\n    \"Category Management\",\n    \"Commodity Management\",\n    \"Steel\",\n    \"Aluminum\",\n    \"Metals\",\n    \"Castings\",\n    \"Forgings\",\n    \"Stampings\",\n    \"Resins\",\n    \"Plastics\",\n    \"LME Index Pricing\",\n    \"AMM Index Pricing\",\n    \"Should-Cost Modeling\",\n    \"Total Cost of Ownership\",\n    \"Low-Cost Country Sourcing\",\n    \"Supplier Qualification\",\n    \"Supplier Development\",\n    \"Supplier Risk Management\",\n    \"Tariff Mitigation\",\n    \"Landed Cost\",\n    \"Strategic Negotiations\",\n    \"Long-Term Agreements\",\n    \"VA-VE\",\n    \"Spend Analytics\",\n    \"Siop\",\n    \"Inventory Management\",\n    \"Working Capital\",\n    \"Procurement Transformation\",\n    \"Organization Design\",\n    \"Lean\",\n    \"TPS\",\n    \"TPM\",\n    \"Lean Six Sigma\",\n    \"Black Belt\",\n    \"AI-Enabled Procurement\",\n    \"e-Sourcing\",\n    \"Web-Based RFQ\",\n    \"Private Equity Value Creation\",\n    \"Cross Cultural Leadership\"\n  ],\n  \"tools_technologies\": [\n    \"SIOP\",\n    \"TPS\",\n    \"TPM\",\n    \"Ariba\",\n    \"Coupa\",\n    \"Microsoft Dynamics AX\",\n    \"MRP\"\n  ],\n  \"domains\": [\n    \"manufacturing\",\n    \"supply chain\",\n    \"sourcing\",\n    \"industrial\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Industrial Management\",\n      \"institution\": \"Purdue University\",\n      \"year\": null\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\",\n    \"strategic planning\",\n    \"negotiation\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Director Of Purchasing\",\n      \"company\": \"Polywood\",\n      \"start\": \"2025-01\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Senior Director, Supply Chain\",\n      \"company\": \"Dekko\",\n      \"start\": \"2024-01\",\n      \"end\": \"2025-01\"\n    },\n    {\n      \"title\": \"Owner/VP of Purchasing\",\n      \"company\": \"Indiana Consulting and Trade\",\n      \"start\": \"2024-01\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Founder & Business Unit Leader / EVP Sales\",\n      \"company\": \"STRATIC Sourcing & Consulting\",\n      \"start\": \"2019-01\",\n      \"end\": \"2024-01\"\n    },\n    {\n      \"title\": \"Vice President, Engineering, Procurement & Planning\",\n      \"company\": \"Lafayette Steel & Aluminum\",\n      \"start\": \"2018-01\",\n      \"end\": \"2019-01\"\n    },\n    {\n      \"title\": \"Regional TPM & Six Sigma Executive\",\n      \"company\": \"Ecolab\",\n      \"start\": \"2015-01\",\n      \"end\": \"2018-01\"\n    },\n    {\n      \"title\": \"Senior Director, Procurement & Continuous Improvement\",\n      \"company\": \"Finish Line\",\n      \"start\": \"2013-01\",\n      \"end\": \"2015-01\"\n    },\n    {\n      \"title\": \"Director, Instruments & Implants\",\n      \"company\": \"Zimmer Biomet\",\n      \"start\": \"2011-01\",\n      \"end\": \"2013-01\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-085",
+    "doc_type": "cv",
+    "current_title": "Director of Purchasing",
+    "current_company": "Polywood",
+    "role_family": "Operations & HR",
+    "seniority": "director",
+    "total_years_experience": null,
+    "skills": [
+      "Global Sourcing Strategy",
+      "Category Management",
+      "Commodity Management",
+      "Steel",
+      "Aluminum",
+      "Metals",
+      "Castings",
+      "Forgings",
+      "Stampings",
+      "Resins",
+      "Plastics",
+      "AMM Index Pricing",
+      "Should-Cost Modeling",
+      "Total Cost of Ownership",
+      "Low-Cost Country Sourcing",
+      "Supplier Qualification",
+      "Supplier Development",
+      "Supplier Risk Management",
+      "Tariff Mitigation",
+      "Landed Cost",
+      "Strategic Negotiations",
+      "Long-Term Agreements",
+      "VA-VE",
+      "Spend Analytics",
+      "Siop",
+      "Working Capital",
+      "Procurement Transformation",
+      "Organization Design",
+      "Lean",
+      "TPS",
+      "TPM",
+      "Lean Six Sigma",
+      "Black Belt",
+      "AI-Enabled Procurement",
+      "e-Sourcing",
+      "Web-Based RFQ",
+      "Private Equity Value Creation",
+      "Cross Cultural Leadership"
+    ],
+    "tools_technologies": [
+      "SIOP",
+      "TPS",
+      "TPM",
+      "Ariba",
+      "Coupa",
+      "Microsoft Dynamics AX",
+      "MRP"
+    ],
+    "domains": [
+      "manufacturing",
+      "supply chain",
+      "sourcing",
+      "industrial"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Industrial Management",
+        "institution": "Purdue University",
+        "year": null
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [],
+    "soft_skills": [
+      "team leadership",
+      "mentoring",
+      "strategic planning",
+      "negotiation"
+    ],
+    "work_history": [
+      {
+        "title": "Director Of Purchasing",
+        "company": "Polywood",
+        "start": "2025-01",
+        "end": "Present"
+      },
+      {
+        "title": "Senior Director, Supply Chain",
+        "company": "Dekko",
+        "start": "2024-01",
+        "end": "2025-01"
+      },
+      {
+        "title": "Owner/VP of Purchasing",
+        "company": "Indiana Consulting and Trade",
+        "start": "2024-01",
+        "end": "Present"
+      },
+      {
+        "title": "Founder & Business Unit Leader / EVP Sales",
+        "company": "STRATIC Sourcing & Consulting",
+        "start": "2019-01",
+        "end": "2024-01"
+      },
+      {
+        "title": "Vice President, Engineering, Procurement & Planning",
+        "company": "Lafayette Steel & Aluminum",
+        "start": "2018-01",
+        "end": "2019-01"
+      },
+      {
+        "title": "Regional TPM & Six Sigma Executive",
+        "company": "Ecolab",
+        "start": "2015-01",
+        "end": "2018-01"
+      },
+      {
+        "title": "Senior Director, Procurement & Continuous Improvement",
+        "company": "Finish Line",
+        "start": "2013-01",
+        "end": "2015-01"
+      },
+      {
+        "title": "Director, Instruments & Implants",
+        "company": "Zimmer Biomet",
+        "start": "2011-01",
+        "end": "2013-01"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "LME Index Pricing",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "Inventory Management",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

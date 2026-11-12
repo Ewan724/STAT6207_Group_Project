@@ -1,0 +1,105 @@
+{
+  "doc_id": "CAND-110",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "e0154b11d50fc1cdf68ca12c04b9270fc41ac8a8f3ebd04a430bd5ec734435e1",
+  "timestamp": "2026-11-12T03:44:06.613347+00:00",
+  "elapsed_sec": 21.28,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CAND-110\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Lead, UI/UX\",\n  \"current_company\": \"My E.G. Services Bhd\",\n  \"role_family\": \"Design & Creative\",\n  \"seniority\": \"lead\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Figma\",\n    \"Axure RP\",\n    \"Photoshop\",\n    \"Illustrator\",\n    \"JIRA\",\n    \"HTML\",\n    \"CSS\",\n    \"Graphic Design\",\n    \"Social Media Marketing\",\n    \"Brand Development\",\n    \"Business Development\",\n    \"Content Strategy\",\n    \"Data Analytics\",\n    \"Product Management\",\n    \"Market Research\",\n    \"Product Roadmap Development\"\n  ],\n  \"tools_technologies\": [\n    \"Figma\",\n    \"Axure RP\",\n    \"Photoshop\",\n    \"Illustrator\",\n    \"JIRA\",\n    \"HTML\",\n    \"CSS\",\n    \"XMPie\"\n  ],\n  \"domains\": [\n    \"e-commerce\",\n    \"fintech\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Associate's Degree\",\n      \"field\": \"Graphic Design\",\n      \"institution\": \"PTPL Shah Alam College\",\n      \"year\": null\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Malaysia\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Lead, UI/UX\",\n      \"company\": \"My E.G. Services Bhd\",\n      \"start\": \"2019-06\",\n      \"end\": \"2020-01\"\n    },\n    {\n      \"title\": \"Lead, UI/UX\",\n      \"company\": \"AirAsia Bhd\",\n      \"start\": \"2017-03\",\n      \"end\": \"2019-03\"\n    },\n    {\n      \"title\": \"Associate, User Experience\",\n      \"company\": \"Astro Digital Sdn Bhd\",\n      \"start\": \"2014-09\",\n      \"end\": \"2017-03\"\n    },\n    {\n      \"title\": \"Senior Web & Graphic Designer\",\n      \"company\": \"Rovski Sdn Bhd\",\n      \"start\": \"2011-11\",\n      \"end\": \"2014-09\"\n    },\n    {\n      \"title\": \"Senior Graphic Designer\",\n      \"company\": \"Photobook Worldwide\",\n      \"start\": \"2010-07\",\n      \"end\": \"2011-10\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CAND-110",
+    "doc_type": "cv",
+    "current_title": "Lead, UI/UX",
+    "current_company": "My E.G. Services Bhd",
+    "role_family": "Design & Creative",
+    "seniority": "lead",
+    "total_years_experience": null,
+    "skills": [
+      "Figma",
+      "Axure RP",
+      "Photoshop",
+      "Illustrator",
+      "JIRA",
+      "HTML",
+      "CSS",
+      "Graphic Design",
+      "Social Media Marketing",
+      "Brand Development",
+      "Business Development",
+      "Content Strategy",
+      "Data Analytics",
+      "Product Management",
+      "Market Research",
+      "Product Roadmap Development"
+    ],
+    "tools_technologies": [
+      "Figma",
+      "Axure RP",
+      "Photoshop",
+      "Illustrator",
+      "JIRA",
+      "HTML",
+      "CSS",
+      "XMPie"
+    ],
+    "domains": [
+      "e-commerce",
+      "fintech"
+    ],
+    "education": [
+      {
+        "degree": "Associate's Degree",
+        "field": "Graphic Design",
+        "institution": "PTPL Shah Alam College",
+        "year": null
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Malaysia"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring"
+    ],
+    "work_history": [
+      {
+        "title": "Lead, UI/UX",
+        "company": "My E.G. Services Bhd",
+        "start": "2019-06",
+        "end": "2020-01"
+      },
+      {
+        "title": "Lead, UI/UX",
+        "company": "AirAsia Bhd",
+        "start": "2017-03",
+        "end": "2019-03"
+      },
+      {
+        "title": "Associate, User Experience",
+        "company": "Astro Digital Sdn Bhd",
+        "start": "2014-09",
+        "end": "2017-03"
+      },
+      {
+        "title": "Senior Web & Graphic Designer",
+        "company": "Rovski Sdn Bhd",
+        "start": "2011-11",
+        "end": "2014-09"
+      },
+      {
+        "title": "Senior Graphic Designer",
+        "company": "Photobook Worldwide",
+        "start": "2010-07",
+        "end": "2011-10"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

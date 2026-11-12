@@ -1,0 +1,140 @@
+{
+  "doc_id": "CV-012",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "f56334abd5b4141410a5ecb5076ee9c705ef59abe07529136a221f8fd0b510cb",
+  "timestamp": "2026-11-12T03:13:14.924343+00:00",
+  "elapsed_sec": 28.68,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-012\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Software Engineer\",\n  \"current_company\": \"Aytas Tech Solutions Inc.\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"C#\",\n    \"Python\",\n    \"Azure\",\n    \"Docker\",\n    \"Kubernetes\",\n    \"CI/CD\",\n    \"Gitlab\",\n    \"Microservices\",\n    \"CQRS\",\n    \"RESTful APIs\",\n    \"Apache Kafka\",\n    \"SQL Server\",\n    \"PostgreSQL\",\n    \"MongoDB\",\n    \"Pandas\",\n    \"NumPy\",\n    \"Scikit-Learn\",\n    \"Power BI\",\n    \"Tableau\",\n    \"Semantic Kernel\",\n    \"LLM\",\n    \"RAG\",\n    \"Azure AI\"\n  ],\n  \"tools_technologies\": [\n    \".NET\",\n    \"Entity Framework Core\",\n    \"SonarQube\",\n    \"WPF\",\n    \"IIS\",\n    \"Angular\",\n    \"AKS\",\n    \"JWT\",\n    \"Azure Service Bus\"\n  ],\n  \"domains\": [\n    \"enterprise software\",\n    \"financial systems\",\n    \"IoT platforms\",\n    \"logistics\",\n    \"HRMS\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Master's Degree\",\n      \"field\": \"Computer Information Systems\",\n      \"institution\": \"Colorado State University\",\n      \"year\": null\n    },\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Computer Information Systems\",\n      \"institution\": \"Anna University\",\n      \"year\": null\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"India\"\n  ],\n  \"soft_skills\": [\n    \"team collaboration\",\n    \"code reviews\",\n    \"testing support\",\n    \"mentoring\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Software Engineer\",\n      \"company\": \"Aytas Tech Solutions Inc.\",\n      \"start\": \"2026-06\",\n      \"end\": \"2026-09\"\n    },\n    {\n      \"title\": \"Full Stack .Net Developer / Technical Lead\",\n      \"company\": \"World Bank\",\n      \"start\": \"2022-12\",\n      \"end\": \"2023-10\"\n    },\n    {\n      \"title\": \"Senior Software Consultant\",\n      \"company\": \"Dell Technologies\",\n      \"start\": \"2021-10\",\n      \"end\": \"2022-07\"\n    },\n    {\n      \"title\": \"Senior Software Engineer\",\n      \"company\": \"Apar Innosys (IoT Platform)\",\n      \"start\": \"2021-01\",\n      \"end\": \"2021-09\"\n    },\n    {\n      \"title\": \"Software Engineer\",\n      \"company\": \"Eimskip (Logistics Platform)\",\n      \"start\": \"2018-09\",\n      \"end\": \"2019-04\"\n    },\n    {\n      \"title\": \"Software Engineer\",\n      \"company\": \"DXC Technology\",\n      \"start\": \"2017-11\",\n      \"end\": \"2018-09\"\n    },\n    {\n      \"title\": \"Software Engineer\",\n      \"company\": \"RR Donnelley\",\n      \"start\": \"2014-06\",\n      \"end\": \"2016-10\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-012",
+    "doc_type": "cv",
+    "current_title": "Software Engineer",
+    "current_company": "Aytas Tech Solutions Inc.",
+    "role_family": "Engineering",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "C#",
+      "Python",
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Gitlab",
+      "Microservices",
+      "CQRS",
+      "Apache Kafka",
+      "SQL Server",
+      "PostgreSQL",
+      "MongoDB",
+      "Pandas",
+      "NumPy",
+      "Scikit-Learn",
+      "Power BI",
+      "Tableau",
+      "Semantic Kernel",
+      "LLM",
+      "RAG",
+      "Azure AI"
+    ],
+    "tools_technologies": [
+      "NET",
+      "Entity Framework Core",
+      "SonarQube",
+      "WPF",
+      "IIS",
+      "Angular",
+      "AKS",
+      "JWT",
+      "Azure Service Bus"
+    ],
+    "domains": [
+      "enterprise software",
+      "financial systems",
+      "IoT platforms",
+      "logistics",
+      "HRMS"
+    ],
+    "education": [
+      {
+        "degree": "Master's Degree",
+        "field": "Computer Information Systems",
+        "institution": "Colorado State University",
+        "year": null
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Computer Information Systems",
+        "institution": "Anna University",
+        "year": null
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "India"
+    ],
+    "soft_skills": [
+      "team collaboration",
+      "code reviews",
+      "testing support",
+      "mentoring"
+    ],
+    "work_history": [
+      {
+        "title": "Software Engineer",
+        "company": "Aytas Tech Solutions Inc.",
+        "start": "2026-06",
+        "end": "2026-09"
+      },
+      {
+        "title": "Full Stack .Net Developer / Technical Lead",
+        "company": "World Bank",
+        "start": "2022-12",
+        "end": "2023-10"
+      },
+      {
+        "title": "Senior Software Consultant",
+        "company": "Dell Technologies",
+        "start": "2021-10",
+        "end": "2022-07"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "company": "Apar Innosys (IoT Platform)",
+        "start": "2021-01",
+        "end": "2021-09"
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Eimskip (Logistics Platform)",
+        "start": "2018-09",
+        "end": "2019-04"
+      },
+      {
+        "title": "Software Engineer",
+        "company": "DXC Technology",
+        "start": "2017-11",
+        "end": "2018-09"
+      },
+      {
+        "title": "Software Engineer",
+        "company": "RR Donnelley",
+        "start": "2014-06",
+        "end": "2016-10"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "RESTful APIs",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

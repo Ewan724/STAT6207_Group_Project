@@ -1,0 +1,108 @@
+{
+  "doc_id": "CV-081",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "048fd8f764c55322588f36f7b73982c4303909479be324f83cb609e86e2bdae2",
+  "timestamp": "2026-11-12T03:36:22.535711+00:00",
+  "elapsed_sec": 31.73,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\"doc_id\":\"CV-081\",\"doc_type\":\"cv\",\"current_title\":\"Medical Claims Assessor (Hong Kong)\",\"current_company\":\"AIA Shared Services Sdn. Bhd.\",\"role_family\":\"Finance & Legal\",\"seniority\":\"mid\",\"total_years_experience\":null,\"skills\":[\"Communication Skills\",\"Customer Service\",\"Teamwork\",\"Creative Solutions\",\"Effective Time Management\",\"Workflow Enhancement\",\"Policy and Advisory\",\"Microsoft Office\",\"Database Management\",\"Nutrition\",\"Health Screening\",\"Sales\",\"Visual Merchandising\",\"Stock Management\",\"Problem Solving\"],\"tools_technologies\":[\"OLTP system\"],\"domains\":[\"healthcare\",\"insurance\",\"retail\"],\"education\":[{\"degree\":\"Bachelor's Degree\",\"field\":\"Nutrition and Community Health\",\"institution\":\"University Putra Malaysia\",\"year\":2003}],\"certifications\":[],\"languages\":[],\"locations\":[\"Malaysia\",\"Hong Kong\",\"Singapore\"],\"soft_skills\":[\"teamwork\",\"mentoring\",\"problem solving\"],\"work_history\":[{\"title\":\"Medical Claims Assessor (Hong Kong)\",\"company\":\"AIA Shared Services Sdn. Bhd.\",\"start\":\"2024-11\",\"end\":\"Present\"},{\"title\":\"Administrative Executive (Registry Department)\",\"company\":\"Sri KDU Sdn. Bhd.\",\"start\":\"2014-05\",\"end\":\"2024-10\"},{\"title\":\"Executive (Customer Administration & Service Department)\",\"company\":\"Public Mutual Berhad\",\"start\":\"2010-04\",\"end\":\"2013-06\"},{\"title\":\"Retail Shop Manager\",\"company\":\"I View Shop\",\"start\":\"2008-01\",\"end\":\"2009-01\"},{\"title\":\"Executive (Human Resources Department - Contract)\",\"company\":\"Hong Leong Assurance Berhad\",\"start\":\"2007-03\",\"end\":\"2007-12\"},{\"title\":\"Nutritionist (Store Managing)\",\"company\":\"Nature's Farm (Health Foods) Sdn. Bhd.\",\"start\":\"2004-01\",\"end\":\"2007-01\"}]}",
+  "parsed": {
+    "doc_id": "CV-081",
+    "doc_type": "cv",
+    "current_title": "Medical Claims Assessor (Hong Kong)",
+    "current_company": "AIA Shared Services Sdn. Bhd.",
+    "role_family": "Finance & Legal",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "Communication Skills",
+      "Customer Service",
+      "Teamwork",
+      "Creative Solutions",
+      "Effective Time Management",
+      "Workflow Enhancement",
+      "Policy and Advisory",
+      "Microsoft Office",
+      "Database Management",
+      "Nutrition",
+      "Health Screening",
+      "Sales",
+      "Visual Merchandising",
+      "Stock Management"
+    ],
+    "tools_technologies": [
+      "OLTP system"
+    ],
+    "domains": [
+      "healthcare",
+      "insurance",
+      "retail"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Nutrition and Community Health",
+        "institution": "University Putra Malaysia",
+        "year": 2003
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Malaysia",
+      "Hong Kong",
+      "Singapore"
+    ],
+    "soft_skills": [
+      "teamwork",
+      "mentoring",
+      "problem solving"
+    ],
+    "work_history": [
+      {
+        "title": "Medical Claims Assessor (Hong Kong)",
+        "company": "AIA Shared Services Sdn. Bhd.",
+        "start": "2024-11",
+        "end": "Present"
+      },
+      {
+        "title": "Administrative Executive (Registry Department)",
+        "company": "Sri KDU Sdn. Bhd.",
+        "start": "2014-05",
+        "end": "2024-10"
+      },
+      {
+        "title": "Executive (Customer Administration & Service Department)",
+        "company": "Public Mutual Berhad",
+        "start": "2010-04",
+        "end": "2013-06"
+      },
+      {
+        "title": "Retail Shop Manager",
+        "company": "I View Shop",
+        "start": "2008-01",
+        "end": "2009-01"
+      },
+      {
+        "title": "Executive (Human Resources Department - Contract)",
+        "company": "Hong Leong Assurance Berhad",
+        "start": "2007-03",
+        "end": "2007-12"
+      },
+      {
+        "title": "Nutritionist (Store Managing)",
+        "company": "Nature's Farm (Health Foods) Sdn. Bhd.",
+        "start": "2004-01",
+        "end": "2007-01"
+      }
+    ]
+  },
+  "validation_errors": [
+    "generic_keyword:Problem Solving"
+  ],
+  "dropped_keywords": []
+}

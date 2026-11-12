@@ -1,0 +1,130 @@
+{
+  "doc_id": "CV-002",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "31eff41720194e5a935623c9d345fd3b21eae93095e1dc517426d7c0dfb8b012",
+  "timestamp": "2026-11-12T03:10:52.660896+00:00",
+  "elapsed_sec": 16.72,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\"doc_id\":\"CV-002\",\"doc_type\":\"cv\",\"current_title\":\"Field Service Engineer I\",\"current_company\":\"ASM WPE (S) Ltd\",\"role_family\":\"Engineering\",\"seniority\":\"mid\",\"total_years_experience\":14,\"skills\":[\"Health and Safety\",\"Equipment Maintenance\",\"Troubleshooting\",\"Installation\",\"Commissioning\",\"Process Optimization\",\"Preventive Maintenance\",\"Corrective Maintenance\"],\"tools_technologies\":[\"CVD\",\"ALD\",\"Manz\",\"DNS Wet Etching\",\"TEL Plasma Dry Etching\",\"SPEA P&P handler\",\"TEL Trias\",\"Novellus Vector Express\",\"Extreme\",\"Applied Producer\",\"SPC\",\"APC\",\"P500\",\"Centura C500\",\"Endura\"],\"domains\":[\"semiconductor\",\"equipment maintenance\"],\"education\":[{\"degree\":\"Bachelor's Degree\",\"field\":\"Electronics (Wafer Fabrication)\",\"institution\":\"Tech Semiconductor\",\"year\":2000}],\"certifications\":[],\"languages\":[],\"locations\":[\"Singapore\",\"Japan\"],\"soft_skills\":[\"team leadership\",\"mentoring\"],\"work_history\":[{\"title\":\"Field Service Engineer I\",\"company\":\"ASM WPE (S) Ltd\",\"start\":\"2022-05\",\"end\":\"Present\"},{\"title\":\"Customer Support Technician\",\"company\":\"Applied Materials South East Asia Pte Ltd\",\"start\":\"2018-08\",\"end\":\"2022-05\"},{\"title\":\"Associate Engineer\",\"company\":\"AFPD Pte Ltd\",\"start\":\"2016-03\",\"end\":\"2018-07\"},{\"title\":\"Field Service Engineer\",\"company\":\"SAP Test and Automation Pte Ltd\",\"start\":\"2014-05\",\"end\":\"2015-10\"},{\"title\":\"Process&Equipment Technologist\",\"company\":\"Micron Semiconductor Asia Pte Ltd\",\"start\":\"2012-02\",\"end\":\"2014-05\"},{\"title\":\"Preventive Maintenance Technician\",\"company\":\"ST MICROELECTRONICS PTE LTD\",\"start\":\"2010-11\",\"end\":\"2012-01\"},{\"title\":\"Auxiliary Police Officer\",\"company\":\"SATS Auxiliary Police\",\"start\":\"2009-09\",\"end\":\"2010-10\"},{\"title\":\"Technologist\",\"company\":\"TECH Semiconductor Singapore Pte Ltd\",\"start\":\"2004-01\",\"end\":\"2009-01\"}]}",
+  "parsed": {
+    "doc_id": "CV-002",
+    "doc_type": "cv",
+    "current_title": "Field Service Engineer I",
+    "current_company": "ASM WPE (S) Ltd",
+    "role_family": "Engineering",
+    "seniority": "mid",
+    "total_years_experience": 14,
+    "skills": [
+      "Equipment Maintenance",
+      "Troubleshooting",
+      "Installation",
+      "Commissioning",
+      "Preventive Maintenance",
+      "Corrective Maintenance"
+    ],
+    "tools_technologies": [
+      "CVD",
+      "ALD",
+      "Manz",
+      "DNS Wet Etching",
+      "TEL Plasma Dry Etching",
+      "SPEA P&P handler",
+      "TEL Trias",
+      "Novellus Vector Express",
+      "Extreme",
+      "Applied Producer",
+      "SPC",
+      "APC",
+      "P500",
+      "Centura C500",
+      "Endura"
+    ],
+    "domains": [
+      "semiconductor",
+      "equipment maintenance"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Electronics (Wafer Fabrication)",
+        "institution": "Tech Semiconductor",
+        "year": 2000
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Singapore",
+      "Japan"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring"
+    ],
+    "work_history": [
+      {
+        "title": "Field Service Engineer I",
+        "company": "ASM WPE (S) Ltd",
+        "start": "2022-05",
+        "end": "Present"
+      },
+      {
+        "title": "Customer Support Technician",
+        "company": "Applied Materials South East Asia Pte Ltd",
+        "start": "2018-08",
+        "end": "2022-05"
+      },
+      {
+        "title": "Associate Engineer",
+        "company": "AFPD Pte Ltd",
+        "start": "2016-03",
+        "end": "2018-07"
+      },
+      {
+        "title": "Field Service Engineer",
+        "company": "SAP Test and Automation Pte Ltd",
+        "start": "2014-05",
+        "end": "2015-10"
+      },
+      {
+        "title": "Process&Equipment Technologist",
+        "company": "Micron Semiconductor Asia Pte Ltd",
+        "start": "2012-02",
+        "end": "2014-05"
+      },
+      {
+        "title": "Preventive Maintenance Technician",
+        "company": "ST MICROELECTRONICS PTE LTD",
+        "start": "2010-11",
+        "end": "2012-01"
+      },
+      {
+        "title": "Auxiliary Police Officer",
+        "company": "SATS Auxiliary Police",
+        "start": "2009-09",
+        "end": "2010-10"
+      },
+      {
+        "title": "Technologist",
+        "company": "TECH Semiconductor Singapore Pte Ltd",
+        "start": "2004-01",
+        "end": "2009-01"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "Health and Safety",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "Process Optimization",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

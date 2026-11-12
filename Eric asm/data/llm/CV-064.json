@@ -1,0 +1,130 @@
+{
+  "doc_id": "CV-064",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "dd67f43fae0fc51856d472d19b1f0d6c25312ba689d0f753d1dfd31b8bb6d90c",
+  "timestamp": "2026-11-12T03:30:33.353592+00:00",
+  "elapsed_sec": 56.72,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-064\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Account Development Representative\",\n  \"current_company\": \"Survalent Technology\",\n  \"role_family\": \"Sales & BD\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"B2B Sales\",\n    \"Customer Service\",\n    \"Leadership\",\n    \"Outreach\"\n  ],\n  \"tools_technologies\": [\n    \"Salesforce\",\n    \"Tableau\",\n    \"LinkedIn Sales Navigator\",\n    \"LeadIQ\",\n    \"Lusha\",\n    \"Zoom Info\",\n    \"Groove\",\n    \"MS Teams\",\n    \"Zoom\",\n    \"Calendly\",\n    \"MS Office applications\"\n  ],\n  \"domains\": [\n    \"telecommunications\",\n    \"utilities\",\n    \"logistics\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Geography\",\n      \"institution\": \"University of the Philippines-Diliman\",\n      \"year\": 2011\n    },\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"unknown\",\n      \"institution\": \"University of the Philippines-Los Baños\",\n      \"year\": 2007\n    },\n    {\n      \"degree\": \"High School diploma\",\n      \"field\": \"unknown\",\n      \"institution\": \"Makati Science High School\",\n      \"year\": 2006\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Philippines\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\",\n    \"coaching\",\n    \"performance management\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Account Development Representative\",\n      \"company\": \"Survalent Technology\",\n      \"start\": \"2025-01\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Senior Sales Operations Supervisor\",\n      \"company\": \"Reed Elsevier Philippines\",\n      \"start\": \"2023-02\",\n      \"end\": \"2025-04\"\n    },\n    {\n      \"title\": \"Operations Manager\",\n      \"company\": \"Afni Philippines\",\n      \"start\": \"2022-07\",\n      \"end\": \"2023-01\"\n    },\n    {\n      \"title\": \"Senior Operations Supervisor\",\n      \"company\": \"Afni Philippines\",\n      \"start\": \"2020-12\",\n      \"end\": \"2022-07\"\n    },\n    {\n      \"title\": \"Training Supervisor\",\n      \"company\": \"Afni Philippines\",\n      \"start\": \"2019-07\",\n      \"end\": \"2020-12\"\n    },\n    {\n      \"title\": \"Trainer\",\n      \"company\": \"Afni Philippines\",\n      \"start\": \"2016-04\",\n      \"end\": \"2019-07\"\n    },\n    {\n      \"title\": \"Customer Service Agent\",\n      \"company\": \"Afni Philippines\",\n      \"start\": \"2015-08\",\n      \"end\": \"2016-03\"\n    },\n    {\n      \"title\": \"Inside Sales Executive\",\n      \"company\": \"Concentrix\",\n      \"start\": \"2013-11\",\n      \"end\": \"2014-12\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-064",
+    "doc_type": "cv",
+    "current_title": "Account Development Representative",
+    "current_company": "Survalent Technology",
+    "role_family": "Sales & BD",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "B2B Sales",
+      "Customer Service",
+      "Outreach"
+    ],
+    "tools_technologies": [
+      "Salesforce",
+      "Tableau",
+      "LinkedIn Sales Navigator",
+      "LeadIQ",
+      "Lusha",
+      "Zoom Info",
+      "Groove",
+      "MS Teams",
+      "Zoom",
+      "Calendly",
+      "MS Office applications"
+    ],
+    "domains": [
+      "telecommunications",
+      "utilities",
+      "logistics"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Geography",
+        "institution": "University of the Philippines-Diliman",
+        "year": 2011
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "field": "unknown",
+        "institution": "University of the Philippines-Los Baños",
+        "year": 2007
+      },
+      {
+        "degree": "High School diploma",
+        "field": "unknown",
+        "institution": "Makati Science High School",
+        "year": 2006
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Philippines"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring",
+      "coaching",
+      "performance management"
+    ],
+    "work_history": [
+      {
+        "title": "Account Development Representative",
+        "company": "Survalent Technology",
+        "start": "2025-01",
+        "end": "Present"
+      },
+      {
+        "title": "Senior Sales Operations Supervisor",
+        "company": "Reed Elsevier Philippines",
+        "start": "2023-02",
+        "end": "2025-04"
+      },
+      {
+        "title": "Operations Manager",
+        "company": "Afni Philippines",
+        "start": "2022-07",
+        "end": "2023-01"
+      },
+      {
+        "title": "Senior Operations Supervisor",
+        "company": "Afni Philippines",
+        "start": "2020-12",
+        "end": "2022-07"
+      },
+      {
+        "title": "Training Supervisor",
+        "company": "Afni Philippines",
+        "start": "2019-07",
+        "end": "2020-12"
+      },
+      {
+        "title": "Trainer",
+        "company": "Afni Philippines",
+        "start": "2016-04",
+        "end": "2019-07"
+      },
+      {
+        "title": "Customer Service Agent",
+        "company": "Afni Philippines",
+        "start": "2015-08",
+        "end": "2016-03"
+      },
+      {
+        "title": "Inside Sales Executive",
+        "company": "Concentrix",
+        "start": "2013-11",
+        "end": "2014-12"
+      }
+    ]
+  },
+  "validation_errors": [
+    "generic_keyword:Leadership"
+  ],
+  "dropped_keywords": []
+}

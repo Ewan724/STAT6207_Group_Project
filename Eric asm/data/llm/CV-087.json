@@ -1,0 +1,150 @@
+{
+  "doc_id": "CV-087",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "99784a0fa95907b1a8ead02f639559dde73c7be222cc1345fa1b76dcc5712ee6",
+  "timestamp": "2026-11-12T03:37:58.596284+00:00",
+  "elapsed_sec": 35.59,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-087\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Project Management Lead / Standards & Procedures Officer\",\n  \"current_company\": \"Emirates Airline\",\n  \"role_family\": \"Operations & HR\",\n  \"seniority\": \"lead\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Power BI\",\n    \"Tableau\",\n    \"SQL\",\n    \"Python\",\n    \"Data Pipeline Automation\",\n    \"KPI Tracking\",\n    \"Performance Visibility\",\n    \"Predictive Modeling\",\n    \"Forecasting\",\n    \"Agile\",\n    \"SAFe\",\n    \"Scrum\",\n    \"Backlog Ownership\",\n    \"nps\",\n    \"NCD\",\n    \"Project Management\",\n    \"Product Delivery\",\n    \"PMO Governance\",\n    \"Baseline Standards\",\n    \"Scope Definition\",\n    \"Lifecycle Management\",\n    \"Customer Success\",\n    \"Service Design\",\n    \"Compliance\",\n    \"GCAA\",\n    \"ICAO\",\n    \"DGCA\",\n    \"Faa\",\n    \"Financial Services\",\n    \"FinOps Reporting\"\n  ],\n  \"tools_technologies\": [\n    \"ARMS\",\n    \"CMSS\",\n    \"Fidelio\",\n    \"Opera\"\n  ],\n  \"domains\": [\n    \"aerospace\",\n    \"aviation\",\n    \"hospitality\",\n    \"operations\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Master's Degree\",\n      \"field\": \"Aerospace Engineering\",\n      \"institution\": \"Coventry University (UK) / Emirates Aviation University (UAE)\",\n      \"year\": 2020\n    },\n    {\n      \"degree\": \"Master's Degree\",\n      \"field\": \"Unknown\",\n      \"institution\": \"Madurai Kamaraj University, India\",\n      \"year\": 2016\n    },\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Unknown\",\n      \"institution\": \"Monad University, UP, India\",\n      \"year\": 2013\n    },\n    {\n      \"degree\": \"Associate's Degree\",\n      \"field\": \"Air Hostess Training\",\n      \"institution\": \"Frankfinn Institute of Air Hostess Training, India\",\n      \"year\": 2008\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Dubai\",\n    \"UAE\",\n    \"New Jersey\",\n    \"USA\",\n    \"New Delhi\",\n    \"India\",\n    \"Chennai\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\",\n    \"customer-centric service\",\n    \"service design improvement\",\n    \"operational change programs\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Project Management Lead / Standards & Procedures Officer\",\n      \"company\": \"Emirates Airline\",\n      \"start\": \"2023-07\",\n      \"end\": \"2025-07\"\n    },\n    {\n      \"title\": \"Associate Data Scientist | Product Analytics & Insights\",\n      \"company\": \"Innodatatics\",\n      \"start\": \"2021-01\",\n      \"end\": \"2022-01\"\n    },\n    {\n      \"title\": \"Senior Flight Attendant / Leadership Trainer\",\n      \"company\": \"Emirates Airline\",\n      \"start\": \"2015-01\",\n      \"end\": \"2023-01\"\n    },\n    {\n      \"title\": \"Crew Controller / Support Scheduling Officer\",\n      \"company\": \"Air India\",\n      \"start\": \"2012-01\",\n      \"end\": \"2015-01\"\n    },\n    {\n      \"title\": \"Senior Cabin Crew\",\n      \"company\": \"Go Airlines\",\n      \"start\": \"2010-01\",\n      \"end\": \"2012-01\"\n    },\n    {\n      \"title\": \"Front Office Associate\",\n      \"company\": \"TAJ Fisherman's Cove Resort & Spa\",\n      \"start\": \"2009-01\",\n      \"end\": \"2010-01\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-087",
+    "doc_type": "cv",
+    "current_title": "Project Management Lead / Standards & Procedures Officer",
+    "current_company": "Emirates Airline",
+    "role_family": "Operations & HR",
+    "seniority": "lead",
+    "total_years_experience": null,
+    "skills": [
+      "Power BI",
+      "Tableau",
+      "SQL",
+      "Python",
+      "Data Pipeline Automation",
+      "KPI Tracking",
+      "Performance Visibility",
+      "Predictive Modeling",
+      "Forecasting",
+      "Agile",
+      "SAFe",
+      "Scrum",
+      "Backlog Ownership",
+      "nps",
+      "NCD",
+      "Project Management",
+      "Product Delivery",
+      "PMO Governance",
+      "Baseline Standards",
+      "Scope Definition",
+      "Lifecycle Management",
+      "Customer Success",
+      "Service Design",
+      "Compliance",
+      "GCAA",
+      "ICAO",
+      "DGCA",
+      "Faa",
+      "Financial Services",
+      "FinOps Reporting"
+    ],
+    "tools_technologies": [
+      "ARMS",
+      "CMSS",
+      "Fidelio",
+      "Opera"
+    ],
+    "domains": [
+      "aerospace",
+      "aviation",
+      "hospitality",
+      "operations"
+    ],
+    "education": [
+      {
+        "degree": "Master's Degree",
+        "field": "Aerospace Engineering",
+        "institution": "Coventry University (UK) / Emirates Aviation University (UAE)",
+        "year": 2020
+      },
+      {
+        "degree": "Master's Degree",
+        "field": "Unknown",
+        "institution": "Madurai Kamaraj University, India",
+        "year": 2016
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Unknown",
+        "institution": "Monad University, UP, India",
+        "year": 2013
+      },
+      {
+        "degree": "Associate's Degree",
+        "field": "Air Hostess Training",
+        "institution": "Frankfinn Institute of Air Hostess Training, India",
+        "year": 2008
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Dubai",
+      "UAE",
+      "New Jersey",
+      "USA",
+      "New Delhi",
+      "India",
+      "Chennai"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring",
+      "customer-centric service",
+      "service design improvement",
+      "operational change programs"
+    ],
+    "work_history": [
+      {
+        "title": "Project Management Lead / Standards & Procedures Officer",
+        "company": "Emirates Airline",
+        "start": "2023-07",
+        "end": "2025-07"
+      },
+      {
+        "title": "Associate Data Scientist | Product Analytics & Insights",
+        "company": "Innodatatics",
+        "start": "2021-01",
+        "end": "2022-01"
+      },
+      {
+        "title": "Senior Flight Attendant / Leadership Trainer",
+        "company": "Emirates Airline",
+        "start": "2015-01",
+        "end": "2023-01"
+      },
+      {
+        "title": "Crew Controller / Support Scheduling Officer",
+        "company": "Air India",
+        "start": "2012-01",
+        "end": "2015-01"
+      },
+      {
+        "title": "Senior Cabin Crew",
+        "company": "Go Airlines",
+        "start": "2010-01",
+        "end": "2012-01"
+      },
+      {
+        "title": "Front Office Associate",
+        "company": "TAJ Fisherman's Cove Resort & Spa",
+        "start": "2009-01",
+        "end": "2010-01"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

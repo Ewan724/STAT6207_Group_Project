@@ -1,0 +1,119 @@
+{
+  "doc_id": "CV-045",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "0e8f86108ab0a124d84eb034fa1eb6e563c6f74086a8ebe90eec116625a4c3cd",
+  "timestamp": "2026-11-12T03:24:02.697177+00:00",
+  "elapsed_sec": 21.95,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-045\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Data Engineer Lead\",\n  \"current_company\": \"CBTW\",\n  \"role_family\": \"Data & AI\",\n  \"seniority\": \"lead\",\n  \"total_years_experience\": 9,\n  \"skills\": [\"Microsoft Fabric\", \"Lakehouse\", \"Warehousing\", \"OneLake\", \"Power BI\", \"Azure SQL\", \"Data warehouse architecture\", \"Analytical data modeling\", \"Azure Data Factory\", \"Talend\", \"SSIS\", \"Full and Incremental loading\", \"Notebooks and Dataflows Gen2\", \"Cloud Data Platforms\", \"Data Modeling\", \"ETL/ELT and Orchestration\", \"Python\", \"PySpark\", \"SQL\", \"Pentaho\", \"MySQL\", \"Snowflake\", \"Azure Synapse\", \"Stitch\"],\n  \"tools_technologies\": [\"Microsoft Fabric\", \"Power BI\", \"Azure SQL\", \"Azure Data Factory\", \"Talend\", \"SSIS\", \"Pentaho\", \"MySQL\", \"Snowflake\", \"Azure Synapse Analytics\"],\n  \"domains\": [\"data engineering\", \"analytics\", \"crm\", \"retail\", \"fintech\"],\n  \"education\": [{\"degree\": \"Bachelor's Degree\", \"field\": \"Management Information System\", \"institution\": \"University of Economics and Law\", \"year\": 2014}],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\"Vietnam\"],\n  \"soft_skills\": [\"leadership\", \"architecture design\", \"vendor assessment\"],\n  \"work_history\": [\n    {\n      \"title\": \"Data Engineer Lead\",\n      \"company\": \"CBTW\",\n      \"start\": \"2024-01\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"CRM Data Analytics Manager\",\n      \"company\": \"FrieslandCampina Vietnam\",\n      \"start\": \"2021-01\",\n      \"end\": \"2023-01\"\n    },\n    {\n      \"title\": \"Data Analytics Lead\",\n      \"company\": \"Central Retail in Vietnam\",\n      \"start\": \"2020-01\",\n      \"end\": \"2021-01\"\n    },\n    {\n      \"title\": \"Business Intelligence Manager\",\n      \"company\": \"Pizza 4P's\",\n      \"start\": \"2019-01\",\n      \"end\": \"2020-01\"\n    },\n    {\n      \"title\": \"Database Developer & Administrator\",\n      \"company\": \"NashTech\",\n      \"start\": \"2015-01\",\n      \"end\": \"2018-01\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-045",
+    "doc_type": "cv",
+    "current_title": "Data Engineer Lead",
+    "current_company": "CBTW",
+    "role_family": "Data & AI",
+    "seniority": "lead",
+    "total_years_experience": 9,
+    "skills": [
+      "Microsoft Fabric",
+      "Lakehouse",
+      "Warehousing",
+      "OneLake",
+      "Power BI",
+      "Azure SQL",
+      "Data warehouse architecture",
+      "Analytical data modeling",
+      "Azure Data Factory",
+      "Talend",
+      "SSIS",
+      "Full and Incremental loading",
+      "Notebooks and Dataflows Gen2",
+      "Cloud Data Platforms",
+      "Data Modeling",
+      "ETL/ELT and Orchestration",
+      "Python",
+      "PySpark",
+      "SQL",
+      "Pentaho",
+      "MySQL",
+      "Snowflake",
+      "Azure Synapse",
+      "Stitch"
+    ],
+    "tools_technologies": [
+      "Microsoft Fabric",
+      "Power BI",
+      "Azure SQL",
+      "Azure Data Factory",
+      "Talend",
+      "SSIS",
+      "Pentaho",
+      "MySQL",
+      "Snowflake",
+      "Azure Synapse Analytics"
+    ],
+    "domains": [
+      "data engineering",
+      "analytics",
+      "crm",
+      "retail",
+      "fintech"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Management Information System",
+        "institution": "University of Economics and Law",
+        "year": 2014
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Vietnam"
+    ],
+    "soft_skills": [
+      "leadership",
+      "architecture design",
+      "vendor assessment"
+    ],
+    "work_history": [
+      {
+        "title": "Data Engineer Lead",
+        "company": "CBTW",
+        "start": "2024-01",
+        "end": "Present"
+      },
+      {
+        "title": "CRM Data Analytics Manager",
+        "company": "FrieslandCampina Vietnam",
+        "start": "2021-01",
+        "end": "2023-01"
+      },
+      {
+        "title": "Data Analytics Lead",
+        "company": "Central Retail in Vietnam",
+        "start": "2020-01",
+        "end": "2021-01"
+      },
+      {
+        "title": "Business Intelligence Manager",
+        "company": "Pizza 4P's",
+        "start": "2019-01",
+        "end": "2020-01"
+      },
+      {
+        "title": "Database Developer & Administrator",
+        "company": "NashTech",
+        "start": "2015-01",
+        "end": "2018-01"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

@@ -1,0 +1,104 @@
+{
+  "doc_id": "CV-004",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "fdf596162c138c8175a7c2facd092900a47a1ad65953417addd30cde1ea347da",
+  "timestamp": "2026-11-12T03:11:24.984252+00:00",
+  "elapsed_sec": 11.91,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-004\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Full-Stack Software Engineer\",\n  \"current_company\": \"NESLIT\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"TypeScript\",\n    \"JavaScript\",\n    \"Python\",\n    \"SQL\",\n    \"React\",\n    \"Next.js\",\n    \"Vue.js\",\n    \"Tailwind CSS\",\n    \"React Native\",\n    \"Node.js\",\n    \"NestJS\",\n    \"PostgreSQL\",\n    \"MySQL\",\n    \"MongoDB\",\n    \"Redis\",\n    \"Prisma\",\n    \"AWS\",\n    \"Google Cloud Platform\",\n    \"Docker\",\n    \"Linux\"\n  ],\n  \"tools_technologies\": [\n    \"Next.js\",\n    \"Vue.js\",\n    \"Tailwind CSS\",\n    \"React Native\",\n    \"NestJS\",\n    \"Temporal\",\n    \"GitHub Actions\",\n    \"AWS\",\n    \"GCP\"\n  ],\n  \"domains\": [\n    \"e-commerce\",\n    \"fintech\",\n    \"Web3\",\n    \"AI\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Computer Science\",\n      \"institution\": \"PMAS University, Rawalpindi\",\n      \"year\": 2021\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [],\n  \"soft_skills\": [\n    \"end-to-end ownership\",\n    \"open-sourcing\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Full-Stack Software Engineer\",\n      \"company\": \"NESLIT\",\n      \"start\": \"2023-02\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Web3 Full-Stack Engineer\",\n      \"company\": \"eLearningDAO\",\n      \"start\": \"2022-09\",\n      \"end\": \"2023-07\"\n    },\n    {\n      \"title\": \"Software Engineer\",\n      \"company\": \"Freelance / UpWork\",\n      \"start\": \"2022-08\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Full-Stack Software Engineer\",\n      \"company\": \"TECHCHAPS\",\n      \"start\": \"2021-01\",\n      \"end\": \"2023-02\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-004",
+    "doc_type": "cv",
+    "current_title": "Full-Stack Software Engineer",
+    "current_company": "NESLIT",
+    "role_family": "Engineering",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "Python",
+      "SQL",
+      "React",
+      "Next.js",
+      "Vue.js",
+      "Tailwind CSS",
+      "React Native",
+      "Node.js",
+      "NestJS",
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Redis",
+      "Prisma",
+      "AWS",
+      "Google Cloud Platform",
+      "Docker",
+      "Linux"
+    ],
+    "tools_technologies": [
+      "Next.js",
+      "Vue.js",
+      "Tailwind CSS",
+      "React Native",
+      "NestJS",
+      "Temporal",
+      "GitHub Actions",
+      "AWS",
+      "GCP"
+    ],
+    "domains": [
+      "e-commerce",
+      "fintech",
+      "Web3",
+      "AI"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Computer Science",
+        "institution": "PMAS University, Rawalpindi",
+        "year": 2021
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [],
+    "soft_skills": [
+      "end-to-end ownership",
+      "open-sourcing"
+    ],
+    "work_history": [
+      {
+        "title": "Full-Stack Software Engineer",
+        "company": "NESLIT",
+        "start": "2023-02",
+        "end": "Present"
+      },
+      {
+        "title": "Web3 Full-Stack Engineer",
+        "company": "eLearningDAO",
+        "start": "2022-09",
+        "end": "2023-07"
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Freelance / UpWork",
+        "start": "2022-08",
+        "end": "Present"
+      },
+      {
+        "title": "Full-Stack Software Engineer",
+        "company": "TECHCHAPS",
+        "start": "2021-01",
+        "end": "2023-02"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

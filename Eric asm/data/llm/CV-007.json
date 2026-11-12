@@ -1,0 +1,121 @@
+{
+  "doc_id": "CV-007",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "32b8b680f484d1e3d1d2d2a94519caac43ee893bfd0d26f11dc32e78bcee963b",
+  "timestamp": "2026-11-12T03:12:11.750683+00:00",
+  "elapsed_sec": 33.07,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-007\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Site Reliability Engineer\",\n  \"current_company\": \"Quesscorp Holdings Pte. Ltd.\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": 8,\n  \"skills\": [\n    \"Kubernetes\",\n    \"Platform Engineering\",\n    \"Observability\",\n    \"Reliability\",\n    \"DevOps\",\n    \"Python\",\n    \"Go\",\n    \"Bash\",\n    \"YAML\",\n    \"Terraform\",\n    \"Ansible\",\n    \"Puppet\",\n    \"Cloud\",\n    \"Infrastructure as Code\",\n    \"Platform Security\",\n    \"Governance\",\n    \"Linux\",\n    \"Systems\",\n    \"GPU\",\n    \"AI\",\n    \"Job Scheduling\"\n  ],\n  \"tools_technologies\": [\n    \"Alibaba Cloud ACK\",\n    \"GKE\",\n    \"AWS\",\n    \"Slurm\",\n    \"Kubeflow\",\n    \"Ray\",\n    \"KServe\",\n    \"vLLM\",\n    \"NVIDIA DCGM\",\n    \"Argo CD\",\n    \"Helm\",\n    \"Kustomize\",\n    \"Jenkins\",\n    \"GitLab CI\",\n    \"Grafana\",\n    \"Kibana\",\n    \"Splunk\",\n    \"Solaris\",\n    \"ZFS\",\n    \"SPARC\"\n  ],\n  \"domains\": [\n    \"cloud-native\",\n    \"gpu-inference\",\n    \"distributed-training\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Electrical and Electronics Engineering\",\n      \"institution\": \"Lovely Professional University\",\n      \"year\": 2016\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [],\n  \"soft_skills\": [\n    \"incident response\",\n    \"root cause analysis\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Site Reliability Engineer\",\n      \"company\": \"Quesscorp Holdings Pte. Ltd.\",\n      \"start\": \"2022-11\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Cloud Ops Engineering Senior Analyst\",\n      \"company\": \"Accenture Pvt. Ltd.\",\n      \"start\": \"2021-05\",\n      \"end\": \"2022-11\"\n    },\n    {\n      \"title\": \"Senior Associate – IT Operations Services\",\n      \"company\": \"Coforge Pvt. Ltd.\",\n      \"start\": \"2021-01\",\n      \"end\": \"2021-05\"\n    },\n    {\n      \"title\": \"Solaris Administrator\",\n      \"company\": \"AOHR Pvt. Ltd.\",\n      \"start\": \"2019-12\",\n      \"end\": \"2021-01\"\n    },\n    {\n      \"title\": \"Solaris Engineer\",\n      \"company\": \"OIT Pvt. Ltd.\",\n      \"start\": \"2016-08\",\n      \"end\": \"2019-12\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-007",
+    "doc_type": "cv",
+    "current_title": "Site Reliability Engineer",
+    "current_company": "Quesscorp Holdings Pte. Ltd.",
+    "role_family": "Engineering",
+    "seniority": "mid",
+    "total_years_experience": 8,
+    "skills": [
+      "Kubernetes",
+      "Platform Engineering",
+      "Observability",
+      "Reliability",
+      "DevOps",
+      "Python",
+      "Go",
+      "Bash",
+      "YAML",
+      "Terraform",
+      "Ansible",
+      "Puppet",
+      "Cloud",
+      "Infrastructure as Code",
+      "Platform Security",
+      "Governance",
+      "Linux",
+      "Systems",
+      "GPU",
+      "AI",
+      "Job Scheduling"
+    ],
+    "tools_technologies": [
+      "Alibaba Cloud ACK",
+      "GKE",
+      "AWS",
+      "Slurm",
+      "Kubeflow",
+      "Ray",
+      "KServe",
+      "vLLM",
+      "NVIDIA DCGM",
+      "Argo CD",
+      "Helm",
+      "Kustomize",
+      "Jenkins",
+      "GitLab CI",
+      "Grafana",
+      "Kibana",
+      "Splunk",
+      "Solaris",
+      "ZFS",
+      "SPARC"
+    ],
+    "domains": [
+      "cloud-native",
+      "gpu-inference",
+      "distributed-training"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Electrical and Electronics Engineering",
+        "institution": "Lovely Professional University",
+        "year": 2016
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [],
+    "soft_skills": [
+      "incident response",
+      "root cause analysis"
+    ],
+    "work_history": [
+      {
+        "title": "Site Reliability Engineer",
+        "company": "Quesscorp Holdings Pte. Ltd.",
+        "start": "2022-11",
+        "end": "Present"
+      },
+      {
+        "title": "Cloud Ops Engineering Senior Analyst",
+        "company": "Accenture Pvt. Ltd.",
+        "start": "2021-05",
+        "end": "2022-11"
+      },
+      {
+        "title": "Senior Associate – IT Operations Services",
+        "company": "Coforge Pvt. Ltd.",
+        "start": "2021-01",
+        "end": "2021-05"
+      },
+      {
+        "title": "Solaris Administrator",
+        "company": "AOHR Pvt. Ltd.",
+        "start": "2019-12",
+        "end": "2021-01"
+      },
+      {
+        "title": "Solaris Engineer",
+        "company": "OIT Pvt. Ltd.",
+        "start": "2016-08",
+        "end": "2019-12"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

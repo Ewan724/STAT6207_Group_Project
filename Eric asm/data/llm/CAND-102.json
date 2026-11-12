@@ -1,0 +1,104 @@
+{
+  "doc_id": "CAND-102",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "bc3200f285bc6012cf196a8fe8a5ec5b287b5be929236faec671895734726f42",
+  "timestamp": "2026-11-12T03:41:41.992141+00:00",
+  "elapsed_sec": 20.28,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CAND-102\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Technical Sales Specialist\",\n  \"current_company\": \"PT. Chemico Surabaya\",\n  \"role_family\": \"Sales & BD\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Leadership\",\n    \"Communication\",\n    \"Business Development\",\n    \"Negotiation\",\n    \"Customer Relationship Management\",\n    \"Adaptability\",\n    \"Public Speaking\",\n    \"Problem Solving\",\n    \"Teamwork\",\n    \"Responsibility\",\n    \"Presentation Skills\",\n    \"Analytical Thinking\",\n    \"Technical Sales\",\n    \"International Sales\",\n    \"Market Analysis\",\n    \"Supplier Sourcing\"\n  ],\n  \"tools_technologies\": [\n    \"Microsoft Office\",\n    \"CRM\",\n    \"Email Marketing\"\n  ],\n  \"domains\": [\n    \"tobacco\",\n    \"vape\",\n    \"food\",\n    \"beverage\",\n    \"cosmetics\",\n    \"confectionery\",\n    \"animal feed\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Food Technology\",\n      \"institution\": \"Widya Mandala Catholic University Surabaya\",\n      \"year\": 2021\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Indonesia\"\n  ],\n  \"soft_skills\": [\n    \"Leadership\",\n    \"Communication\",\n    \"Teamwork\",\n    \"Problem Solving\",\n    \"Presentation Skills\",\n    \"Adaptability\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Technical Sales Specialist\",\n      \"company\": \"PT. Chemico Surabaya\",\n      \"start\": \"2025-04\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"International Sales Executive\",\n      \"company\": \"PT. Haldin Pacific Semesta\",\n      \"start\": \"2024-04\",\n      \"end\": \"2025-01\"\n    },\n    {\n      \"title\": \"Marketing Executive\",\n      \"company\": \"Scentium Flavours\",\n      \"start\": \"2022-01\",\n      \"end\": \"2023-06\"\n    },\n    {\n      \"title\": \"Intern\",\n      \"company\": \"PT. Bangun Anugerah Persada\",\n      \"start\": \"2020-07\",\n      \"end\": \"2020-08\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CAND-102",
+    "doc_type": "cv",
+    "current_title": "Technical Sales Specialist",
+    "current_company": "PT. Chemico Surabaya",
+    "role_family": "Sales & BD",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "Business Development",
+      "Negotiation",
+      "Customer Relationship Management",
+      "Adaptability",
+      "Public Speaking",
+      "Teamwork",
+      "Responsibility",
+      "Presentation Skills",
+      "Analytical Thinking",
+      "Technical Sales",
+      "International Sales",
+      "Market Analysis",
+      "Supplier Sourcing"
+    ],
+    "tools_technologies": [
+      "Microsoft Office",
+      "CRM",
+      "Email Marketing"
+    ],
+    "domains": [
+      "tobacco",
+      "vape",
+      "food",
+      "beverage",
+      "cosmetics",
+      "confectionery",
+      "animal feed"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Food Technology",
+        "institution": "Widya Mandala Catholic University Surabaya",
+        "year": 2021
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Indonesia"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Communication",
+      "Teamwork",
+      "Problem Solving",
+      "Presentation Skills",
+      "Adaptability"
+    ],
+    "work_history": [
+      {
+        "title": "Technical Sales Specialist",
+        "company": "PT. Chemico Surabaya",
+        "start": "2025-04",
+        "end": "Present"
+      },
+      {
+        "title": "International Sales Executive",
+        "company": "PT. Haldin Pacific Semesta",
+        "start": "2024-04",
+        "end": "2025-01"
+      },
+      {
+        "title": "Marketing Executive",
+        "company": "Scentium Flavours",
+        "start": "2022-01",
+        "end": "2023-06"
+      },
+      {
+        "title": "Intern",
+        "company": "PT. Bangun Anugerah Persada",
+        "start": "2020-07",
+        "end": "2020-08"
+      }
+    ]
+  },
+  "validation_errors": [
+    "generic_keyword:Leadership",
+    "generic_keyword:Communication",
+    "generic_keyword:Problem Solving"
+  ],
+  "dropped_keywords": []
+}

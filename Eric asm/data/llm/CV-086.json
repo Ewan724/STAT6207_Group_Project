@@ -1,0 +1,139 @@
+{
+  "doc_id": "CV-086",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "a83e9684e65d59b58ebff1f519698428527f2bbec9603634192d3aec5234f29c",
+  "timestamp": "2026-11-12T03:37:40.033518+00:00",
+  "elapsed_sec": 35.91,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-086\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Human Resources Business Partner | Regional Onshore Lead (Asia)\",\n  \"current_company\": \"Cyan Renewables (formerly MMA Offshore)\",\n  \"role_family\": \"Operations & HR\",\n  \"seniority\": \"lead\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Regional HR Leadership\",\n    \"Employee Relations\",\n    \"Strategic Business Partnering\",\n    \"Workforce Planning\",\n    \"People Management\",\n    \"Performance Management\",\n    \"Change Management\",\n    \"Conflict Resolution\",\n    \"Labour Law\",\n    \"Regulatory Compliance\",\n    \"Employee Lifecycle\",\n    \"HR Policy Advisory\",\n    \"Government Liaison\",\n    \"Executive Sourcing\",\n    \"Learning & Development\",\n    \"Psychological Testing\",\n    \"Behavioral Assessment\",\n    \"Career Coaching\",\n    \"Counselling\",\n    \"Facilitation\"\n  ],\n  \"tools_technologies\": [\n    \"IFS\",\n    \"BoondManager\",\n    \"Definitiv\",\n    \"HR21\",\n    \"iChris\",\n    \"Jobstreet\",\n    \"LinkedIn Recruiter\",\n    \"JobAdder\",\n    \"MyCareersFuture\",\n    \"Microsoft Office Suite\",\n    \"Felix\"\n  ],\n  \"domains\": [\n    \"Human Resources\",\n    \"Regional Operations\",\n    \"Employee Relations\",\n    \"Workforce Planning\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Master's Degree\",\n      \"field\": null,\n      \"institution\": \"University of the Assumption\",\n      \"year\": 2015\n    },\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": null,\n      \"institution\": \"Angeles University Foundation\",\n      \"year\": 2011\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Singapore\",\n    \"Malaysia\",\n    \"Australia\",\n    \"Philippines\"\n  ],\n  \"soft_skills\": [\n    \"Strategic Advisory\",\n    \"Culture Engagement\",\n    \"Data-Driven Insights\",\n    \"Leadership & Mentorship\",\n    \"Client Collaboration\",\n    \"Regulatory Advisory\",\n    \"Career Development\",\n    \"Speaking Engagements\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Human Resources Business Partner | Regional Onshore Lead (Asia)\",\n      \"company\": \"Cyan Renewables (formerly MMA Offshore)\",\n      \"start\": \"2024-10\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Senior Talent Acquisition Specialist, APAC\",\n      \"company\": \"ASTEK SINGAPORE INNOVATION TECHNOLOGY PTE LTD\",\n      \"start\": \"2021-08\",\n      \"end\": \"2024-06\"\n    },\n    {\n      \"title\": \"HR Executive cum Counsellor\",\n      \"company\": \"Hyperlink Services Pte Ltd\",\n      \"start\": \"2016-06\",\n      \"end\": \"2021-06\"\n    },\n    {\n      \"title\": \"School Counsellor\",\n      \"company\": \"Angeles City National Trade School\",\n      \"start\": \"2014-09\",\n      \"end\": \"2016-06\"\n    },\n    {\n      \"title\": \"College Instructor/Teacher (Part Time)\",\n      \"company\": \"Republic Central Colleges\",\n      \"start\": \"2012-11\",\n      \"end\": \"2016-04\"\n    },\n    {\n      \"title\": \"School Counsellor\",\n      \"company\": \"Republic Central Colleges\",\n      \"start\": \"2011-10\",\n      \"end\": \"2014-09\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-086",
+    "doc_type": "cv",
+    "current_title": "Human Resources Business Partner | Regional Onshore Lead (Asia)",
+    "current_company": "Cyan Renewables (formerly MMA Offshore)",
+    "role_family": "Operations & HR",
+    "seniority": "lead",
+    "total_years_experience": null,
+    "skills": [
+      "Regional HR Leadership",
+      "Employee Relations",
+      "Strategic Business Partnering",
+      "Workforce Planning",
+      "Performance Management",
+      "Change Management",
+      "Conflict Resolution",
+      "Labour Law",
+      "Regulatory Compliance",
+      "Employee Lifecycle",
+      "HR Policy Advisory",
+      "Government Liaison",
+      "Executive Sourcing",
+      "Learning & Development",
+      "Psychological Testing",
+      "Behavioral Assessment",
+      "Career Coaching",
+      "Counselling",
+      "Facilitation"
+    ],
+    "tools_technologies": [
+      "IFS",
+      "BoondManager",
+      "Definitiv",
+      "HR21",
+      "iChris",
+      "Jobstreet",
+      "LinkedIn Recruiter",
+      "JobAdder",
+      "MyCareersFuture",
+      "Microsoft Office Suite",
+      "Felix"
+    ],
+    "domains": [
+      "Human Resources",
+      "Regional Operations",
+      "Employee Relations",
+      "Workforce Planning"
+    ],
+    "education": [
+      {
+        "degree": "Master's Degree",
+        "field": null,
+        "institution": "University of the Assumption",
+        "year": 2015
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "field": null,
+        "institution": "Angeles University Foundation",
+        "year": 2011
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Singapore",
+      "Malaysia",
+      "Australia",
+      "Philippines"
+    ],
+    "soft_skills": [
+      "Strategic Advisory",
+      "Culture Engagement",
+      "Data-Driven Insights",
+      "Leadership & Mentorship",
+      "Client Collaboration",
+      "Regulatory Advisory",
+      "Career Development",
+      "Speaking Engagements"
+    ],
+    "work_history": [
+      {
+        "title": "Human Resources Business Partner | Regional Onshore Lead (Asia)",
+        "company": "Cyan Renewables (formerly MMA Offshore)",
+        "start": "2024-10",
+        "end": "Present"
+      },
+      {
+        "title": "Senior Talent Acquisition Specialist, APAC",
+        "company": "ASTEK SINGAPORE INNOVATION TECHNOLOGY PTE LTD",
+        "start": "2021-08",
+        "end": "2024-06"
+      },
+      {
+        "title": "HR Executive cum Counsellor",
+        "company": "Hyperlink Services Pte Ltd",
+        "start": "2016-06",
+        "end": "2021-06"
+      },
+      {
+        "title": "School Counsellor",
+        "company": "Angeles City National Trade School",
+        "start": "2014-09",
+        "end": "2016-06"
+      },
+      {
+        "title": "College Instructor/Teacher (Part Time)",
+        "company": "Republic Central Colleges",
+        "start": "2012-11",
+        "end": "2016-04"
+      },
+      {
+        "title": "School Counsellor",
+        "company": "Republic Central Colleges",
+        "start": "2011-10",
+        "end": "2014-09"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "People Management",
+      "reason": "not_in_source_text"
+    }
+  ]
+}
