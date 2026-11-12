@@ -1,0 +1,216 @@
+cluster_id,canonical_label,definition,members,size,doc_frequency,total_frequency,coherence,merge_method,confidence
+5,MySQL,,MySQL | PostgreSQL | SQL | SQLite,4,33,34,0.9167,agglomerative_char_tfidf_svd,medium
+31,Project Management,,Project Management | API management | artifact management | Asset Management | boot environment management | card management | content management system | Device Management | error budget management | FX settlement | Investment Management | Jumpstart server management | Manz | NFS service management | NIS service management | package management | patching management | Product Management | project management | session management | SLA Management | SMF service management | User Engagement | user management | virtualisation management | VxVM volume management | ZFS management,27,28,28,0.7657,agglomerative_char_tfidf_svd,medium
+19,Bachelor's Degree,,Bachelor's Degree | Master's Degree | Associate's Degree | Degree | Greenplum | J2EE,6,27,28,0.8942,agglomerative_char_tfidf_svd,medium
+1,Software Engineering,,Software Engineering | Computer Engineering | Nginx | AI-augmented engineering | Backend Engineering | Cloud-Native Platform Engineering | Computer Science and Engineering | Data Platform Engineering | Electrical and Electronics Engineering | Electrical Engineering | Engineering Management | Mobile Engineering | Platform Feature Engineering | Prompt engineering | Software engineering,15,20,25,0.6252,agglomerative_char_tfidf_svd,medium
+2,Python,,Python | Jest | pytest | Test scripting | Vitest,5,18,18,0.7021,agglomerative_char_tfidf_svd,medium
+72,JavaScript,,JavaScript | TypeScript | TypeOrm,3,18,18,0.7157,agglomerative_char_tfidf_svd,medium
+53,Node.js,,Node.js | Next.js | Sails.js | Vue.js | Vue.js/Nuxt,5,16,16,0.9153,agglomerative_char_tfidf_svd,medium
+141,Full-stack Development,,Full-stack Development | Software Development | Web Development | Admin Dashboard Development | Frontend Development | Game Development | mobile development | SQL Development | Test Driven Development | VR Development | Web/Mobile/Game Development | WeChat Mini Program development,12,15,15,0.7956,agglomerative_char_tfidf_svd,medium
+16,MongoDB,,MongoDB | event monitoring | health monitoring | Mentoring | monitoring | monitoring automation | platform health monitoring,7,14,15,0.7104,agglomerative_char_tfidf_svd,medium
+106,Financial Systems,,Financial Systems | Payment Systems | AI Systems | Banking Systems | Distributed systems | notification system | Procurement Systems | system owner | Tolling Systems | Track-and-Trace Systems,10,12,12,0.6972,agglomerative_char_tfidf_svd,medium
+7,Docker,,Docker | Bitbucket,2,12,14,0.7023,agglomerative_char_tfidf_svd,medium
+62,Tailwind CSS,,Tailwind CSS | CSS | CS | css | PCI-DSS | scss,6,11,12,0.8719,agglomerative_char_tfidf_svd,medium
+80,AWS,,AWS | AWS DynamoDB | gdb,3,11,11,0.8434,agglomerative_char_tfidf_svd,medium
+23,Unit Testing,,Unit Testing | API Testing | API testing | Data Testing | Functional Testing | Manual Testing | Rate Limiting | Regression Testing | Troubleshooting,9,10,10,0.7207,agglomerative_char_tfidf_svd,medium
+138,Spring Boot,,Spring Boot | Spring | Spring Cloud | Spring Cloud Alibaba | Spring Cloud Gateway | SpringMVC,6,10,10,0.7353,agglomerative_char_tfidf_svd,medium
+9,Apache Spark,,Kafka | Apache Kafka | Apache Phoenix | Apache Spark | Eureka,5,10,12,0.8075,agglomerative_char_tfidf_svd,medium
+8,Kubernetes,,Kubernetes | Hibernate | Kubeflow | Kubernetes Operations,4,10,11,0.6923,agglomerative_char_tfidf_svd,medium
+25,React,,React | Hook-up | React Hook Form | React testing library,4,10,10,0.6908,agglomerative_char_tfidf_svd,medium
+109,architect and builder,,architect and builder | clean architecture | Event-Driven Architecture | Fintech Architecture | re-architecture | System architecture | System Architecture | Systems Architecture | VIPER architecture,9,9,10,0.8066,agglomerative_char_tfidf_svd,medium
+67,Google Cloud Platform,,Google Cloud Platform | data platform operations | IoT Platforms | Platform Redesign | Sales Platform | Sukuk platform | Terraform | Web Platform,8,9,9,0.7327,agglomerative_char_tfidf_svd,medium
+101,REST APIs,,REST APIs | REST API | FastAPI | JSON-RPC API | ReadyAPI | RESTful APIs,6,9,9,0.6958,agglomerative_char_tfidf_svd,medium
+3,Large Language Model,,Angular | Laravel | AngularJS | Golang | Large Language Model,5,9,9,0.7233,agglomerative_char_tfidf_svd,medium
+15,Microservices,,Microservices | Java microservices | Microservice Architecture | microservice design | Microservices Architecture,5,9,9,0.7348,agglomerative_char_tfidf_svd,medium
+79,Prisma,,Prisma | Enterprise Systems | Enterprise Workflows | Enterprise Applications | Sparx Enterprise Architect,5,9,9,0.6111,agglomerative_char_tfidf_svd,medium
+57,CI/CD,,CI/CD | Build Pipelines | CI/CD pipeline management | CI/CD pipelines,4,9,9,0.8489,agglomerative_char_tfidf_svd,medium
+12,Jenkins,,Jenkins | Digital Banking | Tasking,3,9,9,0.7587,agglomerative_char_tfidf_svd,medium
+28,authorization,,authorization | Big Data Optimization | cost optimization | database optimization | JSON standardization | localization | Process Optimization | Retrieval Optimization,8,8,11,0.6766,agglomerative_char_tfidf_svd,medium
+91,Cloud Operations,,Cloud Operations | daily operations management | Fund Operations | GPU fleets operation | IT Operations Services | multi currency operations | Operational Efficiency | operational processes,8,8,9,0.6876,agglomerative_char_tfidf_svd,medium
+107,Infrastructure as Code,,Infrastructure as Code | AI infrastructure | AI Infrastructure | Cloud Infrastructure | GPU Infrastructure | Low-latency Infrastructure | Payment infrastructure,7,8,8,0.9152,agglomerative_char_tfidf_svd,medium
+54,Git,,Git | Gitlab | GitLab CI | OCI,4,8,9,0.8025,agglomerative_char_tfidf_svd,medium
+111,Java,,Java | Java EE backend | Java Swing,3,8,8,0.9011,agglomerative_char_tfidf_svd,medium
+50,Ant Design,,Ant Design | API design | API Design | REST API design | system design | System Design | User Interface Design,7,7,8,0.7574,agglomerative_char_tfidf_svd,medium
+56,Alibaba Cloud ACK,,Alibaba Cloud ACK | AliCloud | Cloud Computing | Cloud Firestore | Cloud Native | CloudFlare | Keycloak,7,7,7,0.7739,agglomerative_char_tfidf_svd,medium
+76,filesystem administration,,filesystem administration | Gemini | security administration | server administration | Solaris administration | UNIX administration | UNIX Administration,7,7,7,0.749,agglomerative_char_tfidf_svd,medium
+90,AI-powered automation,,AI-powered automation | automated remediation | Automation | AUTOSAR | backup automation | Process Automation | UI automation,7,7,8,0.8937,agglomerative_char_tfidf_svd,medium
+93,Data Driven,,Data Driven | driver upgrades | event-driven flows | Google Drive | maven | Purpose Driven | WebdriverIO,7,7,8,0.7366,agglomerative_char_tfidf_svd,medium
+119,core file analysis,,core file analysis | crash dump analysis | Dynamic analysis | Error Analysis | log analysis | root cause analysis | Static analysis,7,7,8,0.9509,agglomerative_char_tfidf_svd,medium
+88,Performance Optimization,,Performance Optimization | High Performance | performance monitoring | performance optimization | Performance Testing | SEO performance,6,7,11,0.7285,agglomerative_char_tfidf_svd,medium
+87,Computer Science,,Computer Science | Computer Information Systems | Electronic Computer Science | Informatics / Computer Science | Teknik Komputer,5,7,7,0.7447,agglomerative_char_tfidf_svd,medium
+158,Microsoft Azure,,Microsoft Azure | Allure | Azure AI | Azure Service Bus,4,7,8,0.6415,agglomerative_char_tfidf_svd,medium
+166,Collaboration,,Collaboration | AI Evaluation | Validation | Vendor coordination,4,7,8,0.7599,agglomerative_char_tfidf_svd,medium
+196,Selenium,,Selenium | Appium | Cilium,3,7,7,0.6799,agglomerative_char_tfidf_svd,medium
+21,Emergency Response,,Emergency Response | incident investigation | Incident Lifecycle | Incident response | incident response | Incident Response,6,6,7,0.8732,agglomerative_char_tfidf_svd,medium
+45,agile team support,,agile team support | Application Support | Equipment Support | L2 support | L3 support | Testing Support,6,6,6,0.7223,agglomerative_char_tfidf_svd,medium
+59,Claude,,Claude | Clean Code | CodeIgniter | Codemagic | UDE | VS Code,6,6,6,0.7756,agglomerative_char_tfidf_svd,medium
+86,Asynchronous Workflows,,Asynchronous Workflows | Deployment workflows | ETL workflows | Manufacturing Workflows | review workflows | Workflow mapping,6,6,7,0.7991,agglomerative_char_tfidf_svd,medium
+110,Technical Decisions,,Technical Decisions | Technical Execution | technical lead | Technical leadership | Technical Leadership | Technical Planning,6,6,10,0.7496,agglomerative_char_tfidf_svd,medium
+116,ACL configuration,,ACL configuration | mirroring configuration | networking configuration | RAID configuration | RBAC configuration | SVM configuration,6,6,6,0.9538,agglomerative_char_tfidf_svd,medium
+130,IIS,,IIS | MyBatis | SAP Hybris | Solaris 10 | Solaris 11 | Solaris Systems,6,6,6,0.67,agglomerative_char_tfidf_svd,medium
+37,Express.js,,Express.js | Cypress | Express | Novellus Vector Express | WordPress,5,6,6,0.9445,agglomerative_char_tfidf_svd,medium
+52,Transaction Processing,,Transaction Processing | asynchronous processing | background processing | Data Processing | Payment Processing,5,6,6,0.7424,agglomerative_char_tfidf_svd,medium
+149,Firebase,,Firebase | Database | database export | Database Management | HBase,5,6,6,0.7969,agglomerative_char_tfidf_svd,medium
+104,Playwright,,Playwright | flight academy | High School diploma | HighTec,4,6,6,0.7457,agglomerative_char_tfidf_svd,medium
+167,.NET,,DotNet | NET 8.0 | NET Core | VB .net,4,6,6,0.9013,agglomerative_char_tfidf_svd,medium
+32,Github Actions,,Github Actions | GitHub Actions | DNS,3,6,6,0.728,agglomerative_char_tfidf_svd,medium
+55,UX,,Linux | UX,2,6,6,0.7862,agglomerative_char_tfidf_svd,medium
+61,Redis,,Redis | Redux,2,6,6,0.7276,agglomerative_char_tfidf_svd,medium
+34,client request handling,,client request handling | Requests | Requirements elicitation | Sequelize | SPEA P&P handler,5,5,6,0.6683,agglomerative_char_tfidf_svd,medium
+39,Applied Producer,,Applied Producer | Product Catalog | Product Discovery | Production Issues | Productivity Boosting,5,5,5,0.822,agglomerative_char_tfidf_svd,medium
+69,Cloud Solutions,,Cloud Solutions | Conflict Resolution | Full-stack Solutions | Retail Solutions | Third-party Solution,5,5,6,0.8102,agglomerative_char_tfidf_svd,medium
+75,Open WebUI,,Open WebUI | OpenAI | OpenAI-compatible APIs | OpenFeign | OpenShift,5,5,6,0.8218,agglomerative_char_tfidf_svd,medium
+98,Data Storage,,Data Storage | Network Storage | Network storage industry | STOMP | Storybook,5,5,5,0.709,agglomerative_char_tfidf_svd,medium
+146,3D Secure 2.0,,3D Secure 2.0 | Cyber Security | Information Systems (Cyber Security) | Security and Cryptography | Spring Security,5,5,5,0.7442,agglomerative_char_tfidf_svd,medium
+84,End-to-end ownership,,End-to-end ownership | Leadership Development | Mentorship | Team Leadership,4,5,7,0.7334,agglomerative_char_tfidf_svd,medium
+137,Code Reviews,,Code Reviews | assistant lead/reviewer | Code Review | Human review,4,5,6,0.7433,agglomerative_char_tfidf_svd,medium
+143,Blockchain,,Blockchain | BLoC/Cubit | blockchain indexer | Bluetooth,4,5,6,0.8015,agglomerative_char_tfidf_svd,medium
+195,Swift,,Swift | Swellsteps | Swift Playgrounds | SwiftUI,4,5,5,0.8586,agglomerative_char_tfidf_svd,medium
+60,Rust,,Rust | Ruby on Rails | RUST,3,5,5,0.7839,agglomerative_char_tfidf_svd,medium
+71,Information Technology,,Information Technology | education technology | Recruitment Technology,3,5,5,0.8362,agglomerative_char_tfidf_svd,medium
+103,e-commerce,,"e-commerce | E-commerce | Business/Commerce, General",3,5,5,0.9725,agglomerative_char_tfidf_svd,medium
+0,Agile,,Agile | Agile Model,2,5,6,0.9813,agglomerative_char_tfidf_svd,medium
+14,DevOps,,DevOps | Azure DevOps Server,2,5,6,0.758,agglomerative_char_tfidf_svd,medium
+17,Production Planning,,Production Planning | Sprint Planning | sprint planning | Strategic Planning,4,4,5,0.7572,agglomerative_char_tfidf_svd,medium
+20,Health and Safety,,Health and Safety | InfiniBand | Pandas | Zustand,4,4,5,0.6109,agglomerative_char_tfidf_svd,medium
+24,gas price calculation,,gas price calculation | Installation | namespace isolation | network installation,4,4,4,0.7013,agglomerative_char_tfidf_svd,medium
+46,Customer Relationship Management,,content creation | Creativity | CRM | Test Scenario Creation,4,4,5,0.678,agglomerative_char_tfidf_svd,medium
+68,API Gateway,,API Gateway | Payment Gateway | Payment Gateway Development | Ray,4,4,4,0.7222,agglomerative_char_tfidf_svd,medium
+70,Application Lifecycle Management,,Application Lifecycle Management | Computer Applications | Mobile Applications | SmartPOS payment applications,4,4,4,0.661,agglomerative_char_tfidf_svd,medium
+74,Core Web Vitals,,Core Web Vitals | Web3 | Webhooks | Websocket,4,4,5,0.774,agglomerative_char_tfidf_svd,medium
+82,Cache Components,,Cache Components | domain events | Server-Sent Events | styled-components,4,4,5,0.6441,agglomerative_char_tfidf_svd,medium
+83,AI Integration,,AI Integration | API integration | CMS integration | Integration Testing,4,4,4,0.8727,agglomerative_char_tfidf_svd,medium
+96,MUI,,MUI | Multi-agent orchestration | multi-tenant clusters | Multi-tenant SaaS,4,4,5,0.7396,agglomerative_char_tfidf_svd,medium
+105,Agile Delivery,,Agile Delivery | Delivery Management | Milestone Delivery | sushi delivery,4,4,5,0.7947,agglomerative_char_tfidf_svd,medium
+125,NVIDIA,,NVIDIA | NVIDIA A100 | NVIDIA DCGM | NVIDIA H100,4,4,4,0.9998,agglomerative_char_tfidf_svd,medium
+126,SQL Server,,KServe | MS SQL Server | Server-side Logic | SQL Server,4,4,5,0.7863,agglomerative_char_tfidf_svd,medium
+136,Artificial Intelligence,,Artificial Intelligence | Interactive Interfaces | Internal Backoffice | Internal Tools,4,4,4,0.6803,agglomerative_char_tfidf_svd,medium
+142,cross-chain interoperability,,cross-chain interoperability | High Availability | Observability | oncall reliability,4,4,4,0.8427,agglomerative_char_tfidf_svd,medium
+144,Big Data,,Big Data | data synchronization | Datadog | Seata,4,4,4,0.7557,agglomerative_char_tfidf_svd,medium
+153,Machine Learning,,Core Learning Features | Learning Experiences | Machine Learning | Scikit-Learn,4,4,5,0.8417,agglomerative_char_tfidf_svd,medium
+172,Access Controls,,Access Controls | Consul | Continuous Improvement | Continuous improvement,4,4,4,0.6593,agglomerative_char_tfidf_svd,medium
+190,HTML,,HTML | html | HTML/CSS | HTML5,4,4,4,0.9433,agglomerative_char_tfidf_svd,medium
+202,Adobe Analytics,,Adobe Analytics | Analytical Skills | Data Analytics | LISAGE Analytics,4,4,4,0.8947,agglomerative_char_tfidf_svd,medium
+11,ElasticSearch,,ElasticSearch | AI research | telematics research,3,4,4,0.9379,agglomerative_char_tfidf_svd,medium
+139,OAuth2,,OAuth2 | JWT | OAuth2/JWT,3,4,4,0.9444,agglomerative_char_tfidf_svd,medium
+152,Tableau,,Android | Android tablet industry | Tableau,3,4,5,0.8363,agglomerative_char_tfidf_svd,medium
+170,Logistics,,Logistics | SaaS logistics | SaaS Logistics and Supply Platform,3,4,4,0.8674,agglomerative_char_tfidf_svd,medium
+4,PHP,,PHP | phpMyAdmin,2,4,4,0.6602,agglomerative_char_tfidf_svd,medium
+63,Flutter,,Flutter | JMeter,2,4,4,0.8512,agglomerative_char_tfidf_svd,medium
+78,Nestjs,,Nestjs | NestJS,2,4,4,1.0,agglomerative_char_tfidf_svd,medium
+58,Postman,,Postman,1,4,4,1.0,agglomerative_char_tfidf_svd,medium
+22,Corrective Maintenance,,Corrective Maintenance | Equipment Maintenance | Preventive Maintenance,3,3,3,0.9104,agglomerative_char_tfidf_svd,medium
+33,caching strategies,,caching strategies | TEL Plasma Dry Etching | Wet Etching,3,3,3,0.8643,agglomerative_char_tfidf_svd,medium
+35,Centura C500,,Centura C500 | L300 | P500,3,3,3,0.8144,agglomerative_char_tfidf_svd,medium
+44,Electronics (Wafer Fabrication),,Electronics (Wafer Fabrication) | Ionic | Wafer Fabrication,3,3,3,0.7255,agglomerative_char_tfidf_svd,medium
+47,Agile best practices,,Agile best practices | DevOps Practices | Safety Practices,3,3,3,0.7611,agglomerative_char_tfidf_svd,medium
+51,Stakeholder Satisfaction,,Stakeholder Satisfaction | transaction reconciliation | Transactions,3,3,4,0.7644,agglomerative_char_tfidf_svd,medium
+85,Human Resources,,Human Resources | Open-sourced | resource quotas,3,3,3,0.7754,agglomerative_char_tfidf_svd,medium
+92,Communication,,Communication | real-time communication | Telecommunications,3,3,5,0.9457,agglomerative_char_tfidf_svd,medium
+108,Cross-border payments,,Cross-border payments | Order Editor | Order Reporting,3,3,3,0.7127,agglomerative_char_tfidf_svd,medium
+114,distributed training,,distributed training | multi-node training | User training,3,3,4,0.7949,agglomerative_char_tfidf_svd,medium
+118,at job scheduling,,at job scheduling | cluster resource scheduling | cron job scheduling,3,3,3,0.8726,agglomerative_char_tfidf_svd,medium
+120,Helm,,Helm | Helm chart authoring | vLLM,3,3,3,0.7896,agglomerative_char_tfidf_svd,medium
+122,canary deployment,,canary deployment | Deployment Pipelines | environment deployment,3,3,3,0.7796,agglomerative_char_tfidf_svd,medium
+140,Team Building,,Team Building | Team Coaching | Team Welfare,3,3,4,0.828,agglomerative_char_tfidf_svd,medium
+154,Excel,,crypto exchange | Excel | Return and Exchange Flow,3,3,3,0.8902,agglomerative_char_tfidf_svd,medium
+160,Entity Framework Core,,Entity Framework Core | NET Framework | Scrum framework,3,3,4,0.9182,agglomerative_char_tfidf_svd,medium
+165,AI-assisted coding,,AI-assisted coding | AI-assisted conversion | AI-Assisted Development,3,3,3,0.8016,agglomerative_char_tfidf_svd,medium
+171,Debugging,,Debugging | Logging | MQ-based Logging,3,3,4,0.9526,agglomerative_char_tfidf_svd,medium
+197,JUnit,,JUnit | UIKit | xUnit,3,3,3,0.9176,agglomerative_char_tfidf_svd,medium
+198,Software industry,,Software industry | software quality assurance | Software Quality Assurance,3,3,3,0.7857,agglomerative_char_tfidf_svd,medium
+41,gRPC,,gRPC | APC,2,3,3,0.8034,agglomerative_char_tfidf_svd,medium
+49,Dart,,Dart | CERT,2,3,3,0.7159,agglomerative_char_tfidf_svd,medium
+73,authentication,,authentication | Strong Customer Authentication,2,3,4,0.954,agglomerative_char_tfidf_svd,medium
+102,GraphQL,,GraphQL | Grafana,2,3,3,0.7041,agglomerative_char_tfidf_svd,medium
+174,C++,,C++ | C/C++,2,3,3,0.9921,agglomerative_char_tfidf_svd,medium
+186,JIRA,,JIRA | Jira/Confluence,2,3,3,0.8022,agglomerative_char_tfidf_svd,medium
+10,RabbitMQ,,RabbitMQ,1,3,3,1.0,agglomerative_char_tfidf_svd,medium
+151,Kotlin,,Kotlin,1,3,3,1.0,agglomerative_char_tfidf_svd,medium
+13,Ansible,,Ansible | Flowable,2,2,2,0.6413,agglomerative_char_tfidf_svd,medium
+27,Commissioning,,Commissioning | Mission Critical,2,2,2,0.6136,agglomerative_char_tfidf_svd,medium
+36,bug triage,,bug triage | TEL Trias,2,2,2,0.8093,agglomerative_char_tfidf_svd,medium
+40,SPC,,SPC | Splunk,2,2,2,0.7162,agglomerative_char_tfidf_svd,medium
+77,Ollama,,Ollama | RDMA,2,2,2,0.7394,agglomerative_char_tfidf_svd,medium
+94,Mobx,,Mobx | Web and mobile,2,2,2,0.8504,agglomerative_char_tfidf_svd,medium
+95,Zod,,Zod | Zones,2,2,2,0.6206,agglomerative_char_tfidf_svd,medium
+99,BigQuery,,BigQuery | TanStack Query,2,2,2,0.8013,agglomerative_char_tfidf_svd,medium
+112,Financial services,,Financial services | RPO Services,2,2,2,0.8593,agglomerative_char_tfidf_svd,medium
+115,inference scaling,,inference scaling | Tool calling,2,2,2,0.6094,agglomerative_char_tfidf_svd,medium
+117,ASPICE,,ASPICE | device plugins,2,2,2,0.7275,agglomerative_char_tfidf_svd,medium
+121,Kustomize overlays,,Kustomize overlays | Tenant Customizations,2,2,2,0.6358,agglomerative_char_tfidf_svd,medium
+123,GKE,,GKE | Make/CMake,2,2,2,0.6473,agglomerative_char_tfidf_svd,medium
+131,HRMS,,HRMS | LDOMs,2,2,2,0.7156,agglomerative_char_tfidf_svd,medium
+147,AML compliance,,AML compliance | PSD2 compliance,2,2,2,0.9967,agglomerative_char_tfidf_svd,medium
+148,currency conversion,,currency conversion | Cursor,2,2,2,0.6825,agglomerative_char_tfidf_svd,medium
+163,Semantic Kernel,,Semantic Kernel | Sentinel,2,2,3,0.6207,agglomerative_char_tfidf_svd,medium
+168,SonarQube,,SonarQube | Sonarqube,2,2,2,1.0,agglomerative_char_tfidf_svd,medium
+173,Recruitment Process Outsourcing,,Recruitment Process Outsourcing | recruitment systems,2,2,2,0.6368,agglomerative_char_tfidf_svd,medium
+175,EC2,,EC2 | ECS,2,2,2,0.6694,agglomerative_char_tfidf_svd,medium
+185,Trace32,,Trace32 | tracing,2,2,2,0.9104,agglomerative_char_tfidf_svd,medium
+191,Hardware Abstraction Layers,,Hardware Abstraction Layers | Hardware and Construction Tools,2,2,2,0.7454,agglomerative_char_tfidf_svd,medium
+200,MVC,,MVC | MVVM,2,2,2,0.6172,agglomerative_char_tfidf_svd,medium
+201,Front-End,,Front-End | JFrog,2,2,2,0.5883,agglomerative_char_tfidf_svd,medium
+203,JSP,,JSP | OWASP ZAP,2,2,2,0.6024,agglomerative_char_tfidf_svd,medium
+204,Salesforce,,Salesforce | Salesforce Administrator,2,2,2,0.7581,agglomerative_char_tfidf_svd,medium
+207,Aviatrix,,Aviatrix | Hystrix,2,2,2,0.9327,agglomerative_char_tfidf_svd,medium
+209,Nacos,,Nacos | NAS,2,2,2,0.5784,agglomerative_char_tfidf_svd,medium
+81,Temporal,,Temporal,1,2,2,1.0,agglomerative_char_tfidf_svd,medium
+133,Go,,Go,1,2,2,1.0,agglomerative_char_tfidf_svd,medium
+157,C#,,C#,1,2,3,1.0,agglomerative_char_tfidf_svd,medium
+6,NoSQL,,NoSQL,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+18,Daily Meetings,,Daily Meetings,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+26,React Native,,React Native,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+29,CVD,,CVD,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+30,ALD,,ALD,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+38,Extreme,,Extreme,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+42,Endura,,Endura,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+43,Semiconductor,,Semiconductor,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+48,Equipment Verification,,Equipment Verification,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+64,n8n,,n8n,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+65,FPX,,FPX,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+66,TikTok Shop,,TikTok Shop,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+89,SSR/SSG,,SSR/SSG,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+97,Figma,,Figma,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+100,Axios,,Axios,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+113,Fintech,,Fintech,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+124,Slurm,,Slurm,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+127,CUDA,,CUDA,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+128,Argo CD,,Argo CD,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+129,Kibana,,Kibana,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+132,Release Execution,,Release Execution,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+134,Refine,,Refine,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+135,KYC,,KYC,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+145,full-featured portal,,full-featured portal,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+150,FIX protocol,,FIX protocol,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+155,Fiat Wallet,,Fiat Wallet,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+156,POS terminals,,POS terminals,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+159,CQRS,,CQRS,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+161,NumPy,,NumPy,1,1,2,1.0,agglomerative_char_tfidf_svd,medium
+162,Power BI,,Power BI,1,1,2,1.0,agglomerative_char_tfidf_svd,medium
+164,Retrieval-Augmented Generation,,Retrieval-Augmented Generation,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+169,WPF,,WPF,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+176,S3,,S3,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+177,Lambda,,Lambda,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+178,Route 53,,Route 53,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+179,Embedded C,,Embedded C,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+180,Assembly,,Assembly,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+181,FreeRTOS,,FreeRTOS,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+182,Zephyr,,Zephyr,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+183,MISRA-C,,MISRA-C,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+184,Polyspace,,Polyspace,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+187,GCC,,GCC,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+188,GHS,,GHS,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+189,Bootstrap,,Bootstrap,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+192,Low-level Programming,,Low-level Programming,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+193,Oracle,,Oracle,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+194,Hadoop,,Hadoop,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+199,Katalon,,Katalon,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+205,Kiro,,Kiro,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+206,Calico,,Calico,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+208,KONG,,KONG,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+210,SharePoint,,SharePoint,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+211,Scrum Master,,Scrum Master,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+212,Wi-Fi,,Wi-Fi,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+213,Bachelor of Science,,Bachelor of Science,1,1,1,1.0,agglomerative_char_tfidf_svd,medium
+214,Industry 4.0 Environments,,Industry 4.0 Environments,1,1,1,1.0,agglomerative_char_tfidf_svd,medium

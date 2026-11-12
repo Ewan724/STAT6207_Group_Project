@@ -1,0 +1,692 @@
+keyword,doc_frequency,total_frequency,fields
+Bachelor's Degree,17,18,education
+Python,13,13,skills|tools_technologies
+MySQL,12,12,tools_technologies
+Docker,11,13,skills|tools_technologies
+PostgreSQL,11,12,skills|tools_technologies
+AWS,9,9,tools_technologies
+JavaScript,8,8,skills|tools_technologies
+MongoDB,8,9,skills|tools_technologies
+Node.js,8,8,skills|tools_technologies
+SQL,8,8,skills|tools_technologies
+TypeScript,8,8,skills|tools_technologies
+Jenkins,7,7,tools_technologies
+Kubernetes,7,8,skills|tools_technologies
+React,7,7,tools_technologies
+CI/CD,6,6,skills|tools_technologies
+Java,6,6,skills|tools_technologies
+Git,5,5,tools_technologies
+Kafka,5,6,skills|tools_technologies
+Linux,5,5,skills|tools_technologies
+Master's Degree,5,5,education
+Microservices,5,5,domains|skills|tools_technologies
+Next.js,5,5,tools_technologies
+Tailwind CSS,5,5,tools_technologies
+Agile,4,5,skills|soft_skills
+Collaboration,4,4,soft_skills
+DevOps,4,4,domains|skills|tools_technologies
+Postman,4,4,skills|tools_technologies
+Redis,4,4,tools_technologies
+Selenium,4,4,tools_technologies
+Software Engineering,4,5,domains|education|skills
+Spring Boot,4,4,tools_technologies
+Angular,3,3,skills|tools_technologies
+Computer Science,3,3,education
+DotNet,3,3,skills|tools_technologies
+Flutter,3,3,skills|tools_technologies
+Github Actions,3,3,tools_technologies
+Information Technology,3,3,education
+Kotlin,3,3,tools_technologies
+Laravel,3,3,tools_technologies
+Microsoft Azure,3,4,skills|tools_technologies
+Nestjs,3,3,tools_technologies
+PHP,3,3,tools_technologies
+Playwright,3,3,tools_technologies
+Prisma,3,3,tools_technologies
+RabbitMQ,3,3,tools_technologies
+REST APIs,3,3,skills|tools_technologies
+Rust,3,3,skills|tools_technologies
+Allure,2,2,tools_technologies
+Android,2,2,tools_technologies
+Apache Kafka,2,3,skills|tools_technologies
+Appium,2,2,tools_technologies
+Associate's Degree,2,2,education
+authentication,2,3,skills|soft_skills
+Blockchain,2,3,domains|skills|tools_technologies
+C#,2,3,skills|tools_technologies
+C++,2,2,tools_technologies
+Code Reviews,2,2,soft_skills
+Computer Engineering,2,3,education
+CSS,2,2,tools_technologies
+Dart,2,2,tools_technologies
+e-commerce,2,2,domains
+E-commerce,2,2,domains
+ElasticSearch,2,2,tools_technologies
+End-to-end ownership,2,2,soft_skills
+Enterprise Systems,2,2,domains|tools_technologies
+Enterprise Workflows,2,2,domains|skills
+Express.js,2,2,tools_technologies
+Financial Systems,2,2,domains
+Firebase,2,2,tools_technologies
+Full-stack Development,2,2,domains
+GitHub Actions,2,2,tools_technologies
+Go,2,2,tools_technologies
+Google Cloud Platform,2,2,tools_technologies
+GraphQL,2,2,tools_technologies
+gRPC,2,2,skills|tools_technologies
+Infrastructure as Code,2,2,domains|skills
+Jest,2,2,tools_technologies
+JIRA,2,2,tools_technologies
+Logistics,2,2,domains
+Nginx,2,2,tools_technologies
+OAuth2,2,2,tools_technologies
+Payment Systems,2,2,domains
+Performance Optimization,2,3,skills|soft_skills
+Project Management,2,2,skills|soft_skills
+Redux,2,2,tools_technologies
+REST API,2,2,skills|tools_technologies
+Software Development,2,2,domains|skills
+Spring,2,2,tools_technologies
+SQLite,2,2,tools_technologies
+Swift,2,2,tools_technologies
+Temporal,2,2,tools_technologies
+Transaction Processing,2,2,domains|skills
+TypeOrm,2,2,tools_technologies
+Unit Testing,2,2,skills
+Web Development,2,2,domains
+3D Secure 2.0,1,1,skills
+Access Controls,1,1,skills
+ACL configuration,1,1,skills
+Admin Dashboard Development,1,1,skills
+Adobe Analytics,1,1,skills
+Agile best practices,1,1,soft_skills
+Agile Delivery,1,2,skills|soft_skills
+Agile Model,1,1,soft_skills
+agile team support,1,1,soft_skills
+AI Evaluation,1,1,skills
+AI infrastructure,1,1,domains
+AI Infrastructure,1,1,domains
+AI Integration,1,1,domains
+AI research,1,1,skills
+AI Systems,1,1,skills
+AI-assisted coding,1,1,skills
+AI-assisted conversion,1,1,soft_skills
+AI-Assisted Development,1,1,skills
+AI-augmented engineering,1,1,skills
+AI-powered automation,1,2,skills|soft_skills
+ALD,1,1,tools_technologies
+Alibaba Cloud ACK,1,1,tools_technologies
+AliCloud,1,1,tools_technologies
+AML compliance,1,1,skills
+Analytical Skills,1,1,skills
+Android tablet industry,1,1,domains
+AngularJS,1,1,tools_technologies
+Ansible,1,1,tools_technologies
+Ant Design,1,1,tools_technologies
+Apache Phoenix,1,1,tools_technologies
+Apache Spark,1,1,tools_technologies
+APC,1,1,tools_technologies
+API design,1,1,skills
+API Design,1,1,skills
+API Gateway,1,1,skills
+API integration,1,1,skills
+API management,1,1,skills
+API Testing,1,1,skills
+API testing,1,1,skills
+Application Lifecycle Management,1,1,skills
+Application Support,1,1,skills
+Applied Producer,1,1,tools_technologies
+architect and builder,1,1,skills
+Argo CD,1,1,tools_technologies
+artifact management,1,1,skills
+Artificial Intelligence,1,1,domains
+ASPICE,1,1,skills
+Assembly,1,1,skills
+Asset Management,1,1,domains
+assistant lead/reviewer,1,1,soft_skills
+asynchronous processing,1,1,skills
+Asynchronous Workflows,1,1,skills
+at job scheduling,1,1,skills
+authorization,1,2,skills|soft_skills
+automated remediation,1,1,soft_skills
+Automation,1,1,skills
+AUTOSAR,1,1,skills
+Aviatrix,1,1,tools_technologies
+AWS DynamoDB,1,1,tools_technologies
+Axios,1,1,tools_technologies
+Azure AI,1,1,skills
+Azure DevOps Server,1,2,skills|tools_technologies
+Azure Service Bus,1,1,tools_technologies
+Bachelor of Science,1,1,education
+Backend Engineering,1,1,domains
+background processing,1,1,skills
+backup automation,1,1,skills
+Banking Systems,1,1,domains
+Big Data,1,1,domains
+Big Data Optimization,1,2,skills|soft_skills
+BigQuery,1,1,tools_technologies
+Bitbucket,1,1,tools_technologies
+BLoC/Cubit,1,1,tools_technologies
+blockchain indexer,1,1,skills
+Bluetooth,1,1,tools_technologies
+boot environment management,1,1,skills
+Bootstrap,1,1,tools_technologies
+bug triage,1,1,skills
+Build Pipelines,1,1,skills
+"Business/Commerce, General",1,1,education
+C/C++,1,1,skills
+Cache Components,1,1,domains
+caching strategies,1,1,skills
+Calico,1,1,tools_technologies
+canary deployment,1,1,skills
+card management,1,1,domains
+Centura C500,1,1,tools_technologies
+CERT,1,1,certifications
+CI/CD pipeline management,1,1,skills
+CI/CD pipelines,1,1,soft_skills
+Cilium,1,1,tools_technologies
+Claude,1,1,tools_technologies
+clean architecture,1,1,skills
+Clean Code,1,1,skills
+client request handling,1,1,soft_skills
+Cloud Computing,1,1,skills
+Cloud Firestore,1,1,tools_technologies
+Cloud Infrastructure,1,1,skills
+Cloud Native,1,1,skills
+Cloud Operations,1,1,domains
+Cloud Solutions,1,1,domains
+Cloud-Native Platform Engineering,1,1,skills
+CloudFlare,1,1,tools_technologies
+cluster resource scheduling,1,1,skills
+CMS integration,1,1,domains
+Code Review,1,2,skills|soft_skills
+CodeIgniter,1,1,tools_technologies
+Codemagic,1,1,tools_technologies
+Commissioning,1,1,skills
+Communication,1,2,skills|soft_skills
+Computer Applications,1,1,education
+Computer Information Systems,1,1,education
+Computer Science and Engineering,1,1,education
+Conflict Resolution,1,2,skills|soft_skills
+Consul,1,1,tools_technologies
+content creation,1,2,skills|soft_skills
+content management system,1,1,skills
+Continuous Improvement,1,1,soft_skills
+Continuous improvement,1,1,soft_skills
+core file analysis,1,1,skills
+Core Learning Features,1,1,skills
+Core Web Vitals,1,2,skills|soft_skills
+Corrective Maintenance,1,1,skills
+cost optimization,1,1,skills
+CQRS,1,1,skills
+crash dump analysis,1,1,skills
+Creativity,1,1,soft_skills
+CRM,1,1,soft_skills
+cron job scheduling,1,1,skills
+Cross-border payments,1,1,skills
+cross-chain interoperability,1,1,skills
+crypto exchange,1,1,domains
+CS,1,1,education
+css,1,1,tools_technologies
+CUDA,1,1,tools_technologies
+currency conversion,1,1,skills
+Cursor,1,1,tools_technologies
+CVD,1,1,tools_technologies
+Cyber Security,1,1,domains
+Cypress,1,1,tools_technologies
+Daily Meetings,1,1,soft_skills
+daily operations management,1,1,soft_skills
+Data Analytics,1,1,domains
+Data Driven,1,1,soft_skills
+Data Platform Engineering,1,1,domains
+data platform operations,1,1,skills
+Data Processing,1,1,domains
+Data Storage,1,1,skills
+data synchronization,1,1,skills
+Data Testing,1,1,skills
+Database,1,1,domains
+database export,1,1,skills
+Database Management,1,1,domains
+database optimization,1,1,skills
+Datadog,1,1,tools_technologies
+Debugging,1,1,soft_skills
+Degree,1,1,education
+Delivery Management,1,1,soft_skills
+Deployment Pipelines,1,1,skills
+Deployment workflows,1,1,soft_skills
+Device Management,1,1,domains
+device plugins,1,1,skills
+DevOps Practices,1,1,tools_technologies
+Digital Banking,1,1,domains
+Distributed systems,1,1,skills
+distributed training,1,1,skills
+DNS,1,1,tools_technologies
+domain events,1,2,skills|soft_skills
+driver upgrades,1,1,skills
+Dynamic analysis,1,1,skills
+EC2,1,1,tools_technologies
+ECS,1,1,tools_technologies
+education technology,1,1,domains
+Electrical and Electronics Engineering,1,1,education
+Electrical Engineering,1,2,education
+Electronic Computer Science,1,1,education
+Electronics (Wafer Fabrication),1,1,education
+Embedded C,1,1,skills
+Emergency Response,1,1,skills
+Endura,1,1,tools_technologies
+Engineering Management,1,2,domains|education
+Enterprise Applications,1,1,domains
+Entity Framework Core,1,2,skills|tools_technologies
+environment deployment,1,1,skills
+Equipment Maintenance,1,1,skills
+Equipment Support,1,1,domains
+Equipment Verification,1,1,soft_skills
+Error Analysis,1,1,skills
+error budget management,1,1,skills
+ETL workflows,1,1,skills
+Eureka,1,1,tools_technologies
+event monitoring,1,1,skills
+Event-Driven Architecture,1,2,skills|soft_skills
+event-driven flows,1,2,skills|soft_skills
+Excel,1,1,tools_technologies
+Express,1,1,tools_technologies
+Extreme,1,1,tools_technologies
+FastAPI,1,1,tools_technologies
+Fiat Wallet,1,1,domains
+Figma,1,1,tools_technologies
+filesystem administration,1,1,skills
+Financial services,1,1,domains
+Fintech,1,1,domains
+Fintech Architecture,1,1,domains
+FIX protocol,1,1,tools_technologies
+flight academy,1,1,domains
+Flowable,1,1,skills
+FPX,1,1,tools_technologies
+FreeRTOS,1,1,skills
+Front-End,1,1,domains
+Frontend Development,1,1,skills
+full-featured portal,1,1,skills
+Full-stack Solutions,1,1,skills
+Functional Testing,1,1,skills
+Fund Operations,1,1,domains
+FX settlement,1,1,skills
+Game Development,1,1,domains
+gas price calculation,1,1,skills
+GCC,1,1,tools_technologies
+gdb,1,1,skills
+Gemini,1,1,skills
+GHS,1,1,tools_technologies
+Gitlab,1,2,skills|tools_technologies
+GitLab CI,1,1,tools_technologies
+GKE,1,1,tools_technologies
+Golang,1,1,tools_technologies
+Google Drive,1,1,tools_technologies
+GPU fleets operation,1,1,skills
+GPU Infrastructure,1,1,domains
+Grafana,1,1,tools_technologies
+Greenplum,1,1,tools_technologies
+Hadoop,1,1,tools_technologies
+Hardware Abstraction Layers,1,1,domains
+Hardware and Construction Tools,1,1,domains
+HBase,1,1,tools_technologies
+Health and Safety,1,1,skills
+health monitoring,1,1,skills
+Helm,1,1,tools_technologies
+Helm chart authoring,1,1,skills
+Hibernate,1,1,tools_technologies
+High Availability,1,1,skills
+High Performance,1,2,skills|soft_skills
+High School diploma,1,1,education
+HighTec,1,1,tools_technologies
+Hook-up,1,1,skills
+HRMS,1,1,domains
+HTML,1,1,tools_technologies
+html,1,1,tools_technologies
+HTML/CSS,1,1,skills
+HTML5,1,1,tools_technologies
+Human Resources,1,1,domains
+Human review,1,1,skills
+Hystrix,1,1,tools_technologies
+IIS,1,1,tools_technologies
+incident investigation,1,1,skills
+Incident Lifecycle,1,1,skills
+Incident response,1,1,soft_skills
+incident response,1,2,skills|soft_skills
+Incident Response,1,1,soft_skills
+Industry 4.0 Environments,1,1,domains
+inference scaling,1,1,skills
+InfiniBand,1,1,tools_technologies
+Informatics / Computer Science,1,1,education
+Information Systems (Cyber Security),1,1,education
+Installation,1,1,skills
+Integration Testing,1,1,skills
+Interactive Interfaces,1,1,skills
+Internal Backoffice,1,1,domains
+Internal Tools,1,1,skills
+Investment Management,1,1,domains
+Ionic,1,1,tools_technologies
+IoT Platforms,1,1,domains
+IT Operations Services,1,1,domains
+J2EE,1,1,tools_technologies
+Java EE backend,1,1,domains
+Java microservices,1,1,skills
+Java Swing,1,1,skills
+JFrog,1,1,tools_technologies
+Jira/Confluence,1,1,tools_technologies
+JMeter,1,1,tools_technologies
+JSON standardization,1,1,skills
+JSON-RPC API,1,1,tools_technologies
+JSP,1,1,skills
+Jumpstart server management,1,1,skills
+JUnit,1,1,skills
+JWT,1,1,tools_technologies
+Katalon,1,1,tools_technologies
+Keycloak,1,1,tools_technologies
+Kibana,1,1,tools_technologies
+Kiro,1,1,tools_technologies
+KONG,1,1,tools_technologies
+KServe,1,1,tools_technologies
+Kubeflow,1,1,tools_technologies
+Kubernetes Operations,1,1,domains
+Kustomize overlays,1,1,skills
+KYC,1,1,domains
+L2 support,1,1,skills
+L3 support,1,1,skills
+L300,1,1,tools_technologies
+Lambda,1,1,tools_technologies
+Large Language Model,1,1,skills
+LDOMs,1,1,tools_technologies
+Leadership Development,1,2,skills|soft_skills
+Learning Experiences,1,1,skills
+LISAGE Analytics,1,1,domains
+localization,1,2,skills|soft_skills
+log analysis,1,1,skills
+Logging,1,1,skills
+Low-latency Infrastructure,1,1,skills
+Low-level Programming,1,1,domains
+Machine Learning,1,1,domains
+Make/CMake,1,1,tools_technologies
+Manual Testing,1,1,skills
+Manufacturing Workflows,1,1,domains
+Manz,1,1,tools_technologies
+maven,1,1,skills
+Mentoring,1,1,soft_skills
+Mentorship,1,1,soft_skills
+Microservice Architecture,1,1,domains
+microservice design,1,1,skills
+Microservices Architecture,1,1,skills
+Milestone Delivery,1,1,soft_skills
+mirroring configuration,1,1,skills
+MISRA-C,1,1,skills
+Mission Critical,1,1,domains
+Mobile Applications,1,1,domains
+mobile development,1,1,domains
+Mobile Engineering,1,1,domains
+Mobx,1,1,tools_technologies
+monitoring,1,1,skills
+monitoring automation,1,1,skills
+MQ-based Logging,1,2,skills|tools_technologies
+MS SQL Server,1,1,skills
+MUI,1,1,tools_technologies
+multi currency operations,1,1,domains
+Multi-agent orchestration,1,1,skills
+multi-node training,1,1,skills
+multi-tenant clusters,1,1,skills
+Multi-tenant SaaS,1,2,domains|skills
+MVC,1,1,skills
+MVVM,1,1,skills
+MyBatis,1,1,tools_technologies
+n8n,1,1,tools_technologies
+Nacos,1,1,tools_technologies
+namespace isolation,1,1,skills
+NAS,1,1,tools_technologies
+NestJS,1,1,tools_technologies
+NET 8.0,1,1,tools_technologies
+NET Core,1,1,tools_technologies
+NET Framework,1,1,tools_technologies
+network installation,1,1,skills
+Network Storage,1,1,skills
+Network storage industry,1,1,domains
+networking configuration,1,1,skills
+NFS service management,1,1,skills
+NIS service management,1,1,skills
+NoSQL,1,1,tools_technologies
+notification system,1,1,domains
+Novellus Vector Express,1,1,tools_technologies
+NumPy,1,2,skills|tools_technologies
+NVIDIA,1,1,tools_technologies
+NVIDIA A100,1,1,tools_technologies
+NVIDIA DCGM,1,1,tools_technologies
+NVIDIA H100,1,1,tools_technologies
+OAuth2/JWT,1,1,skills
+Observability,1,1,skills
+OCI,1,1,tools_technologies
+Ollama,1,1,skills
+oncall reliability,1,1,skills
+Open WebUI,1,1,skills
+Open-sourced,1,1,soft_skills
+OpenAI,1,1,tools_technologies
+OpenAI-compatible APIs,1,1,skills
+OpenFeign,1,1,tools_technologies
+OpenShift,1,2,skills|tools_technologies
+Operational Efficiency,1,1,soft_skills
+operational processes,1,2,skills|soft_skills
+Oracle,1,1,tools_technologies
+Order Editor,1,1,domains
+Order Reporting,1,1,skills
+OWASP ZAP,1,1,tools_technologies
+P500,1,1,tools_technologies
+package management,1,1,skills
+Pandas,1,2,skills|tools_technologies
+patching management,1,1,skills
+Payment Gateway,1,1,domains
+Payment Gateway Development,1,1,skills
+Payment infrastructure,1,1,skills
+Payment Processing,1,1,domains
+PCI-DSS,1,2,certifications|tools_technologies
+performance monitoring,1,1,skills
+performance optimization,1,2,skills|soft_skills
+Performance Testing,1,1,skills
+phpMyAdmin,1,1,tools_technologies
+Platform Feature Engineering,1,2,skills|soft_skills
+platform health monitoring,1,1,skills
+Platform Redesign,1,1,skills
+Polyspace,1,1,skills
+POS terminals,1,1,domains
+Power BI,1,2,skills|tools_technologies
+Preventive Maintenance,1,1,skills
+Process Automation,1,1,soft_skills
+Process Optimization,1,1,skills
+Procurement Systems,1,1,domains
+Product Catalog,1,1,domains
+Product Discovery,1,1,skills
+Product Management,1,1,skills
+Production Issues,1,1,skills
+Production Planning,1,1,domains
+Productivity Boosting,1,1,soft_skills
+project management,1,1,soft_skills
+Prompt engineering,1,1,skills
+PSD2 compliance,1,1,skills
+Purpose Driven,1,1,soft_skills
+pytest,1,1,tools_technologies
+RAID configuration,1,1,skills
+Rate Limiting,1,1,skills
+Ray,1,1,tools_technologies
+RBAC configuration,1,1,skills
+RDMA,1,1,tools_technologies
+re-architecture,1,1,skills
+React Hook Form,1,1,tools_technologies
+React Native,1,1,tools_technologies
+React testing library,1,1,tools_technologies
+ReadyAPI,1,1,tools_technologies
+real-time communication,1,2,skills|soft_skills
+Recruitment Process Outsourcing,1,1,skills
+recruitment systems,1,1,domains
+Recruitment Technology,1,1,domains
+Refine,1,1,tools_technologies
+Regression Testing,1,1,skills
+Release Execution,1,1,skills
+Requests,1,1,tools_technologies
+Requirements elicitation,1,2,skills|soft_skills
+resource quotas,1,1,skills
+REST API design,1,1,skills
+RESTful APIs,1,1,tools_technologies
+Retail Solutions,1,1,domains
+Retrieval Optimization,1,1,skills
+Retrieval-Augmented Generation,1,1,skills
+Return and Exchange Flow,1,1,skills
+review workflows,1,1,soft_skills
+root cause analysis,1,2,skills|soft_skills
+Route 53,1,1,tools_technologies
+RPO Services,1,1,skills
+Ruby on Rails,1,1,tools_technologies
+RUST,1,1,skills
+S3,1,1,tools_technologies
+SaaS logistics,1,1,skills
+SaaS Logistics and Supply Platform,1,1,domains
+Safety Practices,1,1,soft_skills
+Sails.js,1,1,tools_technologies
+Sales Platform,1,1,domains
+Salesforce,1,1,tools_technologies
+Salesforce Administrator,1,1,certifications
+SAP Hybris,1,1,skills
+Scikit-Learn,1,2,skills|tools_technologies
+Scrum framework,1,1,tools_technologies
+Scrum Master,1,1,skills
+scss,1,1,tools_technologies
+Seata,1,1,tools_technologies
+security administration,1,1,skills
+Security and Cryptography,1,1,domains
+Semantic Kernel,1,2,skills|tools_technologies
+Semiconductor,1,1,domains
+Sentinel,1,1,tools_technologies
+SEO performance,1,2,skills|soft_skills
+Sequelize,1,1,tools_technologies
+server administration,1,1,skills
+Server-Sent Events,1,1,tools_technologies
+Server-side Logic,1,1,skills
+session management,1,1,skills
+SharePoint,1,1,tools_technologies
+SLA Management,1,1,skills
+Slurm,1,1,tools_technologies
+SmartPOS payment applications,1,1,skills
+SMF service management,1,1,skills
+Software engineering,1,1,domains
+Software industry,1,1,domains
+software quality assurance,1,1,domains
+Software Quality Assurance,1,1,domains
+Solaris 10,1,1,tools_technologies
+Solaris 11,1,1,tools_technologies
+Solaris administration,1,1,skills
+Solaris Systems,1,1,domains
+SonarQube,1,1,tools_technologies
+Sonarqube,1,1,tools_technologies
+Sparx Enterprise Architect,1,1,tools_technologies
+SPC,1,1,tools_technologies
+SPEA P&P handler,1,1,tools_technologies
+Splunk,1,1,tools_technologies
+Spring Cloud,1,1,tools_technologies
+Spring Cloud Alibaba,1,1,tools_technologies
+Spring Cloud Gateway,1,1,tools_technologies
+Spring Security,1,1,tools_technologies
+SpringMVC,1,1,tools_technologies
+Sprint Planning,1,1,soft_skills
+sprint planning,1,1,skills
+SQL Development,1,1,tools_technologies
+SQL Server,1,2,skills|tools_technologies
+SSR/SSG,1,1,skills
+Stakeholder Satisfaction,1,2,skills|soft_skills
+Static analysis,1,1,skills
+STOMP,1,1,tools_technologies
+Storybook,1,1,tools_technologies
+Strategic Planning,1,2,skills|soft_skills
+Strong Customer Authentication,1,1,skills
+styled-components,1,1,tools_technologies
+Sukuk platform,1,1,domains
+sushi delivery,1,1,domains
+SVM configuration,1,1,skills
+Swellsteps,1,1,skills
+Swift Playgrounds,1,1,tools_technologies
+SwiftUI,1,1,tools_technologies
+System architecture,1,1,skills
+System Architecture,1,1,soft_skills
+system design,1,1,soft_skills
+System Design,1,2,skills|soft_skills
+system owner,1,1,skills
+Systems Architecture,1,1,skills
+Tableau,1,2,skills|tools_technologies
+TanStack Query,1,1,tools_technologies
+Tasking,1,1,tools_technologies
+Team Building,1,1,skills
+Team Coaching,1,2,skills|soft_skills
+Team Leadership,1,2,skills|soft_skills
+Team Welfare,1,1,soft_skills
+Technical Decisions,1,1,soft_skills
+Technical Execution,1,2,skills|soft_skills
+technical lead,1,1,soft_skills
+Technical leadership,1,2,skills|soft_skills
+Technical Leadership,1,2,skills|soft_skills
+Technical Planning,1,2,skills|soft_skills
+Teknik Komputer,1,1,education
+TEL Plasma Dry Etching,1,1,tools_technologies
+TEL Trias,1,1,tools_technologies
+Telecommunications,1,1,domains
+telematics research,1,1,domains
+Tenant Customizations,1,1,skills
+Terraform,1,1,tools_technologies
+Test Driven Development,1,1,skills
+Test Scenario Creation,1,1,soft_skills
+Test scripting,1,1,skills
+Testing Support,1,1,soft_skills
+Third-party Solution,1,1,skills
+TikTok Shop,1,1,tools_technologies
+Tolling Systems,1,1,domains
+Tool calling,1,1,skills
+Trace32,1,1,skills
+tracing,1,1,skills
+Track-and-Trace Systems,1,1,domains
+transaction reconciliation,1,1,skills
+Transactions,1,1,domains
+Troubleshooting,1,1,skills
+UDE,1,1,skills
+UI automation,1,1,skills
+UIKit,1,1,tools_technologies
+UNIX administration,1,1,skills
+UNIX Administration,1,1,domains
+User Engagement,1,1,skills
+User Interface Design,1,1,skills
+user management,1,1,skills
+User training,1,2,skills|soft_skills
+UX,1,1,domains
+Validation,1,1,soft_skills
+VB .net,1,1,skills
+Vendor coordination,1,2,skills|soft_skills
+VIPER architecture,1,1,tools_technologies
+virtualisation management,1,1,skills
+Vitest,1,1,tools_technologies
+vLLM,1,1,tools_technologies
+VR Development,1,1,domains
+VS Code,1,1,tools_technologies
+Vue.js,1,1,tools_technologies
+Vue.js/Nuxt,1,1,tools_technologies
+VxVM volume management,1,1,skills
+Wafer Fabrication,1,1,domains
+Web and mobile,1,1,domains
+Web Platform,1,1,skills
+Web/Mobile/Game Development,1,1,domains
+Web3,1,1,domains
+WebdriverIO,1,1,tools_technologies
+Webhooks,1,1,skills
+Websocket,1,1,tools_technologies
+WeChat Mini Program development,1,1,domains
+Wet Etching,1,1,tools_technologies
+Wi-Fi,1,1,tools_technologies
+WordPress,1,1,tools_technologies
+Workflow mapping,1,2,skills|soft_skills
+WPF,1,1,tools_technologies
+xUnit,1,1,skills
+Zephyr,1,1,skills
+ZFS management,1,1,skills
+Zod,1,1,tools_technologies
+Zones,1,1,tools_technologies
+Zustand,1,1,tools_technologies

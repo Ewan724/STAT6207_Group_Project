@@ -1,0 +1,11 @@
+hired_cv_id,jd_id,top1_pool_cv,top1_cosine,top2_pool_cv,top2_cosine,top3_pool_cv,top3_cosine,top1_title,top1_company,title_match,company_match,decision
+CAND-101,P01,CV-075,0.4771,CV-079,0.4523,CV-082,0.3783,Assistant Senior Finance Manager,Linnovate Partners (AFS) Sdn Bhd,False,False,keep_new
+CAND-102,P02,CV-058,0.4842,CV-057,0.3851,CV-064,0.1868,Senior Commercial & Business Development Manager – Food Division,PT Esco Chemicals Mitrautama,False,False,keep_new
+CAND-103,P03,CV-068,0.3466,CV-069,0.3363,CV-065,0.33,Deputy Manager - Marketing,Duroflex Group,False,False,keep_new
+CAND-104,P04,CV-012,0.305,CV-045,0.2989,CV-046,0.2881,Software Engineer,Aytas Tech Solutions Inc.,False,False,keep_new
+CAND-105,P05,CV-097,0.2645,CV-065,0.1837,CV-022,0.182,Founding Head of Indonesia,Korean e-commerce company,False,False,keep_new
+CAND-106,P06,CV-042,0.2186,CV-031,0.2128,CV-045,0.211,Senior Data Scientist,Uber,False,False,keep_new
+CAND-107,P07,CV-068,0.3183,CV-069,0.317,CV-065,0.3022,Deputy Manager - Marketing,Duroflex Group,False,False,keep_new
+CAND-108,P08,CV-002,0.5511,CV-021,0.1466,CV-064,0.1287,Field Service Engineer I,ASM WPE (S) Ltd,False,False,keep_new
+CAND-109,P09,CV-018,0.2808,CV-016,0.2563,CV-029,0.1814,Senior Software Engineer,"Maya Bank, Inc.",False,False,keep_new
+CAND-110,P10,CV-048,0.4376,CV-047,0.3172,CV-054,0.2789,Lead UI/UX Designer,Thumb Technologies,False,False,keep_new

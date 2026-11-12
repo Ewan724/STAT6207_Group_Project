@@ -1,0 +1,613 @@
+doc_id,keyword,reason
+CV-002,Customer Relationship Management,unmatched
+CV-004,Gcp,unmatched
+CV-006,React.js,unmatched
+CV-011,Amazon Web Services,unmatched
+CV-011,AI,unmatched
+CV-012,Azure,unmatched
+CV-012,LLM,unmatched
+CV-012,RAG,unmatched
+CV-012,NET,unmatched
+CV-012,Azure,unmatched
+CV-015,Spark,unmatched
+CV-016,Agile Methodologies,unmatched
+CV-016,Azure,unmatched
+CV-018,Nodejs,unmatched
+CV-019,nodejs,unmatched
+CV-020,Azure,unmatched
+CV-021,NET,unmatched
+CV-022,Agile Methodologies,unmatched
+CV-025,NET,unmatched
+P01,Regional Finance Controller,unmatched
+P01,Financial Reporting,unmatched
+P01,Taxation,unmatched
+P01,Budgeting and Forecasting,unmatched
+P01,Cost Accounting,unmatched
+P01,IFRS Compliance,unmatched
+P01,Internal Controls,unmatched
+P01,Manufacturing Costing,unmatched
+P01,Management Reporting,unmatched
+P01,Stakeholder Communication,unmatched
+P01,Process Improvement,unmatched
+P01,Financial Regulations,unmatched
+P01,Cash Flow Management,unmatched
+P01,Inventory Analysis,unmatched
+P01,ERP Systems,unmatched
+P01,Cultural Agility,unmatched
+P01,Change Agent,unmatched
+P01,Ethical Leadership,unmatched
+P01,Influencing Skills,unmatched
+P01,PowerPoint,unmatched
+P01,ERP Systems,unmatched
+P01,Financial Software,unmatched
+P01,Data Analytics Tools,unmatched
+P01,Accounting,unmatched
+P01,Taxation,unmatched
+P01,Manufacturing,unmatched
+P01,IFRS,unmatched
+P01,Internal Controls,unmatched
+P01,Cost Accounting,unmatched
+P01,Lead finance team,unmatched
+P01,Oversee financial activities,unmatched
+P01,Financial reporting,unmatched
+P01,Taxation management,unmatched
+P01,Cash flow management,unmatched
+P01,Budgeting and forecasting,unmatched
+P01,Cost management,unmatched
+P01,Compliance with regulations,unmatched
+P01,Strategic business partnering,unmatched
+P01,Financial analysis,unmatched
+P01,Product margin analysis,unmatched
+P01,Inventory management,unmatched
+P01,Budget monitoring,unmatched
+P01,Process improvement,unmatched
+P01,Stakeholder communication,unmatched
+P01,Problem-solving,unmatched
+P01,Decision-making,unmatched
+P01,Strategic mindset,unmatched
+P01,Organized,unmatched
+P01,Detail-oriented,unmatched
+P01,Positive attitude,unmatched
+P01,Fast learning,unmatched
+P01,Adaptable,unmatched
+P01,Strong initiative,unmatched
+P01,Performance driven,unmatched
+P01,Results-driven,unmatched
+P01,Analytical,unmatched
+P01,Solution focused,unmatched
+P01,Customer oriented,unmatched
+P01,Stakeholder oriented,unmatched
+P01,Innovative,unmatched
+P01,Resourceful,unmatched
+P01,Cost conscious,unmatched
+P01,Cultural Agility,unmatched
+CAND-101,Financial Management,unmatched
+CAND-101,Accounting,unmatched
+CAND-101,Financial Reporting,unmatched
+CAND-101,Budgeting,unmatched
+CAND-101,Cost Control,unmatched
+CAND-101,Financial Analysis,unmatched
+CAND-101,Financial Planning,unmatched
+CAND-101,Microsoft Office,unmatched
+CAND-101,JD Edwards,unmatched
+CAND-101,Navision,unmatched
+CAND-101,Ostendo,unmatched
+CAND-101,MYOB,unmatched
+CAND-101,Manufacturing,unmatched
+CAND-101,Trading,unmatched
+CAND-101,Printing,unmatched
+CAND-101,Food Services,unmatched
+CAND-101,Crystal Production,unmatched
+CAND-101,Process Improvement,unmatched
+CAND-101,Compliance Review,unmatched
+CAND-101,Strategic Management,unmatched
+P02,B2B sales,unmatched
+P02,flavour solutions,unmatched
+P02,customer partnerships,unmatched
+P02,market growth,unmatched
+P02,key accounts,unmatched
+P02,Bahasa Indonesia,unmatched
+P02,Indonesian citizen,unmatched
+P02,food ingredients,unmatched
+P02,F&B manufacturing,unmatched
+P02,flavour applications,unmatched
+P02,product development,unmatched
+P02,technical-commercial discussions,unmatched
+P02,proactive,unmatched
+P02,independent,unmatched
+P02,flavour solutions,unmatched
+P02,food ingredients,unmatched
+P02,F&B manufacturing,unmatched
+P02,flavour applications,unmatched
+P02,product development cycles,unmatched
+P02,technical-commercial discussions,unmatched
+P02,BPOM,unmatched
+P02,Halal,unmatched
+P02,importation processes,unmatched
+P02,supporting Regional Sales Lead,unmatched
+P02,grow market presence,unmatched
+P02,manage key customers,unmatched
+P02,develop new business opportunities,unmatched
+P02,work with distributors,unmatched
+P02,pipeline reviews,unmatched
+P02,build customer relationships,unmatched
+P02,deliver samples and trials,unmatched
+P02,monitor market intelligence,unmatched
+P02,support strategic planning,unmatched
+P02,manage sales forecasts,unmatched
+P02,report with accuracy,unmatched
+P02,support regulatory requirements,unmatched
+P02,passionate,unmatched
+P02,driven,unmatched
+P02,commercially savvy,unmatched
+P02,customer-centric,unmatched
+P02,proactive,unmatched
+P02,independent,unmatched
+P02,organised,unmatched
+P02,disciplined,unmatched
+CAND-102,Leadership,unmatched
+CAND-102,Business Development,unmatched
+CAND-102,Negotiation,unmatched
+CAND-102,Customer Relationship Management,unmatched
+CAND-102,Adaptability,unmatched
+CAND-102,Public Speaking,unmatched
+CAND-102,Problem Solving,unmatched
+CAND-102,Teamwork,unmatched
+CAND-102,Responsibility,unmatched
+CAND-102,Presentation Skills,unmatched
+CAND-102,Analytical Thinking,unmatched
+CAND-102,Technical Sales,unmatched
+CAND-102,International Sales,unmatched
+CAND-102,Flavor Application,unmatched
+CAND-102,Product Development,unmatched
+CAND-102,Prototype Development,unmatched
+CAND-102,Product Presentation,unmatched
+CAND-102,Market Analysis,unmatched
+CAND-102,Supplier Sourcing,unmatched
+CAND-102,Food Ingredients,unmatched
+CAND-102,Tobacco Ingredients,unmatched
+CAND-102,Vape Ingredients,unmatched
+CAND-102,Laboratory Analysis,unmatched
+CAND-102,Microsoft Office,unmatched
+CAND-102,Email Marketing,unmatched
+CAND-102,Food Technology,unmatched
+CAND-102,International Markets,unmatched
+CAND-102,Leadership,unmatched
+CAND-102,Adaptability,unmatched
+CAND-102,Public Speaking,unmatched
+CAND-102,Problem Solving,unmatched
+CAND-102,Teamwork,unmatched
+CAND-102,Responsibility,unmatched
+CAND-102,Presentation Skills,unmatched
+CAND-102,Analytical Thinking,unmatched
+CAND-102,Food Technology,unmatched
+P03,GTM strategy,unmatched
+P03,paid advertising,unmatched
+P03,SEO content,unmatched
+P03,marketing automation,unmatched
+P03,data analysis,unmatched
+P03,cross-border e-commerce,unmatched
+P03,US market experience,unmatched
+P03,B2B marketing,unmatched
+P03,Google Ads,unmatched
+P03,Facebook Meta Ads,unmatched
+P03,LinkedIn Ads,unmatched
+P03,Ahrefs,unmatched
+P03,SEMrush,unmatched
+P03,HubSpot,unmatched
+P03,Perplexity,unmatched
+P03,ChatGPT,unmatched
+P03,e-commerce logistics,unmatched
+P03,supply chain SaaS,unmatched
+P03,US market culture,unmatched
+P03,Develop integrated marketing strategy,unmatched
+P03,Plan GTM launch planning,unmatched
+P03,Lead SEO content strategy,unmatched
+P03,Manage EDM marketing workflows,unmatched
+P03,Execute social media operations,unmatched
+P03,Create marketing content,unmatched
+P03,Coordinate internal teams,unmatched
+P03,Plan industry trade shows,unmatched
+P03,Build marketing data dashboards,unmatched
+P03,Collaborate with sales team,unmatched
+P03,independent work,unmatched
+P03,cross-department collaboration,unmatched
+CAND-103,Growth Strategy,unmatched
+CAND-103,Demand Generation,unmatched
+CAND-103,GTM Strategy,unmatched
+CAND-103,Marketing Operations,unmatched
+CAND-103,AI & Digital Transformation,unmatched
+CAND-103,GoHighLevel,unmatched
+CAND-103,HubSpot,unmatched
+CAND-103,Meta,unmatched
+CAND-103,Google Ads,unmatched
+CAND-103,LinkedIn,unmatched
+CAND-103,Facebook,unmatched
+CAND-103,Instagram,unmatched
+CAND-103,B2B SaaS,unmatched
+CAND-103,Technology,unmatched
+CAND-103,Professional Services,unmatched
+CAND-103,Recruitment,unmatched
+CAND-103,Workforce Solutions,unmatched
+CAND-103,Digital Learning,unmatched
+CAND-103,Music Events,unmatched
+CAND-103,Leadership,unmatched
+CAND-103,Business Development,unmatched
+CAND-103,Engineering,unmatched
+P04,data engineering,unmatched
+P04,SQL proficiency,unmatched
+P04,Azure Databricks,unmatched
+P04,Azure Synapse,unmatched
+P04,PySpark,unmatched
+P04,R,unmatched
+P04,Scala,unmatched
+P04,ETL processes,unmatched
+P04,Azure Data Factory,unmatched
+P04,DataOps principles,unmatched
+P04,distributed global team,unmatched
+P04,performance tuning,unmatched
+P04,machine learning models,unmatched
+P04,Azure Databricks,unmatched
+P04,Azure Synapse,unmatched
+P04,PySpark,unmatched
+P04,R,unmatched
+P04,Scala,unmatched
+P04,Azure Data Factory,unmatched
+P04,data engineering,unmatched
+P04,ETL/ELT processes,unmatched
+P04,data quality,unmatched
+P04,data pipelines,unmatched
+P04,Architect data platform,unmatched
+P04,Design data pipelines,unmatched
+P04,Develop data models,unmatched
+P04,Monitor ETL processes,unmatched
+P04,Collaborate with stakeholders,unmatched
+P04,Ensure data quality,unmatched
+P04,Evaluate data tools,unmatched
+P04,problem-solving,unmatched
+P04,self-motivated,unmatched
+P04,communication skills,unmatched
+P04,collaborative team,unmatched
+CAND-104,Spark Structured Streaming,unmatched
+CAND-104,Azure Databricks,unmatched
+CAND-104,Delta Lake,unmatched
+CAND-104,Django REST API,unmatched
+CAND-104,Scala,unmatched
+CAND-104,Shell Scripting,unmatched
+CAND-104,Spring Framework,unmatched
+CAND-104,Web Services,unmatched
+CAND-104,ETL/ELT Processes,unmatched
+CAND-104,Airflow,unmatched
+CAND-104,Azure Logic Apps,unmatched
+CAND-104,Azure DevOps,unmatched
+CAND-104,Svelte,unmatched
+CAND-104,data engineering,unmatched
+CAND-104,Architected,unmatched
+CAND-104,Designed,unmatched
+CAND-104,Implemented,unmatched
+CAND-104,Led,unmatched
+CAND-104,Automated,unmatched
+CAND-104,Developed,unmatched
+CAND-104,Refactored,unmatched
+CAND-104,Tuned,unmatched
+CAND-104,Contributed,unmatched
+CAND-104,Supported,unmatched
+CAND-104,Bachelor of Engineering,unmatched
+CAND-104,Mechanical Engineering,unmatched
+P05,logistics software,unmatched
+P05,fulfillment systems,unmatched
+P05,warehouse operations,unmatched
+P05,supply chain,unmatched
+P05,WMS domain,unmatched
+P05,integration-heavy product,unmatched
+P05,technical fluency,unmatched
+P05,evidence-first working style,unmatched
+P05,written documentation,unmatched
+P05,self-sufficient operator,unmatched
+P05,collaboration fit,unmatched
+P05,vendor management experience,unmatched
+P05,warehouse ops experience,unmatched
+P05,build-vs-buy evaluation,unmatched
+P05,WMS,unmatched
+P05,OMS,unmatched
+P05,3PL platform,unmatched
+P05,APIs,unmatched
+P05,Fulfillment API contract,unmatched
+P05,logistics ecosystem,unmatched
+P05,e-commerce brands,unmatched
+P05,cross-border shipping,unmatched
+P05,AI logistics intelligence,unmatched
+P05,warehouse integration,unmatched
+P05,inventory reconciliation,unmatched
+P05,fulfillment flows,unmatched
+P05,billing systems,unmatched
+P05,WMS product roadmap ownership,unmatched
+P05,sprint delivery management,unmatched
+P05,WMS flow QA,unmatched
+P05,integration spec development,unmatched
+P05,sync reliability management,unmatched
+P05,bug escalation handling,unmatched
+P05,release coordination,unmatched
+P05,commercial support analysis,unmatched
+P05,RFP gap analysis,unmatched
+P05,engineer team management,unmatched
+P05,WMS improvement shipping,unmatched
+P05,platform recommendation delivery,unmatched
+P05,roadmap ownership,unmatched
+P05,sprint delivery,unmatched
+P05,bug escalation,unmatched
+P05,root-cause analysis,unmatched
+P05,decision escalation,unmatched
+CAND-105,Confluence,unmatched
+CAND-105,Analytics,unmatched
+CAND-105,API,unmatched
+CAND-105,AI productivity tools,unmatched
+CAND-105,SDLC,unmatched
+CAND-105,Confluence,unmatched
+CAND-105,Tax Compliance,unmatched
+CAND-105,Fleet Management,unmatched
+CAND-105,Digital Marketing,unmatched
+CAND-105,CRM Platform,unmatched
+CAND-105,Subscription Billing,unmatched
+CAND-105,Investment Portfolios,unmatched
+CAND-105,Leadership,unmatched
+CAND-105,Strategy,unmatched
+CAND-105,Performance visibility,unmatched
+CAND-105,Business Management,unmatched
+CAND-105,Digital technology programme,unmatched
+P06,APIs,unmatched
+P06,data flows,unmatched
+P06,system integrations,unmatched
+P06,stakeholder management,unmatched
+P06,organization,unmatched
+P06,communication skills,unmatched
+P06,engineering background,unmatched
+P06,hands-on technical experience,unmatched
+P06,management consulting,unmatched
+P06,strategy consulting,unmatched
+P06,technical consulting,unmatched
+P06,startup environment,unmatched
+P06,AI solutions,unmatched
+P06,enterprise customers,unmatched
+P06,AI agents,unmatched
+P06,platform implementation,unmatched
+P06,scope requirements and success metrics,unmatched
+P06,coordinate platform implementation,unmatched
+P06,align Product,unmatched
+P06,Engineering,unmatched
+P06,and customer teams,unmatched
+P06,monitor AI agent performance,unmatched
+P06,identify new AI use cases,unmatched
+P06,track progress and manage risks,unmatched
+P06,high-agency mindset,unmatched
+P06,proactive mindset,unmatched
+P06,hands-on mindset,unmatched
+P06,interest in AI-driven products,unmatched
+CAND-106,Personalization,unmatched
+CAND-106,Optimization,unmatched
+CAND-106,Forecasting,unmatched
+CAND-106,Data Science,unmatched
+CAND-106,Spark,unmatched
+CAND-106,Azure,unmatched
+CAND-106,Gurobi,unmatched
+CAND-106,Insurance,unmatched
+CAND-106,Fashion Retailer,unmatched
+CAND-106,Payroll Platform,unmatched
+CAND-106,Grocery Chain,unmatched
+CAND-106,Jewelry Retailer,unmatched
+CAND-106,TV Provider,unmatched
+CAND-106,Process Improvement,unmatched
+CAND-106,Data Science,unmatched
+P07,marketing,unmatched
+P07,communications,unmatched
+P07,events,unmatched
+P07,field marketing,unmatched
+P07,PR,unmatched
+P07,content development,unmatched
+P07,campaign execution,unmatched
+P07,strategic thinking,unmatched
+P07,execution,unmatched
+P07,cross-functional,unmatched
+P07,regional environments,unmatched
+P07,AI,unmatched
+P07,SaaS,unmatched
+P07,cloud,unmatched
+P07,technology industries,unmatched
+P07,self-driven,unmatched
+P07,ownership,unmatched
+P07,ambiguity,unmatched
+P07,business acumen,unmatched
+P07,B2B technology,unmatched
+P07,product positioning,unmatched
+P07,messaging,unmatched
+P07,enterprise go-to-market strategies,unmatched
+P07,lead end-to-end marketing initiatives,unmatched
+P07,build and lead events,unmatched
+P07,translate global messaging,unmatched
+P07,support market expansion,unmatched
+P07,partner cross-functionally,unmatched
+P07,drive regional growth,unmatched
+P07,strengthen brand presence,unmatched
+P07,strategic thinking,unmatched
+P07,execution,unmatched
+P07,self-driven,unmatched
+P07,ownership,unmatched
+P07,structured thinking,unmatched
+P07,business acumen,unmatched
+CAND-107,Integrated Marketing,unmatched
+CAND-107,360 Campaigns,unmatched
+CAND-107,Stakeholder Management,unmatched
+CAND-107,Budgeting,unmatched
+CAND-107,P&L Management,unmatched
+CAND-107,SEO,unmatched
+CAND-107,SEM,unmatched
+CAND-107,Social Media Strategy,unmatched
+CAND-107,Content Marketing,unmatched
+CAND-107,GTM Strategy,unmatched
+CAND-107,Growth Marketing,unmatched
+CAND-107,Product Marketing,unmatched
+CAND-107,Field Marketing,unmatched
+CAND-107,Digital Advertising,unmatched
+CAND-107,CRM Strategy,unmatched
+CAND-107,Data Analysis,unmatched
+CAND-107,Google Analytics 4,unmatched
+CAND-107,Microsoft Office Suite,unmatched
+CAND-107,Google Workspace,unmatched
+CAND-107,Marketing,unmatched
+CAND-107,Sales Enablement,unmatched
+CAND-107,Customer Retention,unmatched
+CAND-107,Market Analysis,unmatched
+CAND-107,Revenue Growth,unmatched
+CAND-107,HR Technology,unmatched
+CAND-107,Audit,unmatched
+CAND-107,Team Management,unmatched
+CAND-107,Performance Analysis,unmatched
+P08,semiconductor wafer fab,unmatched
+P08,wafer fab sector,unmatched
+P08,equipment installation,unmatched
+P08,maintenance troubleshooting,unmatched
+P08,technical reports,unmatched
+P08,EHS compliance,unmatched
+P08,Applied Materials,unmatched
+P08,Tokyo Electron Limited,unmatched
+P08,vacuum systems,unmatched
+P08,robotics,unmatched
+P08,pneumatic systems,unmatched
+P08,Diffusion module,unmatched
+P08,Thin Film module,unmatched
+P08,semiconductor process tools,unmatched
+P08,RF generator,unmatched
+P08,high-value parts repair,unmatched
+P08,semiconductor wafer fabrication,unmatched
+P08,wafer fab production process,unmatched
+P08,vacuum systems,unmatched
+P08,robotics,unmatched
+P08,pneumatic systems,unmatched
+P08,Diffusion,unmatched
+P08,Thin Film,unmatched
+P08,RF generator,unmatched
+P08,equipment installation,unmatched
+P08,maintenance troubleshooting,unmatched
+P08,EHS compliance,unmatched
+P08,customer communication,unmatched
+P08,move-in equipment hook-up,unmatched
+P08,communication skills,unmatched
+P08,service-oriented attitude,unmatched
+P08,independent work,unmatched
+CAND-108,Preventive & Corrective Maintenance,unmatched
+CAND-108,Equipment Troubleshooting & Reliability,unmatched
+CAND-108,Semiconductor Process & Tool Performance,unmatched
+CAND-108,Cross-functional Collaboration,unmatched
+CAND-108,Leadership & Team Supervision,unmatched
+CAND-108,Engineering Documentation & Reporting,unmatched
+CAND-108,Safety,unmatched
+CAND-108,Quality & Compliance Management,unmatched
+CAND-108,Problem-Solving,unmatched
+CAND-108,Diffusion Module tools,unmatched
+CAND-108,Sputter equipment,unmatched
+CAND-108,Electrical/Electronic Engineering,unmatched
+CAND-108,Cross-functional Collaboration,unmatched
+CAND-108,Leadership & Team Supervision,unmatched
+CAND-108,Problem-Solving,unmatched
+CAND-108,Electrical/Electronic Engineering,unmatched
+P09,Architecture Design,unmatched
+P09,Team Mentoring,unmatched
+P09,Risk Management,unmatched
+P09,Stakeholder Collaboration,unmatched
+P09,Software Development Lifecycle,unmatched
+P09,Property Industry Experience,unmatched
+P09,CRM Domain Knowledge,unmatched
+P09,Accounting Domain Knowledge,unmatched
+P09,Design Documentation Standards,unmatched
+P09,UML Understanding,unmatched
+P09,AWS Cloud Services,unmatched
+P09,CI/CD Deployment Processes,unmatched
+P09,Property Industry,unmatched
+P09,Accounting Domains,unmatched
+P09,Technical Leadership & Architecture,unmatched
+P09,Project & Risk Management,unmatched
+P09,Stakeholder & Team Collaboration,unmatched
+P09,Communication Skills,unmatched
+P09,Troubleshooting Skills,unmatched
+P09,Consultative Skills,unmatched
+P09,Delivery Commitment,unmatched
+CAND-109,React.js,unmatched
+CAND-109,TensorFlow,unmatched
+CAND-109,LabVIEW,unmatched
+CAND-109,Android Studio,unmatched
+CAND-109,Xcode,unmatched
+CAND-109,React.js,unmatched
+CAND-109,TensorFlow,unmatched
+CAND-109,Android Studio,unmatched
+CAND-109,Xcode,unmatched
+CAND-109,Cloud & Database,unmatched
+CAND-109,Automation Software,unmatched
+CAND-109,Recruitment,unmatched
+CAND-109,Execution,unmatched
+CAND-109,Milestone Reviews,unmatched
+CAND-109,Electrical and Electronic Engineering,unmatched
+P10,UI/UX design,unmatched
+P10,user research,unmatched
+P10,Agile environments,unmatched
+P10,responsive design,unmatched
+P10,Adobe XD,unmatched
+P10,user-centered design,unmatched
+P10,competitor analysis,unmatched
+P10,Adobe XD,unmatched
+P10,UI/UX design,unmatched
+P10,user research methodologies,unmatched
+P10,usability testing,unmatched
+P10,front-end development,unmatched
+P10,design visually appealing interfaces,unmatched
+P10,create mockups and prototypes,unmatched
+P10,conduct user research,unmatched
+P10,optimize user experiences,unmatched
+P10,coach stakeholders on best practices,unmatched
+P10,define user requirements,unmatched
+P10,troubleshoot UX issues,unmatched
+P10,gather user feedback,unmatched
+P10,work with developers,unmatched
+P10,lead design walkthroughs,unmatched
+P10,influence business stakeholders,unmatched
+P10,mentor peers,unmatched
+P10,update design documentation,unmatched
+P10,communication and presentation,unmatched
+CAND-110,User Experience,unmatched
+CAND-110,Usability Testing,unmatched
+CAND-110,Storyboards,unmatched
+CAND-110,User Research,unmatched
+CAND-110,Wireframes,unmatched
+CAND-110,Prototyping,unmatched
+CAND-110,Design System,unmatched
+CAND-110,A/B Testing,unmatched
+CAND-110,Scrum/Agile,unmatched
+CAND-110,Interface Design,unmatched
+CAND-110,User Stories,unmatched
+CAND-110,Personas,unmatched
+CAND-110,Front-end Development,unmatched
+CAND-110,Branding,unmatched
+CAND-110,Graphic Design,unmatched
+CAND-110,Axure RP,unmatched
+CAND-110,Photoshop,unmatched
+CAND-110,XMPie,unmatched
+CAND-110,E-wallet App,unmatched
+CAND-110,Global Design System,unmatched
+CAND-110,Website Redesign,unmatched
+CAND-110,Mobile App Booking Flow,unmatched
+CAND-110,Ancillary Flows,unmatched
+CAND-110,Usability Testing Projects,unmatched
+CAND-110,Low Fidelity Prototypes,unmatched
+CAND-110,High Fidelity Prototypes,unmatched
+CAND-110,E-commerce Platform,unmatched
+CAND-110,Group E-commerce Platform,unmatched
+CAND-110,Sports Website,unmatched
+CAND-110,User Flows,unmatched
+CAND-110,User Journeys,unmatched
+CAND-110,Bill Widget,unmatched
+CAND-110,Reading Mobile App,unmatched
+CAND-110,Reality TV Programme Website,unmatched
+CAND-110,Leadership Roles,unmatched
+CAND-110,User Experience Improvements,unmatched
+CAND-110,Graphic Design,unmatched
+CAND-110,Graphic Design,unmatched
+CAND-110,Graphic Design,unmatched

@@ -1,0 +1,9 @@
+{
+  "attempted": 170,
+  "success_or_fallback": 170,
+  "failures": 0,
+  "fallback_count": 0,
+  "json_success_rate": 1.0,
+  "mean_elapsed_sec": 50.044104085166076,
+  "model": "qwen3.5:4b"
+}

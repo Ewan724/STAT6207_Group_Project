@@ -1,0 +1,9 @@
+{
+  "pool_cvs": 100,
+  "gt_cvs": 10,
+  "gt_jds": 10,
+  "unlabelled_jds": 50,
+  "unique_candidates": 110,
+  "alignment_match_rate": 1.0,
+  "jd_duplicates_excluded": 2
+}

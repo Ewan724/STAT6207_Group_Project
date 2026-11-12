@@ -1,0 +1,420 @@
+doc_id,field,keyword,reason
+CAND-102,domains,Tobacco Industry,not_in_source
+CAND-102,domains,Vape Industry,not_in_source
+CAND-102,domains,Flavor Manufacturing,not_in_source
+CAND-102,domains,Beverage Industry,not_in_source
+CAND-102,domains,Cosmetics Industry,not_in_source
+CAND-102,domains,Animal Feed Industry,not_in_source
+CAND-103,soft_skills,Strategic Planning,not_in_source
+CAND-103,soft_skills,Team Management,not_in_source
+CAND-103,soft_skills,Campaign Optimization,not_in_source
+CAND-104,domains,machine learning,not_in_source
+CAND-104,domains,cloud computing,not_in_source
+CAND-104,domains,software development,not_in_source
+CAND-105,soft_skills,Cross-functional alignment,not_in_source
+CAND-105,soft_skills,Risk identification,not_in_source
+CAND-105,soft_skills,Team oversight,not_in_source
+CAND-106,tools_technologies,Google Cloud Platform,not_in_source
+CAND-106,tools_technologies,Amazon Web Services,not_in_source
+CAND-106,soft_skills,Leadership,not_in_source
+CAND-106,soft_skills,Stakeholder Management,not_in_source
+CAND-106,soft_skills,Cross-functional Collaboration,not_in_source
+CAND-106,soft_skills,Strategic Planning,not_in_source
+CAND-107,soft_skills,Strategic Planning,not_in_source
+CAND-107,soft_skills,Client Communication,not_in_source
+CAND-107,soft_skills,Cross-functional Collaboration,not_in_source
+CAND-107,soft_skills,Product Development,not_in_source
+CAND-107,soft_skills,Risk Assessment,not_in_source
+CAND-109,soft_skills,Project Management,not_in_source
+CAND-110,domains,Conversion Rate Optimization,not_in_source
+CAND-110,soft_skills,Cross-functional Team Collaboration,not_in_source
+CAND-110,soft_skills,Business Value Delivery,not_in_source
+P01,key_responsibilities,Audit coordination,not_in_source
+P02,nice_to_have_keywords,distributors management,not_in_source
+P02,key_responsibilities,execute sales action plans,not_in_source
+P02,key_responsibilities,provide commercial support,not_in_source
+P02,key_responsibilities,collaborate with teams,not_in_source
+P02,key_responsibilities,coordinate orders and deliveries,not_in_source
+P03,nice_to_have_keywords,AI tools proficiency,not_in_source
+P03,soft_skills,data reporting,not_in_source
+P03,key_responsibilities,Research market trends and competitors,not_in_source
+P03,key_responsibilities,Optimize paid advertising campaigns,not_in_source
+P05,nice_to_have_keywords,AI tools usage,not_in_source
+P05,nice_to_have_keywords,Chinese language proficiency,not_in_source
+P05,domain_knowledge,shipping processes,not_in_source
+P05,domain_knowledge,merchant applications,not_in_source
+P05,soft_skills,PRD creation,not_in_source
+P05,soft_skills,written communication,not_in_source
+P05,soft_skills,issue tracking,not_in_source
+P05,soft_skills,team alignment,not_in_source
+P05,soft_skills,QA execution,not_in_source
+P05,key_responsibilities,PRD creation and sizing,not_in_source
+P05,key_responsibilities,warehouse operational support,not_in_source
+P05,key_responsibilities,issue reproduction,not_in_source
+P05,key_responsibilities,log and database evidence gathering,not_in_source
+P05,key_responsibilities,root-cause fix prioritization,not_in_source
+P05,key_responsibilities,multi-stakeholder alignment,not_in_source
+P05,key_responsibilities,integration playbook creation,not_in_source
+P08,soft_skills,teamwork,not_in_source
+P08,soft_skills,problem articulation,not_in_source
+P08,key_responsibilities,technical report preparation,not_in_source
+P10,must_have_keywords,HTML/CSS,not_in_source
+P10,soft_skills,creativity,not_in_source
+P10,soft_skills,detail orientation,not_in_source
+P10,soft_skills,empathy,not_in_source
+P10,key_responsibilities,collaborate with product managers,not_in_source
+CV-001,tools_technologies,PostgreSQL,not_in_source
+CV-001,tools_technologies,Google Cloud Platform,not_in_source
+CV-001,domains,Backend Development,not_in_source
+CV-001,domains,Cloud Infrastructure,not_in_source
+CV-001,soft_skills,Team Management,not_in_source
+CV-002,domains,Process Control,not_in_source
+CV-002,soft_skills,Team Leadership,not_in_source
+CV-002,soft_skills,Technical Training,not_in_source
+CV-003,skills,end-to-end development,not_in_source
+CV-003,skills,microservices architecture,not_in_source
+CV-003,skills,payment gateway integration,not_in_source
+CV-003,skills,security hardening,not_in_source
+CV-003,skills,database optimization,not_in_source
+CV-003,skills,injection prevention,not_in_source
+CV-003,skills,CSRF protection,not_in_source
+CV-003,skills,automated scheduling,not_in_source
+CV-003,skills,defect reduction,not_in_source
+CV-003,skills,logic refactoring,not_in_source
+CV-003,skills,RESTful API development,not_in_source
+CV-003,skills,mobile app integration,not_in_source
+CV-003,domains,Government Systems,not_in_source
+CV-003,domains,Logistics Integration,not_in_source
+CV-003,soft_skills,team collaboration,not_in_source
+CV-003,soft_skills,quality assurance,not_in_source
+CV-003,soft_skills,problem solving,not_in_source
+CV-003,soft_skills,system design,not_in_source
+CV-003,soft_skills,technical leadership,not_in_source
+CV-004,domains,Full-Stack Development,not_in_source
+CV-004,domains,Infrastructure Management,not_in_source
+CV-005,skills,end-to-end development,not_in_source
+CV-005,soft_skills,end-to-end development,not_in_source
+CV-006,skills,Agile methodology,not_in_source
+CV-006,soft_skills,Strategic alignment,not_in_source
+CV-007,skills,utilization monitoring,not_in_source
+CV-007,skills,SLOs maintenance,not_in_source
+CV-007,skills,runbook creation,not_in_source
+CV-007,skills,GitOps implementation,not_in_source
+CV-007,skills,containerized workloads,not_in_source
+CV-007,skills,automated build processes,not_in_source
+CV-007,skills,system troubleshooting,not_in_source
+CV-007,skills,root cause documentation,not_in_source
+CV-007,skills,shell scripting,not_in_source
+CV-007,skills,disk replacement,not_in_source
+CV-007,skills,connectivity troubleshooting,not_in_source
+CV-008,skills,System Architecture,not_in_source
+CV-008,domains,Full Stack Development,not_in_source
+CV-008,soft_skills,Leadership,not_in_source
+CV-008,soft_skills,Coordination,not_in_source
+CV-008,soft_skills,Process Optimization,not_in_source
+CV-009,skills,Architecture Definition,not_in_source
+CV-009,domains,Banking Infrastructure,not_in_source
+CV-009,soft_skills,Team Leadership,not_in_source
+CV-009,soft_skills,Architecture Definition,not_in_source
+CV-010,tools_technologies,PostgreSQL,not_in_source
+CV-010,domains,Cloud Computing,not_in_source
+CV-011,skills,structured reporting,not_in_source
+CV-011,skills,technical leadership,not_in_source
+CV-011,soft_skills,root cause diagnosis,not_in_source
+CV-012,soft_skills,Cross-functional Collaboration,not_in_source
+CV-012,soft_skills,Requirements Analysis,not_in_source
+CV-012,soft_skills,Team Leadership,not_in_source
+CV-013,skills,Architecture Ownership,not_in_source
+CV-013,skills,Deployment Management,not_in_source
+CV-013,domains,Learning Management Systems,not_in_source
+CV-013,domains,Cloud Infrastructure,not_in_source
+CV-013,soft_skills,Architecture Ownership,not_in_source
+CV-013,soft_skills,Team Collaboration,not_in_source
+CV-013,soft_skills,Problem Resolution,not_in_source
+CV-014,domains,Embedded Systems,not_in_source
+CV-014,domains,Firmware Development,not_in_source
+CV-014,domains,Automotive Electronics,not_in_source
+CV-014,soft_skills,Problem Solving,not_in_source
+CV-014,soft_skills,Methodology Development,not_in_source
+CV-016,soft_skills,Mentoring,not_in_source
+CV-017,soft_skills,Defect Documentation,not_in_source
+CV-017,soft_skills,Team Collaboration,not_in_source
+CV-017,soft_skills,Business Analysis,not_in_source
+CV-018,domains,Hotel Management,not_in_source
+CV-018,domains,Technology Consulting,not_in_source
+CV-019,tools_technologies,PostgreSQL,not_in_source
+CV-019,domains,Banking Audit Systems,not_in_source
+CV-019,soft_skills,bug fixing,not_in_source
+CV-019,soft_skills,team member collaboration,not_in_source
+CV-020,domains,Game Engine/Gameplay Programming,not_in_source
+CV-021,domains,Maritime Technology,not_in_source
+CV-023,skills,API Testing,not_in_source
+CV-023,skills,Test Automation,not_in_source
+CV-023,skills,End-to-End Testing,not_in_source
+CV-023,skills,Regression Testing,not_in_source
+CV-023,skills,Security Testing,not_in_source
+CV-023,skills,CI/CD Pipeline,not_in_source
+CV-023,skills,Framework Design,not_in_source
+CV-023,skills,Root Cause Analysis,not_in_source
+CV-023,domains,Web Development,not_in_source
+CV-023,domains,Mobile Development,not_in_source
+CV-023,domains,SaaS Platform,not_in_source
+CV-023,domains,Game Development,not_in_source
+CV-023,soft_skills,Team Norms,not_in_source
+CV-023,soft_skills,Architecture Decision,not_in_source
+CV-023,soft_skills,Test Strategy Planning,not_in_source
+CV-023,soft_skills,Defect Prevention,not_in_source
+CV-024,soft_skills,bug tracking,not_in_source
+CV-024,soft_skills,team collaboration,not_in_source
+CV-025,tools_technologies,Postgres,not_in_source
+CV-026,skills,cross-functional collaboration,not_in_source
+CV-026,tools_technologies,Google Cloud Platform,not_in_source
+CV-027,domains,Web Development,not_in_source
+CV-028,domains,Inventory Management,not_in_source
+CV-030,skills,Google Cloud Platform,not_in_source
+CV-030,tools_technologies,Google Cloud Platform,not_in_source
+CV-030,soft_skills,Team Leadership,not_in_source
+CV-030,soft_skills,Mentorship,not_in_source
+CV-030,soft_skills,Communication,not_in_source
+CV-030,soft_skills,Problem Solving,not_in_source
+CV-030,soft_skills,Product Delivery,not_in_source
+CV-030,soft_skills,System Optimization,not_in_source
+CV-031,skills,data modeling,not_in_source
+CV-031,skills,data governance,not_in_source
+CV-031,skills,market forecasting,not_in_source
+CV-031,tools_technologies,Google Cloud Platform,not_in_source
+CV-031,tools_technologies,Amazon Web Services,not_in_source
+CV-031,soft_skills,problem solving,not_in_source
+CV-031,soft_skills,data storytelling,not_in_source
+CV-031,soft_skills,stakeholder management,not_in_source
+CV-031,soft_skills,technical leadership,not_in_source
+CV-032,soft_skills,product roadmap definition,not_in_source
+CV-032,soft_skills,team leadership,not_in_source
+CV-032,soft_skills,system architecture,not_in_source
+CV-033,soft_skills,Leadership,not_in_source
+CV-036,domains,API Development,not_in_source
+CV-042,domains,Demand Forecasting,not_in_source
+CV-042,domains,Recommender Systems,not_in_source
+CV-042,domains,Inventory Management,not_in_source
+CV-042,domains,Product Launches,not_in_source
+CV-042,soft_skills,Solution Verification,not_in_source
+CV-043,domains,Machine Learning,not_in_source
+CV-044,domains,Natural-Language Processing,not_in_source
+CV-044,soft_skills,Design Thinking,not_in_source
+CV-044,soft_skills,Continuous Improvement,not_in_source
+CV-044,soft_skills,Business Metrics Focus,not_in_source
+CV-045,domains,Data Engineering,not_in_source
+CV-045,soft_skills,Technical leadership,not_in_source
+CV-046,skills,engineering collaboration,not_in_source
+CV-046,skills,data pipeline development,not_in_source
+CV-046,skills,deployment automation,not_in_source
+CV-046,skills,RAG pipeline construction,not_in_source
+CV-046,skills,embedding generation,not_in_source
+CV-046,skills,indexing systems,not_in_source
+CV-046,skills,retrieval systems,not_in_source
+CV-046,skills,context provision,not_in_source
+CV-046,skills,performance optimization,not_in_source
+CV-046,skills,ETL workflow development,not_in_source
+CV-046,skills,XGBoost model development,not_in_source
+CV-046,skills,CatBoost model development,not_in_source
+CV-046,skills,quote conversion prediction,not_in_source
+CV-046,skills,web crawling workflows,not_in_source
+CV-046,skills,NLP dataset collection,not_in_source
+CV-046,skills,LLaMA2 fine-tuning,not_in_source
+CV-046,skills,PhoGPT fine-tuning,not_in_source
+CV-046,skills,CNN model development,not_in_source
+CV-046,skills,ResNet model development,not_in_source
+CV-046,soft_skills,engineering collaboration,not_in_source
+CV-046,soft_skills,performance optimization,not_in_source
+CV-047,soft_skills,Streamlined,not_in_source
+CV-048,soft_skills,Collaboration,not_in_source
+CV-050,domains,Content Creation,not_in_source
+CV-050,soft_skills,Team leadership,not_in_source
+CV-050,soft_skills,Collaboration,not_in_source
+CV-050,soft_skills,Project management,not_in_source
+CV-051,skills,storyboarding,not_in_source
+CV-051,soft_skills,collaboration,not_in_source
+CV-051,soft_skills,coordination,not_in_source
+CV-051,soft_skills,creativity,not_in_source
+CV-052,skills,Hardware Software Integration,not_in_source
+CV-052,skills,Community Management,not_in_source
+CV-052,domains,Overseas Social Media,not_in_source
+CV-052,soft_skills,Project Leadership,not_in_source
+CV-052,soft_skills,Venture Incubation,not_in_source
+CV-052,soft_skills,Market Expansion,not_in_source
+CV-053,domains,Agriculture,not_in_source
+CV-053,soft_skills,Supervision,not_in_source
+CV-053,soft_skills,Archive maintenance,not_in_source
+CV-054,soft_skills,Content Coordination,not_in_source
+CV-055,domains,Financial Services,not_in_source
+CV-057,soft_skills,team training,not_in_source
+CV-059,domains,Banking,not_in_source
+CV-060,domains,Food & Beverage,not_in_source
+CV-060,domains,Retail Operations,not_in_source
+CV-060,soft_skills,Team Development,not_in_source
+CV-060,soft_skills,Mentoring,not_in_source
+CV-060,soft_skills,Client Relationship Management,not_in_source
+CV-062,skills,Store Layout Planning,not_in_source
+CV-062,soft_skills,Strategic Planning,not_in_source
+CV-063,domains,Blockchain Ecosystems,not_in_source
+CV-064,soft_skills,Collaboration,not_in_source
+CV-064,soft_skills,Mentoring,not_in_source
+CV-064,soft_skills,Negotiation,not_in_source
+CV-065,domains,Wine Industry,not_in_source
+CV-067,soft_skills,Partnership onboarding,not_in_source
+CV-070,domains,Content Creation,not_in_source
+CV-070,domains,Video Production,not_in_source
+CV-070,domains,Brand Management,not_in_source
+CV-070,soft_skills,Creative Direction,not_in_source
+CV-070,soft_skills,Content Strategy,not_in_source
+CV-070,soft_skills,Project Management,not_in_source
+CV-070,soft_skills,Trend Analysis,not_in_source
+CV-070,soft_skills,Audience Engagement,not_in_source
+CV-071,soft_skills,Decision Making,not_in_source
+CV-073,soft_skills,Strategic Planning,not_in_source
+CV-073,soft_skills,Team Coordination,not_in_source
+CV-074,skills,Content Strategy,not_in_source
+CV-074,domains,Social Media Advertising,not_in_source
+CV-074,domains,Web Development,not_in_source
+CV-074,soft_skills,Cross-functional Collaboration,not_in_source
+CV-074,soft_skills,Strategic Alignment,not_in_source
+CV-074,soft_skills,Data Analysis,not_in_source
+CV-077,tools_technologies,Google Sheets,not_in_source
+CV-078,soft_skills,Coordination,not_in_source
+CV-078,soft_skills,Liaison,not_in_source
+CV-081,domains,Healthcare,not_in_source
+CV-084,skills,Lead generation,not_in_source
+CV-084,soft_skills,Problem resolution,not_in_source
+CV-085,domains,Healthcare,not_in_source
+CV-085,domains,Chemicals,not_in_source
+CV-085,domains,Construction Materials,not_in_source
+CV-085,soft_skills,Change Management,not_in_source
+CV-086,domains,Asia Pacific,not_in_source
+CV-086,soft_skills,Communication,not_in_source
+CV-086,soft_skills,Stakeholder Management,not_in_source
+CV-086,soft_skills,Problem Solving,not_in_source
+CV-086,soft_skills,Adaptability,not_in_source
+CV-086,soft_skills,Cultural Engagement,not_in_source
+CV-087,domains,hospitality,not_in_source
+CV-087,soft_skills,SOP development,not_in_source
+CV-088,domains,Compliance,not_in_source
+CV-088,soft_skills,Problem Solving,not_in_source
+CV-088,soft_skills,Strategic Planning,not_in_source
+CV-088,soft_skills,Team Leadership,not_in_source
+CV-088,soft_skills,Stakeholder Management,not_in_source
+CV-088,soft_skills,Process Improvement,not_in_source
+CV-089,domains,Human Resources,not_in_source
+CV-089,domains,Corporate Communications,not_in_source
+CV-089,soft_skills,Performance Monitoring,not_in_source
+CV-090,tools_technologies,CRM systems,not_in_source
+CV-091,domains,Human Resources,not_in_source
+CV-092,domains,Inventory Control,not_in_source
+CV-093,soft_skills,Strategic Planning,not_in_source
+CV-093,soft_skills,Campaign Orchestration,not_in_source
+CV-094,domains,Facility Management,not_in_source
+CV-094,domains,Healthcare Infrastructure,not_in_source
+CV-094,domains,Commercial Real Estate,not_in_source
+CV-095,tools_technologies,Sails.js,not_in_source
+CV-095,soft_skills,strategic improvement,not_in_source
+CV-096,domains,payment systems,not_in_source
+CV-096,domains,supply chain,not_in_source
+CV-096,domains,ticketing platforms,not_in_source
+CV-096,soft_skills,technical strategy,not_in_source
+CV-096,soft_skills,process optimization,not_in_source
+CV-098,soft_skills,Problem Solving,not_in_source
+CV-098,soft_skills,Multi-tasking,not_in_source
+CV-099,domains,Telecommunications,not_in_source
+JD-003,soft_skills,presentation,not_in_source
+JD-005,must_have_keywords,Python programming,not_in_source
+JD-005,education_requirements,Master's degree,not_in_source
+JD-007,soft_skills,collaboration,not_in_source
+JD-007,soft_skills,management,not_in_source
+JD-009,soft_skills,strategic thinking,not_in_source
+JD-009,key_responsibilities,ensure visual identity consistency,not_in_source
+JD-009,key_responsibilities,produce marketing assets,not_in_source
+JD-009,key_responsibilities,create design assets for developers,not_in_source
+JD-010,soft_skills,user data analysis,not_in_source
+JD-014,soft_skills,Troubleshooting,not_in_source
+JD-014,soft_skills,Problem Solving,not_in_source
+JD-015,languages,English,not_in_source
+JD-015,soft_skills,collaboration,not_in_source
+JD-017,soft_skills,collaboration,not_in_source
+JD-017,key_responsibilities,customer service provision,not_in_source
+JD-019,key_responsibilities,data trend analysis against SLAs,not_in_source
+JD-019,key_responsibilities,vendor coordination,not_in_source
+JD-019,key_responsibilities,system documentation creation,not_in_source
+JD-019,key_responsibilities,Change Control participation,not_in_source
+JD-019,key_responsibilities,administrative request response,not_in_source
+JD-020,soft_skills,collaboration,not_in_source
+JD-021,must_have_keywords,Firmware Development,not_in_source
+JD-021,soft_skills,Adaptability,not_in_source
+JD-021,key_responsibilities,Documentation Maintenance,not_in_source
+JD-022,nice_to_have_keywords,English communication,not_in_source
+JD-022,domain_knowledge,cloud architecture,not_in_source
+JD-022,soft_skills,communication,not_in_source
+JD-022,soft_skills,collaboration,not_in_source
+JD-022,soft_skills,architecting,not_in_source
+JD-022,soft_skills,planning,not_in_source
+JD-022,key_responsibilities,Integrate with gRPC,not_in_source
+JD-024,must_have_keywords,Chinese/English fluency,not_in_source
+JD-024,key_responsibilities,resolve assembly anomalies,not_in_source
+JD-024,key_responsibilities,analyse FA reports,not_in_source
+JD-026,domain_knowledge,resilient systems,not_in_source
+JD-027,soft_skills,collaboration across teams,not_in_source
+JD-027,soft_skills,continuous improvement,not_in_source
+JD-029,key_responsibilities,prepare tax duties,not_in_source
+JD-029,key_responsibilities,ensure compliance requirements,not_in_source
+JD-032,nice_to_have_keywords,AI/ML deployment,not_in_source
+JD-032,soft_skills,communication skills,not_in_source
+JD-032,key_responsibilities,build high-performing teams,not_in_source
+JD-034,nice_to_have_keywords,Proactive Mindset,not_in_source
+JD-034,soft_skills,Strategic Thinking,not_in_source
+JD-034,soft_skills,Proactive Mindset,not_in_source
+JD-034,key_responsibilities,Optimize Product Listings,not_in_source
+JD-034,key_responsibilities,Track Performance Metrics,not_in_source
+JD-036,key_responsibilities,Integrate AI tools into CRM,not_in_source
+JD-036,key_responsibilities,Incorporate external APIs,not_in_source
+JD-037,nice_to_have_keywords,ambiguity management,not_in_source
+JD-037,tools_technologies,social media,not_in_source
+JD-037,soft_skills,ambiguity management,not_in_source
+JD-041,must_have_keywords,English language,not_in_source
+JD-041,key_responsibilities,shape employer brand,not_in_source
+JD-042,tools_technologies,Microsoft Word,not_in_source
+JD-042,tools_technologies,Microsoft Excel,not_in_source
+JD-042,key_responsibilities,overseeing booking process,not_in_source
+JD-042,key_responsibilities,maintaining travel intranet site,not_in_source
+JD-043,domain_knowledge,IT systems integration,not_in_source
+JD-043,soft_skills,Self-driven mindset,not_in_source
+JD-043,key_responsibilities,Drive new business acquisition,not_in_source
+JD-044,nice_to_have_keywords,financial statements analysis,not_in_source
+JD-045,domain_knowledge,sales forecasting,not_in_source
+JD-045,key_responsibilities,Sales forecasting,not_in_source
+JD-046,must_have_keywords,market policies monitoring,not_in_source
+JD-046,must_have_keywords,competitive products analysis,not_in_source
+JD-046,must_have_keywords,technology trends monitoring,not_in_source
+JD-046,must_have_keywords,industry terminology knowledge,not_in_source
+JD-046,nice_to_have_keywords,annual revenue achievement,not_in_source
+JD-046,nice_to_have_keywords,performance pressure handling,not_in_source
+JD-046,soft_skills,performance pressure handling,not_in_source
+JD-047,must_have_keywords,business expansion,not_in_source
+JD-047,must_have_keywords,technical team cooperation,not_in_source
+JD-047,must_have_keywords,distributor coordination,not_in_source
+JD-047,nice_to_have_keywords,WFH capability,not_in_source
+JD-047,domain_knowledge,B2B sales,not_in_source
+JD-047,education_requirements,university graduation,not_in_source
+JD-047,soft_skills,proactivity,not_in_source
+JD-047,key_responsibilities,Identify customer demand and benefits,not_in_source
+JD-048,soft_skills,cross-departmental coordination,not_in_source
+JD-048,key_responsibilities,sales targets achievement,not_in_source
+JD-048,key_responsibilities,bidding process participation,not_in_source
+JD-048,key_responsibilities,qualification document preparation,not_in_source
+JD-048,key_responsibilities,design proposal coordination,not_in_source
+JD-048,key_responsibilities,quote coordination,not_in_source
+JD-048,key_responsibilities,technical team coordination,not_in_source
+JD-048,key_responsibilities,existing client maintenance,not_in_source
+JD-048,key_responsibilities,complaint handling,not_in_source
+JD-048,key_responsibilities,service process optimization,not_in_source
+JD-050,nice_to_have_keywords,Family Office Connections,not_in_source
+JD-050,nice_to_have_keywords,APAC Presence,not_in_source
+JD-050,soft_skills,Target Achievement,not_in_source
+JD-050,key_responsibilities,Strategy Analysis,not_in_source

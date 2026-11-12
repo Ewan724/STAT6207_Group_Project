@@ -1,0 +1,101 @@
+ref,pdf_exists,excel_title,excel_company,pdf_title,title_in_pdf_text,company_in_pdf_text,match_ok
+CV-001,True,Backend Developer,Sea - Shopee,Backend Developer,True,True,True
+CV-002,True,Field Service Engineer I,ASM WPE (S) Ltd,Field Service Engineer I,True,True,True
+CV-003,True,Full Stack Developer,Aafiyat Digital Sdn Bhd,Full Stack Developer,True,True,True
+CV-004,True,Full-Stack Software Engineer,NESLIT,Full-Stack Software Engineer,True,True,True
+CV-005,True,Fullstack Engineer,3Commas,Fullstack Engineer,True,True,True
+CV-006,True,"Senior Software Engineer, ByteX; VP of Engineering, Cenne Financial",ByteX Financial (formerly Cenne Financial),"Senior Software Engineer, ByteX; VP of Engineering, Cenne Financial",True,True,True
+CV-007,True,Site Reliability Engineer,Quesscorp Holdings Pte. Ltd.,Site Reliability Engineer,True,True,True
+CV-008,True,Software Engineer Lead,Henan Asset Management,Software Engineer Lead,True,True,True
+CV-009,True,Team Lead / Senior Backend Engineer,MobilityOne Sdn Bhd,Team Lead / Senior Backend Engineer,True,True,True
+CV-010,True,Technology and Product Specialist,Projuris/Starian,Technology and Product Specialist,True,True,True
+CV-011,True,Software Engineer,LayerZero Labs Ltd,Software Engineer,True,True,True
+CV-012,True,Software Engineer,Aytas Tech Solutions Inc.,Software Engineer,True,True,True
+CV-013,True,Sr. Software Development Engineer - 2,GoComet India Pvt Ltd,Sr. Software Development Engineer - 2,True,True,True
+CV-014,True,Staff Firmware Engineer,Infineon Technologies,Staff Firmware Engineer,True,True,True
+CV-015,True,Staff Software Engineer / Technical Lead,Ivanti,Staff Software Engineer / Technical Lead,True,True,True
+CV-016,True,Mobile Developer Lead,Niibu Inc.,Mobile Developer Lead,True,True,True
+CV-017,True,Quality Assurance Engineer,PT XLSMART Telecom Sejahtera Tbk,Quality Assurance Engineer,True,True,True
+CV-018,True,Senior Software Engineer,"Maya Bank, Inc.",Senior Software Engineer,True,True,True
+CV-019,True,Tech Lead,"Myridius/RCG Information Technology Philippines, Inc.",Tech Lead,True,True,True
+CV-020,True,Lead DevOps Engineer,Bidot Tech,Lead DevOps Engineer,True,True,True
+CV-021,True,Software Engineer,NCS Pte. Ltd.,Software Engineer,True,True,True
+CV-022,True,IT Manager,Chubb,IT Manager,True,True,True
+CV-023,True,software qa engineer,趨勢科技股份有限公司,software qa engineer,True,True,True
+CV-024,True,Senior QA Automation Engineer,LiSEC Automation LLC,Senior QA Automation Engineer,True,True,True
+CV-025,True,Site Reliability Engineer,Garanti BBVA (via VBT Software),Site Reliability Engineer,True,True,True
+CV-026,True,Senior Full Stack Engineer,TechMatter,Senior Full Stack Engineer,True,True,True
+CV-027,True,Software Engineer,SureCost,Software Engineer,True,True,True
+CV-028,True,Software Engineer,"Amazon, North Reading, Massachusetts",Software Engineer,True,True,True
+CV-029,True,SENIOR SOFTWARE ENGINEER,NEXLE CORPORATION,SENIOR SOFTWARE ENGINEER,True,True,True
+CV-030,True,Senior Software Engineer,Multiplier,Senior Software Engineer,True,True,True
+CV-031,True,Data Advisor - Analytics Engineer (Consultant),Forward Forever,Data Advisor - Analytics Engineer (Consultant),True,True,True
+CV-032,True,Senior AI Engineer,Votee AI,Senior AI Engineer,True,True,True
+CV-033,True,"Senior Consultant (Data & AI), AI Central",NCSI (HK) Limited,"Senior Consultant (Data & AI), AI Central",True,True,True
+CV-034,True,Multi Stack / Applied AI Developer,SusaLabs,Multi Stack / Applied AI Developer,True,True,True
+CV-035,True,Business Data Engineer,Danone,Business Data Engineer,True,True,True
+CV-036,True,Senior Data Engineer,Tech Mahindra,Senior Data Engineer,True,True,True
+CV-037,True,Senior Business Intelligence Analyst,Premier NX - Remote,Senior Business Intelligence Analyst,True,True,True
+CV-038,True,"AI Forward Deployed Engineer, Client Engineering",IBM,"AI Forward Deployed Engineer, Client Engineering",True,True,True
+CV-039,True,Business Data Analyst,RAKBANK,Business Data Analyst,True,True,True
+CV-040,True,Applied AI Engineer,Bain & Company,Applied AI Engineer,True,True,True
+CV-041,True,Senior AI/ML Engineer,Genpact,Senior AI/ML Engineer,True,True,True
+CV-042,True,Senior Data Scientist,Uber,Senior Data Scientist,True,True,True
+CV-043,True,Senior Data Scientist,Airbnb,Senior Data Scientist,True,True,True
+CV-044,True,Senior Machine Learning Engineer,Lyra Health,Senior Machine Learning Engineer,True,True,True
+CV-045,True,Data Engineer Lead,CBTW,Data Engineer Lead,True,True,True
+CV-046,True,Data/ML Engineer,Forvia Hella,Data/ML Engineer,True,True,True
+CV-047,True,Graphic Designer,Wayfair,Graphic Designer,True,True,True
+CV-048,True,Lead UI/UX Designer,Thumb Technologies,Lead UI/UX Designer,True,True,True
+CV-049,True,Senior Graphic Designer,We4u Communication Solution,Senior Graphic Designer,True,True,True
+CV-050,True,Senior Video Editor / Videographer,IMAX Corporation,Senior Video Editor / Videographer,True,True,True
+CV-051,True,Video Editor & Animator,Hybrid,Video Editor & Animator,True,True,True
+CV-052,True,Product Partner / UI/UX Design,nan,Product Partner / UI/UX Design,True,False,True
+CV-053,True,Designer & Photographer,Nhã Đạt - Residential Property Developer,Designer & Photographer,True,True,True
+CV-054,True,UX/UI Design Intern,THD Cyber Security,UX/UI Design Intern,True,True,True
+CV-055,True,Director of Business (Contract Role),Whale AI,Director of Business (Contract Role),True,True,True
+CV-056,True,Account Manager,Goldmine Advertising,Account Manager,True,True,True
+CV-057,True,Account Manager,MANE,Account Manager,True,True,True
+CV-058,True,Senior Commercial & Business Development Manager – Food Division,PT Esco Chemicals Mitrautama,Senior Commercial & Business Development Manager – Food Division,True,True,True
+CV-059,True,Business Development Representative,The Access Group Malaysia,Business Development Representative,True,True,True
+CV-060,True,Insurance Agent,Allianz,Insurance Agent,True,True,True
+CV-061,True,Key Account Manager,ESCAPEC - Providers of Electronic Manufacturing Services,Key Account Manager,True,True,True
+CV-062,True,Retail Sales Manager,TBM (consumer electronics retailer),Retail Sales Manager,True,True,True
+CV-063,True,Solution Sales Engineer,Huawei,Solution Sales Engineer,True,True,True
+CV-064,True,Account Development Representative,Survalent Technology,Account Development Representative,True,True,True
+CV-065,True,"Specialist, Marketing (Digital Marketing)",ZIPS Car Wash,"Specialist, Marketing (Digital Marketing)",True,True,True
+CV-066,True,Head of Marketing,MC Polysan LTD,Head of Marketing,True,True,True
+CV-067,True,Marketing Manager (GTM Sprint),Chinese Road (HK) Ltd.,Marketing Manager (GTM Sprint),True,True,True
+CV-068,True,Deputy Manager - Marketing,Duroflex Group,Deputy Manager - Marketing,True,True,True
+CV-069,True,Regional Brand Manager,Kansai Nerolac Paints,Regional Brand Manager,True,True,True
+CV-070,True,Marketing Manager (Creative & Content Lead),Mova (Cashback Platform),Marketing Manager (Creative & Content Lead),True,True,True
+CV-071,True,Growth Marketing Manager,Mindvalley,Growth Marketing Manager,True,True,True
+CV-072,True,SEO Executive,ZALORA Group,SEO Executive,True,True,True
+CV-073,True,Marketing & PR,Lalamove Singapore,Marketing & PR,True,True,True
+CV-074,True,Senior Digital Marketing Specialist,Xurrent,Senior Digital Marketing Specialist,True,True,True
+CV-075,True,Assistant Senior Finance Manager,Linnovate Partners (AFS) Sdn Bhd,Assistant Senior Finance Manager,True,True,True
+CV-076,True,Senior Analyst,Goldman Sachs,Senior Analyst,True,True,True
+CV-077,True,Accountant,Globe Win Wealth Management Limited,Accountant,True,True,True
+CV-078,True,Finance Manager,Laut International Limited,Finance Manager,True,True,True
+CV-079,True,Finance Manager,Hunlicar Financial Services Company Limited,Finance Manager,True,True,True
+CV-080,True,"Finance Manager & Company Secretary, MIC of Finance for licence company",Tykhe Capital (Hong Kong) Limited,"Finance Manager & Company Secretary, MIC of Finance for licence company",True,True,True
+CV-081,True,Medical Claims Assessor (Hong Kong),AIA Shared Services Sdn. Bhd.,Medical Claims Assessor (Hong Kong),True,True,True
+CV-082,True,Accountant,TotalEnergies Charging Services Singapore Pte Ltd,Accountant,True,True,True
+CV-083,True,Tax Compliance Manager,Luther Corporate Services Pte Ltd,Tax Compliance Manager,True,True,True
+CV-084,True,Audience Operations Specialist,Confidential Advertising Technology Company,Audience Operations Specialist,True,True,True
+CV-085,True,Director of Purchasing,Polywood,Director of Purchasing,True,True,True
+CV-086,True,Human Resources Business Partner | Regional Onshore Lead (Asia),CYAN RENEWABLES (FORMERLY MMA OFFSHORE),Human Resources Business Partner | Regional Onshore Lead (Asia),True,True,True
+CV-087,True,Project Management Lead / Standards & Procedures Officer,"Emirates Airline, Dubai, UAE",Project Management Lead / Standards & Procedures Officer,True,True,True
+CV-088,True,Senior Human Resources Officer,Metaverse Cloud Solution Pte Ltd,Senior Human Resources Officer,True,True,True
+CV-089,True,Administration Supervisor (HR & Operations),ICONS International School,Administration Supervisor (HR & Operations),True,True,True
+CV-090,True,HOD CUSTOMER SERVICE EXECUTIVE,Aesthetic & wellness clinic (Malaysia),HOD CUSTOMER SERVICE EXECUTIVE,True,True,True
+CV-091,True,Operations Manager,Family Business,Operations Manager,True,True,True
+CV-092,True,Senior Warehouse Executive,XSD Bentong,Senior Warehouse Executive,True,True,True
+CV-093,True,President & Head - Business & Strategy,Marketing agency (India),President & Head - Business & Strategy,True,True,True
+CV-094,True,Principal Product Manager,Varadise Limited,Principal Product Manager,True,True,True
+CV-095,True,CTO,Sports-venue SaaS startup,CTO,True,True,True
+CV-096,True,Founder and Author,Independent,Founder and Author,True,True,True
+CV-097,True,Founding Head of Indonesia,Korean e-commerce company,Founding Head of Indonesia,True,True,True
+CV-098,True,Founder & Head of Operations & Creative,Home bakery business,Founder & Head of Operations & Creative,True,True,True
+CV-099,True,"Vice President, Consulting",2X,"Vice President, Consulting",True,True,True
+CV-100,True,Founder,Own AI startup,Founder,True,True,True

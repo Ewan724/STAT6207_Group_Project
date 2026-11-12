@@ -1,0 +1,171 @@
+row,doc_id,doc_type,split,title,role_family
+0,CV-001,pool_cv,train_pool,Backend Developer,Engineering
+1,CV-002,pool_cv,train_pool,Field Service Engineer I,Engineering
+2,CV-003,pool_cv,train_pool,Full Stack Developer,Engineering
+3,CV-004,pool_cv,train_pool,Full-Stack Software Engineer,Engineering
+4,CV-005,pool_cv,train_pool,Fullstack Engineer,Engineering
+5,CV-006,pool_cv,train_pool,"Senior Software Engineer, ByteX; VP of Engineering, Cenne Financial",Engineering
+6,CV-007,pool_cv,train_pool,Site Reliability Engineer,Engineering
+7,CV-008,pool_cv,train_pool,Software Engineer Lead,Engineering
+8,CV-009,pool_cv,train_pool,Team Lead / Senior Backend Engineer,Engineering
+9,CV-010,pool_cv,train_pool,Technology and Product Specialist,Engineering
+10,CV-011,pool_cv,train_pool,Software Engineer,Engineering
+11,CV-012,pool_cv,train_pool,Software Engineer,Engineering
+12,CV-013,pool_cv,train_pool,Sr. Software Development Engineer - 2,Engineering
+13,CV-014,pool_cv,train_pool,Staff Firmware Engineer,Engineering
+14,CV-015,pool_cv,train_pool,Staff Software Engineer / Technical Lead,Engineering
+15,CV-016,pool_cv,train_pool,Mobile Developer Lead,Engineering
+16,CV-017,pool_cv,train_pool,Quality Assurance Engineer,Engineering
+17,CV-018,pool_cv,train_pool,Senior Software Engineer,Engineering
+18,CV-019,pool_cv,train_pool,Tech Lead,Engineering
+19,CV-020,pool_cv,train_pool,Lead DevOps Engineer,Engineering
+20,CV-021,pool_cv,train_pool,Software Engineer,Engineering
+21,CV-022,pool_cv,train_pool,IT Manager,Engineering
+22,CV-023,pool_cv,train_pool,software qa engineer,Engineering
+23,CV-024,pool_cv,train_pool,Senior QA Automation Engineer,Engineering
+24,CV-025,pool_cv,train_pool,Site Reliability Engineer,Engineering
+25,CV-026,pool_cv,train_pool,Senior Full Stack Engineer,Engineering
+26,CV-027,pool_cv,train_pool,Software Engineer,Engineering
+27,CV-028,pool_cv,train_pool,Software Engineer,Engineering
+28,CV-029,pool_cv,train_pool,SENIOR SOFTWARE ENGINEER,Engineering
+29,CV-030,pool_cv,train_pool,Senior Software Engineer,Engineering
+30,CV-031,pool_cv,train_pool,Data Advisor - Analytics Engineer (Consultant),Data & AI
+31,CV-032,pool_cv,train_pool,Senior AI Engineer,Data & AI
+32,CV-033,pool_cv,train_pool,"Senior Consultant (Data & AI), AI Central",Data & AI
+33,CV-034,pool_cv,train_pool,Multi Stack / Applied AI Developer,Data & AI
+34,CV-035,pool_cv,train_pool,Business Data Engineer,Data & AI
+35,CV-036,pool_cv,train_pool,Senior Data Engineer,Data & AI
+36,CV-037,pool_cv,train_pool,Senior Business Intelligence Analyst,Data & AI
+37,CV-038,pool_cv,train_pool,"AI Forward Deployed Engineer, Client Engineering",Data & AI
+38,CV-039,pool_cv,train_pool,Business Data Analyst,Data & AI
+39,CV-040,pool_cv,train_pool,Applied AI Engineer,Data & AI
+40,CV-041,pool_cv,train_pool,Senior AI/ML Engineer,Data & AI
+41,CV-042,pool_cv,train_pool,Senior Data Scientist,Data & AI
+42,CV-043,pool_cv,train_pool,Senior Data Scientist,Data & AI
+43,CV-044,pool_cv,train_pool,Senior Machine Learning Engineer,Data & AI
+44,CV-045,pool_cv,train_pool,Data Engineer Lead,Data & AI
+45,CV-046,pool_cv,train_pool,Data/ML Engineer,Data & AI
+46,CV-047,pool_cv,train_pool,Graphic Designer,Design & Creative
+47,CV-048,pool_cv,train_pool,Lead UI/UX Designer,Design & Creative
+48,CV-049,pool_cv,train_pool,Senior Graphic Designer,Design & Creative
+49,CV-050,pool_cv,train_pool,Senior Video Editor / Videographer,Design & Creative
+50,CV-051,pool_cv,train_pool,Video Editor & Animator,Design & Creative
+51,CV-052,pool_cv,train_pool,Product Partner / UI/UX Design,Design & Creative
+52,CV-053,pool_cv,train_pool,Designer & Photographer,Design & Creative
+53,CV-054,pool_cv,train_pool,UX/UI Design Intern,Design & Creative
+54,CV-055,pool_cv,train_pool,Director of Business (Contract Role),Sales & BD
+55,CV-056,pool_cv,train_pool,Account Manager,Sales & BD
+56,CV-057,pool_cv,train_pool,Account Manager,Sales & BD
+57,CV-058,pool_cv,train_pool,Senior Commercial & Business Development Manager – Food Division,Sales & BD
+58,CV-059,pool_cv,train_pool,Business Development Representative,Sales & BD
+59,CV-060,pool_cv,train_pool,Insurance Agent,Sales & BD
+60,CV-061,pool_cv,train_pool,Key Account Manager,Sales & BD
+61,CV-062,pool_cv,train_pool,Retail Sales Manager,Sales & BD
+62,CV-063,pool_cv,train_pool,Solution Sales Engineer,Sales & BD
+63,CV-064,pool_cv,train_pool,Account Development Representative,Sales & BD
+64,CV-065,pool_cv,train_pool,"Specialist, Marketing (Digital Marketing)",Marketing
+65,CV-066,pool_cv,train_pool,Head of Marketing,Marketing
+66,CV-067,pool_cv,train_pool,Marketing Manager (GTM Sprint),Marketing
+67,CV-068,pool_cv,train_pool,Deputy Manager - Marketing,Marketing
+68,CV-069,pool_cv,train_pool,Regional Brand Manager,Marketing
+69,CV-070,pool_cv,train_pool,Marketing Manager (Creative & Content Lead),Marketing
+70,CV-071,pool_cv,train_pool,Growth Marketing Manager,Marketing
+71,CV-072,pool_cv,train_pool,SEO Executive,Marketing
+72,CV-073,pool_cv,train_pool,Marketing & PR,Marketing
+73,CV-074,pool_cv,train_pool,Senior Digital Marketing Specialist,Marketing
+74,CV-075,pool_cv,train_pool,Assistant Senior Finance Manager,Finance & Legal
+75,CV-076,pool_cv,train_pool,Senior Analyst,Finance & Legal
+76,CV-077,pool_cv,train_pool,Accountant,Finance & Legal
+77,CV-078,pool_cv,train_pool,Finance Manager,Finance & Legal
+78,CV-079,pool_cv,train_pool,Finance Manager,Finance & Legal
+79,CV-080,pool_cv,train_pool,"Finance Manager & Company Secretary, MIC of Finance for licence company",Finance & Legal
+80,CV-081,pool_cv,train_pool,Medical Claims Assessor (Hong Kong),Finance & Legal
+81,CV-082,pool_cv,train_pool,Accountant,Finance & Legal
+82,CV-083,pool_cv,train_pool,Tax Compliance Manager,Finance & Legal
+83,CV-084,pool_cv,train_pool,Audience Operations Specialist,Operations & HR
+84,CV-085,pool_cv,train_pool,Director of Purchasing,Operations & HR
+85,CV-086,pool_cv,train_pool,Human Resources Business Partner | Regional Onshore Lead (Asia),Operations & HR
+86,CV-087,pool_cv,train_pool,Project Management Lead / Standards & Procedures Officer,Operations & HR
+87,CV-088,pool_cv,train_pool,Senior Human Resources Officer,Operations & HR
+88,CV-089,pool_cv,train_pool,Administration Supervisor (HR & Operations),Operations & HR
+89,CV-090,pool_cv,train_pool,HOD CUSTOMER SERVICE EXECUTIVE,Operations & HR
+90,CV-091,pool_cv,train_pool,Operations Manager,Operations & HR
+91,CV-092,pool_cv,train_pool,Senior Warehouse Executive,Operations & HR
+92,CV-093,pool_cv,train_pool,President & Head - Business & Strategy,Leadership/Other
+93,CV-094,pool_cv,train_pool,Principal Product Manager,Leadership/Other
+94,CV-095,pool_cv,train_pool,CTO,Leadership/Other
+95,CV-096,pool_cv,train_pool,Founder and Author,Leadership/Other
+96,CV-097,pool_cv,train_pool,Founding Head of Indonesia,Leadership/Other
+97,CV-098,pool_cv,train_pool,Founder & Head of Operations & Creative,Leadership/Other
+98,CV-099,pool_cv,train_pool,"Vice President, Consulting",Leadership/Other
+99,CV-100,pool_cv,train_pool,Founder,Leadership/Other
+100,P01,gt_jd,heldout,Regional Finance Controller,Finance & Legal
+101,CAND-101,gt_cv,heldout,Regional Finance Manager,Finance & Legal
+102,P02,gt_jd,heldout,Sales Manager in Indonesia,Sales & BD
+103,CAND-102,gt_cv,heldout,Technical Sales Specialist,Sales & BD
+104,P03,gt_jd,heldout,GTM Marketing Manager / Lead,Marketing
+105,CAND-103,gt_cv,heldout,Head of Growth & Digital Transformation,Marketing
+106,P04,gt_jd,heldout,Data Engineer,Data & AI
+107,CAND-104,gt_cv,heldout,Data Engineer,Data & AI
+108,P05,gt_jd,heldout,Product Manager — WMS & Warehouse Integrations,Product
+109,CAND-105,gt_cv,heldout,Senior Product Manager,Product
+110,P06,gt_jd,heldout,Deployment Strategist,Data & AI
+111,CAND-106,gt_cv,heldout,"Principal, Data Science",Data & AI
+112,P07,gt_jd,heldout,Marketing Manager (HK & SG),Marketing
+113,CAND-107,gt_cv,heldout,Marketing Manager,Marketing
+114,P08,gt_jd,heldout,Field Service Engineer (FSE),Engineering
+115,CAND-108,gt_cv,heldout,Field Service Engineer,Engineering
+116,P09,gt_jd,heldout,Tech Lead,Engineering
+117,CAND-109,gt_cv,heldout,Tech Lead,Engineering
+118,P10,gt_jd,heldout,Regional Lead Designer UI/UX,Design & Creative
+119,CAND-110,gt_cv,heldout,"Lead, UI/UX",Design & Creative
+120,JD-001,unlabelled_jd,train_jd,AI Engineer,Data & AI
+121,JD-002,unlabelled_jd,train_jd,AI Research Engineer (HCMC),Data & AI
+122,JD-003,unlabelled_jd,train_jd,Business Intelligence Analyst (ID),Data & AI
+123,JD-004,unlabelled_jd,excluded_duplicate_jd,Data Engineer,Data & AI
+124,JD-005,unlabelled_jd,train_jd,Data Scientist,Data & AI
+125,JD-006,unlabelled_jd,train_jd,Machine Learning Engineer,Data & AI
+126,JD-007,unlabelled_jd,train_jd,Senior/Lead Data Engineer,Data & AI
+127,JD-008,unlabelled_jd,train_jd,AI Artist/Video Editor,Design & Creative
+128,JD-009,unlabelled_jd,train_jd,Creative Director,Design & Creative
+129,JD-010,unlabelled_jd,train_jd,Product Designer,Design & Creative
+130,JD-011,unlabelled_jd,train_jd,Senior Creative Designer,Design & Creative
+131,JD-012,unlabelled_jd,train_jd,UI/UX Designer - HK,Design & Creative
+132,JD-013,unlabelled_jd,train_jd,Design-Oriented QA / Test-Automation Engineer,Engineering
+133,JD-014,unlabelled_jd,train_jd,Dev Ops,Engineering
+134,JD-015,unlabelled_jd,train_jd,Distributed System Engineer (SG),Engineering
+135,JD-016,unlabelled_jd,train_jd,Fullstack Engineer,Engineering
+136,JD-017,unlabelled_jd,train_jd,IT Support Officer,Engineering
+137,JD-018,unlabelled_jd,train_jd,Netsuite Engineer,Engineering
+138,JD-019,unlabelled_jd,train_jd,Network Engineer,Engineering
+139,JD-020,unlabelled_jd,train_jd,Rust Engineer,Engineering
+140,JD-021,unlabelled_jd,train_jd,Senior Embedded Engineer _Shenzhen,Engineering
+141,JD-022,unlabelled_jd,train_jd,Senior Golang Developer,Engineering
+142,JD-023,unlabelled_jd,train_jd,Senior Java Developer,Engineering
+143,JD-024,unlabelled_jd,train_jd,"Senior Mechanical Engineer (3 HC, SEA & TW & NA)",Engineering
+144,JD-025,unlabelled_jd,train_jd,Site Reliability Engineer,Engineering
+145,JD-026,unlabelled_jd,train_jd,Solution Architect (ID),Engineering
+146,JD-027,unlabelled_jd,train_jd,Sr Engineer (Backend),Engineering
+147,JD-028,unlabelled_jd,excluded_duplicate_jd,Tech Lead,Engineering
+148,JD-029,unlabelled_jd,train_jd,Head of Finance,Finance & Legal
+149,JD-030,unlabelled_jd,train_jd,"Legal & Compliance, Research Compliance Associate",Finance & Legal
+150,JD-031,unlabelled_jd,train_jd,Tax manager - Indonesia,Finance & Legal
+151,JD-032,unlabelled_jd,train_jd,Chief Technology Officer (CTO),Leadership
+152,JD-033,unlabelled_jd,train_jd,Factory director,Leadership
+153,JD-034,unlabelled_jd,train_jd,Brand Manager,Marketing
+154,JD-035,unlabelled_jd,train_jd,"Head of CRM, Analytics and Media",Marketing
+155,JD-036,unlabelled_jd,train_jd,MarTech Specialist,Marketing
+156,JD-037,unlabelled_jd,train_jd,Product Marketing Manager (Go-to-Market Specialist),Marketing
+157,JD-038,unlabelled_jd,train_jd,Senior Performance Marketing Manager,Marketing
+158,JD-039,unlabelled_jd,train_jd,Head of Procurement,Operations & HR
+159,JD-040,unlabelled_jd,train_jd,Omni Channel eCommerce Operations Manager,Operations & HR
+160,JD-041,unlabelled_jd,train_jd,Talent Acquisition Specialist,Operations & HR
+161,JD-042,unlabelled_jd,train_jd,Travel Specialist,Operations & HR
+162,JD-043,unlabelled_jd,train_jd,Account Manager (Malaysia),Sales & BD
+163,JD-044,unlabelled_jd,train_jd,Business Development Manager (SME Loans),Sales & BD
+164,JD-045,unlabelled_jd,train_jd,Enterprise Account Manager,Sales & BD
+165,JD-046,unlabelled_jd,train_jd,North America Sales Director,Sales & BD
+166,JD-047,unlabelled_jd,train_jd,Sales Engineer,Sales & BD
+167,JD-048,unlabelled_jd,train_jd,sales manager,Sales & BD
+168,JD-049,unlabelled_jd,train_jd,Sales Representative (Immunology),Sales & BD
+169,JD-050,unlabelled_jd,train_jd,Web3 BD Manager,Sales & BD
