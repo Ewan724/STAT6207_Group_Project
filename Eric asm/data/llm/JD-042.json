@@ -1,0 +1,90 @@
+{
+  "doc_id": "JD-042",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "7857a5c026318d0fdbd0e9f6a7eebed2afaa330e1ae4b6e8c110964ab5b4eb78",
+  "timestamp": "2026-11-12T03:49:08.583925+00:00",
+  "elapsed_sec": 15.32,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-042\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Travel Specialist\",\n  \"role_family\": \"Operations & HR\",\n  \"seniority\": \"junior\",\n  \"location\": \"Hong Kong\",\n  \"remote\": \"unknown\",\n  \"min_years_experience\": 3,\n  \"must_have_keywords\": [\"travel administration\", \"booking travel\", \"flight booking\", \"hotel booking\", \"car bookings\", \"expense processing\", \"G Suite\", \"Microsoft Word\", \"Excel\"],\n  \"nice_to_have_keywords\": [\"Jira\"],\n  \"tools_technologies\": [\"G Suite\", \"Microsoft Word\", \"Excel\", \"Jira\"],\n  \"domain_knowledge\": [\"travel\", \"recruiting\"],\n  \"education_requirements\": null,\n  \"certifications\": [],\n  \"languages\": [\"English\"],\n  \"soft_skills\": [\"organization\", \"customer service\", \"multitasking\", \"prioritization\", \"independence\", \"decision-making\", \"initiative\"],\n  \"key_responsibilities\": [\"handle logistics for recruiting-related travel\", \"book travel for recruiters to attend campus recruiting events across Asia\", \"book travel for candidates to attend onsite events, interviews and internships\", \"process candidate travel expenses\", \"oversee entire booking process\", \"maintain travel intranet site\", \"manage vendor portals\", \"manage in-house database\", \"manage couriering for campus-related materials\"]\n}",
+  "parsed": {
+    "doc_id": "JD-042",
+    "doc_type": "jd",
+    "job_title": "Travel Specialist",
+    "role_family": "Operations & HR",
+    "seniority": "junior",
+    "location": "Hong Kong",
+    "remote": "unknown",
+    "min_years_experience": 3,
+    "must_have_keywords": [
+      "travel administration",
+      "booking travel",
+      "car bookings",
+      "G Suite",
+      "Excel"
+    ],
+    "nice_to_have_keywords": [
+      "Jira"
+    ],
+    "tools_technologies": [
+      "G Suite",
+      "Excel",
+      "Jira"
+    ],
+    "domain_knowledge": [
+      "travel",
+      "recruiting"
+    ],
+    "education_requirements": [],
+    "certifications": [],
+    "languages": [
+      "English"
+    ],
+    "soft_skills": [
+      "organization",
+      "customer service",
+      "multitasking",
+      "prioritization",
+      "independence",
+      "decision-making",
+      "initiative"
+    ],
+    "key_responsibilities": [
+      "handle logistics for recruiting-related travel",
+      "book travel for recruiters to attend campus recruiting events across Asia",
+      "book travel for candidates to attend onsite events, interviews and internships",
+      "process candidate travel expenses",
+      "oversee entire booking process",
+      "maintain travel intranet site",
+      "manage vendor portals",
+      "manage in-house database",
+      "manage couriering for campus-related materials"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "flight booking",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "hotel booking",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "expense processing",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "Microsoft Word",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "Microsoft Word",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

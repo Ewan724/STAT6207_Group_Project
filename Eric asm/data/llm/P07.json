@@ -1,0 +1,66 @@
+{
+  "doc_id": "P07",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "a9fc22b5b035e7c9701219815dd894ed271e114924f3208cd915151b5f198eb1",
+  "timestamp": "2026-11-12T03:42:59.647466+00:00",
+  "elapsed_sec": 14.58,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"P07\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Marketing Manager (HK & SG)\",\n  \"role_family\": \"Marketing\",\n  \"seniority\": \"mid\",\n  \"location\": \"Hong Kong\",\n  \"remote\": \"unknown\",\n  \"min_years_experience\": 10,\n  \"must_have_keywords\": [\"marketing\", \"communications\", \"events\", \"field marketing\", \"PR\", \"content development\", \"campaign execution\", \"messaging\", \"go-to-market strategies\"],\n  \"nice_to_have_keywords\": [\"AI\", \"SaaS\", \"cloud\"],\n  \"tools_technologies\": [],\n  \"domain_knowledge\": [\"B2B technology\"],\n  \"education_requirements\": null,\n  \"certifications\": [],\n  \"languages\": [\"English\", \"Cantonese\"],\n  \"soft_skills\": [\"self-driven\", \"ownership\", \"strategic thinking\", \"execution\", \"communication\", \"business acumen\"],\n  \"key_responsibilities\": [\"Lead end-to-end marketing initiatives\", \"Build and lead events\", \"Translate global messaging\", \"Support market expansion\", \"Partner cross-functionally\"]\n}",
+  "parsed": {
+    "doc_id": "P07",
+    "doc_type": "jd",
+    "job_title": "Marketing Manager (HK & SG)",
+    "role_family": "Marketing",
+    "seniority": "mid",
+    "location": "Hong Kong",
+    "remote": "unknown",
+    "min_years_experience": 10,
+    "must_have_keywords": [
+      "marketing",
+      "communications",
+      "events",
+      "field marketing",
+      "PR",
+      "content development",
+      "campaign execution",
+      "messaging",
+      "go-to-market strategies"
+    ],
+    "nice_to_have_keywords": [
+      "AI",
+      "SaaS",
+      "cloud"
+    ],
+    "tools_technologies": [],
+    "domain_knowledge": [
+      "B2B technology"
+    ],
+    "education_requirements": [],
+    "certifications": [],
+    "languages": [
+      "English",
+      "Cantonese"
+    ],
+    "soft_skills": [
+      "self-driven",
+      "ownership",
+      "strategic thinking",
+      "execution",
+      "communication",
+      "business acumen"
+    ],
+    "key_responsibilities": [
+      "Lead end-to-end marketing initiatives",
+      "Build and lead events",
+      "Translate global messaging",
+      "Support market expansion",
+      "Partner cross-functionally"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

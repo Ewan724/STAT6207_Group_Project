@@ -1,0 +1,81 @@
+{
+  "doc_id": "P10",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "97b16a1da6e73ec16cccf89d2a3ee77257e47fd028eaa98f8c1dbcc610c6d93a",
+  "timestamp": "2026-11-12T03:43:54.569452+00:00",
+  "elapsed_sec": 18.84,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"P10\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Regional Lead Designer UI/UX\",\n  \"role_family\": \"Design & Product\",\n  \"seniority\": \"lead\",\n  \"location\": null,\n  \"remote\": \"unknown\",\n  \"min_years_experience\": 5,\n  \"must_have_keywords\": [\n    \"UI design\",\n    \"UX design\",\n    \"user research\",\n    \"prototyping\",\n    \"mockups\",\n    \"Agile\",\n    \"HTML\",\n    \"CSS\",\n    \"responsive design\"\n  ],\n  \"nice_to_have_keywords\": [\n    \"Figma\",\n    \"Adobe XD\",\n    \"storyboards\",\n    \"user testing\",\n    \"competitor analysis\",\n    \"interaction design\",\n    \"Human-Computer Interaction\",\n    \"Graphic Design\"\n  ],\n  \"tools_technologies\": [\n    \"Figma\",\n    \"Adobe XD\",\n    \"HTML\",\n    \"CSS\"\n  ],\n  \"domain_knowledge\": [\n    \"UI/UX\",\n    \"web design\",\n    \"mobile applications\"\n  ],\n  \"education_requirements\": [\n    \"Bachelor's degree in Graphic Design, Interaction Design, Human-Computer Interaction, or a related field\"\n  ],\n  \"certifications\": [\n    \"UI/UX Design certification\"\n  ],\n  \"languages\": null,\n  \"soft_skills\": [\n    \"communication\",\n    \"presentation\",\n    \"mentoring\",\n    \"collaboration\",\n    \"detail-oriented\",\n    \"empathy\"\n  ],\n  \"key_responsibilities\": [\n    \"design visually appealing and user-centric interfaces\",\n    \"conduct user research\",\n    \"optimize user experiences\",\n    \"create mockups\",\n    \"develop prototypes\",\n    \"collaborate with product managers\",\n    \"work with developers\"\n  ]\n}",
+  "parsed": {
+    "doc_id": "P10",
+    "doc_type": "jd",
+    "job_title": "Regional Lead Designer UI/UX",
+    "role_family": "Design & Product",
+    "seniority": "lead",
+    "location": null,
+    "remote": "unknown",
+    "min_years_experience": 5,
+    "must_have_keywords": [
+      "UI design",
+      "UX design",
+      "user research",
+      "prototyping",
+      "mockups",
+      "Agile",
+      "HTML",
+      "CSS",
+      "responsive design"
+    ],
+    "nice_to_have_keywords": [
+      "Figma",
+      "Adobe XD",
+      "storyboards",
+      "user testing",
+      "competitor analysis",
+      "interaction design",
+      "Human-Computer Interaction",
+      "Graphic Design"
+    ],
+    "tools_technologies": [
+      "Figma",
+      "Adobe XD",
+      "HTML",
+      "CSS"
+    ],
+    "domain_knowledge": [
+      "UI/UX",
+      "web design",
+      "mobile applications"
+    ],
+    "education_requirements": [
+      "Bachelor's degree in Graphic Design, Interaction Design, Human-Computer Interaction, or a related field"
+    ],
+    "certifications": [
+      "UI/UX Design certification"
+    ],
+    "languages": [],
+    "soft_skills": [
+      "communication",
+      "presentation",
+      "mentoring",
+      "collaboration",
+      "detail-oriented",
+      "empathy"
+    ],
+    "key_responsibilities": [
+      "design visually appealing and user-centric interfaces",
+      "conduct user research",
+      "optimize user experiences",
+      "create mockups",
+      "develop prototypes",
+      "collaborate with product managers",
+      "work with developers"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

@@ -1,0 +1,81 @@
+{
+  "doc_id": "P02",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "9e4dee652d0f5af5c58bca5dd519dd3172b1487a4d9edb1665b9213dff30f253",
+  "timestamp": "2026-11-12T03:41:30.159526+00:00",
+  "elapsed_sec": 26.59,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"P02\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Sales Manager\",\n  \"role_family\": \"Sales & Marketing\",\n  \"seniority\": \"mid\",\n  \"location\": \"Indonesia\",\n  \"remote\": \"yes\",\n  \"min_years_experience\": 3,\n  \"must_have_keywords\": [\n    \"B2B sales\",\n    \"flavour applications\",\n    \"customer relationships\",\n    \"sales forecasting\",\n    \"distributor management\",\n    \"Bahasa Indonesia\",\n    \"English\"\n  ],\n  \"nice_to_have_keywords\": [\n    \"food ingredients\",\n    \"F&B manufacturing\",\n    \"product development cycles\",\n    \"technical-commercial discussions\",\n    \"BPOM\",\n    \"Halal\",\n    \"importation processes\"\n  ],\n  \"tools_technologies\": [],\n  \"domain_knowledge\": [\n    \"flavour\",\n    \"food ingredients\",\n    \"F&B manufacturing\"\n  ],\n  \"education_requirements\": null,\n  \"certifications\": [],\n  \"languages\": [\n    \"English\",\n    \"Bahasa Indonesia\"\n  ],\n  \"soft_skills\": [\n    \"passion\",\n    \"driven\",\n    \"commercially savvy\",\n    \"proactive\",\n    \"independent\",\n    \"organised\",\n    \"disciplined\"\n  ],\n  \"key_responsibilities\": [\n    \"Drive sales growth\",\n    \"Manage key customers\",\n    \"Develop new business opportunities\",\n    \"Work with distributors\",\n    \"Build customer relationships\",\n    \"Monitor market intelligence\",\n    \"Manage sales forecasts\",\n    \"Support regulatory requirements\"\n  ]\n}",
+  "parsed": {
+    "doc_id": "P02",
+    "doc_type": "jd",
+    "job_title": "Sales Manager",
+    "role_family": "Sales & Marketing",
+    "seniority": "mid",
+    "location": "Indonesia",
+    "remote": "yes",
+    "min_years_experience": 3,
+    "must_have_keywords": [
+      "B2B sales",
+      "flavour applications",
+      "customer relationships",
+      "Bahasa Indonesia",
+      "English"
+    ],
+    "nice_to_have_keywords": [
+      "food ingredients",
+      "F&B manufacturing",
+      "product development cycles",
+      "technical-commercial discussions",
+      "BPOM",
+      "Halal",
+      "importation processes"
+    ],
+    "tools_technologies": [],
+    "domain_knowledge": [
+      "flavour",
+      "food ingredients",
+      "F&B manufacturing"
+    ],
+    "education_requirements": [],
+    "certifications": [],
+    "languages": [
+      "English",
+      "Bahasa Indonesia"
+    ],
+    "soft_skills": [
+      "passion",
+      "driven",
+      "commercially savvy",
+      "proactive",
+      "independent",
+      "organised",
+      "disciplined"
+    ],
+    "key_responsibilities": [
+      "Drive sales growth",
+      "Manage key customers",
+      "Develop new business opportunities",
+      "Work with distributors",
+      "Build customer relationships",
+      "Monitor market intelligence",
+      "Manage sales forecasts",
+      "Support regulatory requirements"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "sales forecasting",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "distributor management",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

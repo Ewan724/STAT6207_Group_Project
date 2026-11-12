@@ -1,0 +1,72 @@
+{
+  "doc_id": "JD-044",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "c7f9730097ebbf5a6361bd66a85a01776137229e63899e6196326b8c9c2da791",
+  "timestamp": "2026-11-12T03:49:24.657947+00:00",
+  "elapsed_sec": 16.07,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-044\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Business Development Manager (SME Loans)\",\n  \"role_family\": \"Sales & BD\",\n  \"seniority\": \"mid\",\n  \"location\": \"Singapore\",\n  \"remote\": \"unknown\",\n  \"min_years_experience\": 4,\n  \"must_have_keywords\": [\"commercial banking\", \"SME lending\", \"relationship management\", \"financial sales\", \"business development\", \"credit principles\"],\n  \"nice_to_have_keywords\": [\"broker network\", \"referral agents\", \"SME clients\"],\n  \"tools_technologies\": [],\n  \"domain_knowledge\": [\"banking\", \"finance\", \"SMEs\"],\n  \"education_requirements\": null,\n  \"certifications\": [],\n  \"languages\": [\"English\"],\n  \"soft_skills\": [\"interpersonal skills\", \"negotiation\", \"communication\", \"autonomy\", \"problem-solving\"],\n  \"key_responsibilities\": [\"Build partner network\", \"Generate business referrals\", \"Serve as client contact\", \"Deliver customer service\", \"Source lending opportunities\", \"Assess SME clients\", \"Prepare assessments for Credit team\", \"Negotiate loan terms\", \"Manage loan portfolio\", \"Collaborate with Collections Manager\", \"Monitor credit risk\", \"Guide application process\", \"Oversee end-to-end loan process\", \"Provide financial advisory\"]\n}",
+  "parsed": {
+    "doc_id": "JD-044",
+    "doc_type": "jd",
+    "job_title": "Business Development Manager (SME Loans)",
+    "role_family": "Sales & BD",
+    "seniority": "mid",
+    "location": "Singapore",
+    "remote": "unknown",
+    "min_years_experience": 4,
+    "must_have_keywords": [
+      "commercial banking",
+      "SME lending",
+      "relationship management",
+      "financial sales",
+      "business development",
+      "credit principles"
+    ],
+    "nice_to_have_keywords": [
+      "broker network",
+      "referral agents",
+      "SME clients"
+    ],
+    "tools_technologies": [],
+    "domain_knowledge": [
+      "banking",
+      "finance",
+      "SMEs"
+    ],
+    "education_requirements": [],
+    "certifications": [],
+    "languages": [
+      "English"
+    ],
+    "soft_skills": [
+      "interpersonal skills",
+      "negotiation",
+      "communication",
+      "autonomy",
+      "problem-solving"
+    ],
+    "key_responsibilities": [
+      "Build partner network",
+      "Generate business referrals",
+      "Serve as client contact",
+      "Deliver customer service",
+      "Source lending opportunities",
+      "Assess SME clients",
+      "Prepare assessments for Credit team",
+      "Negotiate loan terms",
+      "Manage loan portfolio",
+      "Collaborate with Collections Manager",
+      "Monitor credit risk",
+      "Guide application process",
+      "Oversee end-to-end loan process",
+      "Provide financial advisory"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

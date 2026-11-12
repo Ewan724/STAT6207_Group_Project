@@ -1,0 +1,91 @@
+{
+  "doc_id": "JD-021",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "c06394c4855caa61f414e07a50b1de7e21a1cf8555473aab2f7d4188eb683e64",
+  "timestamp": "2026-11-12T03:46:49.081575+00:00",
+  "elapsed_sec": 14.13,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-021\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Senior Embedded Engineer\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"senior\",\n  \"location\": \"Shenzhen, China\",\n  \"remote\": \"no\",\n  \"min_years_experience\": 2,\n  \"must_have_keywords\": [\n    \"embedded systems\",\n    \"robotics\",\n    \"autonomous mobile robots\",\n    \"Linux\",\n    \"ROS\",\n    \"C++\",\n    \"Python\",\n    \"PCB schematics\",\n    \"firmware\",\n    \"hardware debugging\"\n  ],\n  \"nice_to_have_keywords\": [\n    \"CANBus\",\n    \"ModbusTCP\",\n    \"circuit schematics\",\n    \"electrical line diagrams\",\n    \"test equipment\",\n    \"multimeter\",\n    \"oscilloscope\"\n  ],\n  \"tools_technologies\": [\n    \"Linux\",\n    \"ROS\",\n    \"C++\",\n    \"Python\",\n    \"CANBus\",\n    \"ModbusTCP\"\n  ],\n  \"domain_knowledge\": [\n    \"robotics\",\n    \"industrial automation\",\n    \"embedded systems\"\n  ],\n  \"education_requirements\": [\n    \"Bachelor's degree in Robotics, Mechatronics, Electrical/Electronics, Computer Engineering or related field\"\n  ],\n  \"certifications\": [],\n  \"languages\": [\n    \"English\",\n    \"Mandarin\"\n  ],\n  \"soft_skills\": [\n    \"problem-solving\",\n    \"analytical skills\",\n    \"self-motivation\",\n    \"detail-oriented\",\n    \"adaptability\",\n    \"stakeholder management\"\n  ],\n  \"key_responsibilities\": [\n    \"Autonomy stack installation of AMRs\",\n    \"Integration of key sensors and components\",\n    \"Network and communication setup\",\n    \"Factory Acceptance Testing\",\n    \"Develop embedded software for robotic devices\",\n    \"Implement Linux drivers for industrial communication protocols\",\n    \"Debug hardware at firmware and hardware levels\"\n  ]\n}",
+  "parsed": {
+    "doc_id": "JD-021",
+    "doc_type": "jd",
+    "job_title": "Senior Embedded Engineer",
+    "role_family": "Engineering",
+    "seniority": "senior",
+    "location": "Shenzhen, China",
+    "remote": "no",
+    "min_years_experience": 2,
+    "must_have_keywords": [
+      "embedded systems",
+      "robotics",
+      "autonomous mobile robots",
+      "Linux",
+      "ROS",
+      "C++",
+      "Python",
+      "PCB schematics",
+      "firmware"
+    ],
+    "nice_to_have_keywords": [
+      "CANBus",
+      "ModbusTCP",
+      "circuit schematics",
+      "electrical line diagrams",
+      "multimeter",
+      "oscilloscope"
+    ],
+    "tools_technologies": [
+      "Linux",
+      "ROS",
+      "C++",
+      "Python",
+      "CANBus",
+      "ModbusTCP"
+    ],
+    "domain_knowledge": [
+      "robotics",
+      "industrial automation",
+      "embedded systems"
+    ],
+    "education_requirements": [
+      "Bachelor's degree in Robotics, Mechatronics, Electrical/Electronics, Computer Engineering or related field"
+    ],
+    "certifications": [],
+    "languages": [
+      "English",
+      "Mandarin"
+    ],
+    "soft_skills": [
+      "problem-solving",
+      "analytical skills",
+      "self-motivation",
+      "detail-oriented",
+      "adaptability",
+      "stakeholder management"
+    ],
+    "key_responsibilities": [
+      "Autonomy stack installation of AMRs",
+      "Integration of key sensors and components",
+      "Network and communication setup",
+      "Factory Acceptance Testing",
+      "Develop embedded software for robotic devices",
+      "Implement Linux drivers for industrial communication protocols",
+      "Debug hardware at firmware and hardware levels"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "hardware debugging",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "test equipment",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

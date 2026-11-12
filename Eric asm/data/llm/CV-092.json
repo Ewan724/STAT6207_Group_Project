@@ -1,0 +1,101 @@
+{
+  "doc_id": "CV-092",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "3937fb2b42e896859eb7d9c566d18f614ee5710b06562ef11894d25c233c31f3",
+  "timestamp": "2026-11-12T03:39:06.757611+00:00",
+  "elapsed_sec": 26.76,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-092\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Senior Warehouse Executive\",\n  \"current_company\": \"XSD Bentong\",\n  \"role_family\": \"Operations & HR\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Warehouse Planning\",\n    \"Inventory Management\",\n    \"ERP Implementation\",\n    \"Weighbridge Handling\",\n    \"Forklift Operation\",\n    \"5S Practices\",\n    \"Workplace Safety\",\n    \"HR Support\",\n    \"Payroll Assistance\",\n    \"Foreign Worker Management\",\n    \"Labour Compliance\",\n    \"Domestic Inquiry Support\",\n    \"Waste Disposal\",\n    \"Stakeholder Communication\",\n    \"Case Coordination\",\n    \"Internal Audit Support\",\n    \"Problem Solving\",\n    \"Leadership\",\n    \"Adaptability\"\n  ],\n  \"tools_technologies\": [],\n  \"domains\": [\n    \"warehouse operations\",\n    \"human resources\",\n    \"retail\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Associate's Degree\",\n      \"field\": \"Business Studies / Administration / Management\",\n      \"institution\": \"Binary Business School\",\n      \"year\": null\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Malaysia\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\",\n    \"problem solving\",\n    \"adaptability\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Senior Warehouse Executive\",\n      \"company\": \"XSD Bentong\",\n      \"start\": \"2022-03\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Warehouse Executive\",\n      \"company\": \"Rohas-Euco Industries Bhd\",\n      \"start\": \"2013-01\",\n      \"end\": \"2021-12\"\n    },\n    {\n      \"title\": \"Human Resource & Administration Executive\",\n      \"company\": \"Rohas-Euco Industries Bhd\",\n      \"start\": \"2003-01\",\n      \"end\": \"2013-12\"\n    },\n    {\n      \"title\": \"Human Resource & Administration Assistant Supervisor\",\n      \"company\": \"The Store (Bentong)\",\n      \"start\": \"2001-01\",\n      \"end\": \"2003-12\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-092",
+    "doc_type": "cv",
+    "current_title": "Senior Warehouse Executive",
+    "current_company": "XSD Bentong",
+    "role_family": "Operations & HR",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "Warehouse Planning",
+      "Inventory Management",
+      "ERP Implementation",
+      "Weighbridge Handling",
+      "Forklift Operation",
+      "5S Practices",
+      "Workplace Safety",
+      "HR Support",
+      "Payroll Assistance",
+      "Foreign Worker Management",
+      "Labour Compliance",
+      "Waste Disposal",
+      "Stakeholder Communication",
+      "Case Coordination",
+      "Internal Audit Support",
+      "Adaptability"
+    ],
+    "tools_technologies": [],
+    "domains": [
+      "warehouse operations",
+      "human resources",
+      "retail"
+    ],
+    "education": [
+      {
+        "degree": "Associate's Degree",
+        "field": "Business Studies / Administration / Management",
+        "institution": "Binary Business School",
+        "year": null
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Malaysia"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring",
+      "problem solving",
+      "adaptability"
+    ],
+    "work_history": [
+      {
+        "title": "Senior Warehouse Executive",
+        "company": "XSD Bentong",
+        "start": "2022-03",
+        "end": "Present"
+      },
+      {
+        "title": "Warehouse Executive",
+        "company": "Rohas-Euco Industries Bhd",
+        "start": "2013-01",
+        "end": "2021-12"
+      },
+      {
+        "title": "Human Resource & Administration Executive",
+        "company": "Rohas-Euco Industries Bhd",
+        "start": "2003-01",
+        "end": "2013-12"
+      },
+      {
+        "title": "Human Resource & Administration Assistant Supervisor",
+        "company": "The Store (Bentong)",
+        "start": "2001-01",
+        "end": "2003-12"
+      }
+    ]
+  },
+  "validation_errors": [
+    "generic_keyword:Problem Solving",
+    "generic_keyword:Leadership"
+  ],
+  "dropped_keywords": [
+    {
+      "keyword": "Domestic Inquiry Support",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

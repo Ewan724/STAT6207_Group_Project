@@ -1,0 +1,84 @@
+{
+  "doc_id": "JD-013",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "82dd7e3b639af8a11feddf3601e9b1c56b42123954f6be317eb4edfabe14bfa9",
+  "timestamp": "2026-11-12T03:45:46.806006+00:00",
+  "elapsed_sec": 15.53,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-013\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Design-Oriented QA / Test-Automation Engineer\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"mid\",\n  \"location\": \"Jakarta, Indonesia\",\n  \"remote\": \"hybrid\",\n  \"min_years_experience\": 3,\n  \"must_have_keywords\": [\n    \"visual regression testing\",\n    \"end-to-end testing\",\n    \"API testing\",\n    \"accessibility testing\",\n    \"CI/CD integration\",\n    \"JavaScript frameworks\"\n  ],\n  \"nice_to_have_keywords\": [\n    \"performance testing tools\",\n    \"ISTQB certification\",\n    \"design system knowledge\"\n  ],\n  \"tools_technologies\": [\n    \"JavaScript\",\n    \"WCAG\",\n    \"screen readers\"\n  ],\n  \"domain_knowledge\": [\n    \"web applications\",\n    \"UX design\"\n  ],\n  \"education_requirements\": null,\n  \"certifications\": [\n    \"ISTQB\"\n  ],\n  \"languages\": [\n    \"English\"\n  ],\n  \"soft_skills\": [\n    \"quality evangelism\",\n    \"developer coaching\",\n    \"design system health\"\n  ],\n  \"key_responsibilities\": [\n    \"Deliver shift-left quality with a design focus\",\n    \"build and maintain end-to-end test suites\",\n    \"uphold WCAG guidelines\",\n    \"gate merges if tests fail\"\n  ]\n}",
+  "parsed": {
+    "doc_id": "JD-013",
+    "doc_type": "jd",
+    "job_title": "Design-Oriented QA / Test-Automation Engineer",
+    "role_family": "Engineering",
+    "seniority": "mid",
+    "location": "Jakarta, Indonesia",
+    "remote": "hybrid",
+    "min_years_experience": 3,
+    "must_have_keywords": [
+      "API testing",
+      "accessibility testing",
+      "CI/CD integration"
+    ],
+    "nice_to_have_keywords": [
+      "performance testing tools"
+    ],
+    "tools_technologies": [
+      "JavaScript",
+      "WCAG"
+    ],
+    "domain_knowledge": [
+      "web applications",
+      "UX design"
+    ],
+    "education_requirements": [],
+    "certifications": [
+      "ISTQB"
+    ],
+    "languages": [
+      "English"
+    ],
+    "soft_skills": [
+      "quality evangelism",
+      "developer coaching",
+      "design system health"
+    ],
+    "key_responsibilities": [
+      "Deliver shift-left quality with a design focus",
+      "build and maintain end-to-end test suites",
+      "uphold WCAG guidelines",
+      "gate merges if tests fail"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "visual regression testing",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "end-to-end testing",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "JavaScript frameworks",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "ISTQB certification",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "design system knowledge",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "screen readers",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

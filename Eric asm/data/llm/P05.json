@@ -1,0 +1,72 @@
+{
+  "doc_id": "P05",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "2463793bf249f839f6c3df1fe2e86e4b673cfa23f5bfc207f6e8124c7b0e24d0",
+  "timestamp": "2026-11-12T03:42:26.688566+00:00",
+  "elapsed_sec": 16.35,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"P05\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Product Manager — WMS & Warehouse Integrations\",\n  \"role_family\": \"Technology\",\n  \"seniority\": \"mid\",\n  \"location\": \"Remote\",\n  \"remote\": \"yes\",\n  \"min_years_experience\": 3,\n  \"must_have_keywords\": [\"product management\", \"logistics\", \"fulfillment\", \"warehouse\", \"supply chain\", \"WMS\", \"OMS\", \"APIs\", \"webhooks\", \"data sync\", \"technical fluency\", \"written English\"],\n  \"nice_to_have_keywords\": [\"vendor management\", \"warehouse operations\", \"build vs buy evaluation\", \"AI tools\", \"Chinese\"],\n  \"tools_technologies\": [],\n  \"domain_knowledge\": [\"logistics\", \"fulfillment\", \"warehouse\", \"supply chain\"],\n  \"education_requirements\": null,\n  \"certifications\": [],\n  \"languages\": [\"English\", \"Chinese\"],\n  \"soft_skills\": [\"documentation\", \"root cause analysis\", \"stakeholder alignment\", \"decision making\"],\n  \"key_responsibilities\": [\"WMS product ownership\", \"integration management\", \"team leadership\", \"technical specification review\", \"QA execution\"]\n}",
+  "parsed": {
+    "doc_id": "P05",
+    "doc_type": "jd",
+    "job_title": "Product Manager — WMS & Warehouse Integrations",
+    "role_family": "Technology",
+    "seniority": "mid",
+    "location": "Remote",
+    "remote": "yes",
+    "min_years_experience": 3,
+    "must_have_keywords": [
+      "product management",
+      "logistics",
+      "fulfillment",
+      "warehouse",
+      "supply chain",
+      "WMS",
+      "OMS",
+      "APIs",
+      "webhooks",
+      "data sync",
+      "technical fluency",
+      "written English"
+    ],
+    "nice_to_have_keywords": [
+      "vendor management",
+      "warehouse operations",
+      "build vs buy evaluation",
+      "AI tools",
+      "Chinese"
+    ],
+    "tools_technologies": [],
+    "domain_knowledge": [
+      "logistics",
+      "fulfillment",
+      "warehouse",
+      "supply chain"
+    ],
+    "education_requirements": [],
+    "certifications": [],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "soft_skills": [
+      "documentation",
+      "root cause analysis",
+      "stakeholder alignment",
+      "decision making"
+    ],
+    "key_responsibilities": [
+      "WMS product ownership",
+      "integration management",
+      "team leadership",
+      "technical specification review",
+      "QA execution"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

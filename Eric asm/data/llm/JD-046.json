@@ -1,0 +1,89 @@
+{
+  "doc_id": "JD-046",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "29f4bf6e0653dfd3181ef21e492455c0b326a5480d897c905ecf4daf07783676",
+  "timestamp": "2026-11-12T03:49:38.384978+00:00",
+  "elapsed_sec": 13.73,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-046\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"North America Sales Director\",\n  \"role_family\": \"Sales & BD\",\n  \"seniority\": \"director\",\n  \"location\": \"unknown\",\n  \"remote\": \"yes\",\n  \"min_years_experience\": 5,\n  \"must_have_keywords\": [\n    \"B2B international sales\",\n    \"sales management\",\n    \"North American region\",\n    \"strategic planning\",\n    \"team leadership\",\n    \"high-level negotiations\",\n    \"cross-departmental collaboration\",\n    \"risk management\",\n    \"English proficiency\"\n  ],\n  \"nice_to_have_keywords\": [\n    \"camera industry\",\n    \"vision solutions\",\n    \"AIoT\",\n    \"smart hardware\",\n    \"large-scale project contracts\",\n    \"key client relationships\",\n    \"performance pressure\",\n    \"cross-cultural communication\"\n  ],\n  \"tools_technologies\": [],\n  \"domain_knowledge\": [\n    \"industrial\",\n    \"consumer electronics\",\n    \"security\",\n    \"automotive\",\n    \"vision solutions\",\n    \"AIoT\",\n    \"smart hardware\"\n  ],\n  \"education_requirements\": null,\n  \"certifications\": [],\n  \"languages\": [\n    \"English\"\n  ],\n  \"soft_skills\": [\n    \"strategic planning\",\n    \"team leadership\",\n    \"negotiations\",\n    \"collaboration\",\n    \"risk management\",\n    \"results-oriented\",\n    \"cross-cultural communication\"\n  ],\n  \"key_responsibilities\": [\n    \"Develop sales strategies and budgets for North American region\",\n    \"Build and enhance North American sales team capabilities\",\n    \"Lead development of key accounts in North America\",\n    \"Spearhead negotiations and contract signings for major projects\",\n    \"Collaborate with R&D, Product, and Supply Chain departments\",\n    \"Monitor market policies and technology trends\",\n    \"Produce analytical reports and lead business events\"\n  ]\n}",
+  "parsed": {
+    "doc_id": "JD-046",
+    "doc_type": "jd",
+    "job_title": "North America Sales Director",
+    "role_family": "Sales & BD",
+    "seniority": "director",
+    "location": null,
+    "remote": "yes",
+    "min_years_experience": 5,
+    "must_have_keywords": [
+      "B2B international sales",
+      "sales management",
+      "North American region",
+      "strategic planning",
+      "team leadership",
+      "high-level negotiations",
+      "cross-departmental collaboration",
+      "risk management"
+    ],
+    "nice_to_have_keywords": [
+      "vision solutions",
+      "AIoT",
+      "smart hardware",
+      "large-scale project contracts",
+      "performance pressure",
+      "cross-cultural communication"
+    ],
+    "tools_technologies": [],
+    "domain_knowledge": [
+      "industrial",
+      "consumer electronics",
+      "security",
+      "automotive",
+      "vision solutions",
+      "AIoT",
+      "smart hardware"
+    ],
+    "education_requirements": [],
+    "certifications": [],
+    "languages": [
+      "English"
+    ],
+    "soft_skills": [
+      "strategic planning",
+      "team leadership",
+      "negotiations",
+      "collaboration",
+      "risk management",
+      "results-oriented",
+      "cross-cultural communication"
+    ],
+    "key_responsibilities": [
+      "Develop sales strategies and budgets for North American region",
+      "Build and enhance North American sales team capabilities",
+      "Lead development of key accounts in North America",
+      "Spearhead negotiations and contract signings for major projects",
+      "Collaborate with R&D, Product, and Supply Chain departments",
+      "Monitor market policies and technology trends",
+      "Produce analytical reports and lead business events"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "English proficiency",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "camera industry",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "key client relationships",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "doc_id": "JD-045",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "6dd96c216edc6ddde420080b60074a93acb92a6ec262ecef5e4f36b9361ba631",
+  "timestamp": "2026-11-12T03:49:30.062646+00:00",
+  "elapsed_sec": 11.42,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-045\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Enterprise Account Manager\",\n  \"role_family\": \"Sales & BD\",\n  \"seniority\": \"senior\",\n  \"location\": \"Taipei, Taiwan\",\n  \"remote\": \"yes\",\n  \"min_years_experience\": 8,\n  \"must_have_keywords\": [\"enterprise sales\", \"B2B sales\", \"account planning\", \"revenue management\", \"negotiation\", \"CRM\", \"C-level relationships\"],\n  \"nice_to_have_keywords\": [\"F500 accounts\", \"MBA\", \"10-12 years experience\"],\n  \"tools_technologies\": [\"CRM\"],\n  \"domain_knowledge\": [\"enterprise sales\", \"B2B sales\"],\n  \"education_requirements\": [\"Bachelor's degree\"],\n  \"certifications\": [],\n  \"languages\": [],\n  \"soft_skills\": [\"communication\", \"presentation\", \"negotiation\", \"management\", \"decision-making\", \"stress management\"],\n  \"key_responsibilities\": [\"Strategic account planning\", \"Consultative sales\", \"Revenue management\", \"Internal collaboration\"]\n}",
+  "parsed": {
+    "doc_id": "JD-045",
+    "doc_type": "jd",
+    "job_title": "Enterprise Account Manager",
+    "role_family": "Sales & BD",
+    "seniority": "senior",
+    "location": "Taipei, Taiwan",
+    "remote": "yes",
+    "min_years_experience": 8,
+    "must_have_keywords": [
+      "B2B sales",
+      "account planning",
+      "negotiation",
+      "CRM"
+    ],
+    "nice_to_have_keywords": [
+      "MBA"
+    ],
+    "tools_technologies": [
+      "CRM"
+    ],
+    "domain_knowledge": [
+      "enterprise sales",
+      "B2B sales"
+    ],
+    "education_requirements": [
+      "Bachelor's degree"
+    ],
+    "certifications": [],
+    "languages": [],
+    "soft_skills": [
+      "communication",
+      "presentation",
+      "negotiation",
+      "management",
+      "decision-making",
+      "stress management"
+    ],
+    "key_responsibilities": [
+      "Strategic account planning",
+      "Consultative sales",
+      "Revenue management",
+      "Internal collaboration"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "enterprise sales",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "revenue management",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "C-level relationships",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "F500 accounts",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "10-12 years experience",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

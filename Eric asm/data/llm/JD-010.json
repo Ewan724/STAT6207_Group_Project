@@ -1,0 +1,76 @@
+{
+  "doc_id": "JD-010",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "30132ed130c5ab647419c565f4e8ba453cbaef425846ec8c35f4a778ef1a9b4b",
+  "timestamp": "2026-11-12T03:45:23.795414+00:00",
+  "elapsed_sec": 12.31,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-010\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Product Designer\",\n  \"role_family\": \"Design & Creative\",\n  \"seniority\": \"senior\",\n  \"location\": \"Hong Kong\",\n  \"remote\": \"yes\",\n  \"min_years_experience\": 5,\n  \"must_have_keywords\": [\n    \"UI/UX design\",\n    \"visual design\",\n    \"design system\",\n    \"Figma\",\n    \"Sketch\",\n    \"React\",\n    \"SwiftUI\"\n  ],\n  \"nice_to_have_keywords\": [\n    \"Motion design\",\n    \"3D design\",\n    \"AIGC tools\",\n    \"Midjourney\",\n    \"Stable Diffusion\"\n  ],\n  \"tools_technologies\": [\n    \"Figma\",\n    \"Framer\",\n    \"Sketch\",\n    \"React\",\n    \"SwiftUI\"\n  ],\n  \"domain_knowledge\": [\n    \"coding education\",\n    \"developer tools\"\n  ],\n  \"education_requirements\": [\n    \"Bachelor's degree\"\n  ],\n  \"certifications\": [],\n  \"languages\": [\n    \"English\",\n    \"Mandarin\"\n  ],\n  \"soft_skills\": [\n    \"leadership\",\n    \"problem-solving\",\n    \"user research\",\n    \"communication\"\n  ],\n  \"key_responsibilities\": [\n    \"Lead UI/UX and visual design\",\n    \"Shape end-to-end product experiences\",\n    \"Maintain Design System\",\n    \"Optimize experiences through user data\"\n  ]\n}",
+  "parsed": {
+    "doc_id": "JD-010",
+    "doc_type": "jd",
+    "job_title": "Product Designer",
+    "role_family": "Design & Creative",
+    "seniority": "senior",
+    "location": "Hong Kong",
+    "remote": "yes",
+    "min_years_experience": 5,
+    "must_have_keywords": [
+      "UI/UX design",
+      "visual design",
+      "design system",
+      "Figma",
+      "Sketch",
+      "React",
+      "SwiftUI"
+    ],
+    "nice_to_have_keywords": [
+      "3D design",
+      "AIGC tools",
+      "Midjourney",
+      "Stable Diffusion"
+    ],
+    "tools_technologies": [
+      "Figma",
+      "Framer",
+      "Sketch",
+      "React",
+      "SwiftUI"
+    ],
+    "domain_knowledge": [
+      "coding education",
+      "developer tools"
+    ],
+    "education_requirements": [
+      "Bachelor's degree"
+    ],
+    "certifications": [],
+    "languages": [
+      "English",
+      "Mandarin"
+    ],
+    "soft_skills": [
+      "leadership",
+      "problem-solving",
+      "user research",
+      "communication"
+    ],
+    "key_responsibilities": [
+      "Lead UI/UX and visual design",
+      "Shape end-to-end product experiences",
+      "Maintain Design System",
+      "Optimize experiences through user data"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "Motion design",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

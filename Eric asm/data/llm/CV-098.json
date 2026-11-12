@@ -1,0 +1,90 @@
+{
+  "doc_id": "CV-098",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "895e1c962dce764d165a2b0e64a2e4ee1ce7f2438ec31f59be568d03ac6e58ee",
+  "timestamp": "2026-11-12T03:40:31.040576+00:00",
+  "elapsed_sec": 26.83,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-098\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Founder & Head of Operations & Creative\",\n  \"current_company\": \"Home bakery business\",\n  \"role_family\": \"Leadership/Other\",\n  \"seniority\": \"unknown\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Data Entry\",\n    \"Data Management\",\n    \"Record Keeping\",\n    \"Order Processing\",\n    \"Documentation\",\n    \"Quality Checks\",\n    \"Operations\",\n    \"Coordination\",\n    \"Workflow Management\",\n    \"SOP Development\",\n    \"Inventory Management\",\n    \"Independent Work\",\n    \"Excel\",\n    \"Google Sheets\",\n    \"Canva\",\n    \"Meta Business Suite\",\n    \"OpenAI\"\n  ],\n  \"tools_technologies\": [\n    \"Shopify\",\n    \"WooCommerce\",\n    \"Bukku\",\n    \"AI-assisted workflows\"\n  ],\n  \"domains\": [\n    \"e-commerce\",\n    \"fintech\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Northwood University Program\",\n      \"field\": \"Business Marketing & Management\",\n      \"institution\": \"INTI INTERNATIONAL COLLEGE SUBANG\",\n      \"year\": 2019\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Malaysia\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Founder & Head of Operations & Creative\",\n      \"company\": \"Home bakery business\",\n      \"start\": \"2024-01\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Marketing Executive\",\n      \"company\": \"GoodMorning Global\",\n      \"start\": \"2020-03\",\n      \"end\": \"2021-06\"\n    },\n    {\n      \"title\": \"Founder & Operations Lead\",\n      \"company\": \"Home bakery business\",\n      \"start\": \"2020-01\",\n      \"end\": \"2024-01\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-098",
+    "doc_type": "cv",
+    "current_title": "Founder & Head of Operations & Creative",
+    "current_company": "Home bakery business",
+    "role_family": "Leadership/Other",
+    "seniority": "unknown",
+    "total_years_experience": null,
+    "skills": [
+      "Data Entry",
+      "Data Management",
+      "Record Keeping",
+      "Order Processing",
+      "Documentation",
+      "Quality Checks",
+      "Operations",
+      "Coordination",
+      "Workflow Management",
+      "SOP Development",
+      "Inventory Management",
+      "Independent Work",
+      "Excel",
+      "Google Sheets",
+      "Canva",
+      "Meta Business Suite",
+      "OpenAI"
+    ],
+    "tools_technologies": [
+      "Shopify",
+      "WooCommerce",
+      "Bukku",
+      "AI-assisted workflows"
+    ],
+    "domains": [
+      "e-commerce",
+      "fintech"
+    ],
+    "education": [
+      {
+        "degree": "Northwood University Program",
+        "field": "Business Marketing & Management",
+        "institution": "INTI INTERNATIONAL COLLEGE SUBANG",
+        "year": 2019
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Malaysia"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring"
+    ],
+    "work_history": [
+      {
+        "title": "Founder & Head of Operations & Creative",
+        "company": "Home bakery business",
+        "start": "2024-01",
+        "end": "Present"
+      },
+      {
+        "title": "Marketing Executive",
+        "company": "GoodMorning Global",
+        "start": "2020-03",
+        "end": "2021-06"
+      },
+      {
+        "title": "Founder & Operations Lead",
+        "company": "Home bakery business",
+        "start": "2020-01",
+        "end": "2024-01"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

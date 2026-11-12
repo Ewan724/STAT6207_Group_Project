@@ -1,0 +1,62 @@
+{
+  "doc_id": "JD-020",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "a69e1ede3a0d6cccd684163ad63b6e60012d33edcf25caaab443e523ef20ddee",
+  "timestamp": "2026-11-12T03:46:40.052948+00:00",
+  "elapsed_sec": 18.08,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-020\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Rust Engineer\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"mid\",\n  \"location\": \"Ho Chi Minh, Vietnam\",\n  \"remote\": \"yes\",\n  \"min_years_experience\": 3,\n  \"must_have_keywords\": [\"Rust\", \"systems programming\", \"async programming\", \"blockchain concepts\", \"cryptographic methods\"],\n  \"nice_to_have_keywords\": [\"Web3\", \"OAuth\", \"OpenID\", \"DID\", \"Verifiable Credentials\", \"smart contracts\", \"DeFi\"],\n  \"tools_technologies\": [\"Rust\"],\n  \"domain_knowledge\": [\"blockchain\", \"identity systems\"],\n  \"education_requirements\": null,\n  \"certifications\": [],\n  \"languages\": [],\n  \"soft_skills\": [\"ownership\", \"collaboration\", \"decision-making\"],\n  \"key_responsibilities\": [\"Develop core components\", \"Implement cryptographic protocols\", \"Design consensus logic\", \"Build APIs\"]\n}",
+  "parsed": {
+    "doc_id": "JD-020",
+    "doc_type": "jd",
+    "job_title": "Rust Engineer",
+    "role_family": "Engineering",
+    "seniority": "mid",
+    "location": "Ho Chi Minh, Vietnam",
+    "remote": "yes",
+    "min_years_experience": 3,
+    "must_have_keywords": [
+      "Rust",
+      "systems programming",
+      "async programming",
+      "blockchain concepts",
+      "cryptographic methods"
+    ],
+    "nice_to_have_keywords": [
+      "Web3",
+      "OAuth",
+      "OpenID",
+      "DID",
+      "Verifiable Credentials",
+      "smart contracts",
+      "DeFi"
+    ],
+    "tools_technologies": [
+      "Rust"
+    ],
+    "domain_knowledge": [
+      "blockchain",
+      "identity systems"
+    ],
+    "education_requirements": [],
+    "certifications": [],
+    "languages": [],
+    "soft_skills": [
+      "ownership",
+      "collaboration",
+      "decision-making"
+    ],
+    "key_responsibilities": [
+      "Develop core components",
+      "Implement cryptographic protocols",
+      "Design consensus logic",
+      "Build APIs"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

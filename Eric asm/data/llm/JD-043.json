@@ -1,0 +1,95 @@
+{
+  "doc_id": "JD-043",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "e9e2c5f8218b22cf966dff6281a7df3808f57e3b6f8bfd396890c864e754e6cd",
+  "timestamp": "2026-11-12T03:49:18.635603+00:00",
+  "elapsed_sec": 15.7,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-043\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Account Manager (Malaysia)\",\n  \"role_family\": \"Sales & BD\",\n  \"seniority\": \"mid\",\n  \"location\": \"Kuala Lumpur, Malaysia\",\n  \"remote\": \"yes\",\n  \"min_years_experience\": 3,\n  \"must_have_keywords\": [\n    \"sales\",\n    \"business development\",\n    \"account management\",\n    \"client engagement\",\n    \"cloud platforms\",\n    \"cybersecurity\",\n    \"application modernization\",\n    \"negotiation\",\n    \"stakeholder management\",\n    \"B2B sales\"\n  ],\n  \"nice_to_have_keywords\": [\n    \"hunter mentality\",\n    \"regulatory frameworks\",\n    \"strategic alliances\",\n    \"channel management\",\n    \"vendor relationships\",\n    \"enterprise sales\"\n  ],\n  \"tools_technologies\": [\n    \"Excel\",\n    \"PowerPoint\",\n    \"Teams\",\n    \"AWS\",\n    \"Azure\",\n    \"GCP\"\n  ],\n  \"domain_knowledge\": [\n    \"IT systems integration\",\n    \"Cloud\",\n    \"Cybersecurity\",\n    \"Application Modernization\",\n    \"Malaysia IT regulations\"\n  ],\n  \"education_requirements\": [\n    \"Diploma or Degree in Information Technology, Engineering, Business, or related field\"\n  ],\n  \"certifications\": [],\n  \"languages\": [\n    \"English\"\n  ],\n  \"soft_skills\": [\n    \"communication\",\n    \"presentation\",\n    \"negotiation\",\n    \"stakeholder management\",\n    \"self-driven\",\n    \"resilience\",\n    \"collaboration\"\n  ],\n  \"key_responsibilities\": [\n    \"Proactively drive new business\",\n    \"Manage the entire sales cycle\",\n    \"Develop and execute strategic account plans\",\n    \"Present and position solutions portfolio\",\n    \"Serve as primary point of contact for clients\",\n    \"Build and nurture relationships with key stakeholders\",\n    \"Manage client engagement and contract renewals\",\n    \"Collaborate with Solution Architects\",\n    \"Lead complex tender responses\",\n    \"Coordinate customer onboarding\"\n  ]\n}",
+  "parsed": {
+    "doc_id": "JD-043",
+    "doc_type": "jd",
+    "job_title": "Account Manager (Malaysia)",
+    "role_family": "Sales & BD",
+    "seniority": "mid",
+    "location": "Kuala Lumpur, Malaysia",
+    "remote": "yes",
+    "min_years_experience": 3,
+    "must_have_keywords": [
+      "sales",
+      "business development",
+      "account management",
+      "client engagement",
+      "cloud platforms",
+      "cybersecurity",
+      "application modernization",
+      "negotiation",
+      "stakeholder management",
+      "B2B sales"
+    ],
+    "nice_to_have_keywords": [
+      "regulatory frameworks",
+      "strategic alliances",
+      "vendor relationships",
+      "enterprise sales"
+    ],
+    "tools_technologies": [
+      "Excel",
+      "PowerPoint",
+      "Teams",
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "domain_knowledge": [
+      "IT systems integration",
+      "Cloud",
+      "Cybersecurity",
+      "Application Modernization",
+      "Malaysia IT regulations"
+    ],
+    "education_requirements": [
+      "Diploma or Degree in Information Technology, Engineering, Business, or related field"
+    ],
+    "certifications": [],
+    "languages": [
+      "English"
+    ],
+    "soft_skills": [
+      "communication",
+      "presentation",
+      "negotiation",
+      "stakeholder management",
+      "self-driven",
+      "resilience",
+      "collaboration"
+    ],
+    "key_responsibilities": [
+      "Proactively drive new business",
+      "Manage the entire sales cycle",
+      "Develop and execute strategic account plans",
+      "Present and position solutions portfolio",
+      "Serve as primary point of contact for clients",
+      "Build and nurture relationships with key stakeholders",
+      "Manage client engagement and contract renewals",
+      "Collaborate with Solution Architects",
+      "Lead complex tender responses",
+      "Coordinate customer onboarding"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "hunter mentality",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "channel management",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

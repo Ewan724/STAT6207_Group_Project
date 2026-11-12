@@ -1,0 +1,78 @@
+{
+  "doc_id": "CV-100",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "a7326a629aeb1ef120a62c128dc3f64f3d74512ab1e69a94f8ad85ddac6d89a5",
+  "timestamp": "2026-11-12T03:40:54.518796+00:00",
+  "elapsed_sec": 23.48,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-100\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Founder\",\n  \"current_company\": \"Own AI startup\",\n  \"role_family\": \"Leadership/Other\",\n  \"seniority\": \"unknown\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Multi-model orchestration\",\n    \"LLM evaluation\",\n    \"anti-fabrication checks\",\n    \"web-search-grounded generation\",\n    \"structured extraction\",\n    \"Claude Code\",\n    \"Python\",\n    \"TypeScript\",\n    \"Node.js\",\n    \"Next.JS\",\n    \"SQL\",\n    \"web scraping\",\n    \"React Native\",\n    \"Vercel\",\n    \"Cloudflare DNS\",\n    \"SPF/DKIM/DMARC\",\n    \"Git\",\n    \"Github\",\n    \"B2B sales and outreach\",\n    \"market and competitive research\",\n    \"Pricing\",\n    \"Client Communication\"\n  ],\n  \"tools_technologies\": [],\n  \"domains\": [\n    \"AI\",\n    \"e-commerce\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"High School Diploma\",\n      \"field\": null,\n      \"institution\": \"US high school\",\n      \"year\": 2024\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"United States\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Founder\",\n      \"company\": \"Own AI startup\",\n      \"start\": \"2026-01\",\n      \"end\": \"Present\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-100",
+    "doc_type": "cv",
+    "current_title": "Founder",
+    "current_company": "Own AI startup",
+    "role_family": "Leadership/Other",
+    "seniority": "unknown",
+    "total_years_experience": null,
+    "skills": [
+      "Multi-model orchestration",
+      "LLM evaluation",
+      "anti-fabrication checks",
+      "web-search-grounded generation",
+      "structured extraction",
+      "Claude Code",
+      "Python",
+      "TypeScript",
+      "Node.js",
+      "Next.JS",
+      "SQL",
+      "web scraping",
+      "React Native",
+      "Vercel",
+      "Cloudflare DNS",
+      "SPF/DKIM/DMARC",
+      "Git",
+      "Github",
+      "B2B sales and outreach",
+      "market and competitive research",
+      "Pricing",
+      "Client Communication"
+    ],
+    "tools_technologies": [],
+    "domains": [
+      "AI",
+      "e-commerce"
+    ],
+    "education": [
+      {
+        "degree": "High School Diploma",
+        "field": null,
+        "institution": "US high school",
+        "year": 2024
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "United States"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring"
+    ],
+    "work_history": [
+      {
+        "title": "Founder",
+        "company": "Own AI startup",
+        "start": "2026-01",
+        "end": "Present"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

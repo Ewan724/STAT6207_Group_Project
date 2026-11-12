@@ -1,0 +1,72 @@
+{
+  "doc_id": "JD-024",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "9318e1e098dafb0c1a708856d0071313e93c80efeb2d7909d6647d3ec4b635c3",
+  "timestamp": "2026-11-12T03:47:04.798080+00:00",
+  "elapsed_sec": 9.96,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-024\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Senior Mechanical Engineer\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"senior\",\n  \"location\": \"Kuala Lumpur, Malaysia\",\n  \"remote\": \"unknown\",\n  \"min_years_experience\": 5,\n  \"must_have_keywords\": [\"mechanical design\", \"SolidWorks\", \"AutoCAD\", \"FA reports\", \"project engineering\"],\n  \"nice_to_have_keywords\": [\"non-standard projects\", \"A-grade projects\", \"dispensing systems\", \"3C automation\", \"linkage mechanisms\", \"tolerance analysis\", \"overseas posting experience\", \"fluent in Chinese/English\"],\n  \"tools_technologies\": [\"SolidWorks\", \"AutoCAD\"],\n  \"domain_knowledge\": [\"mechanical design\", \"FA reports\", \"project engineering\"],\n  \"education_requirements\": null,\n  \"certifications\": [],\n  \"languages\": [\"Chinese\", \"English\"],\n  \"soft_skills\": [\"communication skills\", \"creative thinking\", \"proactive attitude\", \"execution\", \"accountability\", \"resilience\"],\n  \"key_responsibilities\": [\"Design technical solutions\", \"Complete detailed project designs\", \"Oversee project timelines\", \"Resolve anomalies\", \"Establish design standards\"]\n}",
+  "parsed": {
+    "doc_id": "JD-024",
+    "doc_type": "jd",
+    "job_title": "Senior Mechanical Engineer",
+    "role_family": "Engineering",
+    "seniority": "senior",
+    "location": "Kuala Lumpur, Malaysia",
+    "remote": "unknown",
+    "min_years_experience": 5,
+    "must_have_keywords": [
+      "mechanical design",
+      "SolidWorks",
+      "AutoCAD",
+      "FA reports",
+      "project engineering"
+    ],
+    "nice_to_have_keywords": [
+      "non-standard projects",
+      "A-grade projects",
+      "dispensing systems",
+      "3C automation",
+      "linkage mechanisms",
+      "tolerance analysis",
+      "overseas posting experience",
+      "fluent in Chinese/English"
+    ],
+    "tools_technologies": [
+      "SolidWorks",
+      "AutoCAD"
+    ],
+    "domain_knowledge": [
+      "mechanical design",
+      "FA reports",
+      "project engineering"
+    ],
+    "education_requirements": [],
+    "certifications": [],
+    "languages": [
+      "Chinese",
+      "English"
+    ],
+    "soft_skills": [
+      "communication skills",
+      "creative thinking",
+      "proactive attitude",
+      "execution",
+      "accountability",
+      "resilience"
+    ],
+    "key_responsibilities": [
+      "Design technical solutions",
+      "Complete detailed project designs",
+      "Oversee project timelines",
+      "Resolve anomalies",
+      "Establish design standards"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

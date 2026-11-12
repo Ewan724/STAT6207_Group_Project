@@ -1,0 +1,72 @@
+{
+  "doc_id": "JD-028",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "febe80150211644bebbfe61e84f064ac1b21447d325f2c8dbc096c2571eeafeb",
+  "timestamp": "2026-11-12T03:47:36.974183+00:00",
+  "elapsed_sec": 17.61,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-028\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Technical Lead\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"lead\",\n  \"location\": \"Shah Alam, Malaysia\",\n  \"remote\": \"no\",\n  \"min_years_experience\": 5,\n  \"must_have_keywords\": [\n    \"React\",\n    \"Golang\",\n    \"JavaScript\",\n    \"AWS\",\n    \"PostgreSQL\",\n    \"CI/CD\"\n  ],\n  \"nice_to_have_keywords\": [\n    \"Property Industry\",\n    \"CRM\",\n    \"Accounting\",\n    \"UML\"\n  ],\n  \"tools_technologies\": [\n    \"React\",\n    \"Golang\",\n    \"JavaScript\",\n    \"AWS\",\n    \"PostgreSQL\",\n    \"CI/CD\"\n  ],\n  \"domain_knowledge\": [\n    \"Property Industry\",\n    \"CRM\",\n    \"Accounting\"\n  ],\n  \"education_requirements\": [\n    \"Degree in Computer Sciences, Software Engineering, or Information Technology\"\n  ],\n  \"certifications\": [],\n  \"languages\": [\n    \"English\"\n  ],\n  \"soft_skills\": [\n    \"leadership\",\n    \"communication\",\n    \"analytical\",\n    \"troubleshooting\",\n    \"consultative\",\n    \"time management\"\n  ],\n  \"key_responsibilities\": [\n    \"Technical Leadership & Architecture\",\n    \"Project & Risk Management\",\n    \"Stakeholder & Team Collaboration\"\n  ]\n}",
+  "parsed": {
+    "doc_id": "JD-028",
+    "doc_type": "jd",
+    "job_title": "Technical Lead",
+    "role_family": "Engineering",
+    "seniority": "lead",
+    "location": "Shah Alam, Malaysia",
+    "remote": "no",
+    "min_years_experience": 5,
+    "must_have_keywords": [
+      "React",
+      "Golang",
+      "JavaScript",
+      "AWS",
+      "PostgreSQL",
+      "CI/CD"
+    ],
+    "nice_to_have_keywords": [
+      "Property Industry",
+      "CRM",
+      "Accounting",
+      "UML"
+    ],
+    "tools_technologies": [
+      "React",
+      "Golang",
+      "JavaScript",
+      "AWS",
+      "PostgreSQL",
+      "CI/CD"
+    ],
+    "domain_knowledge": [
+      "Property Industry",
+      "CRM",
+      "Accounting"
+    ],
+    "education_requirements": [
+      "Degree in Computer Sciences, Software Engineering, or Information Technology"
+    ],
+    "certifications": [],
+    "languages": [
+      "English"
+    ],
+    "soft_skills": [
+      "leadership",
+      "communication",
+      "analytical",
+      "troubleshooting",
+      "consultative",
+      "time management"
+    ],
+    "key_responsibilities": [
+      "Technical Leadership & Architecture",
+      "Project & Risk Management",
+      "Stakeholder & Team Collaboration"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

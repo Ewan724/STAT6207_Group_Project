@@ -1,0 +1,121 @@
+{
+  "doc_id": "CV-091",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "d921e750c6cc42c4d752bab2ec34ebb0e6cdc0964abc0912a6de14415d4c4add",
+  "timestamp": "2026-11-12T03:38:54.991574+00:00",
+  "elapsed_sec": 27.85,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-091\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Operations Manager\",\n  \"current_company\": \"Family Business\",\n  \"role_family\": \"Operations & HR\",\n  \"seniority\": \"mid\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Sales & Operation Management\",\n    \"Retail Sales\",\n    \"Operations\",\n    \"Key Account Management\",\n    \"Team Productivity\",\n    \"Multi-unit retail environments\",\n    \"Inventory Management\",\n    \"Stock Replenishment\",\n    \"Product Availability\",\n    \"Data Analysis\",\n    \"Marketing\",\n    \"Merchandising\",\n    \"Customer Service\",\n    \"Staff Performance Appraisals\",\n    \"Career Progression Planning\",\n    \"Compensation\",\n    \"Strategic Initiatives\",\n    \"New Store Expansions\",\n    \"Grand Openings\",\n    \"Specialized Projects\"\n  ],\n  \"tools_technologies\": [],\n  \"domains\": [\n    \"retail\",\n    \"sales\",\n    \"operations\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Associate's Degree\",\n      \"field\": \"Retail Management\",\n      \"institution\": \"Berjaya University College\",\n      \"year\": null\n    },\n    {\n      \"degree\": \"Secondary School Certificate\",\n      \"field\": \"Unknown\",\n      \"institution\": \"SMK Seri Mutiara\",\n      \"year\": null\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Malaysia\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\",\n    \"customer service\",\n    \"strategic planning\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Operations Manager\",\n      \"company\": \"Family Business\",\n      \"start\": \"2023-07\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Operations Manager\",\n      \"company\": \"TDST Sdn Bhd (Objet Home)\",\n      \"start\": \"2023-01\",\n      \"end\": \"2023-06\"\n    },\n    {\n      \"title\": \"Division Manager\",\n      \"company\": \"MR. D.I.Y Trading Sdn Bhd\",\n      \"start\": \"2020-08\",\n      \"end\": \"2022-05\"\n    },\n    {\n      \"title\": \"Branch Manager\",\n      \"company\": \"MR. D.I.Y Trading Sdn Bhd\",\n      \"start\": \"2019-04\",\n      \"end\": \"2020-08\"\n    },\n    {\n      \"title\": \"Assistant Branch Manager\",\n      \"company\": \"MR. D.I.Y Trading Sdn Bhd\",\n      \"start\": \"2018-02\",\n      \"end\": \"2019-03\"\n    },\n    {\n      \"title\": \"Sales Operation Manager\",\n      \"company\": \"Pioneer Interest Sdn Bhd\",\n      \"start\": \"2017-03\",\n      \"end\": \"2017-11\"\n    },\n    {\n      \"title\": \"Key Account Executive\",\n      \"company\": \"Pioneer Interest Sdn Bhd\",\n      \"start\": \"2016-08\",\n      \"end\": \"2017-02\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-091",
+    "doc_type": "cv",
+    "current_title": "Operations Manager",
+    "current_company": "Family Business",
+    "role_family": "Operations & HR",
+    "seniority": "mid",
+    "total_years_experience": null,
+    "skills": [
+      "Sales & Operation Management",
+      "Retail Sales",
+      "Operations",
+      "Key Account Management",
+      "Team Productivity",
+      "Multi-unit retail environments",
+      "Inventory Management",
+      "Stock Replenishment",
+      "Product Availability",
+      "Data Analysis",
+      "Marketing",
+      "Merchandising",
+      "Customer Service",
+      "Staff Performance Appraisals",
+      "Career Progression Planning",
+      "Compensation",
+      "Strategic Initiatives",
+      "New Store Expansions",
+      "Grand Openings",
+      "Specialized Projects"
+    ],
+    "tools_technologies": [],
+    "domains": [
+      "retail",
+      "sales",
+      "operations"
+    ],
+    "education": [
+      {
+        "degree": "Associate's Degree",
+        "field": "Retail Management",
+        "institution": "Berjaya University College",
+        "year": null
+      },
+      {
+        "degree": "Secondary School Certificate",
+        "field": "Unknown",
+        "institution": "SMK Seri Mutiara",
+        "year": null
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Malaysia"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring",
+      "customer service",
+      "strategic planning"
+    ],
+    "work_history": [
+      {
+        "title": "Operations Manager",
+        "company": "Family Business",
+        "start": "2023-07",
+        "end": "Present"
+      },
+      {
+        "title": "Operations Manager",
+        "company": "TDST Sdn Bhd (Objet Home)",
+        "start": "2023-01",
+        "end": "2023-06"
+      },
+      {
+        "title": "Division Manager",
+        "company": "MR. D.I.Y Trading Sdn Bhd",
+        "start": "2020-08",
+        "end": "2022-05"
+      },
+      {
+        "title": "Branch Manager",
+        "company": "MR. D.I.Y Trading Sdn Bhd",
+        "start": "2019-04",
+        "end": "2020-08"
+      },
+      {
+        "title": "Assistant Branch Manager",
+        "company": "MR. D.I.Y Trading Sdn Bhd",
+        "start": "2018-02",
+        "end": "2019-03"
+      },
+      {
+        "title": "Sales Operation Manager",
+        "company": "Pioneer Interest Sdn Bhd",
+        "start": "2017-03",
+        "end": "2017-11"
+      },
+      {
+        "title": "Key Account Executive",
+        "company": "Pioneer Interest Sdn Bhd",
+        "start": "2016-08",
+        "end": "2017-02"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

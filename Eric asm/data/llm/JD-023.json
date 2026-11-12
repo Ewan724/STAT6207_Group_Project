@@ -1,0 +1,76 @@
+{
+  "doc_id": "JD-023",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "5392de6579c937c20a5ead2724aee8dd9ad9d6c606baec8b8d861185b116f9b6",
+  "timestamp": "2026-11-12T03:46:59.271019+00:00",
+  "elapsed_sec": 10.19,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\"doc_id\":\"JD-023\",\"doc_type\":\"jd\",\"job_title\":\"Senior Java Developer\",\"role_family\":\"Engineering\",\"seniority\":\"senior\",\"location\":\"Dubai, United Arab Emirates\",\"remote\":\"unknown\",\"min_years_experience\":5,\"must_have_keywords\":[\"Java\",\"Python\",\"software architecture\",\"design patterns\",\"CI/CD pipelines\",\"AWS\",\"Azure\",\"GCP\",\"Agile environments\"],\"nice_to_have_keywords\":[\"Cloud certifications\",\"startup culture\",\"client-facing roles\",\"low-latency systems\",\"high-performance code optimization\"],\"tools_technologies\":[\"Java\",\"Python\",\"AWS\",\"Azure\",\"GCP\",\"CI/CD pipelines\",\"DevOps tools\"],\"domain_knowledge\":[\"software development\",\"cloud infrastructure\"],\"education_requirements\":\"Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field\",\"certifications\":[],\"languages\":[],\"soft_skills\":[\"leadership\",\"communication\",\"problem-solving\"],\"key_responsibilities\":[\"Technical leadership\",\"Software development\",\"Project management\",\"Cloud architecture\",\"Continuous improvement\",\"Documentation and communication\"]}",
+  "parsed": {
+    "doc_id": "JD-023",
+    "doc_type": "jd",
+    "job_title": "Senior Java Developer",
+    "role_family": "Engineering",
+    "seniority": "senior",
+    "location": "Dubai, United Arab Emirates",
+    "remote": "unknown",
+    "min_years_experience": 5,
+    "must_have_keywords": [
+      "Java",
+      "Python",
+      "software architecture",
+      "design patterns",
+      "CI/CD pipelines",
+      "AWS",
+      "Azure",
+      "GCP",
+      "Agile environments"
+    ],
+    "nice_to_have_keywords": [
+      "Cloud certifications",
+      "startup culture",
+      "client-facing roles",
+      "low-latency systems",
+      "high-performance code optimization"
+    ],
+    "tools_technologies": [
+      "Java",
+      "Python",
+      "AWS",
+      "Azure",
+      "GCP",
+      "CI/CD pipelines",
+      "DevOps tools"
+    ],
+    "domain_knowledge": [
+      "software development",
+      "cloud infrastructure"
+    ],
+    "education_requirements": [
+      "Bachelor's or Master's degree in Computer Science",
+      "Software Engineering",
+      "or a related field"
+    ],
+    "certifications": [],
+    "languages": [],
+    "soft_skills": [
+      "leadership",
+      "communication",
+      "problem-solving"
+    ],
+    "key_responsibilities": [
+      "Technical leadership",
+      "Software development",
+      "Project management",
+      "Cloud architecture",
+      "Continuous improvement",
+      "Documentation and communication"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

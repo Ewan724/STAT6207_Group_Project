@@ -1,0 +1,73 @@
+{
+  "doc_id": "JD-049",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "51817608bbc89dd6a72f4ef7b43275653ddd91d4a0e8a3985d63b7732ad55a88",
+  "timestamp": "2026-11-12T03:49:55.710880+00:00",
+  "elapsed_sec": 13.56,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-049\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Sales Representative (Immunology)\",\n  \"role_family\": \"Sales & BD\",\n  \"seniority\": \"junior\",\n  \"location\": \"Puerto Rico de Gran Canaria, Spain\",\n  \"remote\": \"unknown\",\n  \"min_years_experience\": 1,\n  \"must_have_keywords\": [\n    \"pharmaceutical sales\",\n    \"specialty care\",\n    \"sales targets\",\n    \"territory action plans\",\n    \"product strategies\",\n    \"healthcare professionals\",\n    \"sales forecasts\",\n    \"market insights\",\n    \"scientific meetings\",\n    \"conferences\",\n    \"exhibitions\",\n    \"customer engagements\",\n    \"compliance\"\n  ],\n  \"nice_to_have_keywords\": [\n    \"dermatology\",\n    \"rheumatology\"\n  ],\n  \"tools_technologies\": [],\n  \"domain_knowledge\": [\n    \"pharmaceuticals\",\n    \"immunology\"\n  ],\n  \"education_requirements\": [\n    \"Bachelor's degree in Science, Pharmacy, or a related medical field\"\n  ],\n  \"certifications\": [],\n  \"languages\": [\n    \"English\"\n  ],\n  \"soft_skills\": [\n    \"self-starter\",\n    \"interpersonal skills\",\n    \"presentation skills\",\n    \"priority management\"\n  ],\n  \"key_responsibilities\": [\n    \"Achieve sales targets by executing territory action plans and product strategies\",\n    \"Build and maintain strong relationships with key customers and healthcare professionals\",\n    \"Provide monthly sales updates and support the development of sales forecasts and territory plans\",\n    \"Identify and grow new business opportunities while nurturing existing accounts\",\n    \"Monitor competitor activities and share relevant market insights with sales and marketing teams\",\n    \"Participate in scientific meetings, conferences, and exhibitions to support brand visibility\",\n    \"Conduct product presentations and customer engagements with professionalism and compliance\",\n    \"Maintain accurate territory records, customer interactions, and activity reports\",\n    \"Collaborate closely with internal stakeholders for continuous feedback and improvement\"\n  ]\n}",
+  "parsed": {
+    "doc_id": "JD-049",
+    "doc_type": "jd",
+    "job_title": "Sales Representative (Immunology)",
+    "role_family": "Sales & BD",
+    "seniority": "junior",
+    "location": "Puerto Rico de Gran Canaria, Spain",
+    "remote": "unknown",
+    "min_years_experience": 1,
+    "must_have_keywords": [
+      "pharmaceutical sales",
+      "specialty care",
+      "sales targets",
+      "territory action plans",
+      "product strategies",
+      "healthcare professionals",
+      "sales forecasts",
+      "market insights",
+      "scientific meetings",
+      "conferences",
+      "exhibitions",
+      "customer engagements",
+      "compliance"
+    ],
+    "nice_to_have_keywords": [
+      "dermatology",
+      "rheumatology"
+    ],
+    "tools_technologies": [],
+    "domain_knowledge": [
+      "pharmaceuticals",
+      "immunology"
+    ],
+    "education_requirements": [
+      "Bachelor's degree in Science, Pharmacy, or a related medical field"
+    ],
+    "certifications": [],
+    "languages": [
+      "English"
+    ],
+    "soft_skills": [
+      "self-starter",
+      "interpersonal skills",
+      "presentation skills",
+      "priority management"
+    ],
+    "key_responsibilities": [
+      "Achieve sales targets by executing territory action plans and product strategies",
+      "Build and maintain strong relationships with key customers and healthcare professionals",
+      "Provide monthly sales updates and support the development of sales forecasts and territory plans",
+      "Identify and grow new business opportunities while nurturing existing accounts",
+      "Monitor competitor activities and share relevant market insights with sales and marketing teams",
+      "Participate in scientific meetings, conferences, and exhibitions to support brand visibility",
+      "Conduct product presentations and customer engagements with professionalism and compliance",
+      "Maintain accurate territory records, customer interactions, and activity reports",
+      "Collaborate closely with internal stakeholders for continuous feedback and improvement"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

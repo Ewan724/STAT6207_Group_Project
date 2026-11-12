@@ -1,0 +1,113 @@
+{
+  "doc_id": "CV-099",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "b979887b691b89c750f9e16d7b81c680bc072610368867f4eb59425e23b0a167",
+  "timestamp": "2026-11-12T03:40:45.721779+00:00",
+  "elapsed_sec": 24.33,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-099\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Vice President, Consulting\",\n  \"current_company\": \"2X\",\n  \"role_family\": \"Leadership/Other\",\n  \"seniority\": \"executive\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Business Strategy\",\n    \"Operations Management\",\n    \"B2B Marketing\",\n    \"Strategic Consulting\",\n    \"AI Transformation\"\n  ],\n  \"tools_technologies\": [],\n  \"domains\": [\n    \"e-commerce\",\n    \"fintech\",\n    \"logistics\",\n    \"telecommunications\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor of Engineering\",\n      \"field\": \"Engineering\",\n      \"institution\": \"Monash University\",\n      \"year\": 2010\n    },\n    {\n      \"degree\": \"High School diploma\",\n      \"field\": \"Unknown\",\n      \"institution\": \"St Anthony Teluk Intan\",\n      \"year\": 2006\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Malaysia\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\",\n    \"strategic planning\",\n    \"cross-functional collaboration\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Vice President, Consulting\",\n      \"company\": \"2X\",\n      \"start\": \"2024-04\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Vice President, Services\",\n      \"company\": \"2X\",\n      \"start\": \"2021-10\",\n      \"end\": \"2024-04\"\n    },\n    {\n      \"title\": \"Client Success Director / ABM Lead\",\n      \"company\": \"2X\",\n      \"start\": \"2018-09\",\n      \"end\": \"2021-09\"\n    },\n    {\n      \"title\": \"Commercial Lead - eCommerce\",\n      \"company\": \"FM Global Logistics\",\n      \"start\": \"2017-11\",\n      \"end\": \"2018-08\"\n    },\n    {\n      \"title\": \"Head Of Business Operations\",\n      \"company\": \"Hubwire\",\n      \"start\": \"2013-07\",\n      \"end\": \"2017-10\"\n    },\n    {\n      \"title\": \"Senior Marketing Executive\",\n      \"company\": \"Maxis Communications Bhd\",\n      \"start\": \"2012-08\",\n      \"end\": \"2013-07\"\n    },\n    {\n      \"title\": \"Management Associate\",\n      \"company\": \"Maxis Communications Bhd\",\n      \"start\": \"2010-04\",\n      \"end\": \"2012-07\"\n    },\n    {\n      \"title\": \"Sessional tutor\",\n      \"company\": \"Monash University\",\n      \"start\": \"2009-01\",\n      \"end\": \"2009-11\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-099",
+    "doc_type": "cv",
+    "current_title": "Vice President, Consulting",
+    "current_company": "2X",
+    "role_family": "Leadership/Other",
+    "seniority": "executive",
+    "total_years_experience": null,
+    "skills": [
+      "Business Strategy",
+      "Operations Management",
+      "B2B Marketing",
+      "Strategic Consulting",
+      "AI Transformation"
+    ],
+    "tools_technologies": [],
+    "domains": [
+      "e-commerce",
+      "fintech",
+      "logistics",
+      "telecommunications"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Engineering",
+        "field": "Engineering",
+        "institution": "Monash University",
+        "year": 2010
+      },
+      {
+        "degree": "High School diploma",
+        "field": "Unknown",
+        "institution": "St Anthony Teluk Intan",
+        "year": 2006
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Malaysia"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring",
+      "strategic planning",
+      "cross-functional collaboration"
+    ],
+    "work_history": [
+      {
+        "title": "Vice President, Consulting",
+        "company": "2X",
+        "start": "2024-04",
+        "end": "Present"
+      },
+      {
+        "title": "Vice President, Services",
+        "company": "2X",
+        "start": "2021-10",
+        "end": "2024-04"
+      },
+      {
+        "title": "Client Success Director / ABM Lead",
+        "company": "2X",
+        "start": "2018-09",
+        "end": "2021-09"
+      },
+      {
+        "title": "Commercial Lead - eCommerce",
+        "company": "FM Global Logistics",
+        "start": "2017-11",
+        "end": "2018-08"
+      },
+      {
+        "title": "Head Of Business Operations",
+        "company": "Hubwire",
+        "start": "2013-07",
+        "end": "2017-10"
+      },
+      {
+        "title": "Senior Marketing Executive",
+        "company": "Maxis Communications Bhd",
+        "start": "2012-08",
+        "end": "2013-07"
+      },
+      {
+        "title": "Management Associate",
+        "company": "Maxis Communications Bhd",
+        "start": "2010-04",
+        "end": "2012-07"
+      },
+      {
+        "title": "Sessional tutor",
+        "company": "Monash University",
+        "start": "2009-01",
+        "end": "2009-11"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

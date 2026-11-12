@@ -1,0 +1,81 @@
+{
+  "doc_id": "JD-039",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "d07114d9055f4e0fff1cfe46d55e1d4fa9f6988cb1fd3096d97e1c50d54c32c9",
+  "timestamp": "2026-11-12T03:48:47.345258+00:00",
+  "elapsed_sec": 15.42,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-039\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Head of Procurement\",\n  \"role_family\": \"Operations & HR\",\n  \"seniority\": \"lead\",\n  \"location\": \"Pasir Gudang, Malaysia\",\n  \"remote\": \"unknown\",\n  \"min_years_experience\": 5,\n  \"must_have_keywords\": [\"procurement\", \"vendor management\", \"cost control\", \"compliance\", \"stakeholder engagement\", \"problem solving\", \"decision making\", \"ERP systems\"],\n  \"nice_to_have_keywords\": [\"CIPS\", \"CILT\", \"MBA\", \"administration\", \"company secretarial matters\"],\n  \"tools_technologies\": [\"ERP systems\"],\n  \"domain_knowledge\": [\"procurement\", \"logistics\", \"business management\", \"engineering\"],\n  \"education_requirements\": [\"Bachelor's degree\", \"Master's degree\"],\n  \"certifications\": [\"CIPS\", \"CILT\", \"MBA\"],\n  \"languages\": [],\n  \"soft_skills\": [\"negotiation\", \"analytical skills\", \"stakeholder management\", \"team leadership\", \"decision making\"],\n  \"key_responsibilities\": [\"Develop and implement procurement strategies\", \"Ensure timely contract renewals\", \"Negotiate terms and manage service-level agreements\", \"Lead cost-saving initiatives\", \"Generate and analyze performance reports\", \"Collaborate with technical teams to source OEM parts\", \"Oversee procurement policies for ISO compliance\", \"Manage and develop team members\", \"Act as key point of contact for stakeholders\", \"Handle supplier disputes and resolve inventory discrepancies\"]\n}",
+  "parsed": {
+    "doc_id": "JD-039",
+    "doc_type": "jd",
+    "job_title": "Head of Procurement",
+    "role_family": "Operations & HR",
+    "seniority": "lead",
+    "location": "Pasir Gudang, Malaysia",
+    "remote": "unknown",
+    "min_years_experience": 5,
+    "must_have_keywords": [
+      "procurement",
+      "vendor management",
+      "cost control",
+      "compliance",
+      "stakeholder engagement",
+      "decision making",
+      "ERP systems"
+    ],
+    "nice_to_have_keywords": [
+      "CIPS",
+      "CILT",
+      "MBA",
+      "administration",
+      "company secretarial matters"
+    ],
+    "tools_technologies": [
+      "ERP systems"
+    ],
+    "domain_knowledge": [
+      "procurement",
+      "logistics",
+      "business management",
+      "engineering"
+    ],
+    "education_requirements": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "certifications": [
+      "CIPS",
+      "CILT",
+      "MBA"
+    ],
+    "languages": [],
+    "soft_skills": [
+      "negotiation",
+      "analytical skills",
+      "stakeholder management",
+      "team leadership",
+      "decision making"
+    ],
+    "key_responsibilities": [
+      "Develop and implement procurement strategies",
+      "Ensure timely contract renewals",
+      "Negotiate terms and manage service-level agreements",
+      "Lead cost-saving initiatives",
+      "Generate and analyze performance reports",
+      "Collaborate with technical teams to source OEM parts",
+      "Oversee procurement policies for ISO compliance",
+      "Manage and develop team members",
+      "Act as key point of contact for stakeholders",
+      "Handle supplier disputes and resolve inventory discrepancies"
+    ]
+  },
+  "validation_errors": [
+    "generic_keyword:problem solving"
+  ],
+  "dropped_keywords": []
+}

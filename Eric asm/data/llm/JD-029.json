@@ -1,0 +1,73 @@
+{
+  "doc_id": "JD-029",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "02984ec45563d183899d584bc17cc8d7980a978b46ce39dff3a8c20841499f5c",
+  "timestamp": "2026-11-12T03:47:42.148141+00:00",
+  "elapsed_sec": 12.46,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-029\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Head of Finance\",\n  \"role_family\": \"Finance & Legal\",\n  \"seniority\": \"lead\",\n  \"location\": null,\n  \"remote\": \"unknown\",\n  \"min_years_experience\": 15,\n  \"must_have_keywords\": [\"financial reporting\", \"taxation\", \"budgeting\", \"internal controls\", \"audit\", \"finance\"],\n  \"nice_to_have_keywords\": [\"CPA\", \"ACCA\", \"CFA\"],\n  \"tools_technologies\": [],\n  \"domain_knowledge\": [\"accounting\", \"finance\"],\n  \"education_requirements\": [\"Bachelor's degree\", \"Master's degree\"],\n  \"certifications\": [\"CPA\", \"ACCA\", \"CFA\"],\n  \"languages\": null,\n  \"soft_skills\": [\"leadership\", \"stakeholder influence\", \"time management\"],\n  \"key_responsibilities\": [\"establish financial controls\", \"oversee financial activities\", \"provide financial information\", \"summarize budget trends\", \"prepare tax duties\", \"identify cost efficiencies\", \"create company policies\", \"support month-end close\", \"support external auditors\"]\n}",
+  "parsed": {
+    "doc_id": "JD-029",
+    "doc_type": "jd",
+    "job_title": "Head of Finance",
+    "role_family": "Finance & Legal",
+    "seniority": "lead",
+    "location": null,
+    "remote": "unknown",
+    "min_years_experience": 15,
+    "must_have_keywords": [
+      "taxation",
+      "budgeting",
+      "internal controls",
+      "audit",
+      "finance"
+    ],
+    "nice_to_have_keywords": [
+      "CPA",
+      "ACCA",
+      "CFA"
+    ],
+    "tools_technologies": [],
+    "domain_knowledge": [
+      "accounting",
+      "finance"
+    ],
+    "education_requirements": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "certifications": [
+      "CPA",
+      "ACCA",
+      "CFA"
+    ],
+    "languages": [],
+    "soft_skills": [
+      "leadership",
+      "stakeholder influence",
+      "time management"
+    ],
+    "key_responsibilities": [
+      "establish financial controls",
+      "oversee financial activities",
+      "provide financial information",
+      "summarize budget trends",
+      "prepare tax duties",
+      "identify cost efficiencies",
+      "create company policies",
+      "support month-end close",
+      "support external auditors"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "financial reporting",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

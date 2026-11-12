@@ -1,0 +1,137 @@
+{
+  "doc_id": "CV-097",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "f92773372cfef55ce3d1e2fc1ccdfdfa1f485fe73356e7f151060b62e4cec1f1",
+  "timestamp": "2026-11-12T03:40:21.389425+00:00",
+  "elapsed_sec": 32.92,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-097\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"Founding Head of Indonesia\",\n  \"current_company\": \"Korean e-commerce company\",\n  \"role_family\": \"Leadership/Other\",\n  \"seniority\": \"lead\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"product roadmap development\",\n    \"Market Research\",\n    \"Data Analysis\",\n    \"IOT\",\n    \"AI\",\n    \"Big Data\",\n    \"E-commerce\",\n    \"Logistics\",\n    \"payment\",\n    \"Operations\",\n    \"Customer Service\",\n    \"Sales\",\n    \"Product Management\",\n    \"seller workflows\",\n    \"Shopify\",\n    \"logistics integration\",\n    \"3PL shipping\",\n    \"Google Sheets\",\n    \"API\",\n    \"sprints\",\n    \"Content Management\",\n    \"revenue growth\",\n    \"client relationships\",\n    \"strategic roadmaps\",\n    \"organizational growth\",\n    \"efficiency\",\n    \"monetization\"\n  ],\n  \"tools_technologies\": [\n    \"Google Sheets\",\n    \"Shopify\"\n  ],\n  \"domains\": [\n    \"e-commerce\",\n    \"fintech\",\n    \"AI\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": \"Artificial Intelligence and Machine Learning\",\n      \"institution\": \"President University\",\n      \"year\": null\n    },\n    {\n      \"degree\": \"Master's Degree\",\n      \"field\": \"Artificial Intelligence and Machine Learning\",\n      \"institution\": \"President University\",\n      \"year\": null\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Indonesia\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\",\n    \"client relationships\",\n    \"strategic roadmaps\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"Founding Head of Indonesia\",\n      \"company\": \"Korean e-commerce company\",\n      \"start\": \"2025-01\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Product Manager\",\n      \"company\": \"Cosmose.ai - European AI Company\",\n      \"start\": \"2024-01\",\n      \"end\": \"2025-01\"\n    },\n    {\n      \"title\": \"Product Manager Payments, Risk & Monetization\",\n      \"company\": \"TipTip Network - Southeast Asian Community Monetization Platform (stage: series B)\",\n      \"start\": \"2022-01\",\n      \"end\": \"2024-01\"\n    },\n    {\n      \"title\": \"Founding Product Manager\",\n      \"company\": \"ULA - Indonesian B2B e-commerce marketplace (stage: series B)\",\n      \"start\": \"2020-01\",\n      \"end\": \"2022-01\"\n    },\n    {\n      \"title\": \"Product Manager\",\n      \"company\": \"ZALORA - Asia's leading online fashion, beauty and lifestyle destination\",\n      \"start\": \"2016-01\",\n      \"end\": \"2020-01\"\n    },\n    {\n      \"title\": \"Advisor\",\n      \"company\": \"OnnoCenter - ICT education and digital literacy NGO\",\n      \"start\": \"2015-01\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Head of Product\",\n      \"company\": \"Lovetki - Online portal for Indonesian migrants overseas\",\n      \"start\": \"2015-01\",\n      \"end\": \"2016-01\"\n    },\n    {\n      \"title\": \"ASSOCIATE COUNTRY PRODUCT MANAGER\",\n      \"company\": \"Lazada - Southeast Asian eCommerce platform\",\n      \"start\": \"2014-01\",\n      \"end\": \"2015-01\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-097",
+    "doc_type": "cv",
+    "current_title": "Founding Head of Indonesia",
+    "current_company": "Korean e-commerce company",
+    "role_family": "Leadership/Other",
+    "seniority": "lead",
+    "total_years_experience": null,
+    "skills": [
+      "product roadmap development",
+      "Market Research",
+      "Data Analysis",
+      "IOT",
+      "AI",
+      "Big Data",
+      "E-commerce",
+      "Logistics",
+      "payment",
+      "Operations",
+      "Customer Service",
+      "Sales",
+      "Product Management",
+      "seller workflows",
+      "Shopify",
+      "logistics integration",
+      "3PL shipping",
+      "Google Sheets",
+      "API",
+      "sprints",
+      "Content Management",
+      "revenue growth",
+      "client relationships",
+      "strategic roadmaps",
+      "organizational growth",
+      "efficiency",
+      "monetization"
+    ],
+    "tools_technologies": [
+      "Google Sheets",
+      "Shopify"
+    ],
+    "domains": [
+      "e-commerce",
+      "fintech",
+      "AI"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Artificial Intelligence and Machine Learning",
+        "institution": "President University",
+        "year": null
+      },
+      {
+        "degree": "Master's Degree",
+        "field": "Artificial Intelligence and Machine Learning",
+        "institution": "President University",
+        "year": null
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Indonesia"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring",
+      "client relationships",
+      "strategic roadmaps"
+    ],
+    "work_history": [
+      {
+        "title": "Founding Head of Indonesia",
+        "company": "Korean e-commerce company",
+        "start": "2025-01",
+        "end": "Present"
+      },
+      {
+        "title": "Product Manager",
+        "company": "Cosmose.ai - European AI Company",
+        "start": "2024-01",
+        "end": "2025-01"
+      },
+      {
+        "title": "Product Manager Payments, Risk & Monetization",
+        "company": "TipTip Network - Southeast Asian Community Monetization Platform (stage: series B)",
+        "start": "2022-01",
+        "end": "2024-01"
+      },
+      {
+        "title": "Founding Product Manager",
+        "company": "ULA - Indonesian B2B e-commerce marketplace (stage: series B)",
+        "start": "2020-01",
+        "end": "2022-01"
+      },
+      {
+        "title": "Product Manager",
+        "company": "ZALORA - Asia's leading online fashion, beauty and lifestyle destination",
+        "start": "2016-01",
+        "end": "2020-01"
+      },
+      {
+        "title": "Advisor",
+        "company": "OnnoCenter - ICT education and digital literacy NGO",
+        "start": "2015-01",
+        "end": "Present"
+      },
+      {
+        "title": "Head of Product",
+        "company": "Lovetki - Online portal for Indonesian migrants overseas",
+        "start": "2015-01",
+        "end": "2016-01"
+      },
+      {
+        "title": "ASSOCIATE COUNTRY PRODUCT MANAGER",
+        "company": "Lazada - Southeast Asian eCommerce platform",
+        "start": "2014-01",
+        "end": "2015-01"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

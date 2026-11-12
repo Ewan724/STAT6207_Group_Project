@@ -1,0 +1,72 @@
+{
+  "doc_id": "JD-036",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "7f43695b89a706cbc9b8580df013f32aaf6349a231debedd443b4740566d5ec9",
+  "timestamp": "2026-11-12T03:48:25.093022+00:00",
+  "elapsed_sec": 13.24,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-036\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"MarTech Specialist\",\n  \"role_family\": \"Marketing\",\n  \"seniority\": \"unknown\",\n  \"location\": \"Hong Kong\",\n  \"remote\": \"unknown\",\n  \"min_years_experience\": null,\n  \"must_have_keywords\": [\"AI tools\", \"CRM integration\", \"APIs\", \"agentic AI\", \"chatbots\", \"virtual assistants\", \"predictive analytics\"],\n  \"nice_to_have_keywords\": [],\n  \"tools_technologies\": [],\n  \"domain_knowledge\": [\"MarTech\", \"loan products\", \"credit card products\"],\n  \"education_requirements\": [\"Bachelor's degree in Mathematics, Business, IT, Engineering, Computer Science, Artificial Intelligence, Data Science, or related discipline\"],\n  \"certifications\": [],\n  \"languages\": [\"English\", \"Cantonese\"],\n  \"soft_skills\": [\"proactive\", \"results-oriented\", \"business insight\", \"communication\", \"team-oriented\", \"ownership\", \"independent operation\"],\n  \"key_responsibilities\": [\"Architect, build, and deploy custom AI-powered tools\", \"Lead integration of AI tools into existing corporate systems\", \"Enhance MarTech solutions by incorporating external APIs\", \"Create technical documentation for MarTech solutions\", \"Implement agentic AI technologies to build autonomous systems\", \"Research and deploy AI products like chatbots and predictive analytics\"]\n}",
+  "parsed": {
+    "doc_id": "JD-036",
+    "doc_type": "jd",
+    "job_title": "MarTech Specialist",
+    "role_family": "Marketing",
+    "seniority": "unknown",
+    "location": "Hong Kong",
+    "remote": "unknown",
+    "min_years_experience": null,
+    "must_have_keywords": [
+      "AI tools",
+      "APIs",
+      "agentic AI",
+      "chatbots",
+      "virtual assistants",
+      "predictive analytics"
+    ],
+    "nice_to_have_keywords": [],
+    "tools_technologies": [],
+    "domain_knowledge": [
+      "MarTech",
+      "loan products",
+      "credit card products"
+    ],
+    "education_requirements": [
+      "Bachelor's degree in Mathematics, Business, IT, Engineering, Computer Science, Artificial Intelligence, Data Science, or related discipline"
+    ],
+    "certifications": [],
+    "languages": [
+      "English",
+      "Cantonese"
+    ],
+    "soft_skills": [
+      "proactive",
+      "results-oriented",
+      "business insight",
+      "communication",
+      "team-oriented",
+      "ownership",
+      "independent operation"
+    ],
+    "key_responsibilities": [
+      "Architect, build, and deploy custom AI-powered tools",
+      "Lead integration of AI tools into existing corporate systems",
+      "Enhance MarTech solutions by incorporating external APIs",
+      "Create technical documentation for MarTech solutions",
+      "Implement agentic AI technologies to build autonomous systems",
+      "Research and deploy AI products like chatbots and predictive analytics"
+    ]
+  },
+  "validation_errors": [
+    "empty_nice_to_have_keywords"
+  ],
+  "dropped_keywords": [
+    {
+      "keyword": "CRM integration",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

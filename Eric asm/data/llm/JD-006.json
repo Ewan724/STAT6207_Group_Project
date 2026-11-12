@@ -1,0 +1,56 @@
+{
+  "doc_id": "JD-006",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "21c3c9b426164a3ddc773b80015176a8183286c205fa3c9e5fd13eb40a8941ef",
+  "timestamp": "2026-11-12T03:44:55.475349+00:00",
+  "elapsed_sec": 12.66,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-006\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Machine Learning Engineer\",\n  \"role_family\": \"Data & AI\",\n  \"seniority\": \"unknown\",\n  \"location\": \"Remote\",\n  \"remote\": \"yes\",\n  \"min_years_experience\": null,\n  \"must_have_keywords\": [\"PyTorch\", \"Jax\", \"Python\", \"machine learning\", \"testing infrastructure\"],\n  \"nice_to_have_keywords\": [],\n  \"tools_technologies\": [\"PyTorch\", \"Jax\", \"Python\"],\n  \"domain_knowledge\": [\"machine learning\", \"reinforcement learning\"],\n  \"education_requirements\": null,\n  \"certifications\": [],\n  \"languages\": null,\n  \"soft_skills\": [\"problem-solving\", \"learning new technologies\"],\n  \"key_responsibilities\": [\"build testing infrastructure\", \"train large models\", \"implement algorithms from research papers\"]\n}",
+  "parsed": {
+    "doc_id": "JD-006",
+    "doc_type": "jd",
+    "job_title": "Machine Learning Engineer",
+    "role_family": "Data & AI",
+    "seniority": "unknown",
+    "location": "Remote",
+    "remote": "yes",
+    "min_years_experience": null,
+    "must_have_keywords": [
+      "PyTorch",
+      "Jax",
+      "Python",
+      "machine learning",
+      "testing infrastructure"
+    ],
+    "nice_to_have_keywords": [],
+    "tools_technologies": [
+      "PyTorch",
+      "Jax",
+      "Python"
+    ],
+    "domain_knowledge": [
+      "machine learning",
+      "reinforcement learning"
+    ],
+    "education_requirements": [],
+    "certifications": [],
+    "languages": [],
+    "soft_skills": [
+      "problem-solving",
+      "learning new technologies"
+    ],
+    "key_responsibilities": [
+      "build testing infrastructure",
+      "train large models",
+      "implement algorithms from research papers"
+    ]
+  },
+  "validation_errors": [
+    "empty_nice_to_have_keywords"
+  ],
+  "dropped_keywords": []
+}

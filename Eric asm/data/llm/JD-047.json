@@ -1,0 +1,66 @@
+{
+  "doc_id": "JD-047",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "e73d9c4c616fe87f8cd09ef1977bda582e224312161fe42da7da46d56b478e2e",
+  "timestamp": "2026-11-12T03:49:42.152381+00:00",
+  "elapsed_sec": 12.09,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\"doc_id\":\"JD-047\",\"doc_type\":\"jd\",\"job_title\":\"Sales Engineer\",\"role_family\":\"Sales & BD\",\"seniority\":\"junior\",\"location\":\"Hanoi, Vietnam\",\"remote\":\"hybrid\",\"min_years_experience\":1,\"must_have_keywords\":[\"sales\",\"B-to-B sales\",\"English\"],\"nice_to_have_keywords\":[\"water treatment\",\"sustainability\",\"technical team\",\"distributors\"],\"tools_technologies\":[],\"domain_knowledge\":[\"sales\",\"B-to-B sales\",\"water treatment\"],\"education_requirements\":[\"university graduate\"],\"certifications\":[],\"languages\":[\"English\"],\"soft_skills\":[\"enthusiasm\",\"dynamic\",\"passionate\",\"self organization\",\"teamwork\",\"goal setting\",\"discipline\",\"proactive\",\"collaboration\",\"listening\"],\"key_responsibilities\":[\"Make sales plans\",\"Find potential customers\",\"Collect information for customer decision structure\"]}",
+  "parsed": {
+    "doc_id": "JD-047",
+    "doc_type": "jd",
+    "job_title": "Sales Engineer",
+    "role_family": "Sales & BD",
+    "seniority": "junior",
+    "location": "Hanoi, Vietnam",
+    "remote": "hybrid",
+    "min_years_experience": 1,
+    "must_have_keywords": [
+      "sales",
+      "B-to-B sales",
+      "English"
+    ],
+    "nice_to_have_keywords": [
+      "water treatment",
+      "sustainability",
+      "technical team",
+      "distributors"
+    ],
+    "tools_technologies": [],
+    "domain_knowledge": [
+      "sales",
+      "B-to-B sales",
+      "water treatment"
+    ],
+    "education_requirements": [
+      "university graduate"
+    ],
+    "certifications": [],
+    "languages": [
+      "English"
+    ],
+    "soft_skills": [
+      "enthusiasm",
+      "dynamic",
+      "passionate",
+      "self organization",
+      "teamwork",
+      "goal setting",
+      "discipline",
+      "proactive",
+      "collaboration",
+      "listening"
+    ],
+    "key_responsibilities": [
+      "Make sales plans",
+      "Find potential customers",
+      "Collect information for customer decision structure"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

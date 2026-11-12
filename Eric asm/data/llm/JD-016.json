@@ -1,0 +1,87 @@
+{
+  "doc_id": "JD-016",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "6f531e18997b14318380062fad52f44cc8b37e7e49bed7c0ce812314fc117f98",
+  "timestamp": "2026-11-12T03:46:08.883185+00:00",
+  "elapsed_sec": 15.09,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-016\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Fullstack Engineer\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"mid\",\n  \"location\": \"Ho Chi Minh City / Da Nang / Hanoi\",\n  \"remote\": \"hybrid\",\n  \"min_years_experience\": 4,\n  \"must_have_keywords\": [\n    \"NodeJS\",\n    \"ReactJS\",\n    \"RESTful APIs\",\n    \"Agile\",\n    \"Scrum\",\n    \"TDD\",\n    \"CI/CD\",\n    \"MySQL\",\n    \"PostgreSQL\",\n    \"SQL Server\"\n  ],\n  \"nice_to_have_keywords\": [\n    \"VueJS\",\n    \"Angular\",\n    \"Svelte\",\n    \"NestJS\",\n    \"Redux\",\n    \"AWS Lambda\",\n    \"GCP Cloud Functions\",\n    \"NoSQL\",\n    \"Terraform\",\n    \"Ansible\",\n    \"CloudFormation\"\n  ],\n  \"tools_technologies\": [\n    \"NodeJS\",\n    \"ReactJS\",\n    \"MySQL\",\n    \"PostgreSQL\",\n    \"SQL Server\",\n    \"NestJS\",\n    \"Redux\",\n    \"AWS Lambda\",\n    \"GCP Cloud Functions\",\n    \"Terraform\",\n    \"Ansible\",\n    \"CloudFormation\"\n  ],\n  \"domain_knowledge\": [\n    \"web development\",\n    \"mobile development\",\n    \"clean architecture\",\n    \"scalability\"\n  ],\n  \"education_requirements\": null,\n  \"certifications\": [],\n  \"languages\": [\n    \"English\"\n  ],\n  \"soft_skills\": [\n    \"communication\",\n    \"problem-solving\",\n    \"collaboration\"\n  ],\n  \"key_responsibilities\": [\n    \"Develop and maintain scalable web and mobile applications\",\n    \"Design and implement RESTful APIs and back-end systems\",\n    \"Collaborate with Product Owners and UI/UX Designers\",\n    \"Participate in pair programming and Agile ceremonies\",\n    \"Apply modern development practices such as TDD, CI/CD, and code reviews\"\n  ]\n}",
+  "parsed": {
+    "doc_id": "JD-016",
+    "doc_type": "jd",
+    "job_title": "Fullstack Engineer",
+    "role_family": "Engineering",
+    "seniority": "mid",
+    "location": "Ho Chi Minh City / Da Nang / Hanoi",
+    "remote": "hybrid",
+    "min_years_experience": 4,
+    "must_have_keywords": [
+      "NodeJS",
+      "ReactJS",
+      "RESTful APIs",
+      "Agile",
+      "Scrum",
+      "TDD",
+      "CI/CD",
+      "MySQL",
+      "PostgreSQL",
+      "SQL Server"
+    ],
+    "nice_to_have_keywords": [
+      "VueJS",
+      "Angular",
+      "Svelte",
+      "NestJS",
+      "Redux",
+      "AWS Lambda",
+      "GCP Cloud Functions",
+      "NoSQL",
+      "Terraform",
+      "Ansible",
+      "CloudFormation"
+    ],
+    "tools_technologies": [
+      "NodeJS",
+      "ReactJS",
+      "MySQL",
+      "PostgreSQL",
+      "SQL Server",
+      "NestJS",
+      "Redux",
+      "AWS Lambda",
+      "GCP Cloud Functions",
+      "Terraform",
+      "Ansible",
+      "CloudFormation"
+    ],
+    "domain_knowledge": [
+      "web development",
+      "mobile development",
+      "clean architecture",
+      "scalability"
+    ],
+    "education_requirements": [],
+    "certifications": [],
+    "languages": [
+      "English"
+    ],
+    "soft_skills": [
+      "communication",
+      "problem-solving",
+      "collaboration"
+    ],
+    "key_responsibilities": [
+      "Develop and maintain scalable web and mobile applications",
+      "Design and implement RESTful APIs and back-end systems",
+      "Collaborate with Product Owners and UI/UX Designers",
+      "Participate in pair programming and Agile ceremonies",
+      "Apply modern development practices such as TDD, CI/CD, and code reviews"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

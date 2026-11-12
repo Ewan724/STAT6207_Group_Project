@@ -1,0 +1,53 @@
+{
+  "doc_id": "JD-031",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "ba7b51c9226cef50e6fe3ed96cdfa996aa19bfe34378e17105ec8a838bafad9f",
+  "timestamp": "2026-11-12T03:47:50.860791+00:00",
+  "elapsed_sec": 8.71,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\"doc_id\":\"JD-031\",\"doc_type\":\"jd\",\"job_title\":\"Tax manager - Indonesia\",\"role_family\":\"Finance & Legal\",\"seniority\":\"mid\",\"location\":\"Indonesia\",\"remote\":\"unknown\",\"min_years_experience\":null,\"must_have_keywords\":[\"tax audit\",\"transfer pricing documentation\",\"government connections\"],\"nice_to_have_keywords\":[],\"tools_technologies\":[],\"domain_knowledge\":[\"manufacturing\",\"taxation\"],\"education_requirements\":null,\"certifications\":[],\"languages\":[\"English\"],\"soft_skills\":[],\"key_responsibilities\":[\"Coordinate among local finance team, external tax agencies, local legal team to support tax audit cases across the client's group entities\",\"Visit and liaise with in-charge ARs and tax auditors in the tax office periodically\",\"Conduct tax health check for each entity with the assistance of external tax agencies\",\"Use the tool advised by the external agencies during tax health checks and perform periodical tax reconciliation\",\"Organize monthly/quarterly tax recon meetings, create and improve recon procedures\",\"Monitor the progress of transfer pricing documentation of each entity; facilitate the progress if they are behind the schedule set by the tax director\",\"Provide Indonesian tax training and tax knowledge to the local team and also to headquarters\"]}",
+  "parsed": {
+    "doc_id": "JD-031",
+    "doc_type": "jd",
+    "job_title": "Tax manager - Indonesia",
+    "role_family": "Finance & Legal",
+    "seniority": "mid",
+    "location": "Indonesia",
+    "remote": "unknown",
+    "min_years_experience": null,
+    "must_have_keywords": [
+      "tax audit",
+      "transfer pricing documentation",
+      "government connections"
+    ],
+    "nice_to_have_keywords": [],
+    "tools_technologies": [],
+    "domain_knowledge": [
+      "manufacturing",
+      "taxation"
+    ],
+    "education_requirements": [],
+    "certifications": [],
+    "languages": [
+      "English"
+    ],
+    "soft_skills": [],
+    "key_responsibilities": [
+      "Coordinate among local finance team, external tax agencies, local legal team to support tax audit cases across the client's group entities",
+      "Visit and liaise with in-charge ARs and tax auditors in the tax office periodically",
+      "Conduct tax health check for each entity with the assistance of external tax agencies",
+      "Use the tool advised by the external agencies during tax health checks and perform periodical tax reconciliation",
+      "Organize monthly/quarterly tax recon meetings, create and improve recon procedures",
+      "Monitor the progress of transfer pricing documentation of each entity; facilitate the progress if they are behind the schedule set by the tax director",
+      "Provide Indonesian tax training and tax knowledge to the local team and also to headquarters"
+    ]
+  },
+  "validation_errors": [
+    "empty_nice_to_have_keywords"
+  ],
+  "dropped_keywords": []
+}

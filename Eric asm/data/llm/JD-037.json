@@ -1,0 +1,76 @@
+{
+  "doc_id": "JD-037",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "b0e86d5b50012e3859ec0d264d18864de758b81adb4b8921ecda9ca4f6a8ae25",
+  "timestamp": "2026-11-12T03:48:31.926262+00:00",
+  "elapsed_sec": 12.86,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-037\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Product Marketing Manager (Go-to-Market Specialist)\",\n  \"role_family\": \"Marketing\",\n  \"seniority\": \"mid\",\n  \"location\": null,\n  \"remote\": \"yes\",\n  \"min_years_experience\": 2,\n  \"must_have_keywords\": [\n    \"GTM strategy\",\n    \"product marketing\",\n    \"growth\",\n    \"business development\",\n    \"market research\",\n    \"product positioning\",\n    \"campaign execution\",\n    \"storytelling\",\n    \"communication skills\",\n    \"digital channels\"\n  ],\n  \"nice_to_have_keywords\": [\n    \"startup\",\n    \"SaaS\",\n    \"AI\",\n    \"analytical mindset\",\n    \"experimentation\",\n    \"A/B testing\",\n    \"entrepreneurial spirit\"\n  ],\n  \"tools_technologies\": [],\n  \"domain_knowledge\": [\n    \"F&B\",\n    \"interior design\",\n    \"finance\"\n  ],\n  \"education_requirements\": null,\n  \"certifications\": [],\n  \"languages\": [],\n  \"soft_skills\": [\n    \"storytelling\",\n    \"communication\",\n    \"analytical mindset\",\n    \"adaptability\",\n    \"resourcefulness\"\n  ],\n  \"key_responsibilities\": [\n    \"Market Discovery & Validation\",\n    \"Positioning & Messaging\",\n    \"Go-to-Market Planning\",\n    \"Hands-On Execution\",\n    \"Measurement & Iteration\"\n  ]\n}",
+  "parsed": {
+    "doc_id": "JD-037",
+    "doc_type": "jd",
+    "job_title": "Product Marketing Manager (Go-to-Market Specialist)",
+    "role_family": "Marketing",
+    "seniority": "mid",
+    "location": null,
+    "remote": "yes",
+    "min_years_experience": 2,
+    "must_have_keywords": [
+      "GTM strategy",
+      "product marketing",
+      "growth",
+      "business development",
+      "market research",
+      "product positioning",
+      "campaign execution",
+      "storytelling",
+      "communication skills",
+      "digital channels"
+    ],
+    "nice_to_have_keywords": [
+      "startup",
+      "SaaS",
+      "AI",
+      "analytical mindset",
+      "entrepreneurial spirit"
+    ],
+    "tools_technologies": [],
+    "domain_knowledge": [
+      "F&B",
+      "interior design",
+      "finance"
+    ],
+    "education_requirements": [],
+    "certifications": [],
+    "languages": [],
+    "soft_skills": [
+      "storytelling",
+      "communication",
+      "analytical mindset",
+      "adaptability",
+      "resourcefulness"
+    ],
+    "key_responsibilities": [
+      "Market Discovery & Validation",
+      "Positioning & Messaging",
+      "Go-to-Market Planning",
+      "Hands-On Execution",
+      "Measurement & Iteration"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "experimentation",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "A/B testing",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

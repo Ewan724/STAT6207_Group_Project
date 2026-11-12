@@ -1,0 +1,121 @@
+{
+  "doc_id": "JD-041",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "036aaefe1df7aa42bdcc21b17bb12a75128be5e1802987728a20b5fe812b7272",
+  "timestamp": "2026-11-12T03:49:02.936076+00:00",
+  "elapsed_sec": 15.59,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-041\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Talent Acquisition Specialist\",\n  \"role_family\": \"Operations & HR\",\n  \"seniority\": \"mid\",\n  \"location\": \"Kuala Lumpur, Malaysia\",\n  \"remote\": \"unknown\",\n  \"min_years_experience\": 5,\n  \"must_have_keywords\": [\n    \"full-cycle recruitment\",\n    \"sourcing candidates\",\n    \"interview coordination\",\n    \"talent pipeline management\",\n    \"employer branding\",\n    \"candidate experience\",\n    \"hiring needs identification\",\n    \"job description design\",\n    \"screening calls\",\n    \"assessment management\",\n    \"offer management\",\n    \"pre-boarding\",\n    \"onboarding process\",\n    \"hiring forecasting\",\n    \"recruitment reporting\"\n  ],\n  \"nice_to_have_keywords\": [\n    \"Applicant Tracking Systems\",\n    \"resume databases\",\n    \"social recruiting tools\",\n    \"e-commerce experience\",\n    \"startup environment experience\"\n  ],\n  \"tools_technologies\": [\n    \"Applicant Tracking Systems\",\n    \"resume databases\",\n    \"social recruiting tools\"\n  ],\n  \"domain_knowledge\": [\n    \"Human Resources\",\n    \"full-cycle recruitment\",\n    \"talent acquisition\"\n  ],\n  \"education_requirements\": [\n    \"Bachelor's degree in Human Resources or related field\"\n  ],\n  \"certifications\": [],\n  \"languages\": [\n    \"English\"\n  ],\n  \"soft_skills\": [\n    \"interpersonal skills\",\n    \"rapport building\",\n    \"self-starter\",\n    \"ownership\",\n    \"accountability\",\n    \"attention to detail\",\n    \"verbal communication\",\n    \"written communication\"\n  ],\n  \"key_responsibilities\": [\n    \"manage full-cycle recruitment process\",\n    \"sourcing candidates\",\n    \"coordinating interviews\",\n    \"building talent pipelines\",\n    \"shaping employer brand\",\n    \"ensuring candidate experience\",\n    \"identify hiring needs\",\n    \"execute sourcing strategies\",\n    \"design job descriptions\",\n    \"manage end-to-end recruitment processes\",\n    \"organize job fairs\",\n    \"build talent pipeline\",\n    \"coordinate pre-boarding\",\n    \"forecast hiring needs\",\n    \"maintain recruitment records\"\n  ]\n}",
+  "parsed": {
+    "doc_id": "JD-041",
+    "doc_type": "jd",
+    "job_title": "Talent Acquisition Specialist",
+    "role_family": "Operations & HR",
+    "seniority": "mid",
+    "location": "Kuala Lumpur, Malaysia",
+    "remote": "unknown",
+    "min_years_experience": 5,
+    "must_have_keywords": [
+      "full-cycle recruitment",
+      "sourcing candidates",
+      "employer branding",
+      "candidate experience",
+      "screening calls",
+      "offer management",
+      "pre-boarding",
+      "onboarding process"
+    ],
+    "nice_to_have_keywords": [
+      "Applicant Tracking Systems",
+      "resume databases",
+      "social recruiting tools"
+    ],
+    "tools_technologies": [
+      "Applicant Tracking Systems",
+      "resume databases",
+      "social recruiting tools"
+    ],
+    "domain_knowledge": [
+      "Human Resources",
+      "full-cycle recruitment",
+      "talent acquisition"
+    ],
+    "education_requirements": [
+      "Bachelor's degree in Human Resources or related field"
+    ],
+    "certifications": [],
+    "languages": [
+      "English"
+    ],
+    "soft_skills": [
+      "interpersonal skills",
+      "rapport building",
+      "self-starter",
+      "ownership",
+      "accountability",
+      "attention to detail",
+      "verbal communication",
+      "written communication"
+    ],
+    "key_responsibilities": [
+      "manage full-cycle recruitment process",
+      "sourcing candidates",
+      "coordinating interviews",
+      "building talent pipelines",
+      "shaping employer brand",
+      "ensuring candidate experience",
+      "identify hiring needs",
+      "execute sourcing strategies",
+      "design job descriptions",
+      "manage end-to-end recruitment processes",
+      "organize job fairs",
+      "build talent pipeline",
+      "coordinate pre-boarding",
+      "forecast hiring needs",
+      "maintain recruitment records"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "interview coordination",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "talent pipeline management",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "hiring needs identification",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "job description design",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "assessment management",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "hiring forecasting",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "recruitment reporting",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "e-commerce experience",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "startup environment experience",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

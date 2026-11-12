@@ -1,0 +1,101 @@
+{
+  "doc_id": "JD-007",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "6353b2ec301a74be96ef9c2931b7a16e5b6a366e662a85292f4092200746ab4f",
+  "timestamp": "2026-11-12T03:45:05.517149+00:00",
+  "elapsed_sec": 14.38,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-007\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Senior/Lead Data Engineer\",\n  \"role_family\": \"Data & AI\",\n  \"seniority\": \"lead\",\n  \"location\": \"Ho Chi Minh City, Vietnam; Hanoi, Vietnam\",\n  \"remote\": \"hybrid\",\n  \"min_years_experience\": null,\n  \"must_have_keywords\": [\n    \"Python\",\n    \"Apache Airflow\",\n    \"AWS\",\n    \"Kubernetes\",\n    \"Docker\",\n    \"data pipelines\",\n    \"data lakes\",\n    \"ML workflows\",\n    \"Git\",\n    \"CI/CD\"\n  ],\n  \"nice_to_have_keywords\": [\n    \"Sagemaker\",\n    \"Databricks\",\n    \"PostgreSQL\",\n    \"MySQL\",\n    \"Kafka\",\n    \"RabbitMQ\",\n    \"Tableau\",\n    \"PowerBI\",\n    \"ELK\",\n    \"Datadog\"\n  ],\n  \"tools_technologies\": [\n    \"Python\",\n    \"Apache Airflow\",\n    \"AWS\",\n    \"Kubernetes\",\n    \"Docker\",\n    \"Athena\",\n    \"Redshift\",\n    \"Hive\",\n    \"Jenkins\",\n    \"CircleCI\",\n    \"S3\",\n    \"Glue\",\n    \"EC2\",\n    \"Lambda\",\n    \"MySQL\",\n    \"PostgreSQL\",\n    \"DynamoDB\",\n    \"Redis\",\n    \"Kafka\",\n    \"RabbitMQ\",\n    \"Tableau\",\n    \"Looker\",\n    \"PowerBI\",\n    \"ELK\",\n    \"Datadog\"\n  ],\n  \"domain_knowledge\": [\n    \"data engineering\",\n    \"data science\",\n    \"machine learning\"\n  ],\n  \"education_requirements\": [\n    \"Bachelor's degree in Software Engineering or related field\"\n  ],\n  \"certifications\": [],\n  \"languages\": [\n    \"English\"\n  ],\n  \"soft_skills\": [\n    \"collaboration\",\n    \"problem-solving\",\n    \"design thinking\"\n  ],\n  \"key_responsibilities\": [\n    \"Architect data infrastructure\",\n    \"Develop data pipelines\",\n    \"Support ML workflows\",\n    \"Automate workflows\",\n    \"Manage compute resources\",\n    \"Implement testing procedures\"\n  ]\n}",
+  "parsed": {
+    "doc_id": "JD-007",
+    "doc_type": "jd",
+    "job_title": "Senior/Lead Data Engineer",
+    "role_family": "Data & AI",
+    "seniority": "lead",
+    "location": "Ho Chi Minh City, Vietnam; Hanoi, Vietnam",
+    "remote": "hybrid",
+    "min_years_experience": null,
+    "must_have_keywords": [
+      "Python",
+      "Apache Airflow",
+      "AWS",
+      "Kubernetes",
+      "Docker",
+      "data pipelines",
+      "data lakes",
+      "ML workflows",
+      "Git",
+      "CI/CD"
+    ],
+    "nice_to_have_keywords": [
+      "Sagemaker",
+      "Databricks",
+      "PostgreSQL",
+      "MySQL",
+      "Kafka",
+      "RabbitMQ",
+      "Tableau",
+      "PowerBI",
+      "ELK",
+      "Datadog"
+    ],
+    "tools_technologies": [
+      "Python",
+      "Apache Airflow",
+      "AWS",
+      "Kubernetes",
+      "Docker",
+      "Athena",
+      "Redshift",
+      "Hive",
+      "Jenkins",
+      "CircleCI",
+      "S3",
+      "Glue",
+      "EC2",
+      "Lambda",
+      "MySQL",
+      "PostgreSQL",
+      "DynamoDB",
+      "Redis",
+      "Kafka",
+      "RabbitMQ",
+      "Tableau",
+      "Looker",
+      "PowerBI",
+      "ELK",
+      "Datadog"
+    ],
+    "domain_knowledge": [
+      "data engineering",
+      "data science",
+      "machine learning"
+    ],
+    "education_requirements": [
+      "Bachelor's degree in Software Engineering or related field"
+    ],
+    "certifications": [],
+    "languages": [
+      "English"
+    ],
+    "soft_skills": [
+      "collaboration",
+      "problem-solving",
+      "design thinking"
+    ],
+    "key_responsibilities": [
+      "Architect data infrastructure",
+      "Develop data pipelines",
+      "Support ML workflows",
+      "Automate workflows",
+      "Manage compute resources",
+      "Implement testing procedures"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

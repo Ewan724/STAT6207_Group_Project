@@ -1,0 +1,67 @@
+{
+  "doc_id": "JD-035",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "b0baac73a4b055d59288849ed73ecb9e106b7d962f102d288e3334f9a5196ccd",
+  "timestamp": "2026-11-12T03:48:19.063251+00:00",
+  "elapsed_sec": 14.97,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-035\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Head of CRM, Analytics and Media\",\n  \"role_family\": \"Marketing\",\n  \"seniority\": \"lead\",\n  \"location\": \"Hong Kong\",\n  \"remote\": \"unknown\",\n  \"min_years_experience\": null,\n  \"must_have_keywords\": [\n    \"customer relationship management\",\n    \"analytics\",\n    \"omnichannel marketing\",\n    \"media planning\",\n    \"influencer marketing\",\n    \"budget management\",\n    \"team development\",\n    \"strategic leadership\"\n  ],\n  \"nice_to_have_keywords\": [\n    \"Master's degree\",\n    \"health and beauty retail sector\"\n  ],\n  \"tools_technologies\": [],\n  \"domain_knowledge\": [\n    \"health and beauty\",\n    \"retail\"\n  ],\n  \"education_requirements\": [\n    \"Bachelor's degree in Marketing, Business, or a related field\"\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"soft_skills\": [\n    \"leadership\",\n    \"team management\",\n    \"communication\",\n    \"interpersonal skills\",\n    \"analytical skills\"\n  ],\n  \"key_responsibilities\": [\n    \"Lead strategic development and execution of marketing initiatives\",\n    \"Oversee all marketing functions including branding and advertising\",\n    \"Manage customer relationship management initiatives\",\n    \"Ensure cohesive brand experience across omnichannel platforms\",\n    \"Lead analytics team to assess customer data\",\n    \"Oversee media planning on Google and Meta platforms\",\n    \"Develop influencer marketing strategies\",\n    \"Manage marketing budget and monitor expenditures\"\n  ]\n}",
+  "parsed": {
+    "doc_id": "JD-035",
+    "doc_type": "jd",
+    "job_title": "Head of CRM, Analytics and Media",
+    "role_family": "Marketing",
+    "seniority": "lead",
+    "location": "Hong Kong",
+    "remote": "unknown",
+    "min_years_experience": null,
+    "must_have_keywords": [
+      "customer relationship management",
+      "analytics",
+      "omnichannel marketing",
+      "media planning",
+      "influencer marketing",
+      "budget management",
+      "team development",
+      "strategic leadership"
+    ],
+    "nice_to_have_keywords": [
+      "Master's degree"
+    ],
+    "tools_technologies": [],
+    "domain_knowledge": [
+      "health and beauty",
+      "retail"
+    ],
+    "education_requirements": [
+      "Bachelor's degree in Marketing, Business, or a related field"
+    ],
+    "certifications": [],
+    "languages": [],
+    "soft_skills": [
+      "leadership",
+      "team management",
+      "communication",
+      "interpersonal skills",
+      "analytical skills"
+    ],
+    "key_responsibilities": [
+      "Lead strategic development and execution of marketing initiatives",
+      "Oversee all marketing functions including branding and advertising",
+      "Manage customer relationship management initiatives",
+      "Ensure cohesive brand experience across omnichannel platforms",
+      "Lead analytics team to assess customer data",
+      "Oversee media planning on Google and Meta platforms",
+      "Develop influencer marketing strategies",
+      "Manage marketing budget and monitor expenditures"
+    ]
+  },
+  "validation_errors": [
+    "keyword_word_count:health and beauty retail sector"
+  ],
+  "dropped_keywords": []
+}

@@ -1,0 +1,77 @@
+{
+  "doc_id": "JD-011",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "57ce79c7b3e52530bb5dd321fc77c5e8407b47feca40cdbf6d464c0cbb7dc79f",
+  "timestamp": "2026-11-12T03:45:31.278695+00:00",
+  "elapsed_sec": 14.27,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-011\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Senior Creative Designer\",\n  \"role_family\": \"Design & Creative\",\n  \"seniority\": \"senior\",\n  \"location\": \"Selangor, Malaysia\",\n  \"remote\": \"no\",\n  \"min_years_experience\": 1,\n  \"must_have_keywords\": [\n    \"Adobe Creative Suite\",\n    \"Photoshop\",\n    \"Illustrator\",\n    \"InDesign\",\n    \"graphic design\",\n    \"creative media\"\n  ],\n  \"nice_to_have_keywords\": [\n    \"video editing\",\n    \"animation\",\n    \"CMS tools\",\n    \"cross-cultural design\"\n  ],\n  \"tools_technologies\": [\n    \"Adobe Creative Suite\",\n    \"Photoshop\",\n    \"Illustrator\",\n    \"InDesign\"\n  ],\n  \"domain_knowledge\": [\n    \"branding\",\n    \"marketing\",\n    \"design trends\"\n  ],\n  \"education_requirements\": [\n    \"Diploma\",\n    \"Degree\",\n    \"Art\",\n    \"Design\",\n    \"Creative Multimedia\"\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"soft_skills\": [\n    \"collaboration\",\n    \"creativity\",\n    \"attention to detail\",\n    \"problem-solving\",\n    \"proactivity\"\n  ],\n  \"key_responsibilities\": [\n    \"Collaborate with clients\",\n    \"Translate ideas into design concepts\",\n    \"Develop layouts and visual concepts\",\n    \"Refine creative assets\",\n    \"Ensure aesthetic standards\",\n    \"Work with Marketing teams\",\n    \"Stay current with trends\",\n    \"Provide strategic input\",\n    \"Evaluate creative materials\"\n  ]\n}",
+  "parsed": {
+    "doc_id": "JD-011",
+    "doc_type": "jd",
+    "job_title": "Senior Creative Designer",
+    "role_family": "Design & Creative",
+    "seniority": "senior",
+    "location": "Selangor, Malaysia",
+    "remote": "no",
+    "min_years_experience": 1,
+    "must_have_keywords": [
+      "Adobe Creative Suite",
+      "Photoshop",
+      "Illustrator",
+      "InDesign",
+      "graphic design",
+      "creative media"
+    ],
+    "nice_to_have_keywords": [
+      "video editing",
+      "animation",
+      "CMS tools",
+      "cross-cultural design"
+    ],
+    "tools_technologies": [
+      "Adobe Creative Suite",
+      "Photoshop",
+      "Illustrator",
+      "InDesign"
+    ],
+    "domain_knowledge": [
+      "branding",
+      "marketing",
+      "design trends"
+    ],
+    "education_requirements": [
+      "Diploma",
+      "Degree",
+      "Art",
+      "Design",
+      "Creative Multimedia"
+    ],
+    "certifications": [],
+    "languages": [],
+    "soft_skills": [
+      "collaboration",
+      "creativity",
+      "attention to detail",
+      "problem-solving",
+      "proactivity"
+    ],
+    "key_responsibilities": [
+      "Collaborate with clients",
+      "Translate ideas into design concepts",
+      "Develop layouts and visual concepts",
+      "Refine creative assets",
+      "Ensure aesthetic standards",
+      "Work with Marketing teams",
+      "Stay current with trends",
+      "Provide strategic input",
+      "Evaluate creative materials"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

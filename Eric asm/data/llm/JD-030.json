@@ -1,0 +1,64 @@
+{
+  "doc_id": "JD-030",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "7874dd1aa722b598c8a80472b688e20221cd6b4d625d8c89b303ec4385b709e8",
+  "timestamp": "2026-11-12T03:47:46.266105+00:00",
+  "elapsed_sec": 9.29,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\"doc_id\":\"JD-030\",\"doc_type\":\"jd\",\"job_title\":\"Legal & Compliance, Research Compliance Associate\",\"role_family\":\"Finance & Legal\",\"seniority\":\"junior\",\"location\":\"Hong Kong\",\"remote\":\"hybrid\",\"min_years_experience\":1,\"must_have_keywords\":[\"compliance\",\"legal\",\"research\",\"English\"],\"nice_to_have_keywords\":[\"additional language skills\",\"leadership experience\",\"extracurricular involvement\"],\"tools_technologies\":[],\"domain_knowledge\":[\"compliance\",\"legal\",\"research\"],\"education_requirements\":\"Bachelor's degree in any field with strong academic performance\",\"certifications\":[],\"languages\":[\"English\"],\"soft_skills\":[\"attention to detail\",\"time management\",\"prioritization\",\"organizational skills\",\"self-starter\",\"proactive mindset\"],\"key_responsibilities\":[\"Review expert profiles and project details\",\"Proofread and format written outputs\",\"Identify and resolve legal or compliance flags\",\"Deliver compliance training sessions\",\"Support development of internal compliance policies\"]}",
+  "parsed": {
+    "doc_id": "JD-030",
+    "doc_type": "jd",
+    "job_title": "Legal & Compliance, Research Compliance Associate",
+    "role_family": "Finance & Legal",
+    "seniority": "junior",
+    "location": "Hong Kong",
+    "remote": "hybrid",
+    "min_years_experience": 1,
+    "must_have_keywords": [
+      "compliance",
+      "legal",
+      "research",
+      "English"
+    ],
+    "nice_to_have_keywords": [
+      "additional language skills",
+      "leadership experience",
+      "extracurricular involvement"
+    ],
+    "tools_technologies": [],
+    "domain_knowledge": [
+      "compliance",
+      "legal",
+      "research"
+    ],
+    "education_requirements": [
+      "Bachelor's degree in any field with strong academic performance"
+    ],
+    "certifications": [],
+    "languages": [
+      "English"
+    ],
+    "soft_skills": [
+      "attention to detail",
+      "time management",
+      "prioritization",
+      "organizational skills",
+      "self-starter",
+      "proactive mindset"
+    ],
+    "key_responsibilities": [
+      "Review expert profiles and project details",
+      "Proofread and format written outputs",
+      "Identify and resolve legal or compliance flags",
+      "Deliver compliance training sessions",
+      "Support development of internal compliance policies"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

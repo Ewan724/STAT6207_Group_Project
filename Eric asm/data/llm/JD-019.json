@@ -1,0 +1,124 @@
+{
+  "doc_id": "JD-019",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "cbd17bebb4ddde6b51f17654ba6a69da6148a716071a03a053b02a8d924590a3",
+  "timestamp": "2026-11-12T03:46:34.948122+00:00",
+  "elapsed_sec": 19.97,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-019\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Network Engineer\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"junior\",\n  \"location\": \"Asia\",\n  \"remote\": \"yes\",\n  \"min_years_experience\": 2,\n  \"must_have_keywords\": [\n    \"Microsoft Office suite\",\n    \"Cisco switching\",\n    \"Cisco routing\",\n    \"SD-WAN\",\n    \"PRISMA Access\",\n    \"enterprise WiFi\",\n    \"network monitoring platforms\",\n    \"routing protocols\",\n    \"BGP\",\n    \"EIGRP\",\n    \"OSPF\",\n    \"packet captures\",\n    \"firewall concepts\"\n  ],\n  \"nice_to_have_keywords\": [\n    \"Bachelor's degree Computer Science\",\n    \"Palo Alto Networks firewalls\",\n    \"Aruba Networks wireless infrastructure\",\n    \"Network automation tools\",\n    \"Cisco certification\",\n    \"Palo Alto certification\",\n    \"Aruba certification\",\n    \"Mandarin\"\n  ],\n  \"tools_technologies\": [\n    \"Microsoft Office suite\",\n    \"iManage\",\n    \"Cisco switching\",\n    \"Cisco routing\",\n    \"SD-WAN\",\n    \"PRISMA Access\",\n    \"enterprise WiFi\",\n    \"network monitoring platforms\",\n    \"BGP\",\n    \"EIGRP\",\n    \"OSPF\",\n    \"packet captures\",\n    \"firewall concepts\",\n    \"Palo Alto Networks firewalls\",\n    \"Aruba Networks wireless infrastructure\",\n    \"Network automation tools\"\n  ],\n  \"domain_knowledge\": [\n    \"networking\",\n    \"Cisco\",\n    \"SD-WAN\",\n    \"PRISMA Access\",\n    \"WiFi\",\n    \"routing protocols\"\n  ],\n  \"education_requirements\": [\n    \"Bachelor's degree Computer Science, Information Systems, or other related field\"\n  ],\n  \"certifications\": [\n    \"Cisco certification\",\n    \"Palo Alto certification\",\n    \"Aruba certification\"\n  ],\n  \"languages\": [\n    \"English\",\n    \"Mandarin\"\n  ],\n  \"soft_skills\": [\n    \"communication skills\",\n    \"team player\",\n    \"analytical skills\",\n    \"project management\",\n    \"independent work\",\n    \"judgment\",\n    \"organizational skills\"\n  ],\n  \"key_responsibilities\": [\n    \"LAN, WAN, and WLAN Tier 3 support\",\n    \"network infrastructure support\",\n    \"Configure LAN, WLAN and WAN environments\",\n    \"Monitor network performance and integrity\",\n    \"Troubleshooting/issue management\",\n    \"network maintenance, upgrades and refreshes\",\n    \"wireless surveys\",\n    \"user remote access management\",\n    \"regional office build outs and upgrades\",\n    \"SLA monitoring\",\n    \"vendor coordination\",\n    \"system documentation\"\n  ]\n}",
+  "parsed": {
+    "doc_id": "JD-019",
+    "doc_type": "jd",
+    "job_title": "Network Engineer",
+    "role_family": "Engineering",
+    "seniority": "junior",
+    "location": "Asia",
+    "remote": "yes",
+    "min_years_experience": 2,
+    "must_have_keywords": [
+      "Microsoft Office suite",
+      "Cisco switching",
+      "SD-WAN",
+      "PRISMA Access",
+      "enterprise WiFi",
+      "network monitoring platforms",
+      "routing protocols",
+      "BGP",
+      "EIGRP",
+      "OSPF",
+      "packet captures",
+      "firewall concepts"
+    ],
+    "nice_to_have_keywords": [
+      "Bachelor's degree Computer Science",
+      "Palo Alto Networks firewalls",
+      "Aruba Networks wireless infrastructure",
+      "Network automation tools",
+      "Aruba certification",
+      "Mandarin"
+    ],
+    "tools_technologies": [
+      "Microsoft Office suite",
+      "iManage",
+      "Cisco switching",
+      "SD-WAN",
+      "PRISMA Access",
+      "enterprise WiFi",
+      "network monitoring platforms",
+      "BGP",
+      "EIGRP",
+      "OSPF",
+      "packet captures",
+      "firewall concepts",
+      "Palo Alto Networks firewalls",
+      "Aruba Networks wireless infrastructure",
+      "Network automation tools"
+    ],
+    "domain_knowledge": [
+      "networking",
+      "Cisco",
+      "SD-WAN",
+      "PRISMA Access",
+      "WiFi",
+      "routing protocols"
+    ],
+    "education_requirements": [
+      "Bachelor's degree Computer Science, Information Systems, or other related field"
+    ],
+    "certifications": [
+      "Cisco certification",
+      "Palo Alto certification",
+      "Aruba certification"
+    ],
+    "languages": [
+      "English",
+      "Mandarin"
+    ],
+    "soft_skills": [
+      "communication skills",
+      "team player",
+      "analytical skills",
+      "project management",
+      "independent work",
+      "judgment",
+      "organizational skills"
+    ],
+    "key_responsibilities": [
+      "LAN, WAN, and WLAN Tier 3 support",
+      "network infrastructure support",
+      "Configure LAN, WLAN and WAN environments",
+      "Monitor network performance and integrity",
+      "Troubleshooting/issue management",
+      "network maintenance, upgrades and refreshes",
+      "wireless surveys",
+      "user remote access management",
+      "regional office build outs and upgrades",
+      "SLA monitoring",
+      "vendor coordination",
+      "system documentation"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "Cisco routing",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "Cisco certification",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "Palo Alto certification",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "Cisco routing",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

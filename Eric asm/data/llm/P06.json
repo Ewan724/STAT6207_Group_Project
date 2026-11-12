@@ -1,0 +1,67 @@
+{
+  "doc_id": "P06",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "8a83fcbe7bb10568613240339f2cf6141c41a851c7be1ebb055fd04e36e8febd",
+  "timestamp": "2026-11-12T03:42:45.065265+00:00",
+  "elapsed_sec": 18.37,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"P06\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Deployment Strategist\",\n  \"role_family\": \"Technology & Operations\",\n  \"seniority\": \"mid\",\n  \"location\": \"Singapore, Singapore\",\n  \"remote\": \"unknown\",\n  \"min_years_experience\": null,\n  \"must_have_keywords\": [\"APIs\", \"data flows\", \"system integrations\", \"project management\", \"stakeholder management\"],\n  \"nice_to_have_keywords\": [\"Engineering background\", \"management consulting\", \"strategy consulting\", \"technical consulting\", \"startup environment\"],\n  \"tools_technologies\": [],\n  \"domain_knowledge\": [\"AI\", \"enterprise solutions\"],\n  \"education_requirements\": [\"Bachelor's degree in Computer Science or a related technical field\"],\n  \"certifications\": [],\n  \"languages\": [],\n  \"soft_skills\": [\"communication\", \"problem-solving\", \"decision-making\", \"proactivity\", \"organization\"],\n  \"key_responsibilities\": [\"Own delivery of client platform and AI agents\", \"Scope requirements and success metrics\", \"Coordinate implementation and integrations\", \"Align Product, Engineering, and customer teams\", \"Monitor AI agent performance in production\"]\n}",
+  "parsed": {
+    "doc_id": "P06",
+    "doc_type": "jd",
+    "job_title": "Deployment Strategist",
+    "role_family": "Technology & Operations",
+    "seniority": "mid",
+    "location": "Singapore, Singapore",
+    "remote": "unknown",
+    "min_years_experience": null,
+    "must_have_keywords": [
+      "APIs",
+      "data flows",
+      "system integrations",
+      "project management"
+    ],
+    "nice_to_have_keywords": [
+      "Engineering background",
+      "management consulting",
+      "strategy consulting",
+      "technical consulting",
+      "startup environment"
+    ],
+    "tools_technologies": [],
+    "domain_knowledge": [
+      "AI",
+      "enterprise solutions"
+    ],
+    "education_requirements": [
+      "Bachelor's degree in Computer Science or a related technical field"
+    ],
+    "certifications": [],
+    "languages": [],
+    "soft_skills": [
+      "communication",
+      "problem-solving",
+      "decision-making",
+      "proactivity",
+      "organization"
+    ],
+    "key_responsibilities": [
+      "Own delivery of client platform and AI agents",
+      "Scope requirements and success metrics",
+      "Coordinate implementation and integrations",
+      "Align Product, Engineering, and customer teams",
+      "Monitor AI agent performance in production"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "stakeholder management",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

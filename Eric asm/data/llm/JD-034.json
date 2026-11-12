@@ -1,0 +1,79 @@
+{
+  "doc_id": "JD-034",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "72decdb4e53d9439bfd41bcbda2824a208a2cc78bc5d8b913a00bd1be83c4188",
+  "timestamp": "2026-11-12T03:48:11.851026+00:00",
+  "elapsed_sec": 15.23,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-034\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Brand Manager\",\n  \"role_family\": \"Marketing\",\n  \"seniority\": \"mid\",\n  \"location\": \"Kuala Lumpur, Malaysia\",\n  \"remote\": \"hybrid\",\n  \"min_years_experience\": 5,\n  \"must_have_keywords\": [\n    \"brand management\",\n    \"eCommerce\",\n    \"marketplace experience\",\n    \"team leadership\",\n    \"performance reporting\",\n    \"brand profitability\",\n    \"operational excellence\",\n    \"strategic planning\",\n    \"project management\"\n  ],\n  \"nice_to_have_keywords\": [\n    \"Beauty\",\n    \"FMCG\",\n    \"Consumer Healthcare\",\n    \"Lazada\",\n    \"Shopee\",\n    \"TikTok\"\n  ],\n  \"tools_technologies\": [],\n  \"domain_knowledge\": [\n    \"Beauty\",\n    \"FMCG\",\n    \"Consumer Healthcare\",\n    \"eCommerce\"\n  ],\n  \"education_requirements\": [\n    \"Bachelor's degree in Marketing, Business, Communications or a related field\"\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"soft_skills\": [\n    \"communication skills\",\n    \"analytical capabilities\",\n    \"strategic planning\",\n    \"proactive mindset\",\n    \"results-driven\",\n    \"collaboration\"\n  ],\n  \"key_responsibilities\": [\n    \"Develop & Execute eCommerce Strategies\",\n    \"Cross-Functional Collaboration\",\n    \"Market & Consumer Insights\",\n    \"Team Leadership\",\n    \"Performance Reporting\",\n    \"Brand Profitability\",\n    \"Operational Excellence\",\n    \"Stay Ahead of Trends\",\n    \"Ad-Hoc Initiatives\"\n  ]\n}",
+  "parsed": {
+    "doc_id": "JD-034",
+    "doc_type": "jd",
+    "job_title": "Brand Manager",
+    "role_family": "Marketing",
+    "seniority": "mid",
+    "location": "Kuala Lumpur, Malaysia",
+    "remote": "hybrid",
+    "min_years_experience": 5,
+    "must_have_keywords": [
+      "brand management",
+      "eCommerce",
+      "marketplace experience",
+      "team leadership",
+      "performance reporting",
+      "brand profitability",
+      "operational excellence",
+      "strategic planning"
+    ],
+    "nice_to_have_keywords": [
+      "Beauty",
+      "FMCG",
+      "Consumer Healthcare",
+      "Lazada",
+      "Shopee",
+      "TikTok"
+    ],
+    "tools_technologies": [],
+    "domain_knowledge": [
+      "Beauty",
+      "FMCG",
+      "Consumer Healthcare",
+      "eCommerce"
+    ],
+    "education_requirements": [
+      "Bachelor's degree in Marketing, Business, Communications or a related field"
+    ],
+    "certifications": [],
+    "languages": [],
+    "soft_skills": [
+      "communication skills",
+      "analytical capabilities",
+      "strategic planning",
+      "proactive mindset",
+      "results-driven",
+      "collaboration"
+    ],
+    "key_responsibilities": [
+      "Develop & Execute eCommerce Strategies",
+      "Cross-Functional Collaboration",
+      "Market & Consumer Insights",
+      "Team Leadership",
+      "Performance Reporting",
+      "Brand Profitability",
+      "Operational Excellence",
+      "Stay Ahead of Trends",
+      "Ad-Hoc Initiatives"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "project management",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

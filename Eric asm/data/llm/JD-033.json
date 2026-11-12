@@ -1,0 +1,86 @@
+{
+  "doc_id": "JD-033",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "2d1871ca36be32bf91d9ee14e9681a98dba8473793bcefea89bb7fe06d05b432",
+  "timestamp": "2026-11-12T03:48:04.094183+00:00",
+  "elapsed_sec": 13.23,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-033\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Factory Director\",\n  \"role_family\": \"Leadership\",\n  \"seniority\": \"lead\",\n  \"location\": \"Vietnam, Bắc Ninh\",\n  \"remote\": \"no\",\n  \"min_years_experience\": 10,\n  \"must_have_keywords\": [\n    \"machining operations management\",\n    \"sheet metal manufacturing\",\n    \"strategic planning\",\n    \"operational decision-making\",\n    \"financial control\",\n    \"cost optimization\",\n    \"quality control management\",\n    \"team leadership\",\n    \"lean manufacturing\"\n  ],\n  \"nice_to_have_keywords\": [\n    \"independent operational experience\",\n    \"machining plants in Vietnam\",\n    \"client networks\",\n    \"market development\",\n    \"customer management\",\n    \"R&D coordination\",\n    \"succession planning\"\n  ],\n  \"tools_technologies\": [],\n  \"domain_knowledge\": [\n    \"machining\",\n    \"sheet metal manufacturing\",\n    \"consumer electronics\",\n    \"semiconductors\",\n    \"new energy\"\n  ],\n  \"education_requirements\": [\n    \"university degree\"\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"soft_skills\": [\n    \"strategic thinking\",\n    \"operational decision-making\",\n    \"cross-departmental coordination\",\n    \"problem-solving\",\n    \"communication\",\n    \"negotiation\",\n    \"resilience\"\n  ],\n  \"key_responsibilities\": [\n    \"Strategic Planning and Operational Control\",\n    \"Market Development and Customer Management\",\n    \"Integrated Production and Sales Operations\",\n    \"Team Building and Organizational Development\"\n  ]\n}",
+  "parsed": {
+    "doc_id": "JD-033",
+    "doc_type": "jd",
+    "job_title": "Factory Director",
+    "role_family": "Leadership",
+    "seniority": "lead",
+    "location": "Vietnam, Bắc Ninh",
+    "remote": "no",
+    "min_years_experience": 10,
+    "must_have_keywords": [
+      "sheet metal manufacturing",
+      "strategic planning",
+      "operational decision-making",
+      "financial control",
+      "quality control management",
+      "team leadership",
+      "lean manufacturing"
+    ],
+    "nice_to_have_keywords": [
+      "machining plants in Vietnam",
+      "client networks",
+      "market development",
+      "customer management",
+      "succession planning"
+    ],
+    "tools_technologies": [],
+    "domain_knowledge": [
+      "machining",
+      "sheet metal manufacturing",
+      "consumer electronics",
+      "semiconductors",
+      "new energy"
+    ],
+    "education_requirements": [
+      "university degree"
+    ],
+    "certifications": [],
+    "languages": [],
+    "soft_skills": [
+      "strategic thinking",
+      "operational decision-making",
+      "cross-departmental coordination",
+      "problem-solving",
+      "communication",
+      "negotiation",
+      "resilience"
+    ],
+    "key_responsibilities": [
+      "Strategic Planning and Operational Control",
+      "Market Development and Customer Management",
+      "Integrated Production and Sales Operations",
+      "Team Building and Organizational Development"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "machining operations management",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "cost optimization",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "independent operational experience",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "R&D coordination",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

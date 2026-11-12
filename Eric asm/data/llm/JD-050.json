@@ -1,0 +1,66 @@
+{
+  "doc_id": "JD-050",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "9ad740417c4f0bcad5ef55a3186d4ac2a8b3d5ae38f96163f52101dcd431a0aa",
+  "timestamp": "2026-11-12T03:50:01.291206+00:00",
+  "elapsed_sec": 14.29,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-050\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Business Development Manager (Web3)\",\n  \"role_family\": \"Sales & BD\",\n  \"seniority\": \"junior\",\n  \"location\": \"Hong Kong\",\n  \"remote\": \"hybrid\",\n  \"min_years_experience\": 1,\n  \"must_have_keywords\": [\"business development\", \"capital raising\", \"fundraising\", \"DeFi\", \"client relationship management\"],\n  \"nice_to_have_keywords\": [\"networking\", \"institutional finance\", \"crypto funds\", \"family offices\"],\n  \"tools_technologies\": [],\n  \"domain_knowledge\": [\"DeFi\", \"financial services\", \"asset management\", \"crypto\"],\n  \"education_requirements\": [\"Bachelor's degree in Business, Finance, Economics, or a related field\"],\n  \"certifications\": [],\n  \"languages\": [],\n  \"soft_skills\": [\"presentation\", \"negotiation\", \"autonomy\", \"target achievement\"],\n  \"key_responsibilities\": [\"Lead capital raising and fund distribution strategies\", \"Source and close investment opportunities in DeFi and institutional crypto segments\", \"Build and manage client relationships\", \"Represent the fund at Web3/DeFi industry events\"]\n}",
+  "parsed": {
+    "doc_id": "JD-050",
+    "doc_type": "jd",
+    "job_title": "Business Development Manager (Web3)",
+    "role_family": "Sales & BD",
+    "seniority": "junior",
+    "location": "Hong Kong",
+    "remote": "hybrid",
+    "min_years_experience": 1,
+    "must_have_keywords": [
+      "business development",
+      "capital raising",
+      "fundraising",
+      "DeFi",
+      "client relationship management"
+    ],
+    "nice_to_have_keywords": [
+      "institutional finance",
+      "crypto funds",
+      "family offices"
+    ],
+    "tools_technologies": [],
+    "domain_knowledge": [
+      "DeFi",
+      "financial services",
+      "asset management",
+      "crypto"
+    ],
+    "education_requirements": [
+      "Bachelor's degree in Business, Finance, Economics, or a related field"
+    ],
+    "certifications": [],
+    "languages": [],
+    "soft_skills": [
+      "presentation",
+      "negotiation",
+      "autonomy",
+      "target achievement"
+    ],
+    "key_responsibilities": [
+      "Lead capital raising and fund distribution strategies",
+      "Source and close investment opportunities in DeFi and institutional crypto segments",
+      "Build and manage client relationships",
+      "Represent the fund at Web3/DeFi industry events"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "networking",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

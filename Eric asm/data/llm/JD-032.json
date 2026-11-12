@@ -1,0 +1,77 @@
+{
+  "doc_id": "JD-032",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "820eec6ce95995a343229a9b92769f8b7925d9137dad655b4aed5935362fc16e",
+  "timestamp": "2026-11-12T03:47:56.617362+00:00",
+  "elapsed_sec": 10.35,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-032\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Chief Technology Officer (CTO)\",\n  \"role_family\": \"Leadership\",\n  \"seniority\": \"lead\",\n  \"location\": \"Kuala Lumpur, Malaysia\",\n  \"remote\": \"unknown\",\n  \"min_years_experience\": null,\n  \"must_have_keywords\": [\"technical vision\", \"engineering leadership\", \"cloud infrastructure\", \"AI strategies\", \"DevOps processes\", \"CI/CD pipelines\", \"security practices\"],\n  \"nice_to_have_keywords\": [\"AWS\", \"GCP\", \"Azure\", \"ML experience\", \"fintech exposure\"],\n  \"tools_technologies\": [\"AWS\", \"GCP\", \"Azure\"],\n  \"domain_knowledge\": [\"AI\", \"backend systems\", \"distributed architecture\", \"cloud infrastructure\"],\n  \"education_requirements\": null,\n  \"certifications\": [],\n  \"languages\": [\"English\"],\n  \"soft_skills\": [\"leadership\", \"communication\", \"collaboration\", \"strategic thinking\"],\n  \"key_responsibilities\": [\"Own technical vision and architecture\", \"Lead engineering team\", \"Implement AI strategies\", \"Ensure DevOps processes\", \"Oversee cloud infrastructure\"]\n}",
+  "parsed": {
+    "doc_id": "JD-032",
+    "doc_type": "jd",
+    "job_title": "Chief Technology Officer (CTO)",
+    "role_family": "Leadership",
+    "seniority": "lead",
+    "location": "Kuala Lumpur, Malaysia",
+    "remote": "unknown",
+    "min_years_experience": null,
+    "must_have_keywords": [
+      "technical vision",
+      "engineering leadership",
+      "cloud infrastructure",
+      "AI strategies",
+      "DevOps processes",
+      "CI/CD pipelines"
+    ],
+    "nice_to_have_keywords": [
+      "AWS",
+      "GCP",
+      "Azure",
+      "ML experience"
+    ],
+    "tools_technologies": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "domain_knowledge": [
+      "AI",
+      "backend systems",
+      "distributed architecture",
+      "cloud infrastructure"
+    ],
+    "education_requirements": [],
+    "certifications": [],
+    "languages": [
+      "English"
+    ],
+    "soft_skills": [
+      "leadership",
+      "communication",
+      "collaboration",
+      "strategic thinking"
+    ],
+    "key_responsibilities": [
+      "Own technical vision and architecture",
+      "Lead engineering team",
+      "Implement AI strategies",
+      "Ensure DevOps processes",
+      "Oversee cloud infrastructure"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "security practices",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "fintech exposure",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

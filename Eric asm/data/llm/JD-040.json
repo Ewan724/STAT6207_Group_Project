@@ -1,0 +1,97 @@
+{
+  "doc_id": "JD-040",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "cc5b6b7819fa141b4eadc67ce31f9341a0633b1b24389c2d00e080f78e0b4083",
+  "timestamp": "2026-11-12T03:48:53.261411+00:00",
+  "elapsed_sec": 12.82,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-040\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Omni Channel eCommerce Operations Manager\",\n  \"role_family\": \"Operations & HR\",\n  \"seniority\": \"mid\",\n  \"location\": \"Singapore\",\n  \"remote\": \"unknown\",\n  \"min_years_experience\": 3,\n  \"must_have_keywords\": [\"warehouse operations\", \"eCommerce\", \"WMS\", \"OMS\", \"client management\", \"process improvement\", \"KPI monitoring\", \"team leadership\", \"cost control\", \"safety compliance\"],\n  \"nice_to_have_keywords\": [\"Shopee\", \"Lazada\", \"Shopify\", \"TikTok\", \"3PL\"],\n  \"tools_technologies\": [\"WMS\", \"OMS\", \"Shopify\", \"Shopee\", \"Lazada\", \"TikTok\"],\n  \"domain_knowledge\": [\"logistics\", \"supply chain\", \"business\"],\n  \"education_requirements\": [\"Diploma\", \"Degree in Logistics\", \"Supply Chain\", \"Business\"],\n  \"certifications\": [],\n  \"languages\": [],\n  \"soft_skills\": [\"client-oriented\", \"leadership\", \"problem-solving\", \"communication\", \"analytical skills\", \"organizational skills\"],\n  \"key_responsibilities\": [\"Oversee warehouse operations\", \"Manage client onboarding\", \"Drive process improvements\", \"Monitor KPIs\", \"Manage team leads\", \"Control operational costs\"]\n}",
+  "parsed": {
+    "doc_id": "JD-040",
+    "doc_type": "jd",
+    "job_title": "Omni Channel eCommerce Operations Manager",
+    "role_family": "Operations & HR",
+    "seniority": "mid",
+    "location": "Singapore",
+    "remote": "unknown",
+    "min_years_experience": 3,
+    "must_have_keywords": [
+      "warehouse operations",
+      "eCommerce",
+      "WMS",
+      "OMS",
+      "process improvement"
+    ],
+    "nice_to_have_keywords": [
+      "Shopee",
+      "Lazada",
+      "Shopify",
+      "TikTok",
+      "3PL"
+    ],
+    "tools_technologies": [
+      "WMS",
+      "OMS",
+      "Shopify",
+      "Shopee",
+      "Lazada",
+      "TikTok"
+    ],
+    "domain_knowledge": [
+      "logistics",
+      "supply chain",
+      "business"
+    ],
+    "education_requirements": [
+      "Diploma",
+      "Degree in Logistics",
+      "Supply Chain",
+      "Business"
+    ],
+    "certifications": [],
+    "languages": [],
+    "soft_skills": [
+      "client-oriented",
+      "leadership",
+      "problem-solving",
+      "communication",
+      "analytical skills",
+      "organizational skills"
+    ],
+    "key_responsibilities": [
+      "Oversee warehouse operations",
+      "Manage client onboarding",
+      "Drive process improvements",
+      "Monitor KPIs",
+      "Manage team leads",
+      "Control operational costs"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "client management",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "KPI monitoring",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "team leadership",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "cost control",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "safety compliance",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "doc_id": "CV-095",
+  "doc_type": "cv",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "b48a1fd8d6112a2dc113d55195015fc4b66ee58704bae602df432a492c6dbcd5",
+  "timestamp": "2026-11-12T03:39:48.468024+00:00",
+  "elapsed_sec": 28.62,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"CV-095\",\n  \"doc_type\": \"cv\",\n  \"current_title\": \"CTO\",\n  \"current_company\": \"Sports-venue SaaS startup\",\n  \"role_family\": \"Leadership/Other\",\n  \"seniority\": \"executive\",\n  \"total_years_experience\": null,\n  \"skills\": [\n    \"Node.js\",\n    \"TypeScript\",\n    \"Cloud Functions\",\n    \"Express\",\n    \"PostgreSQL\",\n    \"Firebase\",\n    \"GCP Cloud Functions\",\n    \"Cloud Tasks\",\n    \"PubSub\",\n    \"Redis\",\n    \"Golang\",\n    \"Next.JS\",\n    \"Puppeteer\",\n    \"Azure\",\n    \"Docker\",\n    \"Serverless\",\n    \"React\",\n    \"Redux\",\n    \"RabbitMQ\",\n    \"Kafka\",\n    \"MongoDB\",\n    \"Amazon SQS\",\n    \"Kubernetes\",\n    \"JavaScript\",\n    \"Ruby on Rails\",\n    \"MySQL\",\n    \"Sails js\"\n  ],\n  \"tools_technologies\": [\n    \"Node.js\",\n    \"TypeScript\",\n    \"Cloud Functions\",\n    \"Express\",\n    \"PostgreSQL\",\n    \"Firebase\",\n    \"GCP Cloud Functions\",\n    \"Cloud Tasks\",\n    \"PubSub\",\n    \"Redis\",\n    \"Golang\",\n    \"Next.JS\",\n    \"Puppeteer\",\n    \"Azure\",\n    \"Docker\",\n    \"Serverless\",\n    \"React\",\n    \"Redux\",\n    \"RabbitMQ\",\n    \"Kafka\",\n    \"MongoDB\",\n    \"Amazon SQS\",\n    \"Kubernetes\",\n    \"JavaScript\",\n    \"Ruby on Rails\",\n    \"MySQL\",\n    \"Sails js\"\n  ],\n  \"domains\": [\n    \"sports-venue-management\",\n    \"fintech\",\n    \"recruitment\",\n    \"e-commerce\"\n  ],\n  \"education\": [\n    {\n      \"degree\": \"Business Essentials\",\n      \"field\": null,\n      \"institution\": \"Harvard Business School Online\",\n      \"year\": 2021\n    },\n    {\n      \"degree\": \"Bachelor's Degree\",\n      \"field\": null,\n      \"institution\": \"Bina Nusantara\",\n      \"year\": 2014\n    }\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"locations\": [\n    \"Indonesia\"\n  ],\n  \"soft_skills\": [\n    \"team leadership\",\n    \"mentoring\",\n    \"technical scoping\"\n  ],\n  \"work_history\": [\n    {\n      \"title\": \"CTO\",\n      \"company\": \"Sports-venue SaaS startup\",\n      \"start\": \"2025-01\",\n      \"end\": \"Present\"\n    },\n    {\n      \"title\": \"Lead Software Engineer (Tech Lead)\",\n      \"company\": \"QODE\",\n      \"start\": \"2023-01\",\n      \"end\": \"2024-01\"\n    },\n    {\n      \"title\": \"Senior Product Manager\",\n      \"company\": \"Rupiah Token (Subsidiary of Pintu Crypto Exchange)\",\n      \"start\": \"2022-10\",\n      \"end\": \"2023-04\"\n    },\n    {\n      \"title\": \"Product Manager\",\n      \"company\": \"Xendit\",\n      \"start\": \"2021-05\",\n      \"end\": \"2022-09\"\n    },\n    {\n      \"title\": \"Senior Software Engineer (Tech Lead)\",\n      \"company\": \"Xendit\",\n      \"start\": \"2019-06\",\n      \"end\": \"2021-04\"\n    }\n  ]\n}",
+  "parsed": {
+    "doc_id": "CV-095",
+    "doc_type": "cv",
+    "current_title": "CTO",
+    "current_company": "Sports-venue SaaS startup",
+    "role_family": "Leadership/Other",
+    "seniority": "executive",
+    "total_years_experience": null,
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "Cloud Functions",
+      "Express",
+      "PostgreSQL",
+      "Firebase",
+      "GCP Cloud Functions",
+      "Cloud Tasks",
+      "PubSub",
+      "Redis",
+      "Golang",
+      "Next.JS",
+      "Puppeteer",
+      "Azure",
+      "Docker",
+      "Serverless",
+      "React",
+      "Redux",
+      "RabbitMQ",
+      "Kafka",
+      "MongoDB",
+      "Amazon SQS",
+      "Kubernetes",
+      "JavaScript",
+      "Ruby on Rails",
+      "MySQL",
+      "Sails js"
+    ],
+    "tools_technologies": [
+      "Node.js",
+      "TypeScript",
+      "Cloud Functions",
+      "Express",
+      "PostgreSQL",
+      "Firebase",
+      "GCP Cloud Functions",
+      "Cloud Tasks",
+      "PubSub",
+      "Redis",
+      "Golang",
+      "Next.JS",
+      "Puppeteer",
+      "Azure",
+      "Docker",
+      "Serverless",
+      "React",
+      "Redux",
+      "RabbitMQ",
+      "Kafka",
+      "MongoDB",
+      "Amazon SQS",
+      "Kubernetes",
+      "JavaScript",
+      "Ruby on Rails",
+      "MySQL",
+      "Sails js"
+    ],
+    "domains": [
+      "sports-venue-management",
+      "fintech",
+      "recruitment",
+      "e-commerce"
+    ],
+    "education": [
+      {
+        "degree": "Business Essentials",
+        "field": null,
+        "institution": "Harvard Business School Online",
+        "year": 2021
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "field": null,
+        "institution": "Bina Nusantara",
+        "year": 2014
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "locations": [
+      "Indonesia"
+    ],
+    "soft_skills": [
+      "team leadership",
+      "mentoring",
+      "technical scoping"
+    ],
+    "work_history": [
+      {
+        "title": "CTO",
+        "company": "Sports-venue SaaS startup",
+        "start": "2025-01",
+        "end": "Present"
+      },
+      {
+        "title": "Lead Software Engineer (Tech Lead)",
+        "company": "QODE",
+        "start": "2023-01",
+        "end": "2024-01"
+      },
+      {
+        "title": "Senior Product Manager",
+        "company": "Rupiah Token (Subsidiary of Pintu Crypto Exchange)",
+        "start": "2022-10",
+        "end": "2023-04"
+      },
+      {
+        "title": "Product Manager",
+        "company": "Xendit",
+        "start": "2021-05",
+        "end": "2022-09"
+      },
+      {
+        "title": "Senior Software Engineer (Tech Lead)",
+        "company": "Xendit",
+        "start": "2019-06",
+        "end": "2021-04"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

@@ -1,0 +1,67 @@
+{
+  "doc_id": "JD-009",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "77c8187dac4d38a291a596711514ce3eb6e6255027a340dbf39847e2da1eee2c",
+  "timestamp": "2026-11-12T03:45:17.004267+00:00",
+  "elapsed_sec": 11.49,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-009\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Creative Director\",\n  \"role_family\": \"Design & Creative\",\n  \"seniority\": \"lead\",\n  \"location\": \"Vietnam, Indonesia, Malaysia\",\n  \"remote\": \"yes\",\n  \"min_years_experience\": 5,\n  \"must_have_keywords\": [\"creative direction\", \"brand identity\", \"UI/UX design\", \"Unity Engine\", \"mobile performance\", \"video ads\", \"art assets\"],\n  \"nice_to_have_keywords\": [\"3D characters\", \"VFX\", \"storyboards\", \"game development\"],\n  \"tools_technologies\": [\"Unity Engine\"],\n  \"domain_knowledge\": [\"creative strategy\", \"UI/UX design\", \"mobile games\"],\n  \"education_requirements\": null,\n  \"certifications\": [],\n  \"languages\": [],\n  \"soft_skills\": [\"leadership\", \"strategic planning\", \"cross-department collaboration\", \"presentation\"],\n  \"key_responsibilities\": [\"Define creative direction for brand\", \"Design in-game UI/UX\", \"Oversee marketing assets\", \"Lead creative strategy execution\"]\n}",
+  "parsed": {
+    "doc_id": "JD-009",
+    "doc_type": "jd",
+    "job_title": "Creative Director",
+    "role_family": "Design & Creative",
+    "seniority": "lead",
+    "location": "Vietnam, Indonesia, Malaysia",
+    "remote": "yes",
+    "min_years_experience": 5,
+    "must_have_keywords": [
+      "creative direction",
+      "brand identity",
+      "UI/UX design",
+      "Unity Engine",
+      "mobile performance",
+      "video ads"
+    ],
+    "nice_to_have_keywords": [
+      "3D characters",
+      "VFX",
+      "storyboards",
+      "game development"
+    ],
+    "tools_technologies": [
+      "Unity Engine"
+    ],
+    "domain_knowledge": [
+      "creative strategy",
+      "UI/UX design",
+      "mobile games"
+    ],
+    "education_requirements": [],
+    "certifications": [],
+    "languages": [],
+    "soft_skills": [
+      "leadership",
+      "strategic planning",
+      "cross-department collaboration",
+      "presentation"
+    ],
+    "key_responsibilities": [
+      "Define creative direction for brand",
+      "Design in-game UI/UX",
+      "Oversee marketing assets",
+      "Lead creative strategy execution"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "art assets",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

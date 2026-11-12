@@ -1,0 +1,72 @@
+{
+  "doc_id": "JD-008",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "6651dfee5f1aee98bc5997cba5c2a8d93c4b9aba0fb817a6b42c1ca417907bce",
+  "timestamp": "2026-11-12T03:45:11.485561+00:00",
+  "elapsed_sec": 16.01,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-008\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"AI Artist / Video Editor\",\n  \"role_family\": \"Design & Creative\",\n  \"seniority\": \"junior\",\n  \"location\": \"Remote\",\n  \"remote\": \"yes\",\n  \"min_years_experience\": 2,\n  \"must_have_keywords\": [\"video editing\", \"motion graphics\", \"AI-driven content creation\", \"After Effects\", \"Midjourney\", \"Kling\", \"Freepik\", \"Seedance\", \"Seedream\"],\n  \"nice_to_have_keywords\": [],\n  \"tools_technologies\": [\"After Effects\", \"Midjourney\", \"Kling\", \"Freepik\", \"Seedance\", \"Seedream\"],\n  \"domain_knowledge\": [\"social media\", \"video editing\", \"motion graphics\", \"AI tools\"],\n  \"education_requirements\": null,\n  \"certifications\": [],\n  \"languages\": [],\n  \"soft_skills\": [\"communication\", \"project management\", \"collaboration\", \"adaptability\"],\n  \"key_responsibilities\": [\"Content Creation\", \"AI-Driven Innovation\", \"Creative Collaboration\", \"Post-Production Mastery\", \"Trend Awareness\", \"Project Management\", \"Feedback Integration\", \"Platform Optimization\"]\n}",
+  "parsed": {
+    "doc_id": "JD-008",
+    "doc_type": "jd",
+    "job_title": "AI Artist / Video Editor",
+    "role_family": "Design & Creative",
+    "seniority": "junior",
+    "location": "Remote",
+    "remote": "yes",
+    "min_years_experience": 2,
+    "must_have_keywords": [
+      "video editing",
+      "motion graphics",
+      "AI-driven content creation",
+      "After Effects",
+      "Midjourney",
+      "Kling",
+      "Freepik",
+      "Seedance",
+      "Seedream"
+    ],
+    "nice_to_have_keywords": [],
+    "tools_technologies": [
+      "After Effects",
+      "Midjourney",
+      "Kling",
+      "Freepik",
+      "Seedance",
+      "Seedream"
+    ],
+    "domain_knowledge": [
+      "social media",
+      "video editing",
+      "motion graphics",
+      "AI tools"
+    ],
+    "education_requirements": [],
+    "certifications": [],
+    "languages": [],
+    "soft_skills": [
+      "communication",
+      "project management",
+      "collaboration",
+      "adaptability"
+    ],
+    "key_responsibilities": [
+      "Content Creation",
+      "AI-Driven Innovation",
+      "Creative Collaboration",
+      "Post-Production Mastery",
+      "Trend Awareness",
+      "Project Management",
+      "Feedback Integration",
+      "Platform Optimization"
+    ]
+  },
+  "validation_errors": [
+    "empty_nice_to_have_keywords"
+  ],
+  "dropped_keywords": []
+}

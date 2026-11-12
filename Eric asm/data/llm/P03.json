@@ -1,0 +1,82 @@
+{
+  "doc_id": "P03",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "de947e27d3dedc4942327e356c7cd55dfeb75d97578e9effc8b293c29f06b7d5",
+  "timestamp": "2026-11-12T03:41:48.663078+00:00",
+  "elapsed_sec": 18.5,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"P03\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"GTM Marketing Manager / Lead\",\n  \"role_family\": \"Marketing & Sales\",\n  \"seniority\": \"lead\",\n  \"location\": \"unknown\",\n  \"remote\": \"unknown\",\n  \"min_years_experience\": null,\n  \"must_have_keywords\": [\"marketing strategy\", \"GTM planning\", \"paid advertising\", \"SEO content strategy\", \"EDM marketing\", \"brand operations\", \"data analysis\"],\n  \"nice_to_have_keywords\": [\"Google Ads\", \"Facebook/Meta Ads\", \"LinkedIn Ads\", \"Ahrefs\", \"SEMrush\", \"HubSpot\", \"Claude\", \"Perplexity\", \"ChatGPT\"],\n  \"tools_technologies\": [\"Google Ads\", \"Facebook/Meta Ads\", \"LinkedIn Ads\", \"Ahrefs\", \"SEMrush\", \"HubSpot\", \"Claude\", \"Perplexity\", \"ChatGPT\"],\n  \"domain_knowledge\": [\"e-commerce\", \"logistics technology\", \"supply chain SaaS\"],\n  \"education_requirements\": null,\n  \"certifications\": [],\n  \"languages\": [\"English\"],\n  \"soft_skills\": [\"independent work\", \"stakeholder collaboration\", \"problem-solving\"],\n  \"key_responsibilities\": [\"Develop and execute integrated marketing strategy\", \"Run paid advertising campaigns\", \"Manage SEO content strategy\", \"Execute social media operations\", \"Build marketing data dashboards\"]\n}",
+  "parsed": {
+    "doc_id": "P03",
+    "doc_type": "jd",
+    "job_title": "GTM Marketing Manager / Lead",
+    "role_family": "Marketing & Sales",
+    "seniority": "lead",
+    "location": null,
+    "remote": "unknown",
+    "min_years_experience": null,
+    "must_have_keywords": [
+      "marketing strategy",
+      "GTM planning",
+      "paid advertising",
+      "SEO content strategy",
+      "EDM marketing",
+      "data analysis"
+    ],
+    "nice_to_have_keywords": [
+      "Google Ads",
+      "Facebook/Meta Ads",
+      "LinkedIn Ads",
+      "Ahrefs",
+      "SEMrush",
+      "HubSpot",
+      "Claude",
+      "Perplexity",
+      "ChatGPT"
+    ],
+    "tools_technologies": [
+      "Google Ads",
+      "Facebook/Meta Ads",
+      "LinkedIn Ads",
+      "Ahrefs",
+      "SEMrush",
+      "HubSpot",
+      "Claude",
+      "Perplexity",
+      "ChatGPT"
+    ],
+    "domain_knowledge": [
+      "e-commerce",
+      "logistics technology",
+      "supply chain SaaS"
+    ],
+    "education_requirements": [],
+    "certifications": [],
+    "languages": [
+      "English"
+    ],
+    "soft_skills": [
+      "independent work",
+      "stakeholder collaboration",
+      "problem-solving"
+    ],
+    "key_responsibilities": [
+      "Develop and execute integrated marketing strategy",
+      "Run paid advertising campaigns",
+      "Manage SEO content strategy",
+      "Execute social media operations",
+      "Build marketing data dashboards"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "brand operations",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

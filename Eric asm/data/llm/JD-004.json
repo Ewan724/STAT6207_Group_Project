@@ -1,0 +1,88 @@
+{
+  "doc_id": "JD-004",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "f3c4a4a1224a3a4598a67967811a08f1537e7df4db24a1f8d63c238268e6eac8",
+  "timestamp": "2026-11-12T03:44:42.809975+00:00",
+  "elapsed_sec": 15.43,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-004\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Data Engineer\",\n  \"role_family\": \"Data & AI\",\n  \"seniority\": \"mid\",\n  \"location\": \"Kuala Lumpur, Malaysia\",\n  \"remote\": \"hybrid\",\n  \"min_years_experience\": 3,\n  \"must_have_keywords\": [\"data engineering\", \"SQL\", \"Azure Databricks\", \"Azure Synapse\", \"Python\", \"PySpark\", \"Java\", \"Scala\", \"ETL\", \"ELT\"],\n  \"nice_to_have_keywords\": [\"Azure Data Factory\", \"Azure Data Lake\", \"Azure Event Hub\", \"Power BI\", \"DataOps\", \"machine learning\"],\n  \"tools_technologies\": [\"SQL\", \"Azure Databricks\", \"Azure Synapse\", \"Python\", \"PySpark\", \"Java\", \"Scala\", \"ETL\", \"ELT\", \"Azure Data Factory\", \"Azure Data Lake\", \"Azure Event Hub\", \"Power BI\", \"DataOps\"],\n  \"domain_knowledge\": [\"data engineering\", \"cloud solutions\"],\n  \"education_requirements\": [\"Bachelor's degree in Computer Science, Information Technology, or a relevant discipline\"],\n  \"certifications\": [\"Azure Data Engineer Associate\"],\n  \"languages\": [\"English\"],\n  \"soft_skills\": [\"problem-solving\", \"communication\", \"self-motivation\", \"collaboration\"],\n  \"key_responsibilities\": [\"Architect data platform\", \"Design data pipelines\", \"Develop data models\", \"Monitor ETL/ELT processes\", \"Collaborate with stakeholders\", \"Ensure data quality\"]\n}",
+  "parsed": {
+    "doc_id": "JD-004",
+    "doc_type": "jd",
+    "job_title": "Data Engineer",
+    "role_family": "Data & AI",
+    "seniority": "mid",
+    "location": "Kuala Lumpur, Malaysia",
+    "remote": "hybrid",
+    "min_years_experience": 3,
+    "must_have_keywords": [
+      "data engineering",
+      "SQL",
+      "Azure Databricks",
+      "Azure Synapse",
+      "Python",
+      "PySpark",
+      "Java",
+      "Scala",
+      "ETL",
+      "ELT"
+    ],
+    "nice_to_have_keywords": [
+      "Azure Data Factory",
+      "Azure Data Lake",
+      "Azure Event Hub",
+      "Power BI",
+      "DataOps",
+      "machine learning"
+    ],
+    "tools_technologies": [
+      "SQL",
+      "Azure Databricks",
+      "Azure Synapse",
+      "Python",
+      "PySpark",
+      "Java",
+      "Scala",
+      "ETL",
+      "ELT",
+      "Azure Data Factory",
+      "Azure Data Lake",
+      "Azure Event Hub",
+      "Power BI",
+      "DataOps"
+    ],
+    "domain_knowledge": [
+      "data engineering",
+      "cloud solutions"
+    ],
+    "education_requirements": [
+      "Bachelor's degree in Computer Science, Information Technology, or a relevant discipline"
+    ],
+    "certifications": [
+      "Azure Data Engineer Associate"
+    ],
+    "languages": [
+      "English"
+    ],
+    "soft_skills": [
+      "problem-solving",
+      "communication",
+      "self-motivation",
+      "collaboration"
+    ],
+    "key_responsibilities": [
+      "Architect data platform",
+      "Design data pipelines",
+      "Develop data models",
+      "Monitor ETL/ELT processes",
+      "Collaborate with stakeholders",
+      "Ensure data quality"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

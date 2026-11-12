@@ -1,0 +1,87 @@
+{
+  "doc_id": "P08",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "858ae2e64870cc29436b55fa6c3d552ffe605478f91a73621b5a4f90671af65c",
+  "timestamp": "2026-11-12T03:43:18.027623+00:00",
+  "elapsed_sec": 18.38,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"P08\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Field Service Engineer\",\n  \"role_family\": \"Engineering & Operations\",\n  \"seniority\": \"mid\",\n  \"location\": \"Singapore, Singapore\",\n  \"remote\": \"no\",\n  \"min_years_experience\": 2,\n  \"must_have_keywords\": [\"semiconductor wafer fab equipment\", \"installation\", \"maintenance\", \"troubleshooting\", \"equipment uptime\", \"process tools\", \"communication skills\"],\n  \"nice_to_have_keywords\": [\"wafer fab sector\", \"Applied Materials\", \"Tokyo Electron Limited\", \"vacuum systems\", \"robotics\", \"pneumatic\"],\n  \"tools_technologies\": [],\n  \"domain_knowledge\": [\"semiconductor wafer fab\", \"RF generator\", \"high-value parts repair\", \"Diffusion\", \"Thin Film\", \"Implant\", \"PECVD\", \"CMP\", \"Etch\", \"Wet\", \"Inspect\", \"Metro\"],\n  \"education_requirements\": [\"Diploma in Electrical & Electronic engineering\", \"Degree in Mechanical engineering\", \"Degree in Chemical engineering\"],\n  \"certifications\": [],\n  \"languages\": [\"English\"],\n  \"soft_skills\": [\"motivation\", \"technical skills\", \"communication\", \"problem-solving\", \"teamwork\", \"independent work\"],\n  \"key_responsibilities\": [\"installation of semiconductor process tools\", \"maintenance and troubleshooting of equipment\", \"upgrading process tools\", \"ensure maximum equipment uptime\", \"troubleshoot on-site technical issues\", \"document service activities\", \"maintain compliance with EHS standards\"]\n}",
+  "parsed": {
+    "doc_id": "P08",
+    "doc_type": "jd",
+    "job_title": "Field Service Engineer",
+    "role_family": "Engineering & Operations",
+    "seniority": "mid",
+    "location": "Singapore, Singapore",
+    "remote": "no",
+    "min_years_experience": 2,
+    "must_have_keywords": [
+      "installation",
+      "maintenance",
+      "troubleshooting",
+      "equipment uptime",
+      "process tools",
+      "communication skills"
+    ],
+    "nice_to_have_keywords": [
+      "wafer fab sector",
+      "Applied Materials",
+      "Tokyo Electron Limited",
+      "vacuum systems",
+      "robotics",
+      "pneumatic"
+    ],
+    "tools_technologies": [],
+    "domain_knowledge": [
+      "semiconductor wafer fab",
+      "RF generator",
+      "high-value parts repair",
+      "Diffusion",
+      "Thin Film",
+      "Implant",
+      "PECVD",
+      "CMP",
+      "Etch",
+      "Wet",
+      "Inspect",
+      "Metro"
+    ],
+    "education_requirements": [
+      "Diploma in Electrical & Electronic engineering",
+      "Degree in Mechanical engineering",
+      "Degree in Chemical engineering"
+    ],
+    "certifications": [],
+    "languages": [
+      "English"
+    ],
+    "soft_skills": [
+      "motivation",
+      "technical skills",
+      "communication",
+      "problem-solving",
+      "teamwork",
+      "independent work"
+    ],
+    "key_responsibilities": [
+      "installation of semiconductor process tools",
+      "maintenance and troubleshooting of equipment",
+      "upgrading process tools",
+      "ensure maximum equipment uptime",
+      "troubleshoot on-site technical issues",
+      "document service activities",
+      "maintain compliance with EHS standards"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "semiconductor wafer fab equipment",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

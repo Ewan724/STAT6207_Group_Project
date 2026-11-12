@@ -1,0 +1,87 @@
+{
+  "doc_id": "JD-005",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "4d2eef1a8814e7a11f7fe7cd152e3cc16c3852254247d990fe1e7b8ec149ee3c",
+  "timestamp": "2026-11-12T03:44:51.132903+00:00",
+  "elapsed_sec": 15.45,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-005\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Data Scientist\",\n  \"role_family\": \"Data & AI\",\n  \"seniority\": \"mid\",\n  \"location\": \"Bahrain\",\n  \"remote\": \"unknown\",\n  \"min_years_experience\": 3,\n  \"must_have_keywords\": [\n    \"machine learning\",\n    \"python\",\n    \"tensorflow\",\n    \"pytorch\",\n    \"scikit-learn\",\n    \"aws\",\n    \"azure\",\n    \"gcp\"\n  ],\n  \"nice_to_have_keywords\": [\n    \"cloud certifications\",\n    \"mlops\",\n    \"model monitoring frameworks\",\n    \"startup experience\"\n  ],\n  \"tools_technologies\": [\n    \"python\",\n    \"r\",\n    \"tensorflow\",\n    \"pytorch\",\n    \"scikit-learn\",\n    \"aws\",\n    \"azure\",\n    \"gcp\"\n  ],\n  \"domain_knowledge\": [\n    \"artificial intelligence\",\n    \"machine learning\",\n    \"cloud technology\"\n  ],\n  \"education_requirements\": [\n    \"masters degree in computer science, ai, machine learning, data science, or related field\"\n  ],\n  \"certifications\": [\n    \"aws certified machine learning\",\n    \"azure ai engineer\"\n  ],\n  \"languages\": [],\n  \"soft_skills\": [\n    \"analytical thinking\",\n    \"problem-solving\",\n    \"attention to detail\",\n    \"communication\",\n    \"teamwork\",\n    \"technical leadership\",\n    \"mentoring\"\n  ],\n  \"key_responsibilities\": [\n    \"design and deploy ai/ml models\",\n    \"clean and analyze data\",\n    \"design data pipelines\",\n    \"deploy models to cloud platforms\",\n    \"implement ci/cd pipelines\",\n    \"conduct code reviews\",\n    \"document system designs\"\n  ]\n}",
+  "parsed": {
+    "doc_id": "JD-005",
+    "doc_type": "jd",
+    "job_title": "Data Scientist",
+    "role_family": "Data & AI",
+    "seniority": "mid",
+    "location": "Bahrain",
+    "remote": "unknown",
+    "min_years_experience": 3,
+    "must_have_keywords": [
+      "machine learning",
+      "python",
+      "tensorflow",
+      "pytorch",
+      "scikit-learn",
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "nice_to_have_keywords": [
+      "cloud certifications",
+      "mlops",
+      "model monitoring frameworks"
+    ],
+    "tools_technologies": [
+      "python",
+      "tensorflow",
+      "pytorch",
+      "scikit-learn",
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "domain_knowledge": [
+      "artificial intelligence",
+      "machine learning",
+      "cloud technology"
+    ],
+    "education_requirements": [
+      "masters degree in computer science, ai, machine learning, data science, or related field"
+    ],
+    "certifications": [
+      "aws certified machine learning",
+      "azure ai engineer"
+    ],
+    "languages": [],
+    "soft_skills": [
+      "analytical thinking",
+      "problem-solving",
+      "attention to detail",
+      "communication",
+      "teamwork",
+      "technical leadership",
+      "mentoring"
+    ],
+    "key_responsibilities": [
+      "design and deploy ai/ml models",
+      "clean and analyze data",
+      "design data pipelines",
+      "deploy models to cloud platforms",
+      "implement ci/cd pipelines",
+      "conduct code reviews",
+      "document system designs"
+    ]
+  },
+  "validation_errors": [
+    "keyword_word_count:r"
+  ],
+  "dropped_keywords": [
+    {
+      "keyword": "startup experience",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

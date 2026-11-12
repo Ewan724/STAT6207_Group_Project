@@ -1,0 +1,76 @@
+{
+  "doc_id": "JD-018",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "a56c5ff381be336d48c9dedb21229a68de2b897701fdf5b12cd9fd51845e8252",
+  "timestamp": "2026-11-12T03:46:21.969127+00:00",
+  "elapsed_sec": 13.08,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-018\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Netsuite Engineer\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"mid\",\n  \"location\": \"unknown\",\n  \"remote\": \"yes\",\n  \"min_years_experience\": 3,\n  \"must_have_keywords\": [\n    \"netsuite\",\n    \"api development\",\n    \"webservices\",\n    \"rest api\",\n    \"webhooks\",\n    \"system customization\",\n    \"workflow management\",\n    \"sql\",\n    \"technical solutions\"\n  ],\n  \"nice_to_have_keywords\": [\n    \"business intelligence\",\n    \"erp\",\n    \"accounting industry\"\n  ],\n  \"tools_technologies\": [\n    \"netsuite\",\n    \"webservices\",\n    \"rest api\",\n    \"webhooks\",\n    \"sql\",\n    \"bi\"\n  ],\n  \"domain_knowledge\": [\n    \"erp\",\n    \"api integration\",\n    \"accounting\"\n  ],\n  \"education_requirements\": [\n    \"Bachelor's degree in Computer Science, Information Systems, or a related technical field\"\n  ],\n  \"certifications\": [],\n  \"languages\": [],\n  \"soft_skills\": [\n    \"problem-solving\",\n    \"analytical abilities\",\n    \"communication\",\n    \"collaboration\"\n  ],\n  \"key_responsibilities\": [\n    \"System Customization\",\n    \"API Development & Integration\",\n    \"Technical Solutions\",\n    \"Collaboration\",\n    \"Data & Reporting\"\n  ]\n}",
+  "parsed": {
+    "doc_id": "JD-018",
+    "doc_type": "jd",
+    "job_title": "Netsuite Engineer",
+    "role_family": "Engineering",
+    "seniority": "mid",
+    "location": null,
+    "remote": "yes",
+    "min_years_experience": 3,
+    "must_have_keywords": [
+      "netsuite",
+      "api development",
+      "webservices",
+      "rest api",
+      "webhooks",
+      "system customization",
+      "sql",
+      "technical solutions"
+    ],
+    "nice_to_have_keywords": [
+      "business intelligence",
+      "erp",
+      "accounting industry"
+    ],
+    "tools_technologies": [
+      "netsuite",
+      "webservices",
+      "rest api",
+      "webhooks",
+      "sql",
+      "bi"
+    ],
+    "domain_knowledge": [
+      "erp",
+      "api integration",
+      "accounting"
+    ],
+    "education_requirements": [
+      "Bachelor's degree in Computer Science, Information Systems, or a related technical field"
+    ],
+    "certifications": [],
+    "languages": [],
+    "soft_skills": [
+      "problem-solving",
+      "analytical abilities",
+      "communication",
+      "collaboration"
+    ],
+    "key_responsibilities": [
+      "System Customization",
+      "API Development & Integration",
+      "Technical Solutions",
+      "Collaboration",
+      "Data & Reporting"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "workflow management",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

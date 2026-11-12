@@ -1,0 +1,120 @@
+{
+  "doc_id": "JD-048",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "3a670b8ed1eb61f585c85cd58025eadd708754c9ae1cffc811ae762c2d32d370",
+  "timestamp": "2026-11-12T03:49:47.002103+00:00",
+  "elapsed_sec": 8.61,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\"doc_id\":\"JD-048\",\"doc_type\":\"jd\",\"job_title\":\"Sales Manager\",\"role_family\":\"Sales & BD\",\"seniority\":\"mid\",\"location\":\"Singapore\",\"remote\":\"yes\",\"min_years_experience\":5,\"must_have_keywords\":[\"market development\",\"client acquisition\",\"sales targets\",\"contract negotiations\",\"project handover\",\"payment collection\",\"bidding process\",\"qualification documents\",\"design proposals\",\"quotations\",\"client relationship management\",\"follow-ups\",\"post-sales issues\",\"complaints handling\",\"cross-departmental coordination\",\"commercial fit-out industry\",\"MEP fit-out projects\",\"Business Development experience\"],\"nice_to_have_keywords\":[\"Marketing background\",\"Engineering Management background\",\"large design firms experience\",\"interior decoration firms experience\",\"construction firms experience\",\"data centers experience\",\"Chinese language skills\",\"English language skills\"],\"tools_technologies\":[],\"domain_knowledge\":[\"commercial fit-out\",\"MEP fit-out\",\"data centers\",\"design\",\"interior decoration\",\"construction\"],\"education_requirements\":\"Associate degree or higher in Marketing, Engineering Management, or related fields\",\"certifications\":[],\"languages\":[\"Chinese\",\"English\"],\"soft_skills\":[\"market experience\",\"client relationship management\",\"problem-solving\",\"stakeholder coordination\"],\"key_responsibilities\":[\"Market Development and Client Acquisition\",\"End-to-End Sales Management\",\"Client Relationship Management\"]}",
+  "parsed": {
+    "doc_id": "JD-048",
+    "doc_type": "jd",
+    "job_title": "Sales Manager",
+    "role_family": "Sales & BD",
+    "seniority": "mid",
+    "location": "Singapore",
+    "remote": "yes",
+    "min_years_experience": 5,
+    "must_have_keywords": [
+      "market development",
+      "client acquisition",
+      "sales targets",
+      "contract negotiations",
+      "project handover",
+      "payment collection",
+      "bidding process",
+      "qualification documents",
+      "design proposals",
+      "quotations",
+      "client relationship management",
+      "follow-ups",
+      "post-sales issues",
+      "commercial fit-out industry",
+      "MEP fit-out projects"
+    ],
+    "nice_to_have_keywords": [],
+    "tools_technologies": [],
+    "domain_knowledge": [
+      "commercial fit-out",
+      "MEP fit-out",
+      "data centers",
+      "design",
+      "interior decoration",
+      "construction"
+    ],
+    "education_requirements": [
+      "Associate degree or higher in Marketing",
+      "Engineering Management",
+      "or related fields"
+    ],
+    "certifications": [],
+    "languages": [
+      "Chinese",
+      "English"
+    ],
+    "soft_skills": [
+      "market experience",
+      "client relationship management",
+      "problem-solving",
+      "stakeholder coordination"
+    ],
+    "key_responsibilities": [
+      "Market Development and Client Acquisition",
+      "End-to-End Sales Management",
+      "Client Relationship Management"
+    ]
+  },
+  "validation_errors": [
+    "empty_nice_to_have_keywords"
+  ],
+  "dropped_keywords": [
+    {
+      "keyword": "complaints handling",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "cross-departmental coordination",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "Business Development experience",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "Marketing background",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "Engineering Management background",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "large design firms experience",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "interior decoration firms experience",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "construction firms experience",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "data centers experience",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "Chinese language skills",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "English language skills",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

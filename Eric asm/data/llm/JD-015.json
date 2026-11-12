@@ -1,0 +1,75 @@
+{
+  "doc_id": "JD-015",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "7f09275fe44cd8027f100ad4e9282b8029bcd53be6bf33e5734042e9087e3e6c",
+  "timestamp": "2026-11-12T03:45:59.890083+00:00",
+  "elapsed_sec": 13.08,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-015\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Distributed Systems Engineer\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"mid\",\n  \"location\": \"Singapore\",\n  \"remote\": \"unknown\",\n  \"min_years_experience\": 7,\n  \"must_have_keywords\": [\"distributed systems\", \"Go\", \"Rust\", \"C++\", \"Python\", \"Kubernetes\", \"gRPC\", \"Kafka\", \"S3\", \"Ray\"],\n  \"nice_to_have_keywords\": [\"GPU-based workloads\", \"model training\", \"edge compute orchestration\", \"ROS\", \"Mediasoup\"],\n  \"tools_technologies\": [\"Go\", \"Rust\", \"C++\", \"Python\", \"Kubernetes\", \"gRPC\", \"Kafka\", \"S3\", \"Ray\"],\n  \"domain_knowledge\": [\"robotics\", \"multimodal foundation models\", \"hardware-in-the-loop simulation\"],\n  \"education_requirements\": null,\n  \"certifications\": [],\n  \"languages\": [],\n  \"soft_skills\": [\"leadership\", \"problem-solving\", \"analytical mindset\"],\n  \"key_responsibilities\": [\"architect distributed systems\", \"build data ingestion pipelines\", \"develop training and inference platforms\", \"collaborate with ML engineers\", \"develop observability systems\"]\n}",
+  "parsed": {
+    "doc_id": "JD-015",
+    "doc_type": "jd",
+    "job_title": "Distributed Systems Engineer",
+    "role_family": "Engineering",
+    "seniority": "mid",
+    "location": "Singapore",
+    "remote": "unknown",
+    "min_years_experience": 7,
+    "must_have_keywords": [
+      "distributed systems",
+      "Go",
+      "Rust",
+      "C++",
+      "Python",
+      "Kubernetes",
+      "gRPC",
+      "Kafka",
+      "S3",
+      "Ray"
+    ],
+    "nice_to_have_keywords": [
+      "GPU-based workloads",
+      "model training",
+      "edge compute orchestration",
+      "ROS",
+      "Mediasoup"
+    ],
+    "tools_technologies": [
+      "Go",
+      "Rust",
+      "C++",
+      "Python",
+      "Kubernetes",
+      "gRPC",
+      "Kafka",
+      "S3",
+      "Ray"
+    ],
+    "domain_knowledge": [
+      "robotics",
+      "multimodal foundation models",
+      "hardware-in-the-loop simulation"
+    ],
+    "education_requirements": [],
+    "certifications": [],
+    "languages": [],
+    "soft_skills": [
+      "leadership",
+      "problem-solving",
+      "analytical mindset"
+    ],
+    "key_responsibilities": [
+      "architect distributed systems",
+      "build data ingestion pipelines",
+      "develop training and inference platforms",
+      "collaborate with ML engineers",
+      "develop observability systems"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}

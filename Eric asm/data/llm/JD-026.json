@@ -1,0 +1,78 @@
+{
+  "doc_id": "JD-026",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "c2ddaf67a11c15c86199f61f530952041805870b5a6bd0668e0d6c80bcbb3596",
+  "timestamp": "2026-11-12T03:47:19.361870+00:00",
+  "elapsed_sec": 14.56,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-026\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"Solution Architect (ID)\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"mid\",\n  \"location\": \"Jakarta, Indonesia\",\n  \"remote\": \"unknown\",\n  \"min_years_experience\": 5,\n  \"must_have_keywords\": [\"cloud architecture\", \"solution selling\", \"AWS\", \"Azure\", \"Google Cloud Platform\", \"DevOps\", \"Kubernetes\", \"containerization\"],\n  \"nice_to_have_keywords\": [\"hybrid cloud\", \"multi-cloud\", \"AI/ML\", \"data migration\", \"DevSecOps\", \"Southeast Asia clients\"],\n  \"tools_technologies\": [\"AWS\", \"Azure\", \"Google Cloud Platform\", \"Kubernetes\"],\n  \"domain_knowledge\": [\"cloud\", \"enterprise\"],\n  \"education_requirements\": null,\n  \"certifications\": [\"AWS Solution Architect\", \"Google Professional Cloud Architect\", \"Azure Architect\"],\n  \"languages\": null,\n  \"soft_skills\": [\"communication\", \"stakeholder engagement\", \"consultative engagement\", \"technical leadership\"],\n  \"key_responsibilities\": [\"Strategic Cloud Solution Selling\", \"Cloud Architecture & Design\", \"Partnerships & Collaboration\"]\n}",
+  "parsed": {
+    "doc_id": "JD-026",
+    "doc_type": "jd",
+    "job_title": "Solution Architect (ID)",
+    "role_family": "Engineering",
+    "seniority": "mid",
+    "location": "Jakarta, Indonesia",
+    "remote": "unknown",
+    "min_years_experience": 5,
+    "must_have_keywords": [
+      "cloud architecture",
+      "solution selling",
+      "AWS",
+      "Azure",
+      "Google Cloud Platform",
+      "DevOps",
+      "Kubernetes",
+      "containerization"
+    ],
+    "nice_to_have_keywords": [
+      "multi-cloud",
+      "AI/ML",
+      "data migration",
+      "DevSecOps"
+    ],
+    "tools_technologies": [
+      "AWS",
+      "Azure",
+      "Google Cloud Platform",
+      "Kubernetes"
+    ],
+    "domain_knowledge": [
+      "cloud",
+      "enterprise"
+    ],
+    "education_requirements": [],
+    "certifications": [
+      "AWS Solution Architect",
+      "Google Professional Cloud Architect",
+      "Azure Architect"
+    ],
+    "languages": [],
+    "soft_skills": [
+      "communication",
+      "stakeholder engagement",
+      "consultative engagement",
+      "technical leadership"
+    ],
+    "key_responsibilities": [
+      "Strategic Cloud Solution Selling",
+      "Cloud Architecture & Design",
+      "Partnerships & Collaboration"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": [
+    {
+      "keyword": "hybrid cloud",
+      "reason": "not_in_source_text"
+    },
+    {
+      "keyword": "Southeast Asia clients",
+      "reason": "not_in_source_text"
+    }
+  ]
+}

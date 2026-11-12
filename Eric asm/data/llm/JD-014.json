@@ -1,0 +1,88 @@
+{
+  "doc_id": "JD-014",
+  "doc_type": "jd",
+  "model": "qwen3.5:4b",
+  "prompt_hash": "81f61c651fc0f999ed8c0be7a69bdc57c69a376ea01cc2eb9f309a4bacc18d86",
+  "timestamp": "2026-11-12T03:45:53.786951+00:00",
+  "elapsed_sec": 13.26,
+  "status": "ok",
+  "extraction_status": "ok",
+  "chunk_count": 1,
+  "merged_from_chunks": false,
+  "raw_response": "{\n  \"doc_id\": \"JD-014\",\n  \"doc_type\": \"jd\",\n  \"job_title\": \"DevOps Engineer\",\n  \"role_family\": \"Engineering\",\n  \"seniority\": \"mid\",\n  \"location\": \"Shah Alam, Malaysia\",\n  \"remote\": \"no\",\n  \"min_years_experience\": 3,\n  \"must_have_keywords\": [\"AWS\", \"Infrastructure-as-Code\", \"Ansible\", \"Terraform\", \"Docker\", \"CI/CD\", \"Python\", \"Shell scripting\", \"PostgreSQL\", \"MySQL\"],\n  \"nice_to_have_keywords\": [\"AWS certifications\", \"microservices architecture\", \"Serverless framework\", \"Lambda\", \"CloudWatch\", \"Zabbix\"],\n  \"tools_technologies\": [\"AWS\", \"GitHub Actions\", \"Jenkins\", \"CircleCI\", \"Ansible\", \"Terraform\", \"AWS CloudFormation\", \"Docker\", \"Python\", \"Shell scripting\", \"PostgreSQL\", \"MySQL\", \"Serverless framework\", \"Lambda\", \"CloudWatch\", \"Zabbix\"],\n  \"domain_knowledge\": [\"cloud infrastructure\", \"automation\"],\n  \"education_requirements\": [\"Diploma/Bachelor's degree in Computer Science, Information Technology, or a related field\"],\n  \"certifications\": [\"AWS Certified Solutions Architect\", \"AWS Certified DevOps Engineer\"],\n  \"languages\": [],\n  \"soft_skills\": [\"collaboration\", \"problem-solving\", \"troubleshooting\"],\n  \"key_responsibilities\": [\"build cloud infrastructure\", \"manage CI/CD pipelines\", \"implement Infrastructure-as-Code\", \"write automation scripts\", \"monitor system performance\", \"maintain databases\"]\n}",
+  "parsed": {
+    "doc_id": "JD-014",
+    "doc_type": "jd",
+    "job_title": "DevOps Engineer",
+    "role_family": "Engineering",
+    "seniority": "mid",
+    "location": "Shah Alam, Malaysia",
+    "remote": "no",
+    "min_years_experience": 3,
+    "must_have_keywords": [
+      "AWS",
+      "Infrastructure-as-Code",
+      "Ansible",
+      "Terraform",
+      "Docker",
+      "CI/CD",
+      "Python",
+      "Shell scripting",
+      "PostgreSQL",
+      "MySQL"
+    ],
+    "nice_to_have_keywords": [
+      "AWS certifications",
+      "microservices architecture",
+      "Serverless framework",
+      "Lambda",
+      "CloudWatch",
+      "Zabbix"
+    ],
+    "tools_technologies": [
+      "AWS",
+      "GitHub Actions",
+      "Jenkins",
+      "CircleCI",
+      "Ansible",
+      "Terraform",
+      "AWS CloudFormation",
+      "Docker",
+      "Python",
+      "Shell scripting",
+      "PostgreSQL",
+      "MySQL",
+      "Serverless framework",
+      "Lambda",
+      "CloudWatch",
+      "Zabbix"
+    ],
+    "domain_knowledge": [
+      "cloud infrastructure",
+      "automation"
+    ],
+    "education_requirements": [
+      "Diploma/Bachelor's degree in Computer Science, Information Technology, or a related field"
+    ],
+    "certifications": [
+      "AWS Certified Solutions Architect",
+      "AWS Certified DevOps Engineer"
+    ],
+    "languages": [],
+    "soft_skills": [
+      "collaboration",
+      "problem-solving",
+      "troubleshooting"
+    ],
+    "key_responsibilities": [
+      "build cloud infrastructure",
+      "manage CI/CD pipelines",
+      "implement Infrastructure-as-Code",
+      "write automation scripts",
+      "monitor system performance",
+      "maintain databases"
+    ]
+  },
+  "validation_errors": [],
+  "dropped_keywords": []
+}
