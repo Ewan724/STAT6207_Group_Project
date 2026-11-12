@@ -1,0 +1,4 @@
+method,reconstruction_mse,cosine_reconstruction,explained_variance
+TruncatedSVD-32,0.002198,0.7452,0.6137
+PCA-32,0.00217,0.749,0.6216
+AE-32,0.004569,0.3232,

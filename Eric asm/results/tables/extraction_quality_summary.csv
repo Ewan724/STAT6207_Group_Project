@@ -1,0 +1,2 @@
+n_documents,macro_precision,macro_recall,macro_f1,worst_5_doc_ids
+100,0.8647,0.904,0.8694,"CV-002, CV-010, CV-019, CV-025, CV-072"

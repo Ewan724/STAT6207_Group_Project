@@ -1,0 +1,12 @@
+You are naming a cluster of recruitment keywords.
+
+Return exactly one JSON object:
+{"label": "short canonical label (1-4 words)", "definition": "one short neutral sentence"}
+
+Rules:
+- The label must describe the shared skill or concept of all members.
+- Do not invent a broader concept that merges distinct technologies.
+- If the members are heterogeneous, use a neutral umbrella label.
+- No markdown, no commentary.
+
+Members: __MEMBERS__

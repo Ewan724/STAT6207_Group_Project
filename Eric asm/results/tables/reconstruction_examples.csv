@@ -1,0 +1,51 @@
+doc_id,doc_type,title,rank,input_cluster,input_value,reconstructed_cluster,reconstructed_value
+CV-001,pool_cv,Backend Developer,1,Angular,0.3961,SQL,0.05997
+CV-001,pool_cv,Backend Developer,2,Recruitment,0.34142,Taxation,0.05816
+CV-001,pool_cv,Backend Developer,3,Ansible,0.3249,AWS,0.05281
+CV-001,pool_cv,Backend Developer,4,Kafka,0.25954,Scrum,0.0502
+CV-001,pool_cv,Backend Developer,5,Agile,0.23599,Kubernetes,0.04733
+CV-001,pool_cv,Backend Developer,6,Healthcare,0.23599,Google Cloud Platform,0.04732
+CV-001,pool_cv,Backend Developer,7,Jenkins,0.22468,Php,0.04576
+CV-001,pool_cv,Backend Developer,8,Laravel,0.21797,Brand Management,0.04527
+CV-001,pool_cv,Backend Developer,9,SQL,0.20588,Microsoft Azure,0.04369
+CV-001,pool_cv,Backend Developer,10,Php,0.19578,Node.js,0.04299
+CV-002,pool_cv,Field Service Engineer I,1,Preventive Maintenance,0.42395,SQL,0.05997
+CV-002,pool_cv,Field Service Engineer I,2,Cvd,0.3512,Taxation,0.05816
+CV-002,pool_cv,Field Service Engineer I,3,Tel Tria,0.30536,AWS,0.05281
+CV-002,pool_cv,Field Service Engineer I,4,Sketch,0.30018,Scrum,0.0502
+CV-002,pool_cv,Field Service Engineer I,5,Semiconductor Equipment,0.25605,Kubernetes,0.04733
+CV-002,pool_cv,Field Service Engineer I,6,Adobe Photoshop,0.24845,Google Cloud Platform,0.04732
+CV-002,pool_cv,Field Service Engineer I,7,Procurement,0.23847,Php,0.04576
+CV-002,pool_cv,Field Service Engineer I,8,Express.js,0.21369,Brand Management,0.04527
+CV-002,pool_cv,Field Service Engineer I,9,Industrial,0.21369,Microsoft Azure,0.04369
+CV-002,pool_cv,Field Service Engineer I,10,Troubleshooting,0.20232,Node.js,0.04299
+CV-003,pool_cv,Full Stack Developer,1,N8n,0.35487,SQL,0.05997
+CV-003,pool_cv,Full Stack Developer,2,Fpx,0.29364,Taxation,0.05816
+CV-003,pool_cv,Full Stack Developer,3,Claude Code,0.26677,AWS,0.05281
+CV-003,pool_cv,Full Stack Developer,4,Xgboost,0.24096,Scrum,0.0502
+CV-003,pool_cv,Full Stack Developer,5,Linux,0.22484,Kubernetes,0.04733
+CV-003,pool_cv,Full Stack Developer,6,Flutter,0.22484,Google Cloud Platform,0.04732
+CV-003,pool_cv,Full Stack Developer,7,Git,0.21225,Php,0.04576
+CV-003,pool_cv,Full Stack Developer,8,SQL,0.20129,Brand Management,0.04527
+CV-003,pool_cv,Full Stack Developer,9,Vue.js,0.20101,Microsoft Azure,0.04369
+CV-003,pool_cv,Full Stack Developer,10,React,0.19167,Node.js,0.04299
+P01,gt_jd,Regional Finance Controller,1,Troubleshooting,0.37756,SQL,0.05997
+P01,gt_jd,Regional Finance Controller,2,Excel,0.34219,Taxation,0.05816
+P01,gt_jd,Regional Finance Controller,3,Audit,0.33441,AWS,0.05281
+P01,gt_jd,Regional Finance Controller,4,ERP,0.31422,Scrum,0.0502
+P01,gt_jd,Regional Finance Controller,5,Spring Boot,0.30862,Kubernetes,0.04733
+P01,gt_jd,Regional Finance Controller,6,Internal Control,0.30276,Google Cloud Platform,0.04732
+P01,gt_jd,Regional Finance Controller,7,Financial Reporting,0.29706,Php,0.04576
+P01,gt_jd,Regional Finance Controller,8,Laravel,0.27479,Brand Management,0.04527
+P01,gt_jd,Regional Finance Controller,9,Power Bi,0.22272,Microsoft Azure,0.04369
+P01,gt_jd,Regional Finance Controller,10,Finance,0.21942,Node.js,0.04299
+P02,gt_jd,Sales Manager in Indonesia,1,English,0.45614,SQL,0.05997
+P02,gt_jd,Sales Manager in Indonesia,2,Industrial,0.36322,Taxation,0.05816
+P02,gt_jd,Sales Manager in Indonesia,3,Client Relationship Management,0.31764,AWS,0.05281
+P02,gt_jd,Sales Manager in Indonesia,4,Customer Service,0.3174,Scrum,0.0502
+P02,gt_jd,Sales Manager in Indonesia,5,Spring Boot,0.28508,Kubernetes,0.04733
+P02,gt_jd,Sales Manager in Indonesia,6,B2B,0.28084,Google Cloud Platform,0.04732
+P02,gt_jd,Sales Manager in Indonesia,7,Human Resource,0.25484,Php,0.04576
+P02,gt_jd,Sales Manager in Indonesia,8,Drupal,0.24785,Brand Management,0.04527
+P02,gt_jd,Sales Manager in Indonesia,9,Communication Skill,0.23741,Microsoft Azure,0.04369
+P02,gt_jd,Sales Manager in Indonesia,10,Business Development,0.12991,Node.js,0.04299
